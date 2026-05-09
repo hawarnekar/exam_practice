@@ -148,7 +148,7 @@ export function SetConfigScreen() {
             type="button"
             onClick={() => setBannerDismissed(true)}
             aria-label="Dismiss bank size warning"
-            className="rounded-md px-2 py-1 text-amber-900 hover:bg-amber-100 dark:text-amber-100 dark:hover:bg-amber-900/50"
+            className="inline-flex h-12 w-12 shrink-0 items-center justify-center rounded-md text-xl text-amber-900 hover:bg-amber-100 focus:outline-none focus:ring-2 focus:ring-amber-600 dark:text-amber-100 dark:hover:bg-amber-900/50"
           >
             ×
           </button>

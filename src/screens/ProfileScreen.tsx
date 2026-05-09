@@ -95,7 +95,7 @@ export function ProfileScreen() {
                       type="button"
                       onClick={() => handleConfirmDelete(p.name)}
                       aria-label={`Confirm delete profile ${p.name}`}
-                      className="min-h-10 rounded-md bg-red-600 px-3 py-1 text-sm font-medium text-white focus:outline-none focus:ring-2 focus:ring-red-400"
+                      className="min-h-12 rounded-md bg-red-600 px-3 py-1 text-sm font-medium text-white focus:outline-none focus:ring-2 focus:ring-red-400"
                     >
                       Confirm
                     </button>
@@ -103,7 +103,7 @@ export function ProfileScreen() {
                       type="button"
                       onClick={() => setPendingDelete(null)}
                       aria-label={`Cancel deleting profile ${p.name}`}
-                      className="min-h-10 rounded-md border border-gray-300 px-3 py-1 text-sm text-gray-700 dark:border-gray-600 dark:text-gray-200"
+                      className="min-h-12 rounded-md border border-gray-300 px-3 py-1 text-sm text-gray-700 dark:border-gray-600 dark:text-gray-200"
                     >
                       Cancel
                     </button>

@@ -7,6 +7,7 @@ import 'katex/contrib/mhchem'
 type MarkdownRendererProps = {
   text: string
   image?: string | null
+  imageAlt?: string
   className?: string
 }
 
@@ -18,7 +19,12 @@ function resolveImageUrl(image: string): string {
   return `${trimmedBase}${trimmedPath}`
 }
 
-export function MarkdownRenderer({ text, image, className }: MarkdownRendererProps) {
+export function MarkdownRenderer({
+  text,
+  image,
+  imageAlt,
+  className,
+}: MarkdownRendererProps) {
   return (
     <div className={className}>
       <div className="prose prose-sm max-w-none dark:prose-invert">
@@ -29,7 +35,7 @@ export function MarkdownRenderer({ text, image, className }: MarkdownRendererPro
       {image && (
         <img
           src={resolveImageUrl(image)}
-          alt=""
+          alt={imageAlt ?? 'Question image'}
           className="mt-3 block max-h-[250px] w-full max-w-full object-contain"
           loading="lazy"
         />

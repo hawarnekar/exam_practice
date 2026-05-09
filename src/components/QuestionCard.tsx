@@ -23,7 +23,7 @@ function formatTime(sec: number): string {
 
 const COLOR_CLASS = {
   normal: 'text-gray-700 dark:text-gray-300',
-  amber: 'text-amber-600 dark:text-amber-400',
+  amber: 'text-amber-700 dark:text-amber-400',
   red: 'text-red-600 dark:text-red-400',
 } as const
 
