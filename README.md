@@ -1,73 +1,96 @@
-# React + TypeScript + Vite
+# CBSE 10th Exam Practice
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A client-only Progressive Web App for CBSE Class 10 Science and Math exam practice. Presents MCQ questions one at a time, tracks accuracy and time per question, and uses an adaptive algorithm to weight weak topics more heavily in subsequent sets. Progress is persisted per profile in `localStorage` and works fully offline after first load.
 
-Currently, two official plugins are available:
+**Live:** https://hawarnekar.github.io/exam_practice/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Highlights
 
-## React Compiler
+- **Adaptive question selection** — Topic mastery is computed from accuracy *and* time-per-question. Weak topics get 3× weight, in-progress 2×, mastered 1×. Each set follows a 40/30/30 easy/medium/hard difficulty split.
+- **Two feedback modes** — *Immediate* (forward-only, explanation after each answer) for learning, *End-of-Set Review* (free navigation, submit at end) for exam simulation.
+- **Math + chemistry rendering** — KaTeX with the `mhchem` extension renders equations and chemical formulae inside question text, options, and explanations.
+- **Multi-profile** — All progress is namespaced by profile, so siblings or classmates can share a device.
+- **Offline-first PWA** — Service worker precaches the app shell, question JSON, and images. Installable to home screen.
+- **Export / import** — Progress exports to a JSON file you can back up or move to another device.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tech Stack
 
-## Expanding the ESLint configuration
+React 19 · Vite 8 · TypeScript · Tailwind CSS · KaTeX (`react-markdown` + `rehype-katex` + `remark-math`) · `vite-plugin-pwa` · Vitest · `gh-pages`
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## Quick Start
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+Requires Node.js 20+ and npm.
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
-
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+```bash
+git clone https://github.com/hawarnekar/exam_practice.git
+cd exam_practice
+npm install
+npm run dev
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+The dev server prints a local URL (typically `http://localhost:5173/exam_practice/`).
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+## Project Structure
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
 ```
+src/
+  engine/             pure functions: adaptive selection, mastery state
+  store/              localStorage layer (profiles, progress, settings, export/import)
+  data/               question bank loader (manifest + lazy topic load)
+  components/         MarkdownRenderer, QuestionCard, FeedbackPanel, QuestionPalette, TopBar
+  screens/            ProfileScreen, SetConfigScreen, SessionScreen, SummaryScreen, DashboardScreen, SettingsScreen
+  hooks/              useQuestionTimer
+public/
+  questions/          static JSON question bank (manifest auto-generated)
+  assets/images/      question and option images
+scripts/
+  build-manifest.js   regenerates public/questions/manifest.json
+```
+
+## Adding Questions
+
+1. Create `public/questions/<subject>/<topic>/<subtopic>.json`. Each file contains an array of questions with id, markdown text, 2–4 options, correct index, difficulty (`easy` / `medium` / `hard`), expected time in seconds, score, and explanation.
+2. Drop any images into `public/assets/images/<subject>/<topic>/<subtopic>/`.
+3. Run `npm run build:manifest` — the script validates each file's schema, counts questions, and warns on topics with fewer than 20 questions.
+4. Verify rendering with `npm run dev` (KaTeX, `mhchem`, and image paths).
+
+The detailed schema lives in `CLAUDE.md`.
+
+## Scripts
+
+| Command | What it does |
+|---|---|
+| `npm run dev` | Start Vite dev server with HMR |
+| `npm run build` | Type-check (`tsc -b`) and produce a production build in `dist/` |
+| `npm run preview` | Serve the production build locally |
+| `npm run test` | Run Vitest in watch mode |
+| `npm run test:run` | Run Vitest once (CI mode) |
+| `npm run lint` | Run ESLint |
+| `npm run build:manifest` | Regenerate `public/questions/manifest.json` from the question files |
+| `npm run deploy` | Build and publish `dist/` to the `gh-pages` branch |
+
+Run a single test file: `npm run test -- src/engine/adaptiveEngine.test.ts`.
+
+## Testing
+
+Vitest unit tests are co-located as `*.test.ts` next to the modules they cover. The adaptive engine and state calculator have the deepest coverage — boundary cases (accuracy 69 / 70 / 89 / 90 %, time ratio 100 % / 125 %), distribution invariants, and bank-exhaustion behaviour. Component tests use `@testing-library/react` against `jsdom`.
+
+## Deployment
+
+Deploys are published to GitHub Pages from the `gh-pages` branch:
+
+```bash
+npm run deploy
+```
+
+The Vite base URL is `/exam_practice/`, set in `vite.config.ts`. Adjust the base, the GitHub repository name, and the `deploy` script if you fork.
+
+## Architecture Notes
+
+- The adaptive engine and state calculator are pure functions — no React, no side effects — and are the most exhaustively tested modules.
+- All `localStorage` keys are namespaced as `cbse10_<profileName>_<key>` so multiple profiles never collide.
+- The first set has no prior history, so questions are distributed evenly across topics as a diagnostic.
+- Skipped questions count as incorrect with `time_taken = expected_time_sec`.
+- A topic's "seen" flags reset only after every question in that topic has been seen *and* answered correctly. Incorrect answers stay prioritised forever.
+
+For a deeper dive on architecture and conventions, see [`CLAUDE.md`](./CLAUDE.md). For the original product spec, see [`PRD.md`](./PRD.md).
