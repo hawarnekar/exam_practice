@@ -95,4 +95,4 @@ The Vite base URL is `/exam_practice/`, set in `vite.config.ts`. Adjust the base
 - Skipped questions count as incorrect with `time_taken = expected_time_sec`.
 - A topic's "seen" flags reset only after every question in that topic has been seen *and* answered correctly. Incorrect answers stay prioritised forever.
 
-For a deeper dive on architecture and conventions, see [`CLAUDE.md`](./CLAUDE.md). For the original product spec, see [`PRD.md`](./PRD.md).
+For a deeper dive on architecture and conventions, see [`CLAUDE.md`](./CLAUDE.md).

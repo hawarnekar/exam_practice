@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project
 
-Client-only PWA for adaptive MCQ exam practice. Subject-agnostic — drop in question files for any exam (the bundled seed content happens to cover CBSE Class 10 Science and Math). Adaptive engine: weak topics get more questions, mastered topics get baseline. No backend. Full design in `PRD.md`.
+Client-only PWA for adaptive MCQ exam practice. Subject-agnostic — drop in question files for any exam (the bundled seed content happens to cover CBSE Class 10 Science and Math). Adaptive engine: weak topics get more questions, mastered topics get baseline. No backend.
 
 ## Commands
 

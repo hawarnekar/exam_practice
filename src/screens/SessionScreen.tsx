@@ -138,7 +138,7 @@ export function SessionScreen() {
     })
     setTimings((prev) => {
       const next = new Map(prev)
-      // Skipped is treated as expected_time_sec (per PRD/CLAUDE.md). For
+      // Skipped is treated as expected_time_sec (per CLAUDE.md). For
       // answered questions, store the actual elapsed time.
       next.set(
         currentQuestion.id,

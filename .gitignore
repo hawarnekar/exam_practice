@@ -15,6 +15,9 @@ dist-ssr
 # Claude Code per-user settings
 .claude/settings.local.json
 
+# Internal product spec — kept locally, not published
+PRD.md
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
