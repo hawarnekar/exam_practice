@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topicId": "math/algebra/polynomials",
+      "subject": "Math",
+      "topic": "Algebra",
+      "subtopic": "Polynomials",
+      "filePath": "questions/math/algebra/polynomials.json",
+      "questionCount": 12
+    },
+    {
+      "topicId": "science/physics/light",
+      "subject": "Science",
+      "topic": "Physics",
+      "subtopic": "Light",
+      "filePath": "questions/science/physics/light.json",
+      "questionCount": 11
+    }
+  ]
+}
