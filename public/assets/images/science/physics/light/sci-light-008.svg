@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" role="img" aria-label="Concave mirror ray diagram">
+  <rect width="400" height="200" fill="#ffffff"/>
+  <line x1="0" y1="100" x2="400" y2="100" stroke="#9ca3af" stroke-dasharray="4 4"/>
+  <path d="M 320 30 Q 280 100 320 170" stroke="#111827" fill="none" stroke-width="2"/>
+  <line x1="40" y1="60" x2="290" y2="60" stroke="#3b82f6" stroke-width="1.5"/>
+  <line x1="40" y1="100" x2="290" y2="100" stroke="#3b82f6" stroke-width="1.5"/>
+  <line x1="40" y1="140" x2="290" y2="140" stroke="#3b82f6" stroke-width="1.5"/>
+  <line x1="290" y1="60" x2="240" y2="100" stroke="#ef4444" stroke-width="1.5"/>
+  <line x1="290" y1="100" x2="240" y2="100" stroke="#ef4444" stroke-width="1.5"/>
+  <line x1="290" y1="140" x2="240" y2="100" stroke="#ef4444" stroke-width="1.5"/>
+  <circle cx="240" cy="100" r="3" fill="#ef4444"/>
+  <text x="246" y="116" font-family="sans-serif" font-size="13" fill="#ef4444">F</text>
+  <text x="320" y="22" font-family="sans-serif" font-size="11" fill="#374151">mirror</text>
+</svg>
