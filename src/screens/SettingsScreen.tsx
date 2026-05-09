@@ -51,7 +51,7 @@ export function SettingsScreen() {
       const url = URL.createObjectURL(blob)
       const a = document.createElement('a')
       a.href = url
-      a.download = `cbse10_${activeProfile}_progress.json`
+      a.download = `examPractice_${activeProfile}_progress.json`
       a.style.display = 'none'
       document.body.appendChild(a)
       a.click()

@@ -6,7 +6,7 @@ export function TopBar() {
   return (
     <header className="sticky top-0 z-10 flex items-center justify-between border-b border-gray-200 bg-white px-4 py-3 dark:border-gray-700 dark:bg-gray-900">
       <h1 className="text-lg font-semibold text-gray-900 dark:text-gray-100">
-        CBSE 10th Practice
+        Exam Practice
       </h1>
 
       <div className="flex items-center gap-3">

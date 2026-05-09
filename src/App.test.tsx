@@ -16,7 +16,7 @@ afterEach(() => {
 describe('App shell', () => {
   it('renders the title and the empty Profile screen by default', () => {
     render(<App />)
-    expect(screen.getByRole('heading', { name: /CBSE 10th Practice/i })).toBeDefined()
+    expect(screen.getByRole('heading', { name: /Exam Practice/i })).toBeDefined()
     expect(screen.getByRole('heading', { name: /Create your first profile/i })).toBeDefined()
   })
 

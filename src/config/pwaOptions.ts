@@ -3,9 +3,9 @@ import type { VitePWAOptions } from 'vite-plugin-pwa'
 // Web App Manifest fields that vite-plugin-pwa will write to
 // dist/manifest.webmanifest at build time.
 export const pwaManifest = {
-  name: 'CBSE 10th Practice',
-  short_name: 'CBSE 10th',
-  description: 'Adaptive MCQ practice for CBSE 10th Science and Math',
+  name: 'Exam Practice',
+  short_name: 'Exam Practice',
+  description: 'Adaptive MCQ exam practice with per-topic mastery tracking',
   theme_color: '#1d4ed8',
   background_color: '#ffffff',
   display: 'standalone' as const,

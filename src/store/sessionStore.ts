@@ -1,10 +1,35 @@
 import type { Profile, ProfileProgress } from '../types'
 
-const KEY_PROFILES = 'cbse10_profiles'
+const KEY_PROFILES = 'examPractice_profiles'
 
 function profileKeyPrefix(name: string): string {
-  return `cbse10_${name}_`
+  return `examPractice_${name}_`
 }
+
+// One-time migration from the legacy `cbse10_` prefix used during early
+// development to the generic `examPractice_` prefix. Idempotent and silent
+// when no legacy keys exist. Runs at module load so it happens before any
+// reads.
+function migrateLegacyKeys(): void {
+  if (typeof localStorage === 'undefined') return
+  const legacy = 'cbse10_'
+  const next = 'examPractice_'
+  const toMove: string[] = []
+  for (let i = 0; i < localStorage.length; i++) {
+    const k = localStorage.key(i)
+    if (k && k.startsWith(legacy)) toMove.push(k)
+  }
+  for (const oldKey of toMove) {
+    const newKey = next + oldKey.slice(legacy.length)
+    if (localStorage.getItem(newKey) !== null) continue
+    const value = localStorage.getItem(oldKey)
+    if (value !== null) {
+      localStorage.setItem(newKey, value)
+      localStorage.removeItem(oldKey)
+    }
+  }
+}
+migrateLegacyKeys()
 
 function progressKey(name: string): string {
   return `${profileKeyPrefix(name)}progress`

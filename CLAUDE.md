@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project
 
-Client-only PWA for CBSE 10th exam practice (Science + Math). Adaptive MCQ engine — weak topics get more questions, mastered topics get baseline. No backend. Full design in `PRD.md`.
+Client-only PWA for adaptive MCQ exam practice. Subject-agnostic — drop in question files for any exam (the bundled seed content happens to cover CBSE Class 10 Science and Math). Adaptive engine: weak topics get more questions, mastered topics get baseline. No backend. Full design in `PRD.md`.
 
 ## Commands
 
@@ -44,7 +44,7 @@ To run a single test file: `npm run test -- src/engine/adaptiveEngine.test.ts`
 
 ### Data Layer
 
-**`src/store/sessionStore.ts`** — all localStorage reads/writes. Keys are namespaced as `cbse10_<profileName>_<key>`. Handles profile CRUD, per-profile progress persistence, settings (dark mode), and Export/Import JSON.
+**`src/store/sessionStore.ts`** — all localStorage reads/writes. Keys are namespaced as `examPractice_<profileName>_<key>`. A one-shot migration at module load rewrites legacy `cbse10_*` keys to the new prefix. Handles profile CRUD, per-profile progress persistence, settings (dark mode), and Export/Import JSON.
 
 **`src/data/questionLoader.ts`** — fetches `questions/manifest.json` at startup, then lazily loads topic JSON files on demand. Validates schema on load.
 
@@ -96,7 +96,7 @@ After adding or modifying any question file, run `npm run build:manifest`. The s
 - **Bank exhaustion**: once all questions in a topic are seen and correctly answered, their "seen" flag resets. Incorrectly answered questions are never reset — they stay prioritised.
 - **Feedback modes**: Immediate (forward-only navigation, explanation shown after each answer) or End-of-set (free navigation, submit at end). User chooses per set.
 - **Timer**: stopwatch per question. Amber at 100% of `expected_time_sec`, red at 150%. No hard cutoff — student can still answer.
-- **Multi-profile**: all localStorage keys namespaced by profile name. Profile list at `cbse10_profiles`.
+- **Multi-profile**: all localStorage keys namespaced by profile name. Profile list at `examPractice_profiles`.
 
 ### Rendering KaTeX
 

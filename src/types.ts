@@ -1,4 +1,4 @@
-// Shared types for the CBSE 10th exam practice app.
+// Shared types for the exam practice app.
 // All persisted shapes (anything stored in localStorage or in question JSON files)
 // are defined here.
 

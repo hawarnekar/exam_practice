@@ -77,7 +77,7 @@ function ScreenProbe() {
 }
 
 function renderWithSet(activeSet: ActiveSet | null, profile = 'Alice') {
-  if (profile && !localStorage.getItem('cbse10_profiles')) createProfile(profile)
+  if (profile && !localStorage.getItem('examPractice_profiles')) createProfile(profile)
   function Setup() {
     const { setProfile, setActiveSet, navigate } = useApp()
     useEffect(() => {

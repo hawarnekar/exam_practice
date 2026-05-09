@@ -24,19 +24,19 @@ describe('getProfiles', () => {
 
   test('returns parsed profiles array', () => {
     localStorage.setItem(
-      'cbse10_profiles',
+      'examPractice_profiles',
       JSON.stringify([{ name: 'Alice', createdAt: '2025-01-01T00:00:00Z' }])
     )
     expect(getProfiles()).toEqual([{ name: 'Alice', createdAt: '2025-01-01T00:00:00Z' }])
   })
 
   test('returns [] for corrupted JSON', () => {
-    localStorage.setItem('cbse10_profiles', '{ not json')
+    localStorage.setItem('examPractice_profiles', '{ not json')
     expect(getProfiles()).toEqual([])
   })
 
   test('returns [] when key holds a non-array', () => {
-    localStorage.setItem('cbse10_profiles', JSON.stringify({ not: 'an array' }))
+    localStorage.setItem('examPractice_profiles', JSON.stringify({ not: 'an array' }))
     expect(getProfiles()).toEqual([])
   })
 })
@@ -67,7 +67,7 @@ describe('createProfile', () => {
 
   test('initialises an empty ProfileProgress under the namespaced key', () => {
     createProfile('Alice')
-    const raw = localStorage.getItem('cbse10_Alice_progress')
+    const raw = localStorage.getItem('examPractice_Alice_progress')
     expect(raw).toBeTruthy()
     const progress = JSON.parse(raw!) as ProfileProgress
     expect(progress.profile.name).toBe('Alice')
@@ -95,7 +95,7 @@ describe('createProfile', () => {
     const p = createProfile('  Alice  ')
     expect(p.name).toBe('Alice')
     expect(profileExists('Alice')).toBe(true)
-    expect(localStorage.getItem('cbse10_Alice_progress')).toBeTruthy()
+    expect(localStorage.getItem('examPractice_Alice_progress')).toBeTruthy()
   })
 
   test('multiple profiles coexist', () => {
@@ -121,26 +121,26 @@ describe('deleteProfile', () => {
 
   test('removes the progress key for the deleted profile', () => {
     createProfile('Alice')
-    expect(localStorage.getItem('cbse10_Alice_progress')).toBeTruthy()
+    expect(localStorage.getItem('examPractice_Alice_progress')).toBeTruthy()
     deleteProfile('Alice')
-    expect(localStorage.getItem('cbse10_Alice_progress')).toBeNull()
+    expect(localStorage.getItem('examPractice_Alice_progress')).toBeNull()
   })
 
   test('removes ALL namespaced keys for the profile', () => {
     createProfile('Alice')
     // Simulate other future per-profile keys being stored
-    localStorage.setItem('cbse10_Alice_settings', '{}')
-    localStorage.setItem('cbse10_Alice_misc', 'x')
+    localStorage.setItem('examPractice_Alice_settings', '{}')
+    localStorage.setItem('examPractice_Alice_misc', 'x')
     deleteProfile('Alice')
-    expect(localStorage.getItem('cbse10_Alice_settings')).toBeNull()
-    expect(localStorage.getItem('cbse10_Alice_misc')).toBeNull()
+    expect(localStorage.getItem('examPractice_Alice_settings')).toBeNull()
+    expect(localStorage.getItem('examPractice_Alice_misc')).toBeNull()
   })
 
   test('does not remove other profiles\' keys', () => {
     createProfile('Alice')
     createProfile('Bob')
     deleteProfile('Alice')
-    expect(localStorage.getItem('cbse10_Bob_progress')).toBeTruthy()
+    expect(localStorage.getItem('examPractice_Bob_progress')).toBeTruthy()
     expect(profileExists('Bob')).toBe(true)
   })
 
@@ -157,13 +157,13 @@ describe('deleteProfile', () => {
   })
 
   test('substring profile names are not over-matched', () => {
-    // 'Al' should not be deleted when 'Alice' is deleted (prefix is 'cbse10_Al_')
+    // 'Al' should not be deleted when 'Alice' is deleted (prefix is 'examPractice_Al_')
     createProfile('Al')
     createProfile('Alice')
     deleteProfile('Al')
     expect(profileExists('Al')).toBe(false)
     expect(profileExists('Alice')).toBe(true)
-    expect(localStorage.getItem('cbse10_Alice_progress')).toBeTruthy()
+    expect(localStorage.getItem('examPractice_Alice_progress')).toBeTruthy()
   })
 })
 
@@ -221,7 +221,7 @@ describe('getProgress / saveProgress', () => {
 
   test('throws when stored JSON is corrupted', () => {
     createProfile('Alice')
-    localStorage.setItem('cbse10_Alice_progress', '{ corrupt')
+    localStorage.setItem('examPractice_Alice_progress', '{ corrupt')
     expect(() => getProgress('Alice')).toThrow(/Corrupted/)
   })
 })
@@ -308,7 +308,7 @@ describe('importProgress', () => {
     saveProgress('Alice', populated)
     const json = exportProgress('Alice')
     // Wipe Alice's progress
-    localStorage.removeItem('cbse10_Alice_progress')
+    localStorage.removeItem('examPractice_Alice_progress')
     importProgress('Alice', json)
     expect(getProgress('Alice')).toEqual(populated)
   })

@@ -1,6 +1,8 @@
-# CBSE 10th Exam Practice
+# Exam Practice
 
-A client-only Progressive Web App for CBSE Class 10 Science and Math exam practice. Presents MCQ questions one at a time, tracks accuracy and time per question, and uses an adaptive algorithm to weight weak topics more heavily in subsequent sets. Progress is persisted per profile in `localStorage` and works fully offline after first load.
+A client-only Progressive Web App for adaptive MCQ exam practice. Subject-agnostic — drop in your own question files for any exam. Presents questions one at a time, tracks accuracy and time per question, and uses an adaptive algorithm to weight weak topics more heavily in subsequent sets. Progress is persisted per profile in `localStorage` and works fully offline after first load.
+
+The bundled seed content happens to cover CBSE Class 10 Science and Math, but nothing in the engine, UI, or storage layer is exam-specific.
 
 **Live:** https://hawarnekar.github.io/exam_practice/
 
@@ -88,7 +90,7 @@ The Vite base URL is `/exam_practice/`, set in `vite.config.ts`. Adjust the base
 ## Architecture Notes
 
 - The adaptive engine and state calculator are pure functions — no React, no side effects — and are the most exhaustively tested modules.
-- All `localStorage` keys are namespaced as `cbse10_<profileName>_<key>` so multiple profiles never collide.
+- All `localStorage` keys are namespaced as `examPractice_<profileName>_<key>` so multiple profiles never collide.
 - The first set has no prior history, so questions are distributed evenly across topics as a diagnostic.
 - Skipped questions count as incorrect with `time_taken = expected_time_sec`.
 - A topic's "seen" flags reset only after every question in that topic has been seen *and* answered correctly. Incorrect answers stay prioritised forever.
