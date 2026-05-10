@@ -15,9 +15,9 @@ dist-ssr
 # Claude Code per-user settings
 .claude/settings.local.json
 
-# Internal docs — kept locally, not published
-PRD.md
-tasks.md
+# Internal-only directory — PRDs, tasks, recommendations, scratch.
+# Never sync to the GitHub repo.
+internal/
 
 # Editor directories and files
 .vscode/*
