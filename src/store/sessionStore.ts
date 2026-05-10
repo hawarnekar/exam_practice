@@ -1,6 +1,51 @@
-import type { Profile, ProfileProgress } from '../types'
+import type {
+  Profile,
+  ProfileProgress,
+  SetRecord,
+  SetRecordSummary,
+} from '../types'
+import { clearInflightSet } from './inflightStore'
 
 const KEY_PROFILES = 'examPractice_profiles'
+
+// Maximum number of full SetRecord entries kept in setHistory. Older sets
+// are rolled into setHistorySummary, which keeps accuracy + topic state
+// changes (the only fields the dashboard needs across the long tail) but
+// drops the bulky per-question results. Caps localStorage growth so a
+// long-running profile can't push the origin over its quota.
+export const MAX_FULL_HISTORY = 100
+
+// Typed error for any localStorage write failure (most often quota
+// exhaustion in private-browsing modes or after long usage).
+export class StorageError extends Error {
+  readonly kind: 'quota' | 'unknown'
+  constructor(message: string, kind: 'quota' | 'unknown', cause?: unknown) {
+    super(message, cause === undefined ? undefined : { cause })
+    this.name = 'StorageError'
+    this.kind = kind
+  }
+}
+
+function isQuotaExceeded(e: unknown): boolean {
+  if (typeof e !== 'object' || e === null) return false
+  const name = (e as { name?: unknown }).name
+  if (name === 'QuotaExceededError' || name === 'NS_ERROR_DOM_QUOTA_REACHED') return true
+  // Legacy DOMException numeric codes.
+  const code = (e as { code?: unknown }).code
+  return code === 22 || code === 1014
+}
+
+function safeSetItem(key: string, value: string): void {
+  try {
+    localStorage.setItem(key, value)
+  } catch (e) {
+    const quota = isQuotaExceeded(e)
+    const message = quota
+      ? "Couldn't save: browser storage is full. Export your progress in Settings, then delete an old profile or clear site data and try again."
+      : `Couldn't save to browser storage: ${e instanceof Error ? e.message : String(e)}`
+    throw new StorageError(message, quota ? 'quota' : 'unknown', e)
+  }
+}
 
 function profileKeyPrefix(name: string): string {
   return `examPractice_${name}_`
@@ -9,30 +54,71 @@ function profileKeyPrefix(name: string): string {
 // One-time migration from the legacy `cbse10_` prefix used during early
 // development to the generic `examPractice_` prefix. Idempotent and silent
 // when no legacy keys exist. Runs at module load so it happens before any
-// reads.
+// reads. Wrapped in try/catch end-to-end so a hostile storage environment
+// (quota, SecurityError) can never prevent the module from importing.
 function migrateLegacyKeys(): void {
   if (typeof localStorage === 'undefined') return
-  const legacy = 'cbse10_'
-  const next = 'examPractice_'
-  const toMove: string[] = []
-  for (let i = 0; i < localStorage.length; i++) {
-    const k = localStorage.key(i)
-    if (k && k.startsWith(legacy)) toMove.push(k)
-  }
-  for (const oldKey of toMove) {
-    const newKey = next + oldKey.slice(legacy.length)
-    if (localStorage.getItem(newKey) !== null) continue
-    const value = localStorage.getItem(oldKey)
-    if (value !== null) {
-      localStorage.setItem(newKey, value)
-      localStorage.removeItem(oldKey)
+  try {
+    const legacy = 'cbse10_'
+    const next = 'examPractice_'
+    const toMove: string[] = []
+    for (let i = 0; i < localStorage.length; i++) {
+      const k = localStorage.key(i)
+      if (k && k.startsWith(legacy)) toMove.push(k)
     }
+    for (const oldKey of toMove) {
+      const newKey = next + oldKey.slice(legacy.length)
+      if (localStorage.getItem(newKey) !== null) continue
+      const value = localStorage.getItem(oldKey)
+      if (value === null) continue
+      try {
+        localStorage.setItem(newKey, value)
+        localStorage.removeItem(oldKey)
+      } catch {
+        // Per-key failure: leave the legacy key in place so a later module
+        // load can retry once the user has freed space.
+      }
+    }
+  } catch {
+    // End-to-end swallow: migration must never block app start.
   }
 }
 migrateLegacyKeys()
 
 function progressKey(name: string): string {
   return `${profileKeyPrefix(name)}progress`
+}
+
+function toSummary(rec: SetRecord): SetRecordSummary {
+  const total = rec.results.length
+  const correct = rec.results.reduce((n, r) => (r.correct ? n + 1 : n), 0)
+  return {
+    setNumber: rec.setNumber,
+    date: rec.date,
+    size: rec.size,
+    feedbackMode: rec.feedbackMode,
+    accuracy: total === 0 ? 0 : correct / total,
+    correctCount: correct,
+    totalCount: total,
+    topicStateChanges: rec.topicStateChanges,
+  }
+}
+
+// Trim setHistory to the last MAX_FULL_HISTORY entries; rolled-off entries
+// are appended (in chronological order) to setHistorySummary. No-op when
+// already within bounds, and idempotent — calling repeatedly produces the
+// same shape.
+export function capProgress(progress: ProfileProgress): ProfileProgress {
+  if (progress.setHistory.length <= MAX_FULL_HISTORY) return progress
+  const overflowCount = progress.setHistory.length - MAX_FULL_HISTORY
+  const overflow = progress.setHistory.slice(0, overflowCount)
+  const kept = progress.setHistory.slice(overflowCount)
+  const newSummaries = overflow.map(toSummary)
+  return {
+    ...progress,
+    setHistory: kept,
+    setHistorySummary: [...(progress.setHistorySummary ?? []), ...newSummaries],
+  }
 }
 
 export function getProfiles(): Profile[] {
@@ -62,7 +148,7 @@ export function createProfile(name: string): Profile {
 
   const profiles = getProfiles()
   profiles.push(profile)
-  localStorage.setItem(KEY_PROFILES, JSON.stringify(profiles))
+  safeSetItem(KEY_PROFILES, JSON.stringify(profiles))
 
   const initialProgress: ProfileProgress = {
     profile,
@@ -72,7 +158,7 @@ export function createProfile(name: string): Profile {
     streak: 0,
     lastSetDate: null,
   }
-  localStorage.setItem(progressKey(trimmed), JSON.stringify(initialProgress))
+  safeSetItem(progressKey(trimmed), JSON.stringify(initialProgress))
 
   return profile
 }
@@ -80,7 +166,7 @@ export function createProfile(name: string): Profile {
 // Idempotent: deleting a non-existent profile is a no-op.
 export function deleteProfile(name: string): void {
   const filtered = getProfiles().filter((p) => p.name !== name)
-  localStorage.setItem(KEY_PROFILES, JSON.stringify(filtered))
+  safeSetItem(KEY_PROFILES, JSON.stringify(filtered))
 
   const prefix = profileKeyPrefix(name)
   const toRemove: string[] = []
@@ -89,6 +175,11 @@ export function deleteProfile(name: string): void {
     if (key && key.startsWith(prefix)) toRemove.push(key)
   }
   for (const key of toRemove) localStorage.removeItem(key)
+
+  // The in-flight snapshot lives in sessionStorage, not localStorage, so the
+  // prefix sweep above won't catch it. Clear it explicitly so a recreated
+  // profile with the same name doesn't inherit the deleted profile's set.
+  clearInflightSet(name)
 }
 
 export function getProgress(profileName: string): ProfileProgress {
@@ -104,7 +195,8 @@ export function getProgress(profileName: string): ProfileProgress {
 }
 
 export function saveProgress(profileName: string, progress: ProfileProgress): void {
-  localStorage.setItem(progressKey(profileName), JSON.stringify(progress))
+  const capped = capProgress(progress)
+  safeSetItem(progressKey(profileName), JSON.stringify(capped))
 }
 
 export function getDarkMode(profileName: string): boolean {
@@ -133,6 +225,7 @@ function isProfileProgress(v: unknown): v is ProfileProgress {
   if (typeof o.darkMode !== 'boolean') return false
   if (typeof o.streak !== 'number') return false
   if (o.lastSetDate !== null && typeof o.lastSetDate !== 'string') return false
+  if (o.setHistorySummary !== undefined && !Array.isArray(o.setHistorySummary)) return false
   return true
 }
 
@@ -155,7 +248,7 @@ export function importProgress(profileName: string, json: string): void {
   if (!profileExists(profileName)) {
     const profiles = getProfiles()
     profiles.push({ name: profileName, createdAt: parsed.profile.createdAt })
-    localStorage.setItem(KEY_PROFILES, JSON.stringify(profiles))
+    safeSetItem(KEY_PROFILES, JSON.stringify(profiles))
   }
 
   const rebound: ProfileProgress = {

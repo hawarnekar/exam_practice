@@ -250,6 +250,47 @@ describe('calculateState — state-change recording', () => {
   })
 })
 
+describe('calculateState — bad expectedSec defenses', () => {
+  // The build-manifest validator now rejects expected_time_sec <= 0 at build
+  // time, but legacy localStorage data and untrusted imports could still
+  // carry bad values. The engine must not produce Infinity/NaN ratios from
+  // those — that would silently pin every affected topic to "weak".
+
+  test('expectedSec = 0 falls back to ratio 1.0 (does not produce Infinity)', () => {
+    const results = [
+      r('t1', 'q1', true, { expectedSec: 0, elapsedSec: 30 }),
+      r('t1', 'q2', true, { expectedSec: 0, elapsedSec: 30 }),
+    ]
+    const out = calculateState(results, [emptyTopic('t1')])
+    expect(out.topicProgress[0].lastSetTimeRatio).toBe(1.0)
+    expect(Number.isFinite(out.topicProgress[0].lastSetTimeRatio)).toBe(true)
+  })
+
+  test('negative expectedSec falls back to ratio 1.0', () => {
+    const results = [r('t1', 'q1', true, { expectedSec: -5, elapsedSec: 30 })]
+    const out = calculateState(results, [emptyTopic('t1')])
+    expect(out.topicProgress[0].lastSetTimeRatio).toBe(1.0)
+  })
+
+  test('NaN expectedSec falls back to ratio 1.0', () => {
+    const results = [r('t1', 'q1', true, { expectedSec: NaN, elapsedSec: 30 })]
+    const out = calculateState(results, [emptyTopic('t1')])
+    expect(out.topicProgress[0].lastSetTimeRatio).toBe(1.0)
+    expect(Number.isNaN(out.topicProgress[0].lastSetTimeRatio)).toBe(false)
+  })
+
+  test('all-correct topic with bad expectedSec is mastered, not pinned to weak', () => {
+    // 10/10 correct, expectedSec=0 → without the guard, ratio=Infinity → weak.
+    // With the guard, ratio=1.0 → mastered (boundary inclusive).
+    const results: QuestionResult[] = []
+    for (let i = 0; i < 10; i++) {
+      results.push(r('t1', `q${i}`, true, { expectedSec: 0, elapsedSec: 30 }))
+    }
+    const out = calculateState(results, [emptyTopic('t1')])
+    expect(out.topicProgress[0].masteryState).toBe('mastered')
+  })
+})
+
 describe('calculateState — multiple topics in one set', () => {
   test('each topic is computed independently', () => {
     const t1 = emptyTopic('t1', 'weak')

@@ -1,5 +1,6 @@
-import { describe, test, expect, beforeEach } from 'vitest'
+import { describe, test, expect, beforeEach, afterEach, vi } from 'vitest'
 import {
+  capProgress,
   createProfile,
   deleteProfile,
   exportProgress,
@@ -7,11 +8,13 @@ import {
   getProfiles,
   getProgress,
   importProgress,
+  MAX_FULL_HISTORY,
   profileExists,
   saveProgress,
   setDarkMode,
+  StorageError,
 } from './sessionStore'
-import type { ProfileProgress, SetRecord, TopicProgress } from '../types'
+import type { ProfileProgress, SetRecord, SetRecordSummary, TopicProgress } from '../types'
 
 beforeEach(() => {
   localStorage.clear()
@@ -429,5 +432,201 @@ describe('importProgress', () => {
     expect(getProfiles().find((p) => p.name === 'NewAlice')!.createdAt).toBe(
       '2025-01-01T00:00:00Z'
     )
+  })
+})
+
+describe('StorageError on quota / write failure', () => {
+  afterEach(() => {
+    vi.restoreAllMocks()
+  })
+
+  test('createProfile throws a quota-tagged StorageError when setItem rejects with QuotaExceededError', () => {
+    vi.spyOn(window.localStorage, 'setItem').mockImplementation(() => {
+      throw new DOMException('quota', 'QuotaExceededError')
+    })
+    let caught: unknown
+    try {
+      createProfile('Alice')
+    } catch (e) {
+      caught = e
+    }
+    expect(caught).toBeInstanceOf(StorageError)
+    expect((caught as StorageError).kind).toBe('quota')
+    expect((caught as StorageError).message).toMatch(/storage is full/i)
+  })
+
+  test('saveProgress wraps non-quota write errors as StorageError with kind="unknown"', () => {
+    createProfile('Alice')
+    const progress = getProgress('Alice')
+    vi.spyOn(window.localStorage, 'setItem').mockImplementation(() => {
+      throw new Error('access denied')
+    })
+    let caught: unknown
+    try {
+      saveProgress('Alice', progress)
+    } catch (e) {
+      caught = e
+    }
+    expect(caught).toBeInstanceOf(StorageError)
+    expect((caught as StorageError).kind).toBe('unknown')
+    expect((caught as StorageError).message).toMatch(/access denied/)
+  })
+
+  test('setDarkMode propagates StorageError from the underlying save', () => {
+    createProfile('Alice')
+    vi.spyOn(window.localStorage, 'setItem').mockImplementation(() => {
+      throw new DOMException('quota', 'QuotaExceededError')
+    })
+    expect(() => setDarkMode('Alice', true)).toThrow(StorageError)
+  })
+
+  test('importProgress surfaces StorageError when the underlying write fails', () => {
+    createProfile('Alice')
+    const exported: ProfileProgress = {
+      profile: { name: 'Alice', createdAt: '2026-01-01T00:00:00Z' },
+      topicProgress: [],
+      setHistory: [],
+      darkMode: false,
+      streak: 0,
+      lastSetDate: null,
+    }
+    vi.spyOn(window.localStorage, 'setItem').mockImplementation(() => {
+      throw new DOMException('quota', 'QuotaExceededError')
+    })
+    expect(() => importProgress('Alice', JSON.stringify(exported))).toThrow(StorageError)
+  })
+})
+
+describe('capProgress (setHistory rollover)', () => {
+  function makeRecord(setNumber: number, correct = true): SetRecord {
+    return {
+      setNumber,
+      date: `2026-01-${String(((setNumber - 1) % 28) + 1).padStart(2, '0')}T00:00:00Z`,
+      size: 30,
+      feedbackMode: 'immediate',
+      results: [
+        {
+          questionId: `q${setNumber}`,
+          topicId: 'science/physics/light',
+          selectedAnswer: 0,
+          correct,
+          skipped: false,
+          elapsedSec: 30,
+          expectedSec: 30,
+        },
+      ],
+      topicStateChanges: [
+        {
+          topicId: 'science/physics/light',
+          previousState: 'unassessed',
+          newState: 'mastered',
+        },
+      ],
+    }
+  }
+
+  function baseProgress(): ProfileProgress {
+    return {
+      profile: { name: 'A', createdAt: '2026-01-01T00:00:00Z' },
+      topicProgress: [],
+      setHistory: [],
+      darkMode: false,
+      streak: 0,
+      lastSetDate: null,
+    }
+  }
+
+  test('is identity when setHistory is at or below the cap', () => {
+    const recs = Array.from({ length: MAX_FULL_HISTORY }, (_, i) => makeRecord(i + 1))
+    const p: ProfileProgress = { ...baseProgress(), setHistory: recs }
+    expect(capProgress(p)).toEqual(p)
+  })
+
+  test('rolls overflow into setHistorySummary, oldest first', () => {
+    const recs = Array.from({ length: MAX_FULL_HISTORY + 5 }, (_, i) => makeRecord(i + 1))
+    const p: ProfileProgress = { ...baseProgress(), setHistory: recs }
+    const capped = capProgress(p)
+    expect(capped.setHistory).toHaveLength(MAX_FULL_HISTORY)
+    expect(capped.setHistorySummary).toBeDefined()
+    expect(capped.setHistorySummary).toHaveLength(5)
+    expect(capped.setHistorySummary![0].setNumber).toBe(1)
+    expect(capped.setHistorySummary![4].setNumber).toBe(5)
+    expect(capped.setHistory[0].setNumber).toBe(6)
+    expect(capped.setHistory[MAX_FULL_HISTORY - 1].setNumber).toBe(MAX_FULL_HISTORY + 5)
+  })
+
+  test('summary preserves accuracy and topicStateChanges from the rolled-off records', () => {
+    const recs = Array.from({ length: MAX_FULL_HISTORY + 1 }, (_, i) =>
+      makeRecord(i + 1, i % 2 === 0),
+    )
+    const capped = capProgress({ ...baseProgress(), setHistory: recs })
+    const rolled = capped.setHistorySummary![0]
+    expect(rolled.setNumber).toBe(1)
+    expect(rolled.accuracy).toBe(1) // only result was correct
+    expect(rolled.totalCount).toBe(1)
+    expect(rolled.correctCount).toBe(1)
+    expect(rolled.topicStateChanges).toEqual(recs[0].topicStateChanges)
+  })
+
+  test('appends to a pre-existing setHistorySummary on subsequent rollovers', () => {
+    const existing: SetRecordSummary[] = [
+      {
+        setNumber: 1,
+        date: '2025-12-01T00:00:00Z',
+        size: 30,
+        feedbackMode: 'immediate',
+        accuracy: 0.5,
+        correctCount: 5,
+        totalCount: 10,
+        topicStateChanges: [],
+      },
+    ]
+    const recs = Array.from({ length: MAX_FULL_HISTORY + 2 }, (_, i) => makeRecord(i + 2))
+    const capped = capProgress({
+      ...baseProgress(),
+      setHistory: recs,
+      setHistorySummary: existing,
+    })
+    expect(capped.setHistorySummary).toHaveLength(3) // 1 pre-existing + 2 new
+    expect(capped.setHistorySummary![0].setNumber).toBe(1) // pre-existing first
+    expect(capped.setHistorySummary![1].setNumber).toBe(2) // first overflow
+    expect(capped.setHistorySummary![2].setNumber).toBe(3)
+  })
+
+  test('saveProgress enforces the cap on write', () => {
+    createProfile('Alice')
+    const recs = Array.from({ length: MAX_FULL_HISTORY + 10 }, (_, i) => makeRecord(i + 1))
+    saveProgress('Alice', { ...getProgress('Alice'), setHistory: recs })
+    const stored = getProgress('Alice')
+    expect(stored.setHistory).toHaveLength(MAX_FULL_HISTORY)
+    expect(stored.setHistorySummary).toHaveLength(10)
+    expect(stored.setHistorySummary![0].setNumber).toBe(1)
+  })
+
+  test('round-trip preserves an explicit setHistorySummary', () => {
+    createProfile('Alice')
+    const summary: SetRecordSummary[] = [
+      {
+        setNumber: 1,
+        date: '2025-12-01T00:00:00Z',
+        size: 30,
+        feedbackMode: 'immediate',
+        accuracy: 0.7,
+        correctCount: 7,
+        totalCount: 10,
+        topicStateChanges: [],
+      },
+    ]
+    const updated: ProfileProgress = {
+      profile: { name: 'Alice', createdAt: '2026-01-01T00:00:00Z' },
+      topicProgress: [],
+      setHistory: [],
+      setHistorySummary: summary,
+      darkMode: false,
+      streak: 0,
+      lastSetDate: null,
+    }
+    saveProgress('Alice', updated)
+    expect(getProgress('Alice')).toEqual(updated)
   })
 })

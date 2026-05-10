@@ -8,9 +8,10 @@ import {
   getProfiles,
   profileExists,
 } from '../store/sessionStore'
+import { loadInflightSet } from '../store/inflightStore'
 
 export function ProfileScreen() {
-  const { setProfile, navigate } = useApp()
+  const { setProfile, setActiveSet, navigate } = useApp()
   const [profiles, setProfiles] = useState<Profile[]>(() => getProfiles())
   const [inputName, setInputName] = useState('')
   const [error, setError] = useState<string | null>(null)
@@ -28,7 +29,16 @@ export function ProfileScreen() {
 
   function handleSelect(name: string) {
     setProfile(name)
-    navigate('set_config')
+    // If the profile has an in-flight set in sessionStorage (e.g. after a
+    // refresh), drop them straight back into it instead of forcing them to
+    // configure a new set.
+    const inflight = loadInflightSet(name)
+    if (inflight) {
+      setActiveSet(inflight)
+      navigate('active_set')
+    } else {
+      navigate('set_config')
+    }
   }
 
   function handleCreate(e: FormEvent) {

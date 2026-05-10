@@ -29,6 +29,14 @@ function findJsonFiles(dir) {
   return out
 }
 
+function isPositiveFiniteNumber(v) {
+  return typeof v === 'number' && Number.isFinite(v) && v > 0
+}
+
+function isNonNegativeFiniteNumber(v) {
+  return typeof v === 'number' && Number.isFinite(v) && v >= 0
+}
+
 function validateContents(contents) {
   const errors = []
   for (const field of REQUIRED_FILE_FIELDS) {
@@ -48,12 +56,36 @@ function validateContents(contents) {
     if (q.options != null) {
       if (!Array.isArray(q.options) || q.options.length < 2 || q.options.length > 4) {
         errors.push(`question[${i}] (id=${q.id}): options must be an array of 2-4 items`)
+      } else {
+        // Validate per-option text. An empty/missing text would render as a
+        // blank choice, leaving the user nothing to read.
+        q.options.forEach((opt, optIdx) => {
+          if (opt == null || typeof opt.text !== 'string' || opt.text.trim() === '') {
+            errors.push(
+              `question[${i}] (id=${q.id}): options[${optIdx}].text must be a non-empty string`,
+            )
+          }
+        })
       }
     }
     if (typeof q.correct === 'number' && Array.isArray(q.options)) {
       if (q.correct < 0 || q.correct >= q.options.length) {
         errors.push(`question[${i}] (id=${q.id}): correct index ${q.correct} out of range`)
       }
+    }
+    // expected_time_sec must be a positive finite number. Zero or negative
+    // would produce Infinity / NaN downstream in the time-ratio calculation
+    // and pin the topic permanently to "weak".
+    if ('expected_time_sec' in q && !isPositiveFiniteNumber(q.expected_time_sec)) {
+      errors.push(
+        `question[${i}] (id=${q.id}): expected_time_sec must be a positive finite number (got ${JSON.stringify(q.expected_time_sec)})`,
+      )
+    }
+    // score must be a non-negative finite number.
+    if ('score' in q && !isNonNegativeFiniteNumber(q.score)) {
+      errors.push(
+        `question[${i}] (id=${q.id}): score must be a non-negative finite number (got ${JSON.stringify(q.score)})`,
+      )
     }
   })
   return errors
@@ -79,6 +111,12 @@ export function buildManifest(questionsDir) {
   const files = findJsonFiles(questionsDir).sort()
   const errors = []
   const topics = []
+  // Tracks the first file each question id was seen in, so we can detect
+  // collisions both within a single file and across files. CLAUDE.md
+  // requires globally-unique ids; without this check duplicates would
+  // silently corrupt the runtime (the engine would treat both as one
+  // question, and the loader would return whichever file was iterated last).
+  const seenIds = new Map()
 
   for (const file of files) {
     let contents
@@ -93,6 +131,19 @@ export function buildManifest(questionsDir) {
       errors.push(...fileErrors.map((msg) => `${file}: ${msg}`))
       continue
     }
+
+    for (const q of contents.questions) {
+      if (typeof q.id !== 'string') continue // already flagged by validateContents
+      const firstSeenIn = seenIds.get(q.id)
+      if (firstSeenIn === undefined) {
+        seenIds.set(q.id, file)
+      } else if (firstSeenIn === file) {
+        errors.push(`${file}: duplicate question id "${q.id}" appears more than once in this file`)
+      } else {
+        errors.push(`duplicate question id "${q.id}" in ${file} (first seen in ${firstSeenIn})`)
+      }
+    }
+
     topics.push(toTopicMeta(file, questionsDir, contents))
   }
 

@@ -1,5 +1,12 @@
 import { useEffect, useMemo, useState } from 'react'
-import type { Manifest, MasteryState, SetRecord, TopicMeta } from '../types'
+import type {
+  Manifest,
+  MasteryState,
+  SetRecord,
+  SetRecordSummary,
+  TopicMeta,
+  TopicStateChange,
+} from '../types'
 import { useApp } from '../store/appContextValue'
 import { getProgress } from '../store/sessionStore'
 import { loadManifest } from '../data/questionLoader'
@@ -39,11 +46,15 @@ function groupBySubject(topics: TopicMeta[]): Map<string, TopicMeta[]> {
 // Walks the set history and produces a per-topic snapshot of mastery state
 // after each set. Topics that first appear later are padded with
 // 'unassessed' for the prior sets so all timelines have equal length.
-function buildTimeline(setHistory: SetRecord[]): Map<string, MasteryState[]> {
+// Accepts the union of (old) summarized entries followed by full SetRecords
+// so the timeline survives the rolloff that keeps localStorage bounded.
+function buildTimeline(
+  changeStream: { topicStateChanges: TopicStateChange[] }[],
+): Map<string, MasteryState[]> {
   const current = new Map<string, MasteryState>()
   const timelines = new Map<string, MasteryState[]>()
-  for (let i = 0; i < setHistory.length; i++) {
-    const rec = setHistory[i]
+  for (let i = 0; i < changeStream.length; i++) {
+    const rec = changeStream[i]
     for (const change of rec.topicStateChanges) {
       current.set(change.topicId, change.newState)
       if (!timelines.has(change.topicId)) {
@@ -168,10 +179,20 @@ export function DashboardScreen() {
   if (!progress) return null
 
   const setHistory = progress.setHistory
+  const setHistorySummary: SetRecordSummary[] = progress.setHistorySummary ?? []
+  const totalSetsCompleted = setHistorySummary.length + setHistory.length
   const stateById = new Map(progress.topicProgress.map((p) => [p.topicId, p.masteryState]))
 
-  const accuracyValues = setHistory.slice(-10).map(setAccuracy)
-  const timelines = buildTimeline(setHistory)
+  // Sparkline always uses the most recent 10 sets. With the rolloff cap
+  // those almost always live in setHistory, but we fall back to summaries
+  // for the gap on profiles that have very few recent full records.
+  const recentForSpark: { accuracy: number }[] = [
+    ...setHistorySummary.map((s) => ({ accuracy: s.accuracy })),
+    ...setHistory.map((r) => ({ accuracy: setAccuracy(r) })),
+  ].slice(-10)
+  const accuracyValues = recentForSpark.map((r) => r.accuracy)
+
+  const timelines = buildTimeline([...setHistorySummary, ...setHistory])
 
   return (
     <section className="mx-auto max-w-4xl space-y-6 px-4 py-8">
@@ -200,7 +221,7 @@ export function DashboardScreen() {
             data-testid="sets-completed"
             className="mt-1 text-2xl font-bold text-gray-900 dark:text-gray-100"
           >
-            {setHistory.length}
+            {totalSetsCompleted}
           </div>
         </div>
       </article>
@@ -252,7 +273,7 @@ export function DashboardScreen() {
         className="rounded-md border border-gray-200 bg-white p-4 dark:border-gray-700 dark:bg-gray-800"
       >
         <h3 className="mb-2 text-base font-semibold text-gray-900 dark:text-gray-100">
-          Accuracy — last {Math.min(10, setHistory.length) || 0} sets
+          Accuracy — last {Math.min(10, totalSetsCompleted) || 0} sets
         </h3>
         <AccuracySparkline values={accuracyValues} />
       </article>

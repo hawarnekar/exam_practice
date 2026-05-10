@@ -90,6 +90,20 @@ export type SetRecord = {
   topicStateChanges: TopicStateChange[]
 }
 
+// Compact form of SetRecord, used to preserve dashboard-relevant signal
+// (accuracy + topic state changes) for older sets after the full
+// per-question results have been rolled off to keep localStorage bounded.
+export type SetRecordSummary = {
+  setNumber: number
+  date: string
+  size: SetSize
+  feedbackMode: FeedbackMode
+  accuracy: number // 0..1
+  correctCount: number
+  totalCount: number
+  topicStateChanges: TopicStateChange[]
+}
+
 // === Profile & persistence ===
 
 export type Profile = {
@@ -101,6 +115,10 @@ export type ProfileProgress = {
   profile: Profile
   topicProgress: TopicProgress[]
   setHistory: SetRecord[]
+  // Older sets, summarized. Older entries first. Optional so existing exports
+  // (and freshly created profiles whose history hasn't yet exceeded the cap)
+  // round-trip unchanged.
+  setHistorySummary?: SetRecordSummary[]
   darkMode: boolean
   streak: number
   lastSetDate: string | null // YYYY-MM-DD, used for streak calc

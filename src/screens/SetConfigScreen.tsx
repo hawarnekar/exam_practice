@@ -3,7 +3,7 @@ import type { ActiveSet, FeedbackMode, Manifest, Question, SetConfig, SetSize } 
 import { useApp } from '../store/appContextValue'
 import { getProgress } from '../store/sessionStore'
 import { getBankWarnings, loadManifest, loadTopic } from '../data/questionLoader'
-import { generateSet } from '../engine/adaptiveEngine'
+import { generateSet, type GeneratedSet } from '../engine/adaptiveEngine'
 
 const SET_SIZES: SetSize[] = [30, 60, 100]
 
@@ -29,6 +29,12 @@ export function SetConfigScreen() {
   const [bannerDismissed, setBannerDismissed] = useState(false)
   const [building, setBuilding] = useState(false)
   const [buildError, setBuildError] = useState<string | null>(null)
+  // When the bank can't fully cover the requested size, we stash the
+  // engine result here and ask the user to confirm before launching the
+  // (smaller-than-requested) set.
+  const [shortfallPrompt, setShortfallPrompt] = useState<
+    { result: GeneratedSet; setConfig: SetConfig } | null
+  >(null)
 
   useEffect(() => {
     let cancelled = false
@@ -53,6 +59,18 @@ export function SetConfigScreen() {
 
   const startDisabled = size === null || feedbackMode === null || manifest === null || building
 
+  function launchSet(result: GeneratedSet, setConfig: SetConfig) {
+    const activeSet: ActiveSet = {
+      questionIds: result.questionIds,
+      setConfig,
+      currentIndex: 0,
+      answers: new Map(),
+      timings: new Map(),
+    }
+    setActiveSet(activeSet)
+    navigate('active_set')
+  }
+
   async function handleStart() {
     if (startDisabled || !manifest || size === null || feedbackMode === null || !activeProfile) {
       return
@@ -72,26 +90,27 @@ export function SetConfigScreen() {
       const questionsByTopic = new Map<string, Question[]>()
       manifest.topics.forEach((t, i) => questionsByTopic.set(t.topicId, questionLists[i]))
 
-      const questionIds = generateSet(
+      const result = generateSet(
         manifest.topics,
         questionsByTopic,
         progress.topicProgress,
         setConfig,
       )
 
-      if (questionIds.length === 0) {
+      if (result.questionIds.length === 0) {
         throw new Error('The question bank is empty for this profile.')
       }
 
-      const activeSet: ActiveSet = {
-        questionIds,
-        setConfig,
-        currentIndex: 0,
-        answers: new Map(),
-        timings: new Map(),
+      // The engine couldn't fill the full requested size even after its
+      // cross-topic second pass. Surface this to the user so they can
+      // either accept the smaller set or pick a smaller size / add more
+      // questions before retrying.
+      if (result.shortfall > 0) {
+        setShortfallPrompt({ result, setConfig })
+        return
       }
-      setActiveSet(activeSet)
-      navigate('active_set')
+
+      launchSet(result, setConfig)
     } catch (err) {
       setBuildError(err instanceof Error ? err.message : 'Failed to build set')
     } finally {
@@ -224,6 +243,53 @@ export function SetConfigScreen() {
       >
         {building ? 'Building set…' : 'Start set'}
       </button>
+
+      {shortfallPrompt && (
+        <div
+          role="alertdialog"
+          aria-modal="true"
+          aria-labelledby="shortfall-title"
+          aria-describedby="shortfall-body"
+          className="fixed inset-0 z-30 flex items-center justify-center bg-black/40 px-4"
+        >
+          <div className="w-full max-w-md rounded-md bg-white p-5 shadow-lg dark:bg-gray-800">
+            <h3
+              id="shortfall-title"
+              className="text-lg font-semibold text-amber-700 dark:text-amber-300"
+            >
+              Limited questions available
+            </h3>
+            <p
+              id="shortfall-body"
+              className="mt-2 text-sm text-gray-800 dark:text-gray-100"
+            >
+              Your bank has only {shortfallPrompt.result.questionIds.length} eligible question
+              {shortfallPrompt.result.questionIds.length === 1 ? '' : 's'} for the requested{' '}
+              {shortfallPrompt.result.requestedSize}. Start a shorter set anyway?
+            </p>
+            <div className="mt-5 flex justify-end gap-2">
+              <button
+                type="button"
+                onClick={() => setShortfallPrompt(null)}
+                className="min-h-12 rounded-md border border-gray-300 px-4 py-2 text-sm font-medium text-gray-800 dark:border-gray-600 dark:text-gray-100"
+              >
+                Cancel
+              </button>
+              <button
+                type="button"
+                onClick={() => {
+                  const { result, setConfig } = shortfallPrompt
+                  setShortfallPrompt(null)
+                  launchSet(result, setConfig)
+                }}
+                className="min-h-12 rounded-md bg-blue-600 px-4 py-2 text-sm font-medium text-white"
+              >
+                Start with {shortfallPrompt.result.questionIds.length}
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
     </section>
   )
 }

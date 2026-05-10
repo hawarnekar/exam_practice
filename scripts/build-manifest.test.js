@@ -90,8 +90,15 @@ describe('buildManifest', () => {
   })
 
   test('multiple files produce sorted topics', () => {
-    writeQuestionFile('science/physics/light.json', validFile({ subject: 'Science', topic: 'Light', subtopic: 'Reflection' }))
-    writeQuestionFile('math/algebra/polynomials.json', validFile())
+    writeQuestionFile('science/physics/light.json', validFile({
+      subject: 'Science',
+      topic: 'Light',
+      subtopic: 'Reflection',
+      questions: [validQuestion({ id: 'sci-1' })],
+    }))
+    writeQuestionFile('math/algebra/polynomials.json', validFile({
+      questions: [validQuestion({ id: 'math-1' })],
+    }))
     const result = buildManifest(questionsDir)
     expect(result.ok).toBe(true)
     expect(result.manifest.topics.map((t) => t.topicId)).toEqual([
@@ -182,5 +189,233 @@ describe('buildManifest', () => {
     writeQuestionFile('math/algebra/polynomials.json', validFile({ questions: many }))
     const result = buildManifest(questionsDir)
     expect(result.warnings).toEqual([])
+  })
+
+  describe('numeric and option-text validation', () => {
+    test('expected_time_sec = 0 causes ok=false', () => {
+      writeQuestionFile(
+        'math/algebra/polynomials.json',
+        validFile({ questions: [validQuestion({ expected_time_sec: 0 })] }),
+      )
+      const result = buildManifest(questionsDir)
+      expect(result.ok).toBe(false)
+      expect(result.errors.some((e) => /expected_time_sec/.test(e))).toBe(true)
+    })
+
+    test('expected_time_sec negative causes ok=false', () => {
+      writeQuestionFile(
+        'math/algebra/polynomials.json',
+        validFile({ questions: [validQuestion({ expected_time_sec: -10 })] }),
+      )
+      const result = buildManifest(questionsDir)
+      expect(result.ok).toBe(false)
+      expect(result.errors.some((e) => /expected_time_sec/.test(e))).toBe(true)
+    })
+
+    test('expected_time_sec non-numeric causes ok=false', () => {
+      writeQuestionFile(
+        'math/algebra/polynomials.json',
+        validFile({ questions: [validQuestion({ expected_time_sec: 'thirty' })] }),
+      )
+      const result = buildManifest(questionsDir)
+      expect(result.ok).toBe(false)
+      expect(result.errors.some((e) => /expected_time_sec/.test(e))).toBe(true)
+    })
+
+    test('score negative causes ok=false', () => {
+      writeQuestionFile(
+        'math/algebra/polynomials.json',
+        validFile({ questions: [validQuestion({ score: -1 })] }),
+      )
+      const result = buildManifest(questionsDir)
+      expect(result.ok).toBe(false)
+      expect(result.errors.some((e) => /score/.test(e))).toBe(true)
+    })
+
+    test('score = 0 is allowed (non-negative)', () => {
+      writeQuestionFile(
+        'math/algebra/polynomials.json',
+        validFile({ questions: [validQuestion({ score: 0 })] }),
+      )
+      const result = buildManifest(questionsDir)
+      expect(result.ok).toBe(true)
+    })
+
+    test('score non-numeric causes ok=false', () => {
+      writeQuestionFile(
+        'math/algebra/polynomials.json',
+        validFile({ questions: [validQuestion({ score: '1' })] }),
+      )
+      const result = buildManifest(questionsDir)
+      expect(result.ok).toBe(false)
+      expect(result.errors.some((e) => /score/.test(e))).toBe(true)
+    })
+
+    test('option with empty text causes ok=false', () => {
+      writeQuestionFile(
+        'math/algebra/polynomials.json',
+        validFile({
+          questions: [
+            validQuestion({
+              options: [
+                { text: 'A', image: null },
+                { text: '', image: null },
+              ],
+              correct: 0,
+            }),
+          ],
+        }),
+      )
+      const result = buildManifest(questionsDir)
+      expect(result.ok).toBe(false)
+      expect(result.errors.some((e) => /options\[1\]\.text/.test(e))).toBe(true)
+    })
+
+    test('option with whitespace-only text causes ok=false', () => {
+      writeQuestionFile(
+        'math/algebra/polynomials.json',
+        validFile({
+          questions: [
+            validQuestion({
+              options: [
+                { text: 'A', image: null },
+                { text: '   ', image: null },
+              ],
+              correct: 0,
+            }),
+          ],
+        }),
+      )
+      const result = buildManifest(questionsDir)
+      expect(result.ok).toBe(false)
+      expect(result.errors.some((e) => /options\[1\]\.text/.test(e))).toBe(true)
+    })
+
+    test('option with non-string text causes ok=false', () => {
+      writeQuestionFile(
+        'math/algebra/polynomials.json',
+        validFile({
+          questions: [
+            validQuestion({
+              options: [
+                { text: 'A', image: null },
+                { text: 42, image: null },
+              ],
+              correct: 0,
+            }),
+          ],
+        }),
+      )
+      const result = buildManifest(questionsDir)
+      expect(result.ok).toBe(false)
+      expect(result.errors.some((e) => /options\[1\]\.text/.test(e))).toBe(true)
+    })
+  })
+
+  describe('duplicate question id detection', () => {
+    test('duplicate id within a single file is reported', () => {
+      writeQuestionFile(
+        'math/algebra/polynomials.json',
+        validFile({ questions: [validQuestion({ id: 'shared' }), validQuestion({ id: 'shared' })] }),
+      )
+      const result = buildManifest(questionsDir)
+      expect(result.ok).toBe(false)
+      expect(result.errors).toHaveLength(1)
+      expect(result.errors[0]).toMatch(/duplicate question id "shared"/)
+      expect(result.errors[0]).toMatch(/more than once in this file/)
+      expect(result.errors[0]).toContain('polynomials.json')
+    })
+
+    test('duplicate id across two files is reported with both paths', () => {
+      writeQuestionFile('math/algebra/polynomials.json', validFile({ questions: [validQuestion({ id: 'shared' })] }))
+      writeQuestionFile(
+        'science/physics/light.json',
+        validFile({
+          subject: 'Science',
+          topic: 'Physics',
+          subtopic: 'Light',
+          questions: [validQuestion({ id: 'shared' })],
+        }),
+      )
+      const result = buildManifest(questionsDir)
+      expect(result.ok).toBe(false)
+      expect(result.errors).toHaveLength(1)
+      // Files are scanned in sorted order, so polynomials.json (math/...) is
+      // seen first; light.json (science/...) is the offending duplicate.
+      expect(result.errors[0]).toMatch(/duplicate question id "shared"/)
+      expect(result.errors[0]).toContain('light.json')
+      expect(result.errors[0]).toMatch(/first seen in .*polynomials\.json/)
+    })
+
+    test('multiple distinct duplicates are all reported', () => {
+      writeQuestionFile(
+        'math/algebra/polynomials.json',
+        validFile({
+          questions: [
+            validQuestion({ id: 'q1' }),
+            validQuestion({ id: 'q2' }),
+          ],
+        }),
+      )
+      writeQuestionFile(
+        'science/physics/light.json',
+        validFile({
+          subject: 'Science',
+          topic: 'Physics',
+          subtopic: 'Light',
+          questions: [
+            validQuestion({ id: 'q1' }),
+            validQuestion({ id: 'q2' }),
+            validQuestion({ id: 'q3' }), // unique, ok
+          ],
+        }),
+      )
+      const result = buildManifest(questionsDir)
+      expect(result.ok).toBe(false)
+      expect(result.errors).toHaveLength(2)
+      expect(result.errors.some((e) => e.includes('"q1"'))).toBe(true)
+      expect(result.errors.some((e) => e.includes('"q2"'))).toBe(true)
+      expect(result.errors.some((e) => e.includes('"q3"'))).toBe(false)
+    })
+
+    test('non-duplicate ids across files do not produce errors', () => {
+      writeQuestionFile('math/algebra/polynomials.json', validFile({ questions: [validQuestion({ id: 'unique-a' })] }))
+      writeQuestionFile(
+        'science/physics/light.json',
+        validFile({
+          subject: 'Science',
+          topic: 'Physics',
+          subtopic: 'Light',
+          questions: [validQuestion({ id: 'unique-b' })],
+        }),
+      )
+      const result = buildManifest(questionsDir)
+      expect(result.ok).toBe(true)
+      expect(result.errors).toEqual([])
+      expect(result.manifest.topics).toHaveLength(2)
+    })
+
+    test('files that fail per-question validation do not poison the dup-id tracker', () => {
+      // First file is valid and registers id "shared".
+      writeQuestionFile('math/algebra/polynomials.json', validFile({ questions: [validQuestion({ id: 'shared' })] }))
+      // Second file fails validateContents (invalid difficulty), so we skip
+      // the file. Its (otherwise duplicate) id should NOT trigger a dup
+      // error on top of the validation error, since validation already
+      // disqualified the file.
+      writeQuestionFile(
+        'science/physics/light.json',
+        validFile({
+          subject: 'Science',
+          topic: 'Physics',
+          subtopic: 'Light',
+          questions: [validQuestion({ id: 'shared', difficulty: 'extreme' })],
+        }),
+      )
+      const result = buildManifest(questionsDir)
+      expect(result.ok).toBe(false)
+      // Only the difficulty error — no duplicate-id error.
+      expect(result.errors.some((e) => e.includes('difficulty'))).toBe(true)
+      expect(result.errors.some((e) => e.includes('duplicate'))).toBe(false)
+    })
   })
 })

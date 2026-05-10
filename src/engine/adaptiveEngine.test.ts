@@ -2,6 +2,7 @@ import { describe, test, expect } from 'vitest'
 import {
   allocateTopicSlots,
   computeDifficultyTargets,
+  generateSet,
   selectQuestions,
 } from './adaptiveEngine'
 import type {
@@ -514,6 +515,98 @@ describe('selectQuestions — invariants', () => {
     )
     expect(ids).toHaveLength(12)
     for (const id of ids) expect(validIds.has(id)).toBe(true)
+  })
+})
+
+describe('generateSet — shortfall reporting and cross-topic redistribution', () => {
+  test('returns shortfall=0 when the bank fully covers the requested size', () => {
+    const topics = [topic('a'), topic('b')]
+    const banks = new Map([
+      ['a', makeBank('a', 50, 50, 50)],
+      ['b', makeBank('b', 50, 50, 50)],
+    ])
+    const result = generateSet(topics, banks, [], cfg(30), makeRandom(20))
+    expect(result.requestedSize).toBe(30)
+    expect(result.shortfall).toBe(0)
+    expect(result.questionIds).toHaveLength(30)
+  })
+
+  test('reports shortfall when the bank truly cannot cover the request', () => {
+    // 1 topic, 5 questions total, asking for 30. Even after second pass
+    // there's nothing else to draw from → shortfall = 25.
+    const topics = [topic('only')]
+    const banks = new Map([['only', makeBank('only', 5, 0, 0)]])
+    const result = generateSet(topics, banks, [], cfg(30), makeRandom(21))
+    expect(result.requestedSize).toBe(30)
+    expect(result.questionIds).toHaveLength(5)
+    expect(result.shortfall).toBe(25)
+  })
+
+  test('second pass fills cross-topic deficit from another topic with leftover questions', () => {
+    // Two topics, equal weight (both unassessed) → 15 slots each for size=30.
+    // Topic 'a' has only 3 questions → first pass returns 3, deficit 12.
+    // Topic 'b' has 100 → has plenty of leftovers after its 15 → second pass
+    // uses 'b' to fill the deficit. Total filled = 30, shortfall = 0.
+    const topics = [topic('a'), topic('b')]
+    const banks = new Map([
+      ['a', makeBank('a', 3, 0, 0)],
+      ['b', makeBank('b', 50, 50, 50)],
+    ])
+    const result = generateSet(topics, banks, [], cfg(30), makeRandom(22))
+    expect(result.shortfall).toBe(0)
+    expect(result.questionIds).toHaveLength(30)
+    const aIds = new Set(banks.get('a')!.map((q) => q.id))
+    const fromA = result.questionIds.filter((id) => aIds.has(id)).length
+    const fromB = result.questionIds.length - fromA
+    // 'a' contributed at most its 3 questions; the rest came from 'b'.
+    expect(fromA).toBeLessThanOrEqual(3)
+    expect(fromB).toBeGreaterThanOrEqual(27)
+  })
+
+  test('second pass redistribution still produces unique question IDs', () => {
+    const topics = [topic('a'), topic('b')]
+    const banks = new Map([
+      ['a', makeBank('a', 3, 0, 0)],
+      ['b', makeBank('b', 50, 50, 50)],
+    ])
+    const result = generateSet(topics, banks, [], cfg(30), makeRandom(23))
+    expect(new Set(result.questionIds).size).toBe(result.questionIds.length)
+  })
+
+  test('second pass prefers weaker topics when distributing extras', () => {
+    // 'weak' has 100 questions but is allocated few slots (it's only 1 of 2);
+    // wait, equal allocation. Let me set up: 1 weak + 1 mastered, both with
+    // ample banks. 'a' (weak) initially gets 75% of slots; if 'b' (mastered)
+    // can't fill its 25%, second pass should prefer the weaker 'a' to absorb.
+    // But here we want the opposite: 'a' (mastered) runs short → 'z' (weak)
+    // should get the extras even though 'a' was the slot owner.
+    const topics = [topic('a'), topic('z')]
+    const prog = [progress('a', 'mastered'), progress('z', 'weak')]
+    const banks = new Map([
+      // 'a' (mastered, weight 1, allocated 25 slots out of 100) has only 5 questions
+      ['a', makeBank('a', 5, 0, 0)],
+      // 'z' (weak, weight 3, allocated 75 slots) has plenty more.
+      ['z', makeBank('z', 50, 50, 50)],
+    ])
+    const result = generateSet(topics, banks, prog, cfg(100), makeRandom(24))
+    expect(result.shortfall).toBe(0)
+    expect(result.questionIds).toHaveLength(100)
+    const aIds = new Set(banks.get('a')!.map((q) => q.id))
+    const fromA = result.questionIds.filter((id) => aIds.has(id)).length
+    // 'a' only had 5 questions; everything else (95) must have come from 'z'.
+    expect(fromA).toBeLessThanOrEqual(5)
+  })
+
+  test('returns empty list with full shortfall when no topic has any questions', () => {
+    const topics = [topic('a'), topic('b')]
+    const banks = new Map([
+      ['a', [] as Question[]],
+      ['b', [] as Question[]],
+    ])
+    const result = generateSet(topics, banks, [], cfg(30), makeRandom(25))
+    expect(result.questionIds).toEqual([])
+    expect(result.shortfall).toBe(30)
+    expect(result.requestedSize).toBe(30)
   })
 })
 

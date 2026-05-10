@@ -1,7 +1,8 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import type { Question, QuestionResult, SetRecord } from '../types'
 import { useApp } from '../store/appContextValue'
-import { getProgress, saveProgress } from '../store/sessionStore'
+import { getProgress, saveProgress, StorageError } from '../store/sessionStore'
+import { clearInflightSet, saveInflightSet } from '../store/inflightStore'
 import { loadManifest, loadTopic } from '../data/questionLoader'
 import { calculateState } from '../engine/stateCalculator'
 import { QuestionCard } from '../components/QuestionCard'
@@ -39,6 +40,8 @@ export function SessionScreen() {
   // current question changes.
   const [feedbackForIndex, setFeedbackForIndex] = useState<number | null>(null)
   const [confirmingSubmit, setConfirmingSubmit] = useState(false)
+  const [submitError, setSubmitError] = useState<string | null>(null)
+  const [isSubmitting, setIsSubmitting] = useState(false)
   const viewStartRef = useRef<number>(Date.now())
 
   // Load every required question once.
@@ -74,6 +77,20 @@ export function SessionScreen() {
   useEffect(() => {
     viewStartRef.current = Date.now()
   }, [currentIndex])
+
+  // Snapshot the in-flight set to sessionStorage on every meaningful change
+  // so a refresh / accidental tab close doesn't lose the user's answers.
+  // The snapshot is cleared in submitSet on success.
+  useEffect(() => {
+    if (!activeSet || !activeProfile) return
+    saveInflightSet(activeProfile, {
+      questionIds: activeSet.questionIds,
+      setConfig: activeSet.setConfig,
+      currentIndex,
+      answers,
+      timings,
+    })
+  }, [activeProfile, activeSet, currentIndex, answers, timings])
 
   const currentEntry: LoadedQuestion | null = useMemo(() => {
     if (!activeSet || !loaded) return null
@@ -199,39 +216,58 @@ export function SessionScreen() {
       navigate('profile_select')
       return
     }
-    const progress = getProgress(activeProfile)
-    const results = buildResults()
-    const { topicProgress: nextTopicProgress, changes } = calculateState(
-      results,
-      progress.topicProgress,
-    )
+    if (isSubmitting) return
+    setIsSubmitting(true)
+    setSubmitError(null)
+    try {
+      const progress = getProgress(activeProfile)
+      const results = buildResults()
+      const { topicProgress: nextTopicProgress, changes } = calculateState(
+        results,
+        progress.topicProgress,
+      )
 
-    const today = todayDateString()
-    let nextStreak: number
-    if (progress.lastSetDate === today) nextStreak = progress.streak
-    else if (progress.lastSetDate && isYesterday(progress.lastSetDate, today)) {
-      nextStreak = progress.streak + 1
-    } else nextStreak = 1
+      const today = todayDateString()
+      let nextStreak: number
+      if (progress.lastSetDate === today) nextStreak = progress.streak
+      else if (progress.lastSetDate && isYesterday(progress.lastSetDate, today)) {
+        nextStreak = progress.streak + 1
+      } else nextStreak = 1
 
-    const setRecord: SetRecord = {
-      setNumber: progress.setHistory.length + 1,
-      date: new Date().toISOString(),
-      size: activeSet!.setConfig.size,
-      feedbackMode: activeSet!.setConfig.feedbackMode,
-      results,
-      topicStateChanges: changes,
+      const setRecord: SetRecord = {
+        setNumber: progress.setHistory.length + 1,
+        date: new Date().toISOString(),
+        size: activeSet!.setConfig.size,
+        feedbackMode: activeSet!.setConfig.feedbackMode,
+        results,
+        topicStateChanges: changes,
+      }
+
+      saveProgress(activeProfile, {
+        ...progress,
+        topicProgress: nextTopicProgress,
+        setHistory: [...progress.setHistory, setRecord],
+        streak: nextStreak,
+        lastSetDate: today,
+      })
+
+      clearInflightSet(activeProfile)
+      setActiveSet(null)
+      navigate('set_summary')
+    } catch (err) {
+      // Save failed (most likely StorageError on quota). Keep the in-flight
+      // set intact and surface a recoverable message so the user can free
+      // space and retry without losing their answers.
+      const message =
+        err instanceof StorageError
+          ? err.message
+          : err instanceof Error
+            ? `Couldn't save your set: ${err.message}`
+            : "Couldn't save your set."
+      setSubmitError(message)
+    } finally {
+      setIsSubmitting(false)
     }
-
-    saveProgress(activeProfile, {
-      ...progress,
-      topicProgress: nextTopicProgress,
-      setHistory: [...progress.setHistory, setRecord],
-      streak: nextStreak,
-      lastSetDate: today,
-    })
-
-    setActiveSet(null)
-    navigate('set_summary')
   }
 
   const paletteStatuses: PaletteStatus[] = activeSet.questionIds.map((id) => {
@@ -249,6 +285,53 @@ export function SessionScreen() {
 
   return (
     <section>
+      {submitError && (
+        <div
+          role="alertdialog"
+          aria-modal="true"
+          aria-labelledby="submit-error-title"
+          aria-describedby="submit-error-body"
+          className="fixed inset-0 z-30 flex items-center justify-center bg-black/40 px-4"
+        >
+          <div className="w-full max-w-md rounded-md bg-white p-5 shadow-lg dark:bg-gray-800">
+            <h3
+              id="submit-error-title"
+              className="text-lg font-semibold text-red-700 dark:text-red-300"
+            >
+              Couldn't save your set
+            </h3>
+            <p
+              id="submit-error-body"
+              className="mt-2 text-sm text-gray-800 dark:text-gray-100"
+            >
+              {submitError}
+            </p>
+            <p className="mt-2 text-xs text-gray-600 dark:text-gray-300">
+              Your answers are still here — try again once you've freed up space.
+            </p>
+            <div className="mt-5 flex justify-end gap-2">
+              <button
+                type="button"
+                onClick={() => setSubmitError(null)}
+                className="min-h-12 rounded-md border border-gray-300 px-4 py-2 text-sm font-medium text-gray-800 dark:border-gray-600 dark:text-gray-100"
+              >
+                Dismiss
+              </button>
+              <button
+                type="button"
+                onClick={() => {
+                  setSubmitError(null)
+                  submitSet()
+                }}
+                disabled={isSubmitting}
+                className="min-h-12 rounded-md bg-blue-600 px-4 py-2 text-sm font-medium text-white disabled:opacity-50"
+              >
+                Try again
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
       <QuestionCard
         key={currentQuestion.id}
         question={currentQuestion}

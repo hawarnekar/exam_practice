@@ -23,8 +23,14 @@ function classify(accuracy: number, timeRatio: number): MasteryState {
 
 // Skipped questions count as having taken exactly the expected time (ratio = 1.0),
 // independent of whatever elapsedSec the caller recorded.
+// Defensive: a non-positive (or NaN) expectedSec — possible from legacy
+// localStorage data or an untrusted import, even though build-manifest now
+// rejects it at build time — would produce Infinity / NaN here, pinning the
+// topic permanently to "weak". Treat it as on-time (1.0) instead. The
+// `!(x > 0)` form catches NaN as well.
 function timeRatioOf(r: QuestionResult): number {
   if (r.skipped) return 1.0
+  if (!(r.expectedSec > 0)) return 1.0
   return r.elapsedSec / r.expectedSec
 }
 

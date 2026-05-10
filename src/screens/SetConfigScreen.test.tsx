@@ -110,7 +110,11 @@ beforeEach(() => {
   mockedLoadManifest.mockResolvedValue(sampleManifest)
   mockedGetBankWarnings.mockReturnValue([])
   mockedLoadTopic.mockResolvedValue([fakeQuestion])
-  mockedGenerateSet.mockReturnValue(['fake-1', 'fake-1', 'fake-1'])
+  mockedGenerateSet.mockReturnValue({
+    questionIds: ['fake-1', 'fake-1', 'fake-1'],
+    shortfall: 0,
+    requestedSize: 3,
+  })
 })
 
 afterEach(() => {
@@ -165,7 +169,11 @@ describe('SetConfigScreen', () => {
   })
 
   it('clicking Start calls the engine, stores the ActiveSet, and navigates to active_set', async () => {
-    mockedGenerateSet.mockReturnValue(['q1', 'q2', 'q3'])
+    mockedGenerateSet.mockReturnValue({
+      questionIds: ['q1', 'q2', 'q3'],
+      shortfall: 0,
+      requestedSize: 30,
+    })
     renderWith()
 
     await userEvent.click(screen.getByRole('button', { name: '30' }))
@@ -219,7 +227,11 @@ describe('SetConfigScreen', () => {
   })
 
   it('shows an error when the engine produces an empty set', async () => {
-    mockedGenerateSet.mockReturnValue([])
+    mockedGenerateSet.mockReturnValue({
+      questionIds: [],
+      shortfall: 30,
+      requestedSize: 30,
+    })
     renderWith()
 
     await userEvent.click(screen.getByRole('button', { name: '30' }))
@@ -233,5 +245,68 @@ describe('SetConfigScreen', () => {
     expect(alert.textContent).toMatch(/empty/i)
     // Should not have navigated to active_set.
     expect(screen.getByTestId('screen').textContent).not.toBe('active_set')
+  })
+
+  describe('shortfall confirmation', () => {
+    it('opens a confirmation dialog when the bank can\'t cover the requested size', async () => {
+      mockedGenerateSet.mockReturnValue({
+        questionIds: ['q1', 'q2', 'q3', 'q4', 'q5', 'q6', 'q7', 'q8', 'q9', 'q10', 'q11', 'q12'],
+        shortfall: 18,
+        requestedSize: 30,
+      })
+      renderWith()
+
+      await userEvent.click(screen.getByRole('button', { name: '30' }))
+      await userEvent.click(screen.getByRole('button', { name: /Immediate Feedback/i }))
+      const startBtn = screen.getByRole('button', { name: /Start set/i }) as HTMLButtonElement
+      await waitFor(() => expect(startBtn.disabled).toBe(false))
+      await userEvent.click(startBtn)
+
+      const dialog = await screen.findByRole('alertdialog', { name: /Limited questions/i })
+      expect(dialog.textContent).toMatch(/only 12 eligible question/i)
+      expect(dialog.textContent).toMatch(/requested 30/i)
+      // Did not navigate yet.
+      expect(screen.getByTestId('screen').textContent).not.toBe('active_set')
+    })
+
+    it('Cancel closes the dialog without launching the set', async () => {
+      mockedGenerateSet.mockReturnValue({
+        questionIds: ['q1', 'q2'],
+        shortfall: 28,
+        requestedSize: 30,
+      })
+      renderWith()
+      await userEvent.click(screen.getByRole('button', { name: '30' }))
+      await userEvent.click(screen.getByRole('button', { name: /Immediate Feedback/i }))
+      const startBtn = screen.getByRole('button', { name: /Start set/i }) as HTMLButtonElement
+      await waitFor(() => expect(startBtn.disabled).toBe(false))
+      await userEvent.click(startBtn)
+      await screen.findByRole('alertdialog', { name: /Limited questions/i })
+
+      await userEvent.click(screen.getByRole('button', { name: /^Cancel$/ }))
+      expect(screen.queryByRole('alertdialog', { name: /Limited questions/i })).toBeNull()
+      expect(screen.getByTestId('screen').textContent).not.toBe('active_set')
+      // Active set was never stored.
+      expect(screen.getByTestId('active-set-size').textContent).toBe('0')
+    })
+
+    it('"Start with N" launches the smaller set and navigates', async () => {
+      mockedGenerateSet.mockReturnValue({
+        questionIds: ['q1', 'q2', 'q3', 'q4', 'q5'],
+        shortfall: 25,
+        requestedSize: 30,
+      })
+      renderWith()
+      await userEvent.click(screen.getByRole('button', { name: '30' }))
+      await userEvent.click(screen.getByRole('button', { name: /Immediate Feedback/i }))
+      const startBtn = screen.getByRole('button', { name: /Start set/i }) as HTMLButtonElement
+      await waitFor(() => expect(startBtn.disabled).toBe(false))
+      await userEvent.click(startBtn)
+      await screen.findByRole('alertdialog', { name: /Limited questions/i })
+
+      await userEvent.click(screen.getByRole('button', { name: /Start with 5/i }))
+      await waitFor(() => expect(screen.getByTestId('screen').textContent).toBe('active_set'))
+      expect(screen.getByTestId('active-set-size').textContent).toBe('5')
+    })
   })
 })

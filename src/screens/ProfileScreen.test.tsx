@@ -4,7 +4,9 @@ import userEvent from '@testing-library/user-event'
 import { ProfileScreen } from './ProfileScreen'
 import { AppProvider } from '../store/AppContext'
 import { useApp } from '../store/appContextValue'
-import { createProfile, getProfiles } from '../store/sessionStore'
+import { createProfile, deleteProfile, getProfiles } from '../store/sessionStore'
+import { saveInflightSet, loadInflightSet } from '../store/inflightStore'
+import type { ActiveSet } from '../types'
 
 // Probe to read the screen the AppProvider thinks is current.
 function ScreenProbe() {
@@ -28,10 +30,12 @@ function renderWithProvider() {
 
 beforeEach(() => {
   localStorage.clear()
+  sessionStorage.clear()
 })
 
 afterEach(() => {
   localStorage.clear()
+  sessionStorage.clear()
 })
 
 describe('ProfileScreen', () => {
@@ -114,6 +118,39 @@ describe('ProfileScreen', () => {
       expect(screen.getByTestId('profile').textContent).toBe('Alice')
       expect(screen.getByTestId('screen').textContent).toBe('set_config')
     })
+
+    it('restores an in-flight set from sessionStorage and navigates to active_set', async () => {
+      createProfile('Alice')
+      const inflight: ActiveSet = {
+        questionIds: ['q1', 'q2'],
+        setConfig: { size: 30, feedbackMode: 'immediate' },
+        currentIndex: 1,
+        answers: new Map([['q1', 0]]),
+        timings: new Map([['q1', 12]]),
+      }
+      saveInflightSet('Alice', inflight)
+      renderWithProvider()
+      await userEvent.click(screen.getByRole('button', { name: /Select profile Alice/i }))
+      expect(screen.getByTestId('profile').textContent).toBe('Alice')
+      expect(screen.getByTestId('screen').textContent).toBe('active_set')
+    })
+
+    it('does not restore another profile\'s in-flight set', async () => {
+      createProfile('Alice')
+      createProfile('Bob')
+      const inflight: ActiveSet = {
+        questionIds: ['q1'],
+        setConfig: { size: 30, feedbackMode: 'immediate' },
+        currentIndex: 0,
+        answers: new Map(),
+        timings: new Map(),
+      }
+      saveInflightSet('Bob', inflight)
+      renderWithProvider()
+      await userEvent.click(screen.getByRole('button', { name: /Select profile Alice/i }))
+      // Alice has no inflight → goes to set_config, not active_set.
+      expect(screen.getByTestId('screen').textContent).toBe('set_config')
+    })
   })
 
   describe('deleting profiles', () => {
@@ -155,6 +192,20 @@ describe('ProfileScreen', () => {
       await userEvent.click(screen.getByRole('button', { name: /Delete profile Alice/i }))
       await userEvent.click(screen.getByRole('button', { name: /Confirm delete profile Alice/i }))
       expect(screen.getByRole('heading', { name: /Create your first profile/i })).toBeDefined()
+    })
+
+    it('also clears the in-flight snapshot so a recreated namesake does not inherit it', () => {
+      createProfile('Alice')
+      saveInflightSet('Alice', {
+        questionIds: ['q1'],
+        setConfig: { size: 30, feedbackMode: 'immediate' },
+        currentIndex: 0,
+        answers: new Map(),
+        timings: new Map(),
+      })
+      expect(loadInflightSet('Alice')).not.toBeNull()
+      deleteProfile('Alice')
+      expect(loadInflightSet('Alice')).toBeNull()
     })
   })
 })

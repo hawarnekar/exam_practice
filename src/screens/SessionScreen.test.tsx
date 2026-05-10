@@ -6,6 +6,7 @@ import { SessionScreen } from './SessionScreen'
 import { AppProvider } from '../store/AppContext'
 import { useApp } from '../store/appContextValue'
 import { createProfile, getProgress, saveProgress } from '../store/sessionStore'
+import { loadInflightSet, saveInflightSet } from '../store/inflightStore'
 import type { ActiveSet, Manifest, Question } from '../types'
 
 vi.mock('../data/questionLoader', () => ({
@@ -99,6 +100,7 @@ function renderWithSet(activeSet: ActiveSet | null, profile = 'Alice') {
 
 beforeEach(() => {
   localStorage.clear()
+  sessionStorage.clear()
   mockedLoadManifest.mockReset()
   mockedLoadTopic.mockReset()
   mockedLoadManifest.mockResolvedValue(manifest)
@@ -107,6 +109,7 @@ beforeEach(() => {
 
 afterEach(() => {
   localStorage.clear()
+  sessionStorage.clear()
 })
 
 describe('SessionScreen', () => {
@@ -477,6 +480,172 @@ describe('SessionScreen', () => {
       // No dialog appears; submit proceeds straight to summary
       await waitFor(() => expect(screen.getByTestId('screen').textContent).toBe('set_summary'))
       expect(screen.queryByRole('alertdialog')).toBeNull()
+    })
+  })
+
+  describe('in-flight snapshot persistence', () => {
+    it('snapshots the in-flight set to sessionStorage as the user answers', async () => {
+      renderWithSet(buildActiveSet('end_of_set'))
+      await waitFor(() => expect(screen.getByText(/Question q1/)).toBeDefined())
+
+      // Initial mount writes a snapshot at currentIndex 0 with empty answers.
+      await waitFor(() => expect(loadInflightSet('Alice')).not.toBeNull())
+      const initial = loadInflightSet('Alice')!
+      expect(initial.currentIndex).toBe(0)
+      expect(initial.answers.size).toBe(0)
+
+      // Answer q1.
+      await userEvent.click(
+        within(screen.getByRole('article')).getByText('A').closest('button') as HTMLButtonElement,
+      )
+      await waitFor(() => expect(loadInflightSet('Alice')!.answers.get('q1')).toBe(0))
+
+      // Move to q2 and skip it.
+      await userEvent.click(screen.getByRole('button', { name: /^Next$/ }))
+      await waitFor(() => expect(screen.getByText(/Question q2/)).toBeDefined())
+      await userEvent.click(
+        within(screen.getByRole('article')).getByText('Skip').closest('button') as HTMLButtonElement,
+      )
+
+      await waitFor(() => {
+        const snap = loadInflightSet('Alice')!
+        expect(snap.currentIndex).toBe(1)
+        expect(snap.answers.get('q2')).toBe('skipped')
+        expect(snap.timings.get('q2')).toBe(30) // skipped → expected_time_sec
+      })
+    })
+
+    it('clears the snapshot after a successful submit', async () => {
+      renderWithSet(buildActiveSet('immediate', ['q1']))
+      await waitFor(() => expect(screen.getByText(/Question q1/)).toBeDefined())
+      await userEvent.click(screen.getByText('A').closest('button') as HTMLButtonElement)
+      await waitFor(() => expect(loadInflightSet('Alice')).not.toBeNull())
+      await userEvent.click(screen.getByRole('button', { name: /Finish set/i }))
+      await waitFor(() => expect(screen.getByTestId('screen').textContent).toBe('set_summary'))
+      expect(loadInflightSet('Alice')).toBeNull()
+    })
+
+    it('keeps the snapshot when submit fails so a refresh would still recover the answers', async () => {
+      renderWithSet(buildActiveSet('immediate', ['q1']))
+      await waitFor(() => expect(screen.getByText(/Question q1/)).toBeDefined())
+      await userEvent.click(screen.getByText('A').closest('button') as HTMLButtonElement)
+      await waitFor(() => expect(loadInflightSet('Alice')).not.toBeNull())
+
+      const spy = vi.spyOn(window.localStorage, 'setItem').mockImplementation(() => {
+        throw new DOMException('quota', 'QuotaExceededError')
+      })
+      try {
+        await userEvent.click(screen.getByRole('button', { name: /Finish set/i }))
+        await screen.findByRole('alertdialog', { name: /Couldn't save/i })
+        // Snapshot survives failed submit so the user can refresh and retry.
+        expect(loadInflightSet('Alice')).not.toBeNull()
+      } finally {
+        spy.mockRestore()
+      }
+    })
+
+    it('a pre-seeded snapshot (e.g. from a refresh) is honored as the starting state', async () => {
+      // Pretend the user was mid-set before refresh: q1 already answered, on q2.
+      createProfile('Alice')
+      saveInflightSet('Alice', {
+        questionIds: ['q1', 'q2', 'q3'],
+        setConfig: { size: 30, feedbackMode: 'end_of_set' },
+        currentIndex: 1,
+        answers: new Map([['q1', 0]]),
+        timings: new Map([['q1', 12]]),
+      })
+
+      // Mimic the production mount order: SessionScreen only appears once
+      // ProfileScreen.handleSelect has set activeSet from the snapshot.
+      // (The shared renderWithSet helper mounts SessionScreen immediately,
+      // before the effect fires, which would lock useState(currentIndex) at 0.)
+      function Setup() {
+        const { setProfile, setActiveSet, activeSet } = useApp()
+        useEffect(() => {
+          setProfile('Alice')
+          setActiveSet(loadInflightSet('Alice')!)
+          // eslint-disable-next-line react-hooks/exhaustive-deps
+        }, [])
+        return activeSet ? <SessionScreen /> : null
+      }
+      render(
+        <AppProvider>
+          <Setup />
+        </AppProvider>,
+      )
+
+      await waitFor(() => expect(screen.getByText(/Question q2/)).toBeDefined())
+      const palette = within(screen.getByRole('navigation', { name: /Question palette/i }))
+      expect(
+        (palette.getByText('1').closest('button') as HTMLButtonElement).getAttribute('data-status'),
+      ).toBe('answered')
+    })
+  })
+
+  describe('save failure handling', () => {
+    it('shows the save-error dialog when saveProgress hits a quota error and preserves the active set', async () => {
+      renderWithSet(buildActiveSet('immediate', ['q1']))
+      await waitFor(() => expect(screen.getByText(/Question q1/)).toBeDefined())
+      await userEvent.click(screen.getByText('A').closest('button') as HTMLButtonElement)
+
+      // Rig localStorage to fail on the next write — simulates quota exceeded.
+      const spy = vi.spyOn(window.localStorage, 'setItem').mockImplementation(() => {
+        throw new DOMException('quota', 'QuotaExceededError')
+      })
+
+      try {
+        await userEvent.click(screen.getByRole('button', { name: /Finish set/i }))
+
+        const dialog = await screen.findByRole('alertdialog', { name: /Couldn't save/i })
+        expect(dialog.textContent).toMatch(/storage is full/i)
+        // Did not navigate, did not clear activeSet — answers are recoverable.
+        expect(screen.getByTestId('screen').textContent).toBe('active_set')
+        expect(screen.getByTestId('active-set').textContent).toBe('present')
+      } finally {
+        spy.mockRestore()
+      }
+    })
+
+    it('"Try again" retries the save once storage has been freed', async () => {
+      renderWithSet(buildActiveSet('immediate', ['q1']))
+      await waitFor(() => expect(screen.getByText(/Question q1/)).toBeDefined())
+      await userEvent.click(screen.getByText('A').closest('button') as HTMLButtonElement)
+
+      const spy = vi.spyOn(window.localStorage, 'setItem').mockImplementation(() => {
+        throw new DOMException('quota', 'QuotaExceededError')
+      })
+
+      await userEvent.click(screen.getByRole('button', { name: /Finish set/i }))
+      await screen.findByRole('alertdialog', { name: /Couldn't save/i })
+
+      // Free up "space": restore real setItem behavior, then retry.
+      spy.mockRestore()
+      await userEvent.click(screen.getByRole('button', { name: /Try again/i }))
+
+      await waitFor(() => expect(screen.getByTestId('screen').textContent).toBe('set_summary'))
+      const rec = getProgress('Alice').setHistory[0]
+      expect(rec.results).toHaveLength(1)
+    })
+
+    it('"Dismiss" closes the dialog while keeping the active set so the user can retry later', async () => {
+      renderWithSet(buildActiveSet('immediate', ['q1']))
+      await waitFor(() => expect(screen.getByText(/Question q1/)).toBeDefined())
+      await userEvent.click(screen.getByText('A').closest('button') as HTMLButtonElement)
+
+      const spy = vi.spyOn(window.localStorage, 'setItem').mockImplementation(() => {
+        throw new DOMException('quota', 'QuotaExceededError')
+      })
+
+      try {
+        await userEvent.click(screen.getByRole('button', { name: /Finish set/i }))
+        await screen.findByRole('alertdialog', { name: /Couldn't save/i })
+        await userEvent.click(screen.getByRole('button', { name: /^Dismiss$/ }))
+        expect(screen.queryByRole('alertdialog', { name: /Couldn't save/i })).toBeNull()
+        expect(screen.getByTestId('active-set').textContent).toBe('present')
+        expect(screen.getByTestId('screen').textContent).toBe('active_set')
+      } finally {
+        spy.mockRestore()
+      }
     })
   })
 
