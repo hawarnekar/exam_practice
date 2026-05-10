@@ -1,6 +1,6 @@
-import { describe, expect, it } from 'vitest'
+import { afterEach, describe, expect, it, vi } from 'vitest'
 import { render, screen } from '@testing-library/react'
-import { MarkdownRenderer } from './MarkdownRenderer'
+import { MarkdownErrorBoundary, MarkdownRenderer } from './MarkdownRenderer'
 
 describe('MarkdownRenderer', () => {
   it('renders plain Markdown text', () => {
@@ -70,5 +70,69 @@ describe('MarkdownRenderer', () => {
       <MarkdownRenderer text="x" className="custom-wrapper" />,
     )
     expect(container.firstElementChild?.className).toContain('custom-wrapper')
+  })
+
+  describe('error tolerance', () => {
+    it('does not throw when KaTeX encounters a malformed expression', () => {
+      // `\frac{1}` is a real parse error — `\frac` requires two arguments.
+      // With the default throwOnError=true this would crash the React subtree.
+      expect(() =>
+        render(<MarkdownRenderer text="bad math: $\frac{1}$" />),
+      ).not.toThrow()
+    })
+
+    it('renders KaTeX parse errors inline with the .katex-error class instead of crashing', () => {
+      const { container } = render(<MarkdownRenderer text="bad: $\frac{1}$" />)
+      const errSpan = container.querySelector('.katex-error')
+      expect(errSpan).not.toBeNull()
+      // The configured errorColor is applied as an inline style.
+      expect((errSpan as HTMLElement).style.color).toBe('rgb(204, 0, 0)')
+      // Surrounding text remains visible.
+      expect(container.textContent).toMatch(/bad:/)
+    })
+
+    it('still renders valid math correctly even when the document has neighbouring bad math', () => {
+      const { container } = render(
+        <MarkdownRenderer text={'good: $x^2$\n\nbad: $\\frac{1}$'} />,
+      )
+      // Valid math gets the standard .katex class.
+      expect(container.querySelector('.katex')).not.toBeNull()
+      // Bad math gets .katex-error.
+      expect(container.querySelector('.katex-error')).not.toBeNull()
+    })
+  })
+
+  describe('MarkdownErrorBoundary', () => {
+    afterEach(() => {
+      vi.restoreAllMocks()
+    })
+
+    it('renders children when no error is thrown', () => {
+      render(
+        <MarkdownErrorBoundary fallback={<div>fallback shown</div>}>
+          <span>normal child</span>
+        </MarkdownErrorBoundary>,
+      )
+      expect(screen.getByText('normal child')).toBeDefined()
+      expect(screen.queryByText('fallback shown')).toBeNull()
+    })
+
+    it('catches a child render error and renders the fallback', () => {
+      // React still logs the caught error to console.error in dev builds;
+      // silence it so the test output stays clean.
+      vi.spyOn(console, 'error').mockImplementation(() => {})
+      vi.spyOn(console, 'warn').mockImplementation(() => {})
+
+      function Boom(): React.ReactElement {
+        throw new Error('boom from child')
+      }
+
+      render(
+        <MarkdownErrorBoundary fallback={<div>fallback shown</div>}>
+          <Boom />
+        </MarkdownErrorBoundary>,
+      )
+      expect(screen.getByText('fallback shown')).toBeDefined()
+    })
   })
 })
