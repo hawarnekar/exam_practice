@@ -1,0 +1,3311 @@
+{
+  "subject": "Science",
+  "topic": "Biology",
+  "subtopic": "How do Organisms Reproduce",
+  "questions": [
+    {
+      "id": "sci-reproduction-001",
+      "text": "Reproduction is essential for living organisms mainly to:",
+      "image": null,
+      "options": [
+        {
+          "text": "grow in size",
+          "image": null
+        },
+        {
+          "text": "maintain body temperature",
+          "image": null
+        },
+        {
+          "text": "continue their species",
+          "image": null
+        },
+        {
+          "text": "perform respiration",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-002",
+      "text": "The process by which organisms produce new individuals of the same kind is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "respiration",
+          "image": null
+        },
+        {
+          "text": "reproduction",
+          "image": null
+        },
+        {
+          "text": "digestion",
+          "image": null
+        },
+        {
+          "text": "excretion",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-003",
+      "text": "The basic event in reproduction is:",
+      "image": null,
+      "options": [
+        {
+          "text": "only movement",
+          "image": null
+        },
+        {
+          "text": "copying of DNA",
+          "image": null
+        },
+        {
+          "text": "digestion of food",
+          "image": null
+        },
+        {
+          "text": "excretion of wastes",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-004",
+      "text": "The source of information for making proteins in a cell is:",
+      "image": null,
+      "options": [
+        {
+          "text": "DNA in nucleus",
+          "image": null
+        },
+        {
+          "text": "cell wall",
+          "image": null
+        },
+        {
+          "text": "vacuole",
+          "image": null
+        },
+        {
+          "text": "plasma membrane only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-005",
+      "text": "Variation in offspring is important because it:",
+      "image": null,
+      "options": [
+        {
+          "text": "makes all individuals identical",
+          "image": null
+        },
+        {
+          "text": "helps survival in changing environments",
+          "image": null
+        },
+        {
+          "text": "prevents evolution",
+          "image": null
+        },
+        {
+          "text": "stops reproduction",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-006",
+      "text": "Asexual reproduction usually involves:",
+      "image": null,
+      "options": [
+        {
+          "text": "one parent",
+          "image": null
+        },
+        {
+          "text": "two parents",
+          "image": null
+        },
+        {
+          "text": "fusion of gametes only",
+          "image": null
+        },
+        {
+          "text": "fertilisation only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-007",
+      "text": "Sexual reproduction usually involves:",
+      "image": null,
+      "options": [
+        {
+          "text": "one parent only",
+          "image": null
+        },
+        {
+          "text": "two parents and fusion of gametes",
+          "image": null
+        },
+        {
+          "text": "only binary fission",
+          "image": null
+        },
+        {
+          "text": "only budding",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-008",
+      "text": "Offspring produced by asexual reproduction are generally:",
+      "image": null,
+      "options": [
+        {
+          "text": "more similar to each other",
+          "image": null
+        },
+        {
+          "text": "always completely unrelated",
+          "image": null
+        },
+        {
+          "text": "produced only by flowers",
+          "image": null
+        },
+        {
+          "text": "formed only after fertilisation",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-009",
+      "text": "Which organism reproduces asexually among the following?",
+      "image": null,
+      "options": [
+        {
+          "text": "banana",
+          "image": null
+        },
+        {
+          "text": "yeast",
+          "image": null
+        },
+        {
+          "text": "dog",
+          "image": null
+        },
+        {
+          "text": "lion",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-010",
+      "text": "A common feature of reproduction in Amoeba, Yeast and Spirogyra is that:",
+      "image": null,
+      "options": [
+        {
+          "text": "all reproduce asexually",
+          "image": null
+        },
+        {
+          "text": "all are multicellular",
+          "image": null
+        },
+        {
+          "text": "all reproduce only sexually",
+          "image": null
+        },
+        {
+          "text": "all produce flowers",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-011",
+      "text": "During favourable conditions, Amoeba reproduces by:",
+      "image": null,
+      "options": [
+        {
+          "text": "multiple fission",
+          "image": null
+        },
+        {
+          "text": "binary fission",
+          "image": null
+        },
+        {
+          "text": "budding",
+          "image": null
+        },
+        {
+          "text": "fragmentation",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-012",
+      "text": "Binary fission means:",
+      "image": null,
+      "options": [
+        {
+          "text": "one organism splits into two daughter organisms",
+          "image": null
+        },
+        {
+          "text": "one organism produces many spores only",
+          "image": null
+        },
+        {
+          "text": "two gametes fuse",
+          "image": null
+        },
+        {
+          "text": "a flower forms seeds",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-013",
+      "text": "The ability of a cell to divide into several cells during reproduction in Plasmodium is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "budding",
+          "image": null
+        },
+        {
+          "text": "binary fission",
+          "image": null
+        },
+        {
+          "text": "multiple fission",
+          "image": null
+        },
+        {
+          "text": "vegetative propagation",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-014",
+      "text": "Multiple fission is seen in:",
+      "image": null,
+      "options": [
+        {
+          "text": "Plasmodium",
+          "image": null
+        },
+        {
+          "text": "Hydra",
+          "image": null
+        },
+        {
+          "text": "Yeast",
+          "image": null
+        },
+        {
+          "text": "Bryophyllum",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-015",
+      "text": "Which organism reproduces by budding?",
+      "image": null,
+      "options": [
+        {
+          "text": "Yeast",
+          "image": null
+        },
+        {
+          "text": "Amoeba",
+          "image": null
+        },
+        {
+          "text": "Plasmodium",
+          "image": null
+        },
+        {
+          "text": "Spirogyra",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-016",
+      "text": "Budding in Hydra produces a new individual from:",
+      "image": null,
+      "options": [
+        {
+          "text": "a small outgrowth on parent body",
+          "image": null
+        },
+        {
+          "text": "fusion of gametes",
+          "image": null
+        },
+        {
+          "text": "a seed",
+          "image": null
+        },
+        {
+          "text": "pollen tube",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-017",
+      "text": "Which pair reproduces by budding?",
+      "image": null,
+      "options": [
+        {
+          "text": "Yeast and Hydra",
+          "image": null
+        },
+        {
+          "text": "Amoeba and Plasmodium",
+          "image": null
+        },
+        {
+          "text": "Planaria and Spirogyra",
+          "image": null
+        },
+        {
+          "text": "Rhizopus and Bryophyllum",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-018",
+      "text": "Fragmentation is commonly seen in:",
+      "image": null,
+      "options": [
+        {
+          "text": "Spirogyra",
+          "image": null
+        },
+        {
+          "text": "Human beings",
+          "image": null
+        },
+        {
+          "text": "Amoeba",
+          "image": null
+        },
+        {
+          "text": "Malarial parasite",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-019",
+      "text": "Regeneration is shown by:",
+      "image": null,
+      "options": [
+        {
+          "text": "Planaria",
+          "image": null
+        },
+        {
+          "text": "Amoeba only",
+          "image": null
+        },
+        {
+          "text": "Rhizopus only",
+          "image": null
+        },
+        {
+          "text": "Human beings only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-020",
+      "text": "Two simple organisms having regeneration ability are:",
+      "image": null,
+      "options": [
+        {
+          "text": "Planaria and Hydra",
+          "image": null
+        },
+        {
+          "text": "Dog and lion",
+          "image": null
+        },
+        {
+          "text": "Mango and rose",
+          "image": null
+        },
+        {
+          "text": "Amoeba and bacteria only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-021",
+      "text": "More complex organisms cannot reproduce by regeneration because:",
+      "image": null,
+      "options": [
+        {
+          "text": "their body organisation is highly specialised",
+          "image": null
+        },
+        {
+          "text": "they have no cells",
+          "image": null
+        },
+        {
+          "text": "they have no DNA",
+          "image": null
+        },
+        {
+          "text": "they do not grow",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-022",
+      "text": "Spore formation is a mode of reproduction in:",
+      "image": null,
+      "options": [
+        {
+          "text": "Rhizopus",
+          "image": null
+        },
+        {
+          "text": "Hydra",
+          "image": null
+        },
+        {
+          "text": "Amoeba",
+          "image": null
+        },
+        {
+          "text": "Planaria",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-023",
+      "text": "Spores of Rhizopus are formed in:",
+      "image": null,
+      "options": [
+        {
+          "text": "sporangia",
+          "image": null
+        },
+        {
+          "text": "anther",
+          "image": null
+        },
+        {
+          "text": "ovary",
+          "image": null
+        },
+        {
+          "text": "testes",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-024",
+      "text": "Spores are advantageous because they:",
+      "image": null,
+      "options": [
+        {
+          "text": "can survive unfavourable conditions",
+          "image": null
+        },
+        {
+          "text": "are always large seeds",
+          "image": null
+        },
+        {
+          "text": "need fertilisation before dispersal",
+          "image": null
+        },
+        {
+          "text": "cannot germinate",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-025",
+      "text": "Vegetative propagation is a type of:",
+      "image": null,
+      "options": [
+        {
+          "text": "asexual reproduction",
+          "image": null
+        },
+        {
+          "text": "sexual reproduction",
+          "image": null
+        },
+        {
+          "text": "external fertilisation",
+          "image": null
+        },
+        {
+          "text": "pollination only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-026",
+      "text": "Vegetative propagation occurs in Bryophyllum through:",
+      "image": null,
+      "options": [
+        {
+          "text": "leaf buds",
+          "image": null
+        },
+        {
+          "text": "roots only",
+          "image": null
+        },
+        {
+          "text": "flowers only",
+          "image": null
+        },
+        {
+          "text": "seeds only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-027",
+      "text": "Which plant reproduces through leaf buds?",
+      "image": null,
+      "options": [
+        {
+          "text": "Bryophyllum",
+          "image": null
+        },
+        {
+          "text": "Wheat",
+          "image": null
+        },
+        {
+          "text": "Mustard",
+          "image": null
+        },
+        {
+          "text": "Papaya",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-028",
+      "text": "The method commonly used for growing rose plants is:",
+      "image": null,
+      "options": [
+        {
+          "text": "cutting",
+          "image": null
+        },
+        {
+          "text": "binary fission",
+          "image": null
+        },
+        {
+          "text": "multiple fission",
+          "image": null
+        },
+        {
+          "text": "spore formation",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-029",
+      "text": "The method commonly used for growing jasmine plant is:",
+      "image": null,
+      "options": [
+        {
+          "text": "layering",
+          "image": null
+        },
+        {
+          "text": "binary fission",
+          "image": null
+        },
+        {
+          "text": "budding in yeast",
+          "image": null
+        },
+        {
+          "text": "fragmentation",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-030",
+      "text": "Which of these can be propagated vegetatively?",
+      "image": null,
+      "options": [
+        {
+          "text": "sugarcane",
+          "image": null
+        },
+        {
+          "text": "rose",
+          "image": null
+        },
+        {
+          "text": "grapes",
+          "image": null
+        },
+        {
+          "text": "all of these",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-031",
+      "text": "A major advantage of vegetative propagation is:",
+      "image": null,
+      "options": [
+        {
+          "text": "plants can be produced quickly and retain desirable traits",
+          "image": null
+        },
+        {
+          "text": "it always produces many new variations",
+          "image": null
+        },
+        {
+          "text": "it requires pollination",
+          "image": null
+        },
+        {
+          "text": "it prevents cloning",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-032",
+      "text": "Tissue culture is useful because it can:",
+      "image": null,
+      "options": [
+        {
+          "text": "produce many plants from a small tissue",
+          "image": null
+        },
+        {
+          "text": "produce only animals",
+          "image": null
+        },
+        {
+          "text": "stop plant reproduction",
+          "image": null
+        },
+        {
+          "text": "prevent cell division",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-033",
+      "text": "The reproductive parts of a flower are:",
+      "image": null,
+      "options": [
+        {
+          "text": "stamen and carpel",
+          "image": null
+        },
+        {
+          "text": "sepal and petal",
+          "image": null
+        },
+        {
+          "text": "root and stem",
+          "image": null
+        },
+        {
+          "text": "leaf and bud",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-034",
+      "text": "The male reproductive part of a flower is:",
+      "image": null,
+      "options": [
+        {
+          "text": "stamen",
+          "image": null
+        },
+        {
+          "text": "carpel",
+          "image": null
+        },
+        {
+          "text": "ovary",
+          "image": null
+        },
+        {
+          "text": "stigma",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-035",
+      "text": "The female reproductive part of a flower is:",
+      "image": null,
+      "options": [
+        {
+          "text": "carpel",
+          "image": null
+        },
+        {
+          "text": "stamen",
+          "image": null
+        },
+        {
+          "text": "anther",
+          "image": null
+        },
+        {
+          "text": "filament",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-036",
+      "text": "Pollen grains are produced in the:",
+      "image": null,
+      "options": [
+        {
+          "text": "anther",
+          "image": null
+        },
+        {
+          "text": "stigma",
+          "image": null
+        },
+        {
+          "text": "ovary",
+          "image": null
+        },
+        {
+          "text": "style",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-037",
+      "text": "The part of a flower that receives pollen is:",
+      "image": null,
+      "options": [
+        {
+          "text": "stigma",
+          "image": null
+        },
+        {
+          "text": "anther",
+          "image": null
+        },
+        {
+          "text": "filament",
+          "image": null
+        },
+        {
+          "text": "sepal",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-038",
+      "text": "The swollen basal part of carpel is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "ovary",
+          "image": null
+        },
+        {
+          "text": "stigma",
+          "image": null
+        },
+        {
+          "text": "style",
+          "image": null
+        },
+        {
+          "text": "anther",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-039",
+      "text": "The ovary contains:",
+      "image": null,
+      "options": [
+        {
+          "text": "ovules",
+          "image": null
+        },
+        {
+          "text": "pollen grains",
+          "image": null
+        },
+        {
+          "text": "filaments",
+          "image": null
+        },
+        {
+          "text": "sepals",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-040",
+      "text": "The transfer of pollen grains from anther to stigma is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "pollination",
+          "image": null
+        },
+        {
+          "text": "fertilisation",
+          "image": null
+        },
+        {
+          "text": "germination",
+          "image": null
+        },
+        {
+          "text": "implantation",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-041",
+      "text": "Self-pollination occurs when pollen is transferred to:",
+      "image": null,
+      "options": [
+        {
+          "text": "stigma of same flower or same plant",
+          "image": null
+        },
+        {
+          "text": "stigma of another plant of different species",
+          "image": null
+        },
+        {
+          "text": "ovary directly",
+          "image": null
+        },
+        {
+          "text": "seed coat",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-042",
+      "text": "Cross-pollination occurs between:",
+      "image": null,
+      "options": [
+        {
+          "text": "flowers of two different plants of same species",
+          "image": null
+        },
+        {
+          "text": "anther and filament only",
+          "image": null
+        },
+        {
+          "text": "ovule and seed coat",
+          "image": null
+        },
+        {
+          "text": "testis and ovary",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-043",
+      "text": "Fertilisation in plants occurs when:",
+      "image": null,
+      "options": [
+        {
+          "text": "male gamete fuses with female gamete",
+          "image": null
+        },
+        {
+          "text": "pollen falls on sepal",
+          "image": null
+        },
+        {
+          "text": "seed disperses",
+          "image": null
+        },
+        {
+          "text": "fruit ripens",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-044",
+      "text": "After fertilisation, the ovule develops into:",
+      "image": null,
+      "options": [
+        {
+          "text": "seed",
+          "image": null
+        },
+        {
+          "text": "fruit",
+          "image": null
+        },
+        {
+          "text": "stigma",
+          "image": null
+        },
+        {
+          "text": "stamen",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-045",
+      "text": "After fertilisation, the ovary develops into:",
+      "image": null,
+      "options": [
+        {
+          "text": "fruit",
+          "image": null
+        },
+        {
+          "text": "seed",
+          "image": null
+        },
+        {
+          "text": "pollen grain",
+          "image": null
+        },
+        {
+          "text": "style",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-046",
+      "text": "The pollen tube carries male gametes to the:",
+      "image": null,
+      "options": [
+        {
+          "text": "ovule",
+          "image": null
+        },
+        {
+          "text": "sepal",
+          "image": null
+        },
+        {
+          "text": "petal",
+          "image": null
+        },
+        {
+          "text": "anther",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-047",
+      "text": "A flower containing both stamens and carpels is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "bisexual flower",
+          "image": null
+        },
+        {
+          "text": "unisexual flower",
+          "image": null
+        },
+        {
+          "text": "sterile flower",
+          "image": null
+        },
+        {
+          "text": "asexual flower",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-048",
+      "text": "A unisexual flower contains:",
+      "image": null,
+      "options": [
+        {
+          "text": "either stamens or carpels",
+          "image": null
+        },
+        {
+          "text": "both stamens and carpels",
+          "image": null
+        },
+        {
+          "text": "neither reproductive part",
+          "image": null
+        },
+        {
+          "text": "only petals",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-049",
+      "text": "Which is an example of a bisexual flower?",
+      "image": null,
+      "options": [
+        {
+          "text": "Hibiscus",
+          "image": null
+        },
+        {
+          "text": "Papaya",
+          "image": null
+        },
+        {
+          "text": "Watermelon male flower",
+          "image": null
+        },
+        {
+          "text": "Cucumber male flower",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-050",
+      "text": "Which is an example of a unisexual plant/flower?",
+      "image": null,
+      "options": [
+        {
+          "text": "Papaya",
+          "image": null
+        },
+        {
+          "text": "Hibiscus",
+          "image": null
+        },
+        {
+          "text": "Mustard",
+          "image": null
+        },
+        {
+          "text": "Rose",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-051",
+      "text": "Sexual reproduction involves formation and fusion of:",
+      "image": null,
+      "options": [
+        {
+          "text": "gametes",
+          "image": null
+        },
+        {
+          "text": "spores only",
+          "image": null
+        },
+        {
+          "text": "buds only",
+          "image": null
+        },
+        {
+          "text": "leaf buds only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-052",
+      "text": "Fusion of male and female gametes is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "fertilisation",
+          "image": null
+        },
+        {
+          "text": "pollination",
+          "image": null
+        },
+        {
+          "text": "germination",
+          "image": null
+        },
+        {
+          "text": "regeneration",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-053",
+      "text": "The cell formed after fertilisation is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "zygote",
+          "image": null
+        },
+        {
+          "text": "spore",
+          "image": null
+        },
+        {
+          "text": "pollen",
+          "image": null
+        },
+        {
+          "text": "bud",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-054",
+      "text": "The largest cell in the human body is:",
+      "image": null,
+      "options": [
+        {
+          "text": "ovum",
+          "image": null
+        },
+        {
+          "text": "sperm",
+          "image": null
+        },
+        {
+          "text": "neuron",
+          "image": null
+        },
+        {
+          "text": "RBC",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-055",
+      "text": "The male gamete in humans is:",
+      "image": null,
+      "options": [
+        {
+          "text": "sperm",
+          "image": null
+        },
+        {
+          "text": "ovum",
+          "image": null
+        },
+        {
+          "text": "zygote",
+          "image": null
+        },
+        {
+          "text": "embryo",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-056",
+      "text": "The female gamete in humans is:",
+      "image": null,
+      "options": [
+        {
+          "text": "ovum",
+          "image": null
+        },
+        {
+          "text": "sperm",
+          "image": null
+        },
+        {
+          "text": "pollen grain",
+          "image": null
+        },
+        {
+          "text": "testosterone",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-057",
+      "text": "The male reproductive organs that produce sperms are:",
+      "image": null,
+      "options": [
+        {
+          "text": "testes",
+          "image": null
+        },
+        {
+          "text": "ovaries",
+          "image": null
+        },
+        {
+          "text": "uterus",
+          "image": null
+        },
+        {
+          "text": "oviducts",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-058",
+      "text": "The male sex hormone is:",
+      "image": null,
+      "options": [
+        {
+          "text": "testosterone",
+          "image": null
+        },
+        {
+          "text": "oestrogen",
+          "image": null
+        },
+        {
+          "text": "progesterone",
+          "image": null
+        },
+        {
+          "text": "insulin",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-059",
+      "text": "Testes in human males produce:",
+      "image": null,
+      "options": [
+        {
+          "text": "sperms and testosterone",
+          "image": null
+        },
+        {
+          "text": "ova and oestrogen",
+          "image": null
+        },
+        {
+          "text": "only urine",
+          "image": null
+        },
+        {
+          "text": "only semen fluid",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-060",
+      "text": "The tube that carries sperms from testes is:",
+      "image": null,
+      "options": [
+        {
+          "text": "vas deferens",
+          "image": null
+        },
+        {
+          "text": "oviduct",
+          "image": null
+        },
+        {
+          "text": "ureter",
+          "image": null
+        },
+        {
+          "text": "urethra only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-061",
+      "text": "Semen consists of sperms and secretions from:",
+      "image": null,
+      "options": [
+        {
+          "text": "prostate and seminal vesicles",
+          "image": null
+        },
+        {
+          "text": "ovaries and uterus",
+          "image": null
+        },
+        {
+          "text": "kidneys only",
+          "image": null
+        },
+        {
+          "text": "fallopian tubes",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-062",
+      "text": "The female reproductive organs that produce eggs are:",
+      "image": null,
+      "options": [
+        {
+          "text": "ovaries",
+          "image": null
+        },
+        {
+          "text": "testes",
+          "image": null
+        },
+        {
+          "text": "uterus",
+          "image": null
+        },
+        {
+          "text": "vagina",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-063",
+      "text": "The female sex hormones include:",
+      "image": null,
+      "options": [
+        {
+          "text": "oestrogen and progesterone",
+          "image": null
+        },
+        {
+          "text": "testosterone only",
+          "image": null
+        },
+        {
+          "text": "insulin and glucagon",
+          "image": null
+        },
+        {
+          "text": "thyroxine only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-064",
+      "text": "Fertilisation in human females usually occurs in the:",
+      "image": null,
+      "options": [
+        {
+          "text": "fallopian tube",
+          "image": null
+        },
+        {
+          "text": "uterus",
+          "image": null
+        },
+        {
+          "text": "vagina",
+          "image": null
+        },
+        {
+          "text": "ovary",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-065",
+      "text": "The site of implantation of embryo is:",
+      "image": null,
+      "options": [
+        {
+          "text": "uterus lining",
+          "image": null
+        },
+        {
+          "text": "ovary",
+          "image": null
+        },
+        {
+          "text": "fallopian tube",
+          "image": null
+        },
+        {
+          "text": "vagina",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-066",
+      "text": "The embryo gets nutrition from the mother through:",
+      "image": null,
+      "options": [
+        {
+          "text": "placenta",
+          "image": null
+        },
+        {
+          "text": "oviduct",
+          "image": null
+        },
+        {
+          "text": "cervix",
+          "image": null
+        },
+        {
+          "text": "ovary",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-067",
+      "text": "The placenta helps in:",
+      "image": null,
+      "options": [
+        {
+          "text": "exchange of nutrients, oxygen and wastes",
+          "image": null
+        },
+        {
+          "text": "formation of sperms",
+          "image": null
+        },
+        {
+          "text": "production of pollen",
+          "image": null
+        },
+        {
+          "text": "formation of seeds only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-068",
+      "text": "The average duration of human pregnancy is about:",
+      "image": null,
+      "options": [
+        {
+          "text": "9 months",
+          "image": null
+        },
+        {
+          "text": "2 months",
+          "image": null
+        },
+        {
+          "text": "18 months",
+          "image": null
+        },
+        {
+          "text": "3 weeks",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-069",
+      "text": "Menstruation occurs when:",
+      "image": null,
+      "options": [
+        {
+          "text": "fertilisation does not occur",
+          "image": null
+        },
+        {
+          "text": "zygote implants",
+          "image": null
+        },
+        {
+          "text": "sperms are produced",
+          "image": null
+        },
+        {
+          "text": "placenta forms fully",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-070",
+      "text": "If the egg is not fertilised, the thick lining of uterus:",
+      "image": null,
+      "options": [
+        {
+          "text": "breaks down and comes out as menstruation",
+          "image": null
+        },
+        {
+          "text": "forms placenta",
+          "image": null
+        },
+        {
+          "text": "forms a seed",
+          "image": null
+        },
+        {
+          "text": "turns into sperm",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-071",
+      "text": "Puberty is the stage when:",
+      "image": null,
+      "options": [
+        {
+          "text": "reproductive organs mature",
+          "image": null
+        },
+        {
+          "text": "only height stops increasing",
+          "image": null
+        },
+        {
+          "text": "all cells stop dividing",
+          "image": null
+        },
+        {
+          "text": "fertilisation always occurs",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-072",
+      "text": "Secondary sexual characters in boys are mainly controlled by:",
+      "image": null,
+      "options": [
+        {
+          "text": "testosterone",
+          "image": null
+        },
+        {
+          "text": "oestrogen",
+          "image": null
+        },
+        {
+          "text": "progesterone",
+          "image": null
+        },
+        {
+          "text": "adrenaline",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-073",
+      "text": "Secondary sexual characters in girls are mainly controlled by:",
+      "image": null,
+      "options": [
+        {
+          "text": "oestrogen",
+          "image": null
+        },
+        {
+          "text": "testosterone",
+          "image": null
+        },
+        {
+          "text": "insulin",
+          "image": null
+        },
+        {
+          "text": "thyroxine",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-074",
+      "text": "Which is a sexually transmitted bacterial disease?",
+      "image": null,
+      "options": [
+        {
+          "text": "gonorrhoea",
+          "image": null
+        },
+        {
+          "text": "AIDS",
+          "image": null
+        },
+        {
+          "text": "genital warts",
+          "image": null
+        },
+        {
+          "text": "common cold",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-075",
+      "text": "Which is a sexually transmitted viral disease?",
+      "image": null,
+      "options": [
+        {
+          "text": "AIDS",
+          "image": null
+        },
+        {
+          "text": "syphilis",
+          "image": null
+        },
+        {
+          "text": "gonorrhoea",
+          "image": null
+        },
+        {
+          "text": "tuberculosis",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-076",
+      "text": "Which pair contains bacterial STDs?",
+      "image": null,
+      "options": [
+        {
+          "text": "gonorrhoea and syphilis",
+          "image": null
+        },
+        {
+          "text": "AIDS and genital warts",
+          "image": null
+        },
+        {
+          "text": "AIDS and syphilis",
+          "image": null
+        },
+        {
+          "text": "genital warts and gonorrhoea",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-077",
+      "text": "Which pair contains viral STDs?",
+      "image": null,
+      "options": [
+        {
+          "text": "AIDS and genital warts",
+          "image": null
+        },
+        {
+          "text": "gonorrhoea and syphilis",
+          "image": null
+        },
+        {
+          "text": "syphilis and AIDS",
+          "image": null
+        },
+        {
+          "text": "gonorrhoea and warts",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-078",
+      "text": "Which contraceptive method also helps prevent spread of STDs?",
+      "image": null,
+      "options": [
+        {
+          "text": "condom",
+          "image": null
+        },
+        {
+          "text": "copper-T only",
+          "image": null
+        },
+        {
+          "text": "surgical method only",
+          "image": null
+        },
+        {
+          "text": "oral pills only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-079",
+      "text": "Contraceptive methods are used mainly to:",
+      "image": null,
+      "options": [
+        {
+          "text": "prevent unwanted pregnancy",
+          "image": null
+        },
+        {
+          "text": "increase fertilisation always",
+          "image": null
+        },
+        {
+          "text": "produce spores",
+          "image": null
+        },
+        {
+          "text": "make pollen grains",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-080",
+      "text": "Copper-T is a:",
+      "image": null,
+      "options": [
+        {
+          "text": "intrauterine contraceptive device",
+          "image": null
+        },
+        {
+          "text": "barrier method for males",
+          "image": null
+        },
+        {
+          "text": "surgical method",
+          "image": null
+        },
+        {
+          "text": "hormone secreted by ovary",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-081",
+      "text": "Oral contraceptive pills mainly contain:",
+      "image": null,
+      "options": [
+        {
+          "text": "hormones",
+          "image": null
+        },
+        {
+          "text": "antibiotics only",
+          "image": null
+        },
+        {
+          "text": "sperms",
+          "image": null
+        },
+        {
+          "text": "pollen grains",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-082",
+      "text": "Surgical contraceptive method in males is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "vasectomy",
+          "image": null
+        },
+        {
+          "text": "tubectomy",
+          "image": null
+        },
+        {
+          "text": "implantation",
+          "image": null
+        },
+        {
+          "text": "ovulation",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-083",
+      "text": "Surgical contraceptive method in females is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "tubectomy",
+          "image": null
+        },
+        {
+          "text": "vasectomy",
+          "image": null
+        },
+        {
+          "text": "pollination",
+          "image": null
+        },
+        {
+          "text": "regeneration",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-084",
+      "text": "A barrier method of contraception prevents:",
+      "image": null,
+      "options": [
+        {
+          "text": "meeting of sperm and ovum",
+          "image": null
+        },
+        {
+          "text": "formation of pollen",
+          "image": null
+        },
+        {
+          "text": "binary fission",
+          "image": null
+        },
+        {
+          "text": "spore formation",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-085",
+      "text": "The reproductive health of society improves when people have:",
+      "image": null,
+      "options": [
+        {
+          "text": "awareness, medical support and safe practices",
+          "image": null
+        },
+        {
+          "text": "no information about STDs",
+          "image": null
+        },
+        {
+          "text": "only myths",
+          "image": null
+        },
+        {
+          "text": "no access to contraception",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-086",
+      "text": "Which organism reproduces by binary fission?",
+      "image": null,
+      "options": [
+        {
+          "text": "Amoeba",
+          "image": null
+        },
+        {
+          "text": "Hydra",
+          "image": null
+        },
+        {
+          "text": "Rhizopus",
+          "image": null
+        },
+        {
+          "text": "Bryophyllum",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-087",
+      "text": "Which organism reproduces by multiple fission?",
+      "image": null,
+      "options": [
+        {
+          "text": "Plasmodium",
+          "image": null
+        },
+        {
+          "text": "Amoeba under favourable conditions",
+          "image": null
+        },
+        {
+          "text": "Hydra",
+          "image": null
+        },
+        {
+          "text": "Yeast only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-088",
+      "text": "Which organism reproduces by fragmentation?",
+      "image": null,
+      "options": [
+        {
+          "text": "Spirogyra",
+          "image": null
+        },
+        {
+          "text": "Amoeba",
+          "image": null
+        },
+        {
+          "text": "Yeast",
+          "image": null
+        },
+        {
+          "text": "Malarial parasite",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-089",
+      "text": "Which organism reproduces by spore formation?",
+      "image": null,
+      "options": [
+        {
+          "text": "Rhizopus",
+          "image": null
+        },
+        {
+          "text": "Hydra",
+          "image": null
+        },
+        {
+          "text": "Planaria",
+          "image": null
+        },
+        {
+          "text": "Yeast",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-090",
+      "text": "Which organism reproduces by regeneration?",
+      "image": null,
+      "options": [
+        {
+          "text": "Planaria",
+          "image": null
+        },
+        {
+          "text": "Rhizopus",
+          "image": null
+        },
+        {
+          "text": "Yeast",
+          "image": null
+        },
+        {
+          "text": "Amoeba",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-091",
+      "text": "Which method is used by Yeast for reproduction?",
+      "image": null,
+      "options": [
+        {
+          "text": "budding",
+          "image": null
+        },
+        {
+          "text": "fragmentation",
+          "image": null
+        },
+        {
+          "text": "regeneration",
+          "image": null
+        },
+        {
+          "text": "pollination",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-092",
+      "text": "Which structure is produced by Rhizopus for reproduction?",
+      "image": null,
+      "options": [
+        {
+          "text": "spores",
+          "image": null
+        },
+        {
+          "text": "buds",
+          "image": null
+        },
+        {
+          "text": "eggs",
+          "image": null
+        },
+        {
+          "text": "pollen tube",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-093",
+      "text": "Which is not a mode of asexual reproduction?",
+      "image": null,
+      "options": [
+        {
+          "text": "binary fission",
+          "image": null
+        },
+        {
+          "text": "budding",
+          "image": null
+        },
+        {
+          "text": "spore formation",
+          "image": null
+        },
+        {
+          "text": "fertilisation",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-094",
+      "text": "Which is not part of the female reproductive system?",
+      "image": null,
+      "options": [
+        {
+          "text": "testis",
+          "image": null
+        },
+        {
+          "text": "ovary",
+          "image": null
+        },
+        {
+          "text": "uterus",
+          "image": null
+        },
+        {
+          "text": "fallopian tube",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-095",
+      "text": "Which is not part of the male reproductive system?",
+      "image": null,
+      "options": [
+        {
+          "text": "ovary",
+          "image": null
+        },
+        {
+          "text": "testis",
+          "image": null
+        },
+        {
+          "text": "vas deferens",
+          "image": null
+        },
+        {
+          "text": "penis",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-096",
+      "text": "The embryo in humans develops in the:",
+      "image": null,
+      "options": [
+        {
+          "text": "uterus",
+          "image": null
+        },
+        {
+          "text": "oviduct permanently",
+          "image": null
+        },
+        {
+          "text": "ovary",
+          "image": null
+        },
+        {
+          "text": "vagina",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-097",
+      "text": "The passage through which the baby is born is:",
+      "image": null,
+      "options": [
+        {
+          "text": "vagina",
+          "image": null
+        },
+        {
+          "text": "ovary",
+          "image": null
+        },
+        {
+          "text": "oviduct",
+          "image": null
+        },
+        {
+          "text": "testis",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-098",
+      "text": "The narrow lower part of uterus is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "cervix",
+          "image": null
+        },
+        {
+          "text": "ovary",
+          "image": null
+        },
+        {
+          "text": "oviduct",
+          "image": null
+        },
+        {
+          "text": "placenta",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-099",
+      "text": "The process of release of egg from ovary is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "ovulation",
+          "image": null
+        },
+        {
+          "text": "fertilisation",
+          "image": null
+        },
+        {
+          "text": "implantation",
+          "image": null
+        },
+        {
+          "text": "pollination",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-100",
+      "text": "When male and female gametes fuse, the result is:",
+      "image": null,
+      "options": [
+        {
+          "text": "zygote",
+          "image": null
+        },
+        {
+          "text": "spore",
+          "image": null
+        },
+        {
+          "text": "bud",
+          "image": null
+        },
+        {
+          "text": "pollen grain",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-101",
+      "text": "A zygote undergoes repeated divisions to form:",
+      "image": null,
+      "options": [
+        {
+          "text": "embryo",
+          "image": null
+        },
+        {
+          "text": "pollen",
+          "image": null
+        },
+        {
+          "text": "sepal",
+          "image": null
+        },
+        {
+          "text": "testis",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-102",
+      "text": "External fertilisation occurs:",
+      "image": null,
+      "options": [
+        {
+          "text": "outside the female body",
+          "image": null
+        },
+        {
+          "text": "inside the female body",
+          "image": null
+        },
+        {
+          "text": "only in flowering plants",
+          "image": null
+        },
+        {
+          "text": "only in mammals",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-103",
+      "text": "Internal fertilisation occurs:",
+      "image": null,
+      "options": [
+        {
+          "text": "inside the female body",
+          "image": null
+        },
+        {
+          "text": "outside in water only",
+          "image": null
+        },
+        {
+          "text": "inside pollen grain only",
+          "image": null
+        },
+        {
+          "text": "inside seed coat only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-104",
+      "text": "Which is an advantage of sexual reproduction?",
+      "image": null,
+      "options": [
+        {
+          "text": "it produces variations",
+          "image": null
+        },
+        {
+          "text": "it produces only identical copies",
+          "image": null
+        },
+        {
+          "text": "it does not require gametes",
+          "image": null
+        },
+        {
+          "text": "it never involves DNA copying",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-105",
+      "text": "Why do sexually reproducing organisms generate more variation?",
+      "image": null,
+      "options": [
+        {
+          "text": "two parents contribute DNA",
+          "image": null
+        },
+        {
+          "text": "only one parent copies DNA exactly",
+          "image": null
+        },
+        {
+          "text": "no gametes are formed",
+          "image": null
+        },
+        {
+          "text": "all offspring are clones",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-106",
+      "text": "Variation is useful for species because it helps:",
+      "image": null,
+      "options": [
+        {
+          "text": "adaptation and survival",
+          "image": null
+        },
+        {
+          "text": "prevent reproduction",
+          "image": null
+        },
+        {
+          "text": "make all individuals identical",
+          "image": null
+        },
+        {
+          "text": "stop evolution",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-107",
+      "text": "Which event happens after pollen lands on stigma?",
+      "image": null,
+      "options": [
+        {
+          "text": "pollen tube grows",
+          "image": null
+        },
+        {
+          "text": "stamen becomes fruit",
+          "image": null
+        },
+        {
+          "text": "ovary becomes anther",
+          "image": null
+        },
+        {
+          "text": "seed becomes pollen",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-108",
+      "text": "The male gamete in flowering plants travels through:",
+      "image": null,
+      "options": [
+        {
+          "text": "pollen tube",
+          "image": null
+        },
+        {
+          "text": "xylem",
+          "image": null
+        },
+        {
+          "text": "phloem",
+          "image": null
+        },
+        {
+          "text": "stomata",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-109",
+      "text": "After fertilisation in plants, sepals and petals generally:",
+      "image": null,
+      "options": [
+        {
+          "text": "fall off",
+          "image": null
+        },
+        {
+          "text": "become seeds",
+          "image": null
+        },
+        {
+          "text": "become pollen",
+          "image": null
+        },
+        {
+          "text": "become male gametes",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-110",
+      "text": "A seed contains:",
+      "image": null,
+      "options": [
+        {
+          "text": "future plant or embryo",
+          "image": null
+        },
+        {
+          "text": "only pollen grains",
+          "image": null
+        },
+        {
+          "text": "only stigma",
+          "image": null
+        },
+        {
+          "text": "only sperm",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-111",
+      "text": "The process by which a seed develops into a seedling is:",
+      "image": null,
+      "options": [
+        {
+          "text": "germination",
+          "image": null
+        },
+        {
+          "text": "fertilisation",
+          "image": null
+        },
+        {
+          "text": "pollination",
+          "image": null
+        },
+        {
+          "text": "implantation",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-112",
+      "text": "Which part of flower becomes fruit?",
+      "image": null,
+      "options": [
+        {
+          "text": "ovary",
+          "image": null
+        },
+        {
+          "text": "ovule",
+          "image": null
+        },
+        {
+          "text": "stigma",
+          "image": null
+        },
+        {
+          "text": "anther",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-113",
+      "text": "Which part of flower becomes seed?",
+      "image": null,
+      "options": [
+        {
+          "text": "ovule",
+          "image": null
+        },
+        {
+          "text": "ovary",
+          "image": null
+        },
+        {
+          "text": "stigma",
+          "image": null
+        },
+        {
+          "text": "style",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-114",
+      "text": "Assertion: Offspring produced by asexual reproduction are very similar. Reason: Only one parent contributes genetic material. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-115",
+      "text": "Assertion: Sexual reproduction creates variations. Reason: It involves fusion of gametes from two parents. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-116",
+      "text": "Assertion: Condoms can help prevent sexually transmitted diseases. Reason: They act as a mechanical barrier. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-117",
+      "text": "Assertion: Fertilisation in humans occurs in the fallopian tube. Reason: The egg and sperm meet there after ovulation and intercourse. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-reproduction-118",
+      "text": "Assertion: Vegetative propagation can preserve desirable plant traits. Reason: It produces offspring genetically similar to the parent. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    }
+  ]
+}

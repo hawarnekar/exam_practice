@@ -1,0 +1,3563 @@
+{
+  "subject": "Science",
+  "topic": "Physics",
+  "subtopic": "Light - Reflection and Refraction",
+  "questions": [
+    {
+      "id": "sci-light-refl-refr-001",
+      "text": "When light falls on a smooth polished surface, most of it is:",
+      "image": null,
+      "options": [
+        {
+          "text": "reflected in one regular direction",
+          "image": null
+        },
+        {
+          "text": "scattered in many directions",
+          "image": null
+        },
+        {
+          "text": "absorbed completely",
+          "image": null
+        },
+        {
+          "text": "refracted only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-002",
+      "text": "The angle of incidence is measured between the incident ray and the:",
+      "image": null,
+      "options": [
+        {
+          "text": "mirror surface",
+          "image": null
+        },
+        {
+          "text": "normal at the point of incidence",
+          "image": null
+        },
+        {
+          "text": "reflected ray",
+          "image": null
+        },
+        {
+          "text": "principal axis only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-003",
+      "text": "According to the law of reflection, the angle of incidence is:",
+      "image": null,
+      "options": [
+        {
+          "text": "greater than angle of reflection",
+          "image": null
+        },
+        {
+          "text": "less than angle of reflection",
+          "image": null
+        },
+        {
+          "text": "equal to angle of reflection",
+          "image": null
+        },
+        {
+          "text": "always zero",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-004",
+      "text": "The incident ray, reflected ray and normal at the point of incidence lie in:",
+      "image": null,
+      "options": [
+        {
+          "text": "three different planes",
+          "image": null
+        },
+        {
+          "text": "the same plane",
+          "image": null
+        },
+        {
+          "text": "only a curved surface",
+          "image": null
+        },
+        {
+          "text": "no fixed plane",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-005",
+      "text": "A plane mirror forms an image that is:",
+      "image": null,
+      "options": [
+        {
+          "text": "real and inverted",
+          "image": null
+        },
+        {
+          "text": "virtual and erect",
+          "image": null
+        },
+        {
+          "text": "real and erect",
+          "image": null
+        },
+        {
+          "text": "virtual and inverted",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-006",
+      "text": "Which property is not true of an image formed by a plane mirror?",
+      "image": null,
+      "options": [
+        {
+          "text": "It is erect",
+          "image": null
+        },
+        {
+          "text": "It is virtual",
+          "image": null
+        },
+        {
+          "text": "It is diminished",
+          "image": null
+        },
+        {
+          "text": "It is as far behind the mirror as the object is in front",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-007",
+      "text": "The image formed by a plane mirror is laterally:",
+      "image": null,
+      "options": [
+        {
+          "text": "magnified",
+          "image": null
+        },
+        {
+          "text": "inverted",
+          "image": null
+        },
+        {
+          "text": "reversed",
+          "image": null
+        },
+        {
+          "text": "refracted",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-008",
+      "text": "If a man runs towards a plane mirror at 2 m/s, the relative speed of his image with respect to him is:",
+      "image": null,
+      "options": [
+        {
+          "text": "2 m/s",
+          "image": null
+        },
+        {
+          "text": "4 m/s",
+          "image": null
+        },
+        {
+          "text": "6 m/s",
+          "image": null
+        },
+        {
+          "text": "8 m/s",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-009",
+      "text": "If an object approaches a plane mirror at 5 cm/s, its image approaches the mirror at:",
+      "image": null,
+      "options": [
+        {
+          "text": "2.5 cm/s",
+          "image": null
+        },
+        {
+          "text": "5 cm/s",
+          "image": null
+        },
+        {
+          "text": "10 cm/s",
+          "image": null
+        },
+        {
+          "text": "20 cm/s",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-010",
+      "text": "The number of images formed between two parallel plane mirrors is:",
+      "image": null,
+      "options": [
+        {
+          "text": "2",
+          "image": null
+        },
+        {
+          "text": "4",
+          "image": null
+        },
+        {
+          "text": "6",
+          "image": null
+        },
+        {
+          "text": "infinite",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-011",
+      "text": "The reflecting surface of a spherical mirror may be part of:",
+      "image": null,
+      "options": [
+        {
+          "text": "a sphere",
+          "image": null
+        },
+        {
+          "text": "a cube",
+          "image": null
+        },
+        {
+          "text": "a cylinder only",
+          "image": null
+        },
+        {
+          "text": "a prism only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-012",
+      "text": "A mirror whose reflecting surface is curved inward is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "convex mirror",
+          "image": null
+        },
+        {
+          "text": "concave mirror",
+          "image": null
+        },
+        {
+          "text": "plane mirror",
+          "image": null
+        },
+        {
+          "text": "cylindrical mirror",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-013",
+      "text": "A mirror whose reflecting surface bulges outward is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "concave mirror",
+          "image": null
+        },
+        {
+          "text": "convex mirror",
+          "image": null
+        },
+        {
+          "text": "plane mirror",
+          "image": null
+        },
+        {
+          "text": "parabolic screen only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-014",
+      "text": "The centre of the reflecting surface of a spherical mirror is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "pole",
+          "image": null
+        },
+        {
+          "text": "focus",
+          "image": null
+        },
+        {
+          "text": "aperture",
+          "image": null
+        },
+        {
+          "text": "centre of curvature",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-015",
+      "text": "The centre of the sphere of which a spherical mirror is a part is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "pole",
+          "image": null
+        },
+        {
+          "text": "centre of curvature",
+          "image": null
+        },
+        {
+          "text": "principal focus",
+          "image": null
+        },
+        {
+          "text": "aperture",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-016",
+      "text": "The line joining the pole and centre of curvature of a spherical mirror is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "principal axis",
+          "image": null
+        },
+        {
+          "text": "normal only",
+          "image": null
+        },
+        {
+          "text": "focal plane",
+          "image": null
+        },
+        {
+          "text": "aperture",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-017",
+      "text": "The diameter of the reflecting surface of a spherical mirror is called its:",
+      "image": null,
+      "options": [
+        {
+          "text": "centre of curvature",
+          "image": null
+        },
+        {
+          "text": "radius of curvature",
+          "image": null
+        },
+        {
+          "text": "aperture",
+          "image": null
+        },
+        {
+          "text": "principal focus",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-018",
+      "text": "For a spherical mirror, the relation between radius of curvature R and focal length f is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$R = f$",
+          "image": null
+        },
+        {
+          "text": "$R = 2f$",
+          "image": null
+        },
+        {
+          "text": "$R = f/2$",
+          "image": null
+        },
+        {
+          "text": "$R = 4f$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-019",
+      "text": "The relation $f = R/2$ is valid for:",
+      "image": null,
+      "options": [
+        {
+          "text": "only convex mirrors",
+          "image": null
+        },
+        {
+          "text": "only concave mirrors",
+          "image": null
+        },
+        {
+          "text": "both concave and convex mirrors",
+          "image": null
+        },
+        {
+          "text": "neither mirror",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-020",
+      "text": "A concave mirror can form an erect virtual image when the object is placed:",
+      "image": null,
+      "options": [
+        {
+          "text": "beyond C",
+          "image": null
+        },
+        {
+          "text": "at C",
+          "image": null
+        },
+        {
+          "text": "between C and F",
+          "image": null
+        },
+        {
+          "text": "between P and F",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-021",
+      "text": "A concave mirror forms a real, inverted and same-size image when the object is at:",
+      "image": null,
+      "options": [
+        {
+          "text": "focus",
+          "image": null
+        },
+        {
+          "text": "centre of curvature",
+          "image": null
+        },
+        {
+          "text": "between P and F",
+          "image": null
+        },
+        {
+          "text": "infinity",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-022",
+      "text": "A concave mirror forms a highly enlarged real image when the object is placed:",
+      "image": null,
+      "options": [
+        {
+          "text": "at infinity",
+          "image": null
+        },
+        {
+          "text": "beyond C",
+          "image": null
+        },
+        {
+          "text": "at F",
+          "image": null
+        },
+        {
+          "text": "between P and F",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-023",
+      "text": "A concave mirror forms a diminished real image when the object is placed:",
+      "image": null,
+      "options": [
+        {
+          "text": "between P and F",
+          "image": null
+        },
+        {
+          "text": "at F",
+          "image": null
+        },
+        {
+          "text": "between F and C",
+          "image": null
+        },
+        {
+          "text": "beyond C",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-024",
+      "text": "A convex mirror always forms an image that is:",
+      "image": null,
+      "options": [
+        {
+          "text": "real, inverted and enlarged",
+          "image": null
+        },
+        {
+          "text": "virtual, erect and diminished",
+          "image": null
+        },
+        {
+          "text": "real, erect and same size",
+          "image": null
+        },
+        {
+          "text": "virtual, inverted and enlarged",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-025",
+      "text": "The mirror used as rear-view mirror in vehicles is:",
+      "image": null,
+      "options": [
+        {
+          "text": "concave mirror",
+          "image": null
+        },
+        {
+          "text": "convex mirror",
+          "image": null
+        },
+        {
+          "text": "plane mirror only",
+          "image": null
+        },
+        {
+          "text": "concave lens",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-026",
+      "text": "A convex mirror is used as rear-view mirror because it gives:",
+      "image": null,
+      "options": [
+        {
+          "text": "a wide field of view and erect image",
+          "image": null
+        },
+        {
+          "text": "a real enlarged image",
+          "image": null
+        },
+        {
+          "text": "an inverted image only",
+          "image": null
+        },
+        {
+          "text": "no image",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-027",
+      "text": "A concave mirror is used in solar furnaces because it:",
+      "image": null,
+      "options": [
+        {
+          "text": "diverges sunlight",
+          "image": null
+        },
+        {
+          "text": "converges sunlight at focus",
+          "image": null
+        },
+        {
+          "text": "forms only virtual images",
+          "image": null
+        },
+        {
+          "text": "has no focus",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-028",
+      "text": "Which pairing is correct?",
+      "image": null,
+      "options": [
+        {
+          "text": "solar furnace - concave mirror",
+          "image": null
+        },
+        {
+          "text": "rear-view mirror - concave mirror",
+          "image": null
+        },
+        {
+          "text": "magnifying glass - concave lens",
+          "image": null
+        },
+        {
+          "text": "camera lens - plane mirror",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-029",
+      "text": "Dentists use a concave mirror to get:",
+      "image": null,
+      "options": [
+        {
+          "text": "an enlarged erect image of teeth",
+          "image": null
+        },
+        {
+          "text": "a diminished inverted image",
+          "image": null
+        },
+        {
+          "text": "no image",
+          "image": null
+        },
+        {
+          "text": "a laterally inverted real image only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-030",
+      "text": "Torch reflectors commonly use:",
+      "image": null,
+      "options": [
+        {
+          "text": "concave mirrors",
+          "image": null
+        },
+        {
+          "text": "convex mirrors",
+          "image": null
+        },
+        {
+          "text": "plane glass slabs",
+          "image": null
+        },
+        {
+          "text": "concave lenses",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-031",
+      "text": "The mirror formula is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$1/f = 1/v + 1/u$",
+          "image": null
+        },
+        {
+          "text": "$f = u + v$",
+          "image": null
+        },
+        {
+          "text": "$1/u = f + v$",
+          "image": null
+        },
+        {
+          "text": "$v/u = f$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-032",
+      "text": "Magnification produced by a spherical mirror is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$m = -v/u$",
+          "image": null
+        },
+        {
+          "text": "$m = u/v$",
+          "image": null
+        },
+        {
+          "text": "$m = f/u$",
+          "image": null
+        },
+        {
+          "text": "$m = v + u$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-033",
+      "text": "A negative magnification for a mirror indicates an image that is:",
+      "image": null,
+      "options": [
+        {
+          "text": "erect",
+          "image": null
+        },
+        {
+          "text": "inverted",
+          "image": null
+        },
+        {
+          "text": "virtual only",
+          "image": null
+        },
+        {
+          "text": "same size only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-034",
+      "text": "A positive magnification for a mirror indicates an image that is:",
+      "image": null,
+      "options": [
+        {
+          "text": "erect",
+          "image": null
+        },
+        {
+          "text": "inverted",
+          "image": null
+        },
+        {
+          "text": "always real",
+          "image": null
+        },
+        {
+          "text": "always diminished",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-035",
+      "text": "To obtain magnification -0.6 with a concave mirror, the object should be placed:",
+      "image": null,
+      "options": [
+        {
+          "text": "at focus",
+          "image": null
+        },
+        {
+          "text": "between pole and focus",
+          "image": null
+        },
+        {
+          "text": "between focus and centre of curvature",
+          "image": null
+        },
+        {
+          "text": "beyond centre of curvature",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-036",
+      "text": "A concave mirror has focal length 50 cm. To obtain an inverted image twice the object size, the object is placed approximately:",
+      "image": null,
+      "options": [
+        {
+          "text": "25 cm from mirror",
+          "image": null
+        },
+        {
+          "text": "50 cm from mirror",
+          "image": null
+        },
+        {
+          "text": "75 cm from mirror",
+          "image": null
+        },
+        {
+          "text": "100 cm from mirror",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-037",
+      "text": "A convex mirror used as rear-view mirror has focal length 2.5 m. According to sign convention, f and u are:",
+      "image": null,
+      "options": [
+        {
+          "text": "f positive, u negative",
+          "image": null
+        },
+        {
+          "text": "f negative, u positive",
+          "image": null
+        },
+        {
+          "text": "both positive",
+          "image": null
+        },
+        {
+          "text": "both negative",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-038",
+      "text": "In Cartesian sign convention for mirrors, distances measured in direction of incident light are:",
+      "image": null,
+      "options": [
+        {
+          "text": "positive",
+          "image": null
+        },
+        {
+          "text": "negative",
+          "image": null
+        },
+        {
+          "text": "always zero",
+          "image": null
+        },
+        {
+          "text": "ignored",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-039",
+      "text": "In Cartesian sign convention for mirrors, object distance for a real object in front of mirror is generally:",
+      "image": null,
+      "options": [
+        {
+          "text": "positive",
+          "image": null
+        },
+        {
+          "text": "negative",
+          "image": null
+        },
+        {
+          "text": "zero",
+          "image": null
+        },
+        {
+          "text": "infinite only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-040",
+      "text": "Refraction is the bending of light when it:",
+      "image": null,
+      "options": [
+        {
+          "text": "travels in a straight line in same medium",
+          "image": null
+        },
+        {
+          "text": "passes obliquely from one medium to another",
+          "image": null
+        },
+        {
+          "text": "is absorbed completely",
+          "image": null
+        },
+        {
+          "text": "is reflected from a plane mirror",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-041",
+      "text": "Light bends towards the normal when it travels from:",
+      "image": null,
+      "options": [
+        {
+          "text": "rarer to denser medium",
+          "image": null
+        },
+        {
+          "text": "denser to rarer medium",
+          "image": null
+        },
+        {
+          "text": "mirror to air",
+          "image": null
+        },
+        {
+          "text": "air to vacuum only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-042",
+      "text": "Light bends away from the normal when it travels from:",
+      "image": null,
+      "options": [
+        {
+          "text": "rarer to denser medium",
+          "image": null
+        },
+        {
+          "text": "denser to rarer medium",
+          "image": null
+        },
+        {
+          "text": "air to glass",
+          "image": null
+        },
+        {
+          "text": "vacuum to air only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-043",
+      "text": "As light travels from a rarer to a denser medium, its velocity:",
+      "image": null,
+      "options": [
+        {
+          "text": "increases",
+          "image": null
+        },
+        {
+          "text": "decreases",
+          "image": null
+        },
+        {
+          "text": "becomes infinite",
+          "image": null
+        },
+        {
+          "text": "always becomes zero",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-044",
+      "text": "As light travels from a rarer to a denser medium, its wavelength generally:",
+      "image": null,
+      "options": [
+        {
+          "text": "increases",
+          "image": null
+        },
+        {
+          "text": "decreases",
+          "image": null
+        },
+        {
+          "text": "does not exist",
+          "image": null
+        },
+        {
+          "text": "becomes infinite",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-045",
+      "text": "The refractive index of a medium is given by:",
+      "image": null,
+      "options": [
+        {
+          "text": "$n = c/v$",
+          "image": null
+        },
+        {
+          "text": "$n = v/c$",
+          "image": null
+        },
+        {
+          "text": "$n = c + v$",
+          "image": null
+        },
+        {
+          "text": "$n = cv$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-046",
+      "text": "If speed of light in a medium is $2 \\times 10^8$ m/s, its refractive index is:",
+      "image": null,
+      "options": [
+        {
+          "text": "1.0",
+          "image": null
+        },
+        {
+          "text": "1.5",
+          "image": null
+        },
+        {
+          "text": "2.0",
+          "image": null
+        },
+        {
+          "text": "2.5",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-047",
+      "text": "The refractive index of glass is 1.5. The speed of light in glass is approximately:",
+      "image": null,
+      "options": [
+        {
+          "text": "$1.5 \\times 10^8$ m/s",
+          "image": null
+        },
+        {
+          "text": "$2.0 \\times 10^8$ m/s",
+          "image": null
+        },
+        {
+          "text": "$3.0 \\times 10^8$ m/s",
+          "image": null
+        },
+        {
+          "text": "$4.5 \\times 10^8$ m/s",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-048",
+      "text": "A higher refractive index indicates that light travels in the medium:",
+      "image": null,
+      "options": [
+        {
+          "text": "faster",
+          "image": null
+        },
+        {
+          "text": "slower",
+          "image": null
+        },
+        {
+          "text": "with no bending ever",
+          "image": null
+        },
+        {
+          "text": "only as sound",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-049",
+      "text": "The absolute refractive index of a medium can never be:",
+      "image": null,
+      "options": [
+        {
+          "text": "less than 1",
+          "image": null
+        },
+        {
+          "text": "equal to 1 for vacuum",
+          "image": null
+        },
+        {
+          "text": "greater than 1",
+          "image": null
+        },
+        {
+          "text": "1.5 for glass",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-050",
+      "text": "A rectangular glass slab causes emergent ray to be:",
+      "image": null,
+      "options": [
+        {
+          "text": "parallel to incident ray",
+          "image": null
+        },
+        {
+          "text": "perpendicular to incident ray always",
+          "image": null
+        },
+        {
+          "text": "reflected back only",
+          "image": null
+        },
+        {
+          "text": "absorbed completely",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-051",
+      "text": "The lateral displacement through a rectangular glass slab depends on:",
+      "image": null,
+      "options": [
+        {
+          "text": "angle of incidence",
+          "image": null
+        },
+        {
+          "text": "thickness of slab",
+          "image": null
+        },
+        {
+          "text": "refractive index",
+          "image": null
+        },
+        {
+          "text": "all of these",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-052",
+      "text": "For normal incidence on a glass slab, the angle of refraction is:",
+      "image": null,
+      "options": [
+        {
+          "text": "0 degree",
+          "image": null
+        },
+        {
+          "text": "30 degree",
+          "image": null
+        },
+        {
+          "text": "45 degree",
+          "image": null
+        },
+        {
+          "text": "90 degree",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-053",
+      "text": "Snell’s law relates:",
+      "image": null,
+      "options": [
+        {
+          "text": "sines of angles of incidence and refraction",
+          "image": null
+        },
+        {
+          "text": "only mirror radius and focal length",
+          "image": null
+        },
+        {
+          "text": "only image height and object height",
+          "image": null
+        },
+        {
+          "text": "only power and focal length",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-054",
+      "text": "Total internal reflection is possible when light travels from:",
+      "image": null,
+      "options": [
+        {
+          "text": "denser to rarer medium",
+          "image": null
+        },
+        {
+          "text": "rarer to denser medium",
+          "image": null
+        },
+        {
+          "text": "air to glass only",
+          "image": null
+        },
+        {
+          "text": "vacuum to air only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-055",
+      "text": "Total internal reflection of light from water to air can occur when incidence angle is:",
+      "image": null,
+      "options": [
+        {
+          "text": "less than critical angle",
+          "image": null
+        },
+        {
+          "text": "equal to zero",
+          "image": null
+        },
+        {
+          "text": "greater than critical angle",
+          "image": null
+        },
+        {
+          "text": "always 30 degrees",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-056",
+      "text": "The critical angle of glass-air pair is minimum for:",
+      "image": null,
+      "options": [
+        {
+          "text": "red light",
+          "image": null
+        },
+        {
+          "text": "green light",
+          "image": null
+        },
+        {
+          "text": "yellow light",
+          "image": null
+        },
+        {
+          "text": "violet light",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-057",
+      "text": "A spherical air bubble in water behaves like:",
+      "image": null,
+      "options": [
+        {
+          "text": "concave lens",
+          "image": null
+        },
+        {
+          "text": "convex lens",
+          "image": null
+        },
+        {
+          "text": "plane mirror",
+          "image": null
+        },
+        {
+          "text": "glass slab only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-058",
+      "text": "A lens is a transparent material bounded by:",
+      "image": null,
+      "options": [
+        {
+          "text": "two surfaces, at least one spherical",
+          "image": null
+        },
+        {
+          "text": "two plane mirrors",
+          "image": null
+        },
+        {
+          "text": "only a metallic surface",
+          "image": null
+        },
+        {
+          "text": "one opaque surface",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-059",
+      "text": "A convex lens is also called a:",
+      "image": null,
+      "options": [
+        {
+          "text": "converging lens",
+          "image": null
+        },
+        {
+          "text": "diverging lens",
+          "image": null
+        },
+        {
+          "text": "plane lens",
+          "image": null
+        },
+        {
+          "text": "opaque lens",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-060",
+      "text": "A concave lens is also called a:",
+      "image": null,
+      "options": [
+        {
+          "text": "converging lens",
+          "image": null
+        },
+        {
+          "text": "diverging lens",
+          "image": null
+        },
+        {
+          "text": "plane lens",
+          "image": null
+        },
+        {
+          "text": "cylindrical mirror",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-061",
+      "text": "A convex lens is thicker at:",
+      "image": null,
+      "options": [
+        {
+          "text": "centre than edges",
+          "image": null
+        },
+        {
+          "text": "edges than centre",
+          "image": null
+        },
+        {
+          "text": "one edge only",
+          "image": null
+        },
+        {
+          "text": "all points equally with no curvature",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-062",
+      "text": "A concave lens is thinner at:",
+      "image": null,
+      "options": [
+        {
+          "text": "centre than edges",
+          "image": null
+        },
+        {
+          "text": "edges than centre",
+          "image": null
+        },
+        {
+          "text": "one edge only",
+          "image": null
+        },
+        {
+          "text": "all points equally",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-063",
+      "text": "A convex lens forms a real, inverted and same-size image when the object is at:",
+      "image": null,
+      "options": [
+        {
+          "text": "F",
+          "image": null
+        },
+        {
+          "text": "2F",
+          "image": null
+        },
+        {
+          "text": "between F and optical centre",
+          "image": null
+        },
+        {
+          "text": "infinity only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-064",
+      "text": "A convex lens forms a virtual, erect and enlarged image when object is placed:",
+      "image": null,
+      "options": [
+        {
+          "text": "between optical centre and focus",
+          "image": null
+        },
+        {
+          "text": "at 2F",
+          "image": null
+        },
+        {
+          "text": "beyond 2F",
+          "image": null
+        },
+        {
+          "text": "at infinity",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-065",
+      "text": "A concave lens forms an image that is always:",
+      "image": null,
+      "options": [
+        {
+          "text": "virtual, erect and diminished",
+          "image": null
+        },
+        {
+          "text": "real, inverted and enlarged",
+          "image": null
+        },
+        {
+          "text": "real and same size",
+          "image": null
+        },
+        {
+          "text": "virtual and enlarged",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-066",
+      "text": "A concave lens from an object forms an image which is:",
+      "image": null,
+      "options": [
+        {
+          "text": "virtual inverted and diminished",
+          "image": null
+        },
+        {
+          "text": "virtual upright and diminished",
+          "image": null
+        },
+        {
+          "text": "virtual inverted and enlarged",
+          "image": null
+        },
+        {
+          "text": "virtual upright and enlarged",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-067",
+      "text": "If a hole is made in a convex lens, the image will:",
+      "image": null,
+      "options": [
+        {
+          "text": "show a hole",
+          "image": null
+        },
+        {
+          "text": "decrease in size",
+          "image": null
+        },
+        {
+          "text": "decrease in intensity",
+          "image": null
+        },
+        {
+          "text": "disappear completely",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-068",
+      "text": "A magnifying glass is a:",
+      "image": null,
+      "options": [
+        {
+          "text": "convex lens",
+          "image": null
+        },
+        {
+          "text": "concave lens",
+          "image": null
+        },
+        {
+          "text": "convex mirror",
+          "image": null
+        },
+        {
+          "text": "plane mirror",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-069",
+      "text": "The lens formula is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$1/v - 1/u = 1/f$",
+          "image": null
+        },
+        {
+          "text": "$1/u - 1/v = 1/f$",
+          "image": null
+        },
+        {
+          "text": "$f = u + v$",
+          "image": null
+        },
+        {
+          "text": "$P = f$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-070",
+      "text": "Magnification produced by a lens is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$m = v/u$",
+          "image": null
+        },
+        {
+          "text": "$m = -v/u$",
+          "image": null
+        },
+        {
+          "text": "$m = f/v$",
+          "image": null
+        },
+        {
+          "text": "$m = u + v$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-071",
+      "text": "Power of a lens is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$P = 1/f$ with f in metres",
+          "image": null
+        },
+        {
+          "text": "$P = f$ in centimetres",
+          "image": null
+        },
+        {
+          "text": "$P = u/v$",
+          "image": null
+        },
+        {
+          "text": "$P = v/u$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-072",
+      "text": "The SI unit of power of a lens is:",
+      "image": null,
+      "options": [
+        {
+          "text": "dioptre",
+          "image": null
+        },
+        {
+          "text": "metre",
+          "image": null
+        },
+        {
+          "text": "newton",
+          "image": null
+        },
+        {
+          "text": "joule",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-073",
+      "text": "A lens of focal length 50 cm has power:",
+      "image": null,
+      "options": [
+        {
+          "text": "+0.5 D",
+          "image": null
+        },
+        {
+          "text": "+2 D",
+          "image": null
+        },
+        {
+          "text": "+5 D",
+          "image": null
+        },
+        {
+          "text": "+50 D",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-074",
+      "text": "A convex lens of focal length 25 cm has power:",
+      "image": null,
+      "options": [
+        {
+          "text": "+4 D",
+          "image": null
+        },
+        {
+          "text": "-4 D",
+          "image": null
+        },
+        {
+          "text": "+0.25 D",
+          "image": null
+        },
+        {
+          "text": "-0.25 D",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-075",
+      "text": "A concave lens of focal length 50 cm has power:",
+      "image": null,
+      "options": [
+        {
+          "text": "+2 D",
+          "image": null
+        },
+        {
+          "text": "-2 D",
+          "image": null
+        },
+        {
+          "text": "+0.5 D",
+          "image": null
+        },
+        {
+          "text": "-0.5 D",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-076",
+      "text": "Two lenses of power +3 D and -1 D are placed in contact. The combined power is:",
+      "image": null,
+      "options": [
+        {
+          "text": "+2 D",
+          "image": null
+        },
+        {
+          "text": "+4 D",
+          "image": null
+        },
+        {
+          "text": "-2 D",
+          "image": null
+        },
+        {
+          "text": "-4 D",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-077",
+      "text": "Two lenses of power +3 D and -1 D are placed in contact. The focal length of combination is:",
+      "image": null,
+      "options": [
+        {
+          "text": "100 cm",
+          "image": null
+        },
+        {
+          "text": "50 cm",
+          "image": null
+        },
+        {
+          "text": "25 cm",
+          "image": null
+        },
+        {
+          "text": "30.3 cm",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-078",
+      "text": "If a convex lens forms a real image at 20 cm for an object at 20 cm, its focal length is:",
+      "image": null,
+      "options": [
+        {
+          "text": "5 cm",
+          "image": null
+        },
+        {
+          "text": "10 cm",
+          "image": null
+        },
+        {
+          "text": "20 cm",
+          "image": null
+        },
+        {
+          "text": "40 cm",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-079",
+      "text": "An object placed at 2F of a convex lens forms its image at:",
+      "image": null,
+      "options": [
+        {
+          "text": "F",
+          "image": null
+        },
+        {
+          "text": "2F on the other side",
+          "image": null
+        },
+        {
+          "text": "optical centre",
+          "image": null
+        },
+        {
+          "text": "infinity",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-080",
+      "text": "An object at infinity in front of a convex lens forms image:",
+      "image": null,
+      "options": [
+        {
+          "text": "at focus",
+          "image": null
+        },
+        {
+          "text": "at 2F",
+          "image": null
+        },
+        {
+          "text": "between F and 2F",
+          "image": null
+        },
+        {
+          "text": "at optical centre",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-081",
+      "text": "A diverging lens is used to form an image one fourth of the object size. The object is placed at:",
+      "image": null,
+      "options": [
+        {
+          "text": "F",
+          "image": null
+        },
+        {
+          "text": "2F",
+          "image": null
+        },
+        {
+          "text": "3F",
+          "image": null
+        },
+        {
+          "text": "4F",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-082",
+      "text": "Which can make a parallel beam when light from a point source is incident on it at focus?",
+      "image": null,
+      "options": [
+        {
+          "text": "concave mirror and convex lens",
+          "image": null
+        },
+        {
+          "text": "convex mirror and concave lens",
+          "image": null
+        },
+        {
+          "text": "two plane mirrors at 90 degrees",
+          "image": null
+        },
+        {
+          "text": "concave mirror and concave lens",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-083",
+      "text": "A 10 mm object forms a 5 mm image in a concave mirror at 30 cm in front of the mirror. The object distance is:",
+      "image": null,
+      "options": [
+        {
+          "text": "15 cm",
+          "image": null
+        },
+        {
+          "text": "30 cm",
+          "image": null
+        },
+        {
+          "text": "60 cm",
+          "image": null
+        },
+        {
+          "text": "90 cm",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-084",
+      "text": "If a concave mirror forms an image smaller than the object, the object is placed:",
+      "image": null,
+      "options": [
+        {
+          "text": "between P and F",
+          "image": null
+        },
+        {
+          "text": "at F",
+          "image": null
+        },
+        {
+          "text": "between F and C",
+          "image": null
+        },
+        {
+          "text": "beyond C",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-085",
+      "text": "If an image formed by a mirror is virtual, erect and magnified, the mirror is:",
+      "image": null,
+      "options": [
+        {
+          "text": "concave mirror",
+          "image": null
+        },
+        {
+          "text": "convex mirror",
+          "image": null
+        },
+        {
+          "text": "plane mirror only",
+          "image": null
+        },
+        {
+          "text": "convex lens",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-086",
+      "text": "If an image formed by a mirror is virtual, erect and diminished, the mirror is:",
+      "image": null,
+      "options": [
+        {
+          "text": "convex mirror",
+          "image": null
+        },
+        {
+          "text": "concave mirror with object at C",
+          "image": null
+        },
+        {
+          "text": "plane mirror",
+          "image": null
+        },
+        {
+          "text": "concave mirror with object beyond C",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-087",
+      "text": "Which image is formed by a convex mirror?",
+      "image": null,
+      "options": [
+        {
+          "text": "real and enlarged",
+          "image": null
+        },
+        {
+          "text": "virtual and diminished",
+          "image": null
+        },
+        {
+          "text": "real and same size",
+          "image": null
+        },
+        {
+          "text": "inverted and magnified",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-088",
+      "text": "The principal focus of a concave mirror is a point where rays parallel to principal axis:",
+      "image": null,
+      "options": [
+        {
+          "text": "meet after reflection",
+          "image": null
+        },
+        {
+          "text": "appear to diverge after reflection",
+          "image": null
+        },
+        {
+          "text": "are absorbed",
+          "image": null
+        },
+        {
+          "text": "pass undeviated",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-089",
+      "text": "The principal focus of a convex mirror is a point from which reflected rays:",
+      "image": null,
+      "options": [
+        {
+          "text": "actually meet",
+          "image": null
+        },
+        {
+          "text": "appear to diverge",
+          "image": null
+        },
+        {
+          "text": "are absorbed",
+          "image": null
+        },
+        {
+          "text": "pass into mirror",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-090",
+      "text": "A ray passing through centre of curvature of a concave mirror after reflection:",
+      "image": null,
+      "options": [
+        {
+          "text": "retraces its path",
+          "image": null
+        },
+        {
+          "text": "passes through focus",
+          "image": null
+        },
+        {
+          "text": "becomes parallel to principal axis",
+          "image": null
+        },
+        {
+          "text": "is absorbed",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-091",
+      "text": "A ray parallel to principal axis of a concave mirror after reflection passes through:",
+      "image": null,
+      "options": [
+        {
+          "text": "focus",
+          "image": null
+        },
+        {
+          "text": "pole",
+          "image": null
+        },
+        {
+          "text": "centre of curvature only",
+          "image": null
+        },
+        {
+          "text": "aperture edge",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-092",
+      "text": "A ray passing through focus of a concave mirror after reflection becomes:",
+      "image": null,
+      "options": [
+        {
+          "text": "parallel to principal axis",
+          "image": null
+        },
+        {
+          "text": "through centre of curvature",
+          "image": null
+        },
+        {
+          "text": "through pole only",
+          "image": null
+        },
+        {
+          "text": "absorbed",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-093",
+      "text": "The optical centre of a thin lens is the point through which a ray passes:",
+      "image": null,
+      "options": [
+        {
+          "text": "without deviation",
+          "image": null
+        },
+        {
+          "text": "with total reflection",
+          "image": null
+        },
+        {
+          "text": "with maximum deviation",
+          "image": null
+        },
+        {
+          "text": "only after absorption",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-094",
+      "text": "A ray parallel to principal axis of a convex lens after refraction passes through:",
+      "image": null,
+      "options": [
+        {
+          "text": "focus on other side",
+          "image": null
+        },
+        {
+          "text": "optical centre",
+          "image": null
+        },
+        {
+          "text": "2F on same side",
+          "image": null
+        },
+        {
+          "text": "pole",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-095",
+      "text": "A ray passing through optical centre of a lens emerges:",
+      "image": null,
+      "options": [
+        {
+          "text": "undeviated",
+          "image": null
+        },
+        {
+          "text": "parallel to principal axis always",
+          "image": null
+        },
+        {
+          "text": "through focus always",
+          "image": null
+        },
+        {
+          "text": "reflected back",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-096",
+      "text": "A ray directed towards focus of a convex lens emerges:",
+      "image": null,
+      "options": [
+        {
+          "text": "parallel to principal axis",
+          "image": null
+        },
+        {
+          "text": "through optical centre",
+          "image": null
+        },
+        {
+          "text": "back on itself",
+          "image": null
+        },
+        {
+          "text": "absorbed",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-097",
+      "text": "In a plano-convex lens with radius 10 cm and refractive index 1.5, focal length is:",
+      "image": null,
+      "options": [
+        {
+          "text": "20 cm",
+          "image": null
+        },
+        {
+          "text": "15 cm",
+          "image": null
+        },
+        {
+          "text": "10 cm",
+          "image": null
+        },
+        {
+          "text": "5 cm",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-098",
+      "text": "For a plano-convex lens with radius 10 cm and focal length 30 cm, refractive index is:",
+      "image": null,
+      "options": [
+        {
+          "text": "1.33",
+          "image": null
+        },
+        {
+          "text": "3",
+          "image": null
+        },
+        {
+          "text": "1.66",
+          "image": null
+        },
+        {
+          "text": "1.5",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-099",
+      "text": "White light in vacuum travels with:",
+      "image": null,
+      "options": [
+        {
+          "text": "same speed for all colours",
+          "image": null
+        },
+        {
+          "text": "red faster than violet",
+          "image": null
+        },
+        {
+          "text": "violet faster than red",
+          "image": null
+        },
+        {
+          "text": "random speed for each colour",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-100",
+      "text": "A blue object on a white background viewed through a blue filter appears:",
+      "image": null,
+      "options": [
+        {
+          "text": "black on blue background",
+          "image": null
+        },
+        {
+          "text": "blue on white background",
+          "image": null
+        },
+        {
+          "text": "blue on red background",
+          "image": null
+        },
+        {
+          "text": "invisible",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-101",
+      "text": "Laser light is usually:",
+      "image": null,
+      "options": [
+        {
+          "text": "coherent and monochromatic only",
+          "image": null
+        },
+        {
+          "text": "intense and monochromatic only",
+          "image": null
+        },
+        {
+          "text": "intense, coherent and monochromatic",
+          "image": null
+        },
+        {
+          "text": "only scattered",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-102",
+      "text": "The refractive index of a material generally depends on:",
+      "image": null,
+      "options": [
+        {
+          "text": "wavelength of light",
+          "image": null
+        },
+        {
+          "text": "angle of incidence only",
+          "image": null
+        },
+        {
+          "text": "object distance only",
+          "image": null
+        },
+        {
+          "text": "mirror aperture only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-103",
+      "text": "For infrared light, refractive index of a material is generally:",
+      "image": null,
+      "options": [
+        {
+          "text": "less than that for ultraviolet light",
+          "image": null
+        },
+        {
+          "text": "greater than that for ultraviolet light",
+          "image": null
+        },
+        {
+          "text": "equal to ultraviolet always",
+          "image": null
+        },
+        {
+          "text": "zero",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-104",
+      "text": "A ray of light incident on a plane mirror at 30 degrees has angle of reflection:",
+      "image": null,
+      "options": [
+        {
+          "text": "15 degrees",
+          "image": null
+        },
+        {
+          "text": "30 degrees",
+          "image": null
+        },
+        {
+          "text": "60 degrees",
+          "image": null
+        },
+        {
+          "text": "90 degrees",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-105",
+      "text": "A ray incident on a plane mirror at 30 degrees is deviated by:",
+      "image": null,
+      "options": [
+        {
+          "text": "30 degrees",
+          "image": null
+        },
+        {
+          "text": "60 degrees",
+          "image": null
+        },
+        {
+          "text": "90 degrees",
+          "image": null
+        },
+        {
+          "text": "120 degrees",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-106",
+      "text": "The phenomenon responsible for apparent bending of a pencil in water is:",
+      "image": null,
+      "options": [
+        {
+          "text": "refraction",
+          "image": null
+        },
+        {
+          "text": "reflection only",
+          "image": null
+        },
+        {
+          "text": "dispersion only",
+          "image": null
+        },
+        {
+          "text": "scattering",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-107",
+      "text": "A coin in a vessel appears raised when water is poured because of:",
+      "image": null,
+      "options": [
+        {
+          "text": "refraction of light",
+          "image": null
+        },
+        {
+          "text": "reflection from water",
+          "image": null
+        },
+        {
+          "text": "diffusion of light",
+          "image": null
+        },
+        {
+          "text": "absorption",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-108",
+      "text": "The twinkling of stars is mainly due to:",
+      "image": null,
+      "options": [
+        {
+          "text": "atmospheric refraction",
+          "image": null
+        },
+        {
+          "text": "reflection by moon",
+          "image": null
+        },
+        {
+          "text": "plane mirror action",
+          "image": null
+        },
+        {
+          "text": "lens power only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-109",
+      "text": "Which medium has the greatest optical density among air, water and glass?",
+      "image": null,
+      "options": [
+        {
+          "text": "air",
+          "image": null
+        },
+        {
+          "text": "water",
+          "image": null
+        },
+        {
+          "text": "glass",
+          "image": null
+        },
+        {
+          "text": "all same",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-110",
+      "text": "Optical density is related to:",
+      "image": null,
+      "options": [
+        {
+          "text": "speed of light in medium",
+          "image": null
+        },
+        {
+          "text": "mass density only",
+          "image": null
+        },
+        {
+          "text": "colour of object only",
+          "image": null
+        },
+        {
+          "text": "mirror size",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-111",
+      "text": "If light enters a denser medium, frequency:",
+      "image": null,
+      "options": [
+        {
+          "text": "changes greatly",
+          "image": null
+        },
+        {
+          "text": "remains unchanged",
+          "image": null
+        },
+        {
+          "text": "becomes zero",
+          "image": null
+        },
+        {
+          "text": "doubles always",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-112",
+      "text": "When light passes from one medium to another, which quantity remains unchanged?",
+      "image": null,
+      "options": [
+        {
+          "text": "frequency",
+          "image": null
+        },
+        {
+          "text": "speed",
+          "image": null
+        },
+        {
+          "text": "wavelength",
+          "image": null
+        },
+        {
+          "text": "direction always",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-113",
+      "text": "The unit of refractive index is:",
+      "image": null,
+      "options": [
+        {
+          "text": "metre",
+          "image": null
+        },
+        {
+          "text": "dioptre",
+          "image": null
+        },
+        {
+          "text": "no unit",
+          "image": null
+        },
+        {
+          "text": "newton",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-114",
+      "text": "The power of a plane glass plate is:",
+      "image": null,
+      "options": [
+        {
+          "text": "zero",
+          "image": null
+        },
+        {
+          "text": "+1 D",
+          "image": null
+        },
+        {
+          "text": "-1 D",
+          "image": null
+        },
+        {
+          "text": "infinite",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-115",
+      "text": "A lens of power -2 D is:",
+      "image": null,
+      "options": [
+        {
+          "text": "concave lens",
+          "image": null
+        },
+        {
+          "text": "convex lens",
+          "image": null
+        },
+        {
+          "text": "plane mirror",
+          "image": null
+        },
+        {
+          "text": "convex mirror",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-116",
+      "text": "A lens of power +4 D is:",
+      "image": null,
+      "options": [
+        {
+          "text": "convex lens",
+          "image": null
+        },
+        {
+          "text": "concave lens",
+          "image": null
+        },
+        {
+          "text": "plane slab",
+          "image": null
+        },
+        {
+          "text": "convex mirror",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-117",
+      "text": "If focal length of a lens is +10 cm, the lens is:",
+      "image": null,
+      "options": [
+        {
+          "text": "convex lens",
+          "image": null
+        },
+        {
+          "text": "concave lens",
+          "image": null
+        },
+        {
+          "text": "plane mirror",
+          "image": null
+        },
+        {
+          "text": "convex mirror",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-118",
+      "text": "If focal length of a lens is -20 cm, the lens is:",
+      "image": null,
+      "options": [
+        {
+          "text": "concave lens",
+          "image": null
+        },
+        {
+          "text": "convex lens",
+          "image": null
+        },
+        {
+          "text": "plane mirror",
+          "image": null
+        },
+        {
+          "text": "concave mirror",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-119",
+      "text": "In a compound microscope, the objective lens focal length is generally:",
+      "image": null,
+      "options": [
+        {
+          "text": "less than eyepiece focal length",
+          "image": null
+        },
+        {
+          "text": "greater than eyepiece focal length",
+          "image": null
+        },
+        {
+          "text": "equal to eyepiece focal length",
+          "image": null
+        },
+        {
+          "text": "infinite",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-120",
+      "text": "To increase magnifying power of microscope, the objective should have:",
+      "image": null,
+      "options": [
+        {
+          "text": "small focal length",
+          "image": null
+        },
+        {
+          "text": "large focal length",
+          "image": null
+        },
+        {
+          "text": "infinite focal length",
+          "image": null
+        },
+        {
+          "text": "zero power",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-121",
+      "text": "In an astronomical telescope, if objective focal length is 100 cm and eyepiece focal length is 2 cm, magnifying power for normal adjustment is:",
+      "image": null,
+      "options": [
+        {
+          "text": "1/50",
+          "image": null
+        },
+        {
+          "text": "100",
+          "image": null
+        },
+        {
+          "text": "10",
+          "image": null
+        },
+        {
+          "text": "50",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-122",
+      "text": "A compound microscope produces high magnification using:",
+      "image": null,
+      "options": [
+        {
+          "text": "objective and eyepiece lenses",
+          "image": null
+        },
+        {
+          "text": "two plane mirrors only",
+          "image": null
+        },
+        {
+          "text": "one plane glass slab",
+          "image": null
+        },
+        {
+          "text": "only concave mirrors",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-123",
+      "text": "A real image can be obtained on:",
+      "image": null,
+      "options": [
+        {
+          "text": "screen",
+          "image": null
+        },
+        {
+          "text": "only behind mirror without screen",
+          "image": null
+        },
+        {
+          "text": "retina never",
+          "image": null
+        },
+        {
+          "text": "no surface",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-124",
+      "text": "A virtual image usually:",
+      "image": null,
+      "options": [
+        {
+          "text": "cannot be obtained on a screen",
+          "image": null
+        },
+        {
+          "text": "is always inverted",
+          "image": null
+        },
+        {
+          "text": "is always real",
+          "image": null
+        },
+        {
+          "text": "has no light rays appearing from it",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-125",
+      "text": "The image formed on a cinema screen is:",
+      "image": null,
+      "options": [
+        {
+          "text": "real",
+          "image": null
+        },
+        {
+          "text": "virtual",
+          "image": null
+        },
+        {
+          "text": "no image",
+          "image": null
+        },
+        {
+          "text": "always behind screen",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-126",
+      "text": "A convex lens can form both real and virtual images depending on:",
+      "image": null,
+      "options": [
+        {
+          "text": "object position",
+          "image": null
+        },
+        {
+          "text": "colour of lens only",
+          "image": null
+        },
+        {
+          "text": "mass of object",
+          "image": null
+        },
+        {
+          "text": "temperature only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-light-refl-refr-127",
+      "text": "A concave lens generally forms only:",
+      "image": null,
+      "options": [
+        {
+          "text": "virtual images for real objects",
+          "image": null
+        },
+        {
+          "text": "real images for real objects",
+          "image": null
+        },
+        {
+          "text": "no images",
+          "image": null
+        },
+        {
+          "text": "only same-size images",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    }
+  ]
+}

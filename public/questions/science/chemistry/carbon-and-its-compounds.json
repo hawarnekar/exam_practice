@@ -1,0 +1,3619 @@
+{
+  "subject": "Science",
+  "topic": "Chemistry",
+  "subtopic": "Carbon and Its Compounds",
+  "questions": [
+    {
+      "id": "sci-carbon-compounds-001",
+      "text": "In the atmosphere, carbon is mainly present as:",
+      "image": null,
+      "options": [
+        {
+          "text": "carbon monoxide only",
+          "image": null
+        },
+        {
+          "text": "carbon monoxide in traces and carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "carbon dioxide only",
+          "image": null
+        },
+        {
+          "text": "coal and petroleum",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-002",
+      "text": "Carbon forms a very large number of compounds mainly because carbon atoms can:",
+      "image": null,
+      "options": [
+        {
+          "text": "conduct electricity well",
+          "image": null
+        },
+        {
+          "text": "form strong bonds with other carbon atoms",
+          "image": null
+        },
+        {
+          "text": "exist only as graphite",
+          "image": null
+        },
+        {
+          "text": "lose all four valence electrons easily",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-003",
+      "text": "Compounds of carbon are usually poor conductors of electricity because:",
+      "image": null,
+      "options": [
+        {
+          "text": "they are made only of metals",
+          "image": null
+        },
+        {
+          "text": "they contain only ionic bonds",
+          "image": null
+        },
+        {
+          "text": "there is usually no free movement of charged particles",
+          "image": null
+        },
+        {
+          "text": "carbon has no valence electrons",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-004",
+      "text": "Which of the following is an allotrope of carbon?",
+      "image": null,
+      "options": [
+        {
+          "text": "Carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "Sodium carbonate",
+          "image": null
+        },
+        {
+          "text": "Fullerene",
+          "image": null
+        },
+        {
+          "text": "Methane",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-005",
+      "text": "The tendency of carbon to form bonds with itself is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "combustion",
+          "image": null
+        },
+        {
+          "text": "catenation",
+          "image": null
+        },
+        {
+          "text": "hydrogenation",
+          "image": null
+        },
+        {
+          "text": "saponification",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-006",
+      "text": "In a covalent bond, atoms generally:",
+      "image": null,
+      "options": [
+        {
+          "text": "share electron pairs",
+          "image": null
+        },
+        {
+          "text": "transfer protons",
+          "image": null
+        },
+        {
+          "text": "exchange neutrons",
+          "image": null
+        },
+        {
+          "text": "form only positive ions",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-007",
+      "text": "What is the valency of carbon?",
+      "image": null,
+      "options": [
+        {
+          "text": "1",
+          "image": null
+        },
+        {
+          "text": "2",
+          "image": null
+        },
+        {
+          "text": "3",
+          "image": null
+        },
+        {
+          "text": "4",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-008",
+      "text": "How many shared electron pairs are present in a molecule of methane, $\\ce{CH4}$?",
+      "image": null,
+      "options": [
+        {
+          "text": "1",
+          "image": null
+        },
+        {
+          "text": "2",
+          "image": null
+        },
+        {
+          "text": "3",
+          "image": null
+        },
+        {
+          "text": "4",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-009",
+      "text": "Which formula represents propane?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{C2H6}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{C3H8}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{C4H10}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{C5H12}$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-010",
+      "text": "The general formula of alkenes is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{C_nH_{2n+2}}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{C_nH_{2n}}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{C_nH_{2n-2}}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{C_nH_n}$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-011",
+      "text": "Which of these compounds is unsaturated?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{C2H6}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{C3H8}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{C2H4}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CH4}$",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-012",
+      "text": "Which compound is the first member of the alkyne series?",
+      "image": null,
+      "options": [
+        {
+          "text": "Methyne",
+          "image": null
+        },
+        {
+          "text": "Ethyne",
+          "image": null
+        },
+        {
+          "text": "Propyne",
+          "image": null
+        },
+        {
+          "text": "Butyne",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-013",
+      "text": "The minimum number of carbon atoms needed for an alkane to show chain isomerism is:",
+      "image": null,
+      "options": [
+        {
+          "text": "2",
+          "image": null
+        },
+        {
+          "text": "3",
+          "image": null
+        },
+        {
+          "text": "4",
+          "image": null
+        },
+        {
+          "text": "5",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-014",
+      "text": "How many structural isomers are possible for pentane?",
+      "image": null,
+      "options": [
+        {
+          "text": "2",
+          "image": null
+        },
+        {
+          "text": "3",
+          "image": null
+        },
+        {
+          "text": "4",
+          "image": null
+        },
+        {
+          "text": "5",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-015",
+      "text": "Successive members of a homologous series differ by which group?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{-CH3}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{-CH2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{-OH}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{-COOH}$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-016",
+      "text": "The molecular mass difference between two adjacent members of a homologous series is:",
+      "image": null,
+      "options": [
+        {
+          "text": "12 u",
+          "image": null
+        },
+        {
+          "text": "14 u",
+          "image": null
+        },
+        {
+          "text": "16 u",
+          "image": null
+        },
+        {
+          "text": "18 u",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-017",
+      "text": "Which functional group is present in alcohols?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{-CHO}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{-COOH}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{-OH}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{-CO-}$",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-018",
+      "text": "The functional group of carboxylic acids is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{-OH}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{-CHO}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{-COOH}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{-X}$",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-019",
+      "text": "The functional group $\\ce{-CHO}$ is found in:",
+      "image": null,
+      "options": [
+        {
+          "text": "alcohols",
+          "image": null
+        },
+        {
+          "text": "aldehydes",
+          "image": null
+        },
+        {
+          "text": "ketones",
+          "image": null
+        },
+        {
+          "text": "carboxylic acids",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-020",
+      "text": "Which functional group is present in propanone?",
+      "image": null,
+      "options": [
+        {
+          "text": "Alcohol",
+          "image": null
+        },
+        {
+          "text": "Aldehyde",
+          "image": null
+        },
+        {
+          "text": "Ketone",
+          "image": null
+        },
+        {
+          "text": "Carboxylic acid",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-021",
+      "text": "The IUPAC name of the compound commonly called acetylene is:",
+      "image": null,
+      "options": [
+        {
+          "text": "Ethane",
+          "image": null
+        },
+        {
+          "text": "Ethene",
+          "image": null
+        },
+        {
+          "text": "Ethyne",
+          "image": null
+        },
+        {
+          "text": "Methyne",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-022",
+      "text": "The IUPAC name of ethyl ethanoate belongs to which class of compounds?",
+      "image": null,
+      "options": [
+        {
+          "text": "Alcohol",
+          "image": null
+        },
+        {
+          "text": "Ester",
+          "image": null
+        },
+        {
+          "text": "Aldehyde",
+          "image": null
+        },
+        {
+          "text": "Alkene",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-023",
+      "text": "The compound $\\ce{CH3CH2CH2CHO}$ is named:",
+      "image": null,
+      "options": [
+        {
+          "text": "Butanal",
+          "image": null
+        },
+        {
+          "text": "Butanone",
+          "image": null
+        },
+        {
+          "text": "Propanal",
+          "image": null
+        },
+        {
+          "text": "Propanone",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-024",
+      "text": "Which substance is commonly known as vinegar when present as a dilute solution in water?",
+      "image": null,
+      "options": [
+        {
+          "text": "Methanol",
+          "image": null
+        },
+        {
+          "text": "Ethanol",
+          "image": null
+        },
+        {
+          "text": "Ethanoic acid",
+          "image": null
+        },
+        {
+          "text": "Ethanal",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-025",
+      "text": "Which acid is present in vinegar?",
+      "image": null,
+      "options": [
+        {
+          "text": "Formic acid",
+          "image": null
+        },
+        {
+          "text": "Citric acid",
+          "image": null
+        },
+        {
+          "text": "Acetic acid",
+          "image": null
+        },
+        {
+          "text": "Sulphuric acid",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-026",
+      "text": "A mixture of ethanol and methanol made unfit for drinking is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "rectified spirit",
+          "image": null
+        },
+        {
+          "text": "absolute alcohol",
+          "image": null
+        },
+        {
+          "text": "denatured alcohol",
+          "image": null
+        },
+        {
+          "text": "methylated water",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-027",
+      "text": "When sodium reacts with ethanol, the gas evolved is:",
+      "image": null,
+      "options": [
+        {
+          "text": "oxygen",
+          "image": null
+        },
+        {
+          "text": "hydrogen",
+          "image": null
+        },
+        {
+          "text": "carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "methane",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-028",
+      "text": "The product formed when ethanol is oxidised completely is mainly:",
+      "image": null,
+      "options": [
+        {
+          "text": "ethene",
+          "image": null
+        },
+        {
+          "text": "ethanoic acid",
+          "image": null
+        },
+        {
+          "text": "carbon dioxide and water",
+          "image": null
+        },
+        {
+          "text": "sodium ethoxide",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-029",
+      "text": "Alkaline potassium permanganate is commonly used in this chapter as:",
+      "image": null,
+      "options": [
+        {
+          "text": "a reducing agent",
+          "image": null
+        },
+        {
+          "text": "an oxidising agent",
+          "image": null
+        },
+        {
+          "text": "a dehydrating agent",
+          "image": null
+        },
+        {
+          "text": "a neutral salt",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-030",
+      "text": "Hydrogenation of vegetable oils is an example of:",
+      "image": null,
+      "options": [
+        {
+          "text": "substitution reaction",
+          "image": null
+        },
+        {
+          "text": "addition reaction",
+          "image": null
+        },
+        {
+          "text": "neutralisation reaction",
+          "image": null
+        },
+        {
+          "text": "precipitation reaction",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-031",
+      "text": "Which type of compounds commonly undergo addition reactions?",
+      "image": null,
+      "options": [
+        {
+          "text": "Only alkanes",
+          "image": null
+        },
+        {
+          "text": "Alkenes and alkynes",
+          "image": null
+        },
+        {
+          "text": "Only alcohols",
+          "image": null
+        },
+        {
+          "text": "Only carboxylic acids",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-032",
+      "text": "Which reaction is used to convert ethanol into ethene?",
+      "image": null,
+      "options": [
+        {
+          "text": "oxidation",
+          "image": null
+        },
+        {
+          "text": "dehydration",
+          "image": null
+        },
+        {
+          "text": "hydrogenation",
+          "image": null
+        },
+        {
+          "text": "saponification",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-033",
+      "text": "When ethanol reacts with ethanoic acid in the presence of an acid catalyst, the main product is:",
+      "image": null,
+      "options": [
+        {
+          "text": "ethene",
+          "image": null
+        },
+        {
+          "text": "ethyl ethanoate",
+          "image": null
+        },
+        {
+          "text": "sodium ethanoate",
+          "image": null
+        },
+        {
+          "text": "methane",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-034",
+      "text": "Esters are often recognised by their:",
+      "image": null,
+      "options": [
+        {
+          "text": "fruity smell",
+          "image": null
+        },
+        {
+          "text": "black colour",
+          "image": null
+        },
+        {
+          "text": "metallic lustre",
+          "image": null
+        },
+        {
+          "text": "high electrical conductivity",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-035",
+      "text": "The alkaline hydrolysis of an ester is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "esterification",
+          "image": null
+        },
+        {
+          "text": "saponification",
+          "image": null
+        },
+        {
+          "text": "combustion",
+          "image": null
+        },
+        {
+          "text": "polymerisation",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-036",
+      "text": "Soap molecules have:",
+      "image": null,
+      "options": [
+        {
+          "text": "only hydrophobic parts",
+          "image": null
+        },
+        {
+          "text": "only hydrophilic parts",
+          "image": null
+        },
+        {
+          "text": "a hydrophilic head and a hydrophobic tail",
+          "image": null
+        },
+        {
+          "text": "no interaction with water or oil",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-037",
+      "text": "Soap does not clean well in hard water because soap reacts with calcium and magnesium salts to form:",
+      "image": null,
+      "options": [
+        {
+          "text": "scum",
+          "image": null
+        },
+        {
+          "text": "sugar",
+          "image": null
+        },
+        {
+          "text": "ethanol",
+          "image": null
+        },
+        {
+          "text": "carbon dioxide",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-038",
+      "text": "Micelles are formed when soap molecules arrange themselves in water so that:",
+      "image": null,
+      "options": [
+        {
+          "text": "hydrophobic tails point outward into water",
+          "image": null
+        },
+        {
+          "text": "hydrophilic heads point outward into water",
+          "image": null
+        },
+        {
+          "text": "all parts avoid grease",
+          "image": null
+        },
+        {
+          "text": "soap becomes an ionic crystal",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-039",
+      "text": "Carbon compounds generally have low melting and boiling points because they usually contain:",
+      "image": null,
+      "options": [
+        {
+          "text": "strong ionic bonds throughout a lattice",
+          "image": null
+        },
+        {
+          "text": "weak intermolecular forces between molecules",
+          "image": null
+        },
+        {
+          "text": "only metallic bonds",
+          "image": null
+        },
+        {
+          "text": "free electrons like metals",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-040",
+      "text": "Diamond is hard because each carbon atom is bonded to four other carbon atoms in:",
+      "image": null,
+      "options": [
+        {
+          "text": "a one-dimensional chain",
+          "image": null
+        },
+        {
+          "text": "a two-dimensional sheet",
+          "image": null
+        },
+        {
+          "text": "a three-dimensional network",
+          "image": null
+        },
+        {
+          "text": "separate molecules",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-041",
+      "text": "Graphite conducts electricity because:",
+      "image": null,
+      "options": [
+        {
+          "text": "each carbon atom forms four sigma bonds",
+          "image": null
+        },
+        {
+          "text": "it contains mobile electrons in its layered structure",
+          "image": null
+        },
+        {
+          "text": "it is made of ions",
+          "image": null
+        },
+        {
+          "text": "it dissolves in water",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-042",
+      "text": "Which statement correctly compares saturated and unsaturated hydrocarbons?",
+      "image": null,
+      "options": [
+        {
+          "text": "Saturated hydrocarbons have at least one double or triple bond.",
+          "image": null
+        },
+        {
+          "text": "Unsaturated hydrocarbons contain only single carbon-carbon bonds.",
+          "image": null
+        },
+        {
+          "text": "Unsaturated hydrocarbons can undergo addition reactions.",
+          "image": null
+        },
+        {
+          "text": "Saturated hydrocarbons are always more reactive than alkenes.",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-043",
+      "text": "Which pair contains only unsaturated hydrocarbons?",
+      "image": null,
+      "options": [
+        {
+          "text": "Propane and butane",
+          "image": null
+        },
+        {
+          "text": "Propene and propyne",
+          "image": null
+        },
+        {
+          "text": "Methane and ethane",
+          "image": null
+        },
+        {
+          "text": "Ethane and propane",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-044",
+      "text": "Which compound is saturated?",
+      "image": null,
+      "options": [
+        {
+          "text": "Ethene",
+          "image": null
+        },
+        {
+          "text": "Ethyne",
+          "image": null
+        },
+        {
+          "text": "Ethane",
+          "image": null
+        },
+        {
+          "text": "Propyne",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-045",
+      "text": "Incomplete combustion of a hydrocarbon is indicated by:",
+      "image": null,
+      "options": [
+        {
+          "text": "a clean blue flame only",
+          "image": null
+        },
+        {
+          "text": "a black deposit of soot",
+          "image": null
+        },
+        {
+          "text": "formation of salt crystals",
+          "image": null
+        },
+        {
+          "text": "evolution of hydrogen gas only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-046",
+      "text": "Why does a gas or kerosene stove sometimes blacken the bottom of a vessel?",
+      "image": null,
+      "options": [
+        {
+          "text": "The fuel is burning with excess oxygen.",
+          "image": null
+        },
+        {
+          "text": "The air holes are blocked and combustion is incomplete.",
+          "image": null
+        },
+        {
+          "text": "The vessel is made of copper.",
+          "image": null
+        },
+        {
+          "text": "The fuel contains no carbon.",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-047",
+      "text": "What happens when ethanoic acid reacts with sodium carbonate?",
+      "image": null,
+      "options": [
+        {
+          "text": "Hydrogen gas is evolved.",
+          "image": null
+        },
+        {
+          "text": "Carbon dioxide gas is evolved.",
+          "image": null
+        },
+        {
+          "text": "Oxygen gas is evolved.",
+          "image": null
+        },
+        {
+          "text": "No gas is evolved.",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-048",
+      "text": "The reaction of ethanoic acid with sodium hydrogen carbonate confirms that ethanoic acid:",
+      "image": null,
+      "options": [
+        {
+          "text": "is a base",
+          "image": null
+        },
+        {
+          "text": "produces carbon dioxide with carbonates or hydrogen carbonates",
+          "image": null
+        },
+        {
+          "text": "does not react with salts",
+          "image": null
+        },
+        {
+          "text": "is an unsaturated hydrocarbon",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-049",
+      "text": "Which formula represents the compound that is commonly called acetic acid?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{CH3OH}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CH3COOH}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{C2H5OH}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{HCOOH}$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-050",
+      "text": "Why does carbon normally form covalent compounds rather than forming $\\ce{C^{4+}}$ or $\\ce{C^{4-}}$ ions?",
+      "image": null,
+      "options": [
+        {
+          "text": "Losing or gaining four electrons is energetically difficult.",
+          "image": null
+        },
+        {
+          "text": "Carbon has no electrons.",
+          "image": null
+        },
+        {
+          "text": "Carbon is always a metal.",
+          "image": null
+        },
+        {
+          "text": "Carbon cannot share electrons.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-051",
+      "text": "The first organic compound prepared in a laboratory from inorganic substances was:",
+      "image": null,
+      "options": [
+        {
+          "text": "Methane",
+          "image": null
+        },
+        {
+          "text": "Ethyl alcohol",
+          "image": null
+        },
+        {
+          "text": "Acetic acid",
+          "image": null
+        },
+        {
+          "text": "Urea",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-052",
+      "text": "$\\ce{C3H8}$ belongs to which homologous series?",
+      "image": null,
+      "options": [
+        {
+          "text": "Alkynes",
+          "image": null
+        },
+        {
+          "text": "Alkenes",
+          "image": null
+        },
+        {
+          "text": "Alkanes",
+          "image": null
+        },
+        {
+          "text": "Cycloalkanes",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-053",
+      "text": "Soaps are formed by the saponification of:",
+      "image": null,
+      "options": [
+        {
+          "text": "alcohols",
+          "image": null
+        },
+        {
+          "text": "simple esters only",
+          "image": null
+        },
+        {
+          "text": "carboxylic acids only",
+          "image": null
+        },
+        {
+          "text": "glycerides",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-054",
+      "text": "Rectified spirit is approximately:",
+      "image": null,
+      "options": [
+        {
+          "text": "50% ethanol",
+          "image": null
+        },
+        {
+          "text": "80% ethanol",
+          "image": null
+        },
+        {
+          "text": "95% ethanol",
+          "image": null
+        },
+        {
+          "text": "40-50% ethanol",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-055",
+      "text": "The IUPAC name of $\\ce{CH3CHO}$ is:",
+      "image": null,
+      "options": [
+        {
+          "text": "Acetaldehyde",
+          "image": null
+        },
+        {
+          "text": "Formaldehyde",
+          "image": null
+        },
+        {
+          "text": "Methyl formaldehyde",
+          "image": null
+        },
+        {
+          "text": "Ethanal",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-056",
+      "text": "Which statement best explains why carbon mainly forms covalent compounds?",
+      "image": null,
+      "options": [
+        {
+          "text": "Carbon has four valence electrons.",
+          "image": null
+        },
+        {
+          "text": "Forming $\\ce{C^{4+}}$ or $\\ce{C^{4-}}$ needs a large amount of energy.",
+          "image": null
+        },
+        {
+          "text": "Carbon completes its octet by sharing electrons.",
+          "image": null
+        },
+        {
+          "text": "All of the above.",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-057",
+      "text": "The general formula of alkanes is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{C_nH_{2n}}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{C_nH_{2n+2}}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{C_nH_{2n-2}}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{C_nH_{n+2}}$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-058",
+      "text": "The general formula of alkynes is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{C_nH_{2n+2}}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{C_nH_{2n}}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{C_nH_{2n-2}}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{C_nH_n}$",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-059",
+      "text": "The next higher homologue after $\\ce{C3H8}$ in the alkane series is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{C3H6}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{C4H8}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{C4H10}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{C5H10}$",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-060",
+      "text": "Members of a homologous series have:",
+      "image": null,
+      "options": [
+        {
+          "text": "different functional groups and different general formulae",
+          "image": null
+        },
+        {
+          "text": "the same functional group and the same general formula",
+          "image": null
+        },
+        {
+          "text": "the same molecular mass",
+          "image": null
+        },
+        {
+          "text": "no gradual change in physical properties",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-061",
+      "text": "The boiling points of members of a homologous series generally increase with:",
+      "image": null,
+      "options": [
+        {
+          "text": "decrease in molecular mass",
+          "image": null
+        },
+        {
+          "text": "increase in molecular mass",
+          "image": null
+        },
+        {
+          "text": "loss of functional group",
+          "image": null
+        },
+        {
+          "text": "decrease in carbon chain length",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-062",
+      "text": "The first member of the alkane series is:",
+      "image": null,
+      "options": [
+        {
+          "text": "Methane",
+          "image": null
+        },
+        {
+          "text": "Ethane",
+          "image": null
+        },
+        {
+          "text": "Propane",
+          "image": null
+        },
+        {
+          "text": "Butane",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-063",
+      "text": "Which bond is present between the two carbon atoms in ethane?",
+      "image": null,
+      "options": [
+        {
+          "text": "Single bond",
+          "image": null
+        },
+        {
+          "text": "Double bond",
+          "image": null
+        },
+        {
+          "text": "Triple bond",
+          "image": null
+        },
+        {
+          "text": "Ionic bond",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-064",
+      "text": "Which bond is present between the two carbon atoms in ethene?",
+      "image": null,
+      "options": [
+        {
+          "text": "Single bond",
+          "image": null
+        },
+        {
+          "text": "Double bond",
+          "image": null
+        },
+        {
+          "text": "Triple bond",
+          "image": null
+        },
+        {
+          "text": "Coordinate bond",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-065",
+      "text": "Which bond is present between the two carbon atoms in ethyne?",
+      "image": null,
+      "options": [
+        {
+          "text": "Single bond",
+          "image": null
+        },
+        {
+          "text": "Double bond",
+          "image": null
+        },
+        {
+          "text": "Triple bond",
+          "image": null
+        },
+        {
+          "text": "Ionic bond",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-066",
+      "text": "Which reagent is commonly used to test unsaturation in a carbon compound?",
+      "image": null,
+      "options": [
+        {
+          "text": "Lime water",
+          "image": null
+        },
+        {
+          "text": "Bromine water",
+          "image": null
+        },
+        {
+          "text": "Sodium chloride solution",
+          "image": null
+        },
+        {
+          "text": "Dilute hydrochloric acid",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-067",
+      "text": "An unsaturated hydrocarbon usually decolourises:",
+      "image": null,
+      "options": [
+        {
+          "text": "blue litmus only",
+          "image": null
+        },
+        {
+          "text": "bromine water",
+          "image": null
+        },
+        {
+          "text": "lime water",
+          "image": null
+        },
+        {
+          "text": "common salt solution",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-068",
+      "text": "Which type of hydrocarbons commonly undergo substitution reactions with chlorine in sunlight?",
+      "image": null,
+      "options": [
+        {
+          "text": "Alkanes",
+          "image": null
+        },
+        {
+          "text": "Alkenes",
+          "image": null
+        },
+        {
+          "text": "Alkynes",
+          "image": null
+        },
+        {
+          "text": "Esters",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-069",
+      "text": "When methane reacts with chlorine in sunlight, the reaction is an example of:",
+      "image": null,
+      "options": [
+        {
+          "text": "addition reaction",
+          "image": null
+        },
+        {
+          "text": "substitution reaction",
+          "image": null
+        },
+        {
+          "text": "esterification",
+          "image": null
+        },
+        {
+          "text": "saponification",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-070",
+      "text": "The first substitution product formed when methane reacts with chlorine is:",
+      "image": null,
+      "options": [
+        {
+          "text": "Ethane",
+          "image": null
+        },
+        {
+          "text": "Chloromethane",
+          "image": null
+        },
+        {
+          "text": "Methanol",
+          "image": null
+        },
+        {
+          "text": "Ethene",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-071",
+      "text": "Complete combustion of methane produces:",
+      "image": null,
+      "options": [
+        {
+          "text": "carbon monoxide and water",
+          "image": null
+        },
+        {
+          "text": "carbon dioxide and water",
+          "image": null
+        },
+        {
+          "text": "carbon and hydrogen",
+          "image": null
+        },
+        {
+          "text": "ethanol and oxygen",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-072",
+      "text": "A clean blue flame generally indicates:",
+      "image": null,
+      "options": [
+        {
+          "text": "complete combustion",
+          "image": null
+        },
+        {
+          "text": "incomplete combustion",
+          "image": null
+        },
+        {
+          "text": "no oxygen supply",
+          "image": null
+        },
+        {
+          "text": "formation of soot only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-073",
+      "text": "A yellow, sooty flame generally indicates:",
+      "image": null,
+      "options": [
+        {
+          "text": "complete combustion",
+          "image": null
+        },
+        {
+          "text": "incomplete combustion",
+          "image": null
+        },
+        {
+          "text": "combustion without carbon",
+          "image": null
+        },
+        {
+          "text": "only water formation",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-074",
+      "text": "The molecular formula of ethanol is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{CH3OH}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{C2H5OH}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CH3COOH}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{C2H4}$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-075",
+      "text": "The molecular formula of methanol is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{CH3OH}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{C2H5OH}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CH3COOH}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{C3H7OH}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-076",
+      "text": "The IUPAC name of $\\ce{CH3OH}$ is:",
+      "image": null,
+      "options": [
+        {
+          "text": "Ethanol",
+          "image": null
+        },
+        {
+          "text": "Methanol",
+          "image": null
+        },
+        {
+          "text": "Methanal",
+          "image": null
+        },
+        {
+          "text": "Methanoic acid",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-077",
+      "text": "The IUPAC name of $\\ce{CH3CH2OH}$ is:",
+      "image": null,
+      "options": [
+        {
+          "text": "Methanol",
+          "image": null
+        },
+        {
+          "text": "Ethanol",
+          "image": null
+        },
+        {
+          "text": "Ethanal",
+          "image": null
+        },
+        {
+          "text": "Ethanoic acid",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-078",
+      "text": "The IUPAC name of $\\ce{CH3COCH3}$ is:",
+      "image": null,
+      "options": [
+        {
+          "text": "Propanal",
+          "image": null
+        },
+        {
+          "text": "Propanone",
+          "image": null
+        },
+        {
+          "text": "Propanoic acid",
+          "image": null
+        },
+        {
+          "text": "Propanol",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-079",
+      "text": "The IUPAC name of $\\ce{HCHO}$ is:",
+      "image": null,
+      "options": [
+        {
+          "text": "Methanal",
+          "image": null
+        },
+        {
+          "text": "Ethanal",
+          "image": null
+        },
+        {
+          "text": "Methanol",
+          "image": null
+        },
+        {
+          "text": "Methanoic acid",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-080",
+      "text": "The compound $\\ce{CH3COOC2H5}$ is:",
+      "image": null,
+      "options": [
+        {
+          "text": "ethanol",
+          "image": null
+        },
+        {
+          "text": "ethanoic acid",
+          "image": null
+        },
+        {
+          "text": "ethyl ethanoate",
+          "image": null
+        },
+        {
+          "text": "propanone",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-081",
+      "text": "Esterification is the reaction between:",
+      "image": null,
+      "options": [
+        {
+          "text": "an alcohol and a carboxylic acid",
+          "image": null
+        },
+        {
+          "text": "an alkane and oxygen",
+          "image": null
+        },
+        {
+          "text": "soap and water",
+          "image": null
+        },
+        {
+          "text": "sodium and ethanol",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-082",
+      "text": "Which catalyst is commonly used in esterification?",
+      "image": null,
+      "options": [
+        {
+          "text": "Dilute hydrochloric acid",
+          "image": null
+        },
+        {
+          "text": "Concentrated sulphuric acid",
+          "image": null
+        },
+        {
+          "text": "Sodium hydroxide solution",
+          "image": null
+        },
+        {
+          "text": "Lime water",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-083",
+      "text": "In the preparation of ethene from ethanol, concentrated sulphuric acid acts mainly as:",
+      "image": null,
+      "options": [
+        {
+          "text": "an oxidising agent",
+          "image": null
+        },
+        {
+          "text": "a dehydrating agent",
+          "image": null
+        },
+        {
+          "text": "a neutral salt",
+          "image": null
+        },
+        {
+          "text": "a base",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-084",
+      "text": "Ethanol gives ethene on heating with excess concentrated sulphuric acid at about:",
+      "image": null,
+      "options": [
+        {
+          "text": "273 K",
+          "image": null
+        },
+        {
+          "text": "373 K",
+          "image": null
+        },
+        {
+          "text": "443 K",
+          "image": null
+        },
+        {
+          "text": "573 K",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-085",
+      "text": "Which reagent can oxidise ethanol to ethanoic acid?",
+      "image": null,
+      "options": [
+        {
+          "text": "Alkaline $\\ce{KMnO4}$",
+          "image": null
+        },
+        {
+          "text": "Acidified $\\ce{K2Cr2O7}$",
+          "image": null
+        },
+        {
+          "text": "Both alkaline $\\ce{KMnO4}$ and acidified $\\ce{K2Cr2O7}$",
+          "image": null
+        },
+        {
+          "text": "Sodium chloride solution only",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-086",
+      "text": "Ethanoic acid turns blue litmus:",
+      "image": null,
+      "options": [
+        {
+          "text": "green",
+          "image": null
+        },
+        {
+          "text": "red",
+          "image": null
+        },
+        {
+          "text": "yellow",
+          "image": null
+        },
+        {
+          "text": "colourless",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-087",
+      "text": "Pure ethanoic acid is also called glacial acetic acid because it:",
+      "image": null,
+      "options": [
+        {
+          "text": "boils at room temperature",
+          "image": null
+        },
+        {
+          "text": "freezes during winter in cold climates",
+          "image": null
+        },
+        {
+          "text": "is insoluble in water",
+          "image": null
+        },
+        {
+          "text": "is a gas at room temperature",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-088",
+      "text": "The product formed along with water during esterification of ethanol and ethanoic acid is:",
+      "image": null,
+      "options": [
+        {
+          "text": "ethyl ethanoate",
+          "image": null
+        },
+        {
+          "text": "sodium ethanoate",
+          "image": null
+        },
+        {
+          "text": "ethanal",
+          "image": null
+        },
+        {
+          "text": "ethene",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-089",
+      "text": "On alkaline hydrolysis, an ester gives:",
+      "image": null,
+      "options": [
+        {
+          "text": "an alcohol and a salt of carboxylic acid",
+          "image": null
+        },
+        {
+          "text": "only carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "only hydrogen gas",
+          "image": null
+        },
+        {
+          "text": "an alkane and oxygen",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-090",
+      "text": "Soaps are generally sodium or potassium salts of:",
+      "image": null,
+      "options": [
+        {
+          "text": "short-chain alcohols",
+          "image": null
+        },
+        {
+          "text": "long-chain carboxylic acids",
+          "image": null
+        },
+        {
+          "text": "inorganic acids",
+          "image": null
+        },
+        {
+          "text": "alkenes",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-091",
+      "text": "Detergents are generally salts of:",
+      "image": null,
+      "options": [
+        {
+          "text": "long-chain carboxylic acids only",
+          "image": null
+        },
+        {
+          "text": "sulphonic acids or ammonium compounds",
+          "image": null
+        },
+        {
+          "text": "simple alcohols only",
+          "image": null
+        },
+        {
+          "text": "alkanes only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-092",
+      "text": "Detergents are preferred over soaps in hard water because detergents:",
+      "image": null,
+      "options": [
+        {
+          "text": "form more scum",
+          "image": null
+        },
+        {
+          "text": "do not form insoluble scum with calcium and magnesium ions",
+          "image": null
+        },
+        {
+          "text": "are insoluble in water",
+          "image": null
+        },
+        {
+          "text": "are always natural products",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-093",
+      "text": "Use of some detergents should be limited mainly because they may be:",
+      "image": null,
+      "options": [
+        {
+          "text": "too biodegradable",
+          "image": null
+        },
+        {
+          "text": "non-biodegradable and polluting",
+          "image": null
+        },
+        {
+          "text": "insoluble in all water",
+          "image": null
+        },
+        {
+          "text": "made only from glucose",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-094",
+      "text": "The hydrophobic part of a soap molecule is its:",
+      "image": null,
+      "options": [
+        {
+          "text": "ionic head",
+          "image": null
+        },
+        {
+          "text": "long hydrocarbon tail",
+          "image": null
+        },
+        {
+          "text": "sodium ion only",
+          "image": null
+        },
+        {
+          "text": "water molecule",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-095",
+      "text": "In a soap micelle, oily dirt is usually held:",
+      "image": null,
+      "options": [
+        {
+          "text": "on the outer ionic surface",
+          "image": null
+        },
+        {
+          "text": "in the hydrophobic interior",
+          "image": null
+        },
+        {
+          "text": "only in surrounding pure water",
+          "image": null
+        },
+        {
+          "text": "as a salt crystal",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-096",
+      "text": "Hard water contains appreciable amounts of:",
+      "image": null,
+      "options": [
+        {
+          "text": "sodium and potassium ions only",
+          "image": null
+        },
+        {
+          "text": "calcium and magnesium ions",
+          "image": null
+        },
+        {
+          "text": "silver and gold ions",
+          "image": null
+        },
+        {
+          "text": "hydrogen and hydroxide ions only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-097",
+      "text": "Carbon compounds generally have low melting and boiling points because their molecules are held by:",
+      "image": null,
+      "options": [
+        {
+          "text": "strong ionic bonds between all molecules",
+          "image": null
+        },
+        {
+          "text": "weak intermolecular forces",
+          "image": null
+        },
+        {
+          "text": "metallic bonds",
+          "image": null
+        },
+        {
+          "text": "nuclear forces",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-098",
+      "text": "Which allotrope of carbon has a football-like $\\ce{C60}$ structure?",
+      "image": null,
+      "options": [
+        {
+          "text": "Diamond",
+          "image": null
+        },
+        {
+          "text": "Graphite",
+          "image": null
+        },
+        {
+          "text": "Buckminsterfullerene",
+          "image": null
+        },
+        {
+          "text": "Charcoal",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-099",
+      "text": "In graphite, each carbon atom is bonded to:",
+      "image": null,
+      "options": [
+        {
+          "text": "two other carbon atoms",
+          "image": null
+        },
+        {
+          "text": "three other carbon atoms",
+          "image": null
+        },
+        {
+          "text": "four other carbon atoms",
+          "image": null
+        },
+        {
+          "text": "no other carbon atom",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-100",
+      "text": "Diamond is generally a poor conductor of electricity because:",
+      "image": null,
+      "options": [
+        {
+          "text": "it has free ions",
+          "image": null
+        },
+        {
+          "text": "it has no free electrons available for conduction",
+          "image": null
+        },
+        {
+          "text": "it is soluble in water",
+          "image": null
+        },
+        {
+          "text": "it is a liquid",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-101",
+      "text": "Which substances are commonly excluded from the usual study of organic chemistry despite containing carbon?",
+      "image": null,
+      "options": [
+        {
+          "text": "Methane and ethane",
+          "image": null
+        },
+        {
+          "text": "Carbonates and oxides of carbon",
+          "image": null
+        },
+        {
+          "text": "Alcohols and esters",
+          "image": null
+        },
+        {
+          "text": "Alkenes and alkynes",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-102",
+      "text": "A match of bond type and example is correct for:",
+      "image": null,
+      "options": [
+        {
+          "text": "Ionic bond - $\\ce{NaCl}$",
+          "image": null
+        },
+        {
+          "text": "Non-polar covalent bond - $\\ce{NH3}$",
+          "image": null
+        },
+        {
+          "text": "Polar covalent bond - $\\ce{N2}$",
+          "image": null
+        },
+        {
+          "text": "Fullerene - $\\ce{NaCl}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-103",
+      "text": "Which matching is correct?",
+      "image": null,
+      "options": [
+        {
+          "text": "Catenation - Ethane",
+          "image": null
+        },
+        {
+          "text": "Alkane - Butene",
+          "image": null
+        },
+        {
+          "text": "Alkene - Ethyne",
+          "image": null
+        },
+        {
+          "text": "Alkyne - Ethyne",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-104",
+      "text": "Which matching of functional group and class is correct?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{-OH}$ - Alcohol",
+          "image": null
+        },
+        {
+          "text": "$\\ce{-CHO}$ - Ketone",
+          "image": null
+        },
+        {
+          "text": "$\\ce{-COOH}$ - Haloalkane",
+          "image": null
+        },
+        {
+          "text": "$\\ce{-X}$ - Aldehyde",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-105",
+      "text": "The functional group $\\ce{-CO-}$ is characteristic of:",
+      "image": null,
+      "options": [
+        {
+          "text": "alcohols",
+          "image": null
+        },
+        {
+          "text": "aldehydes",
+          "image": null
+        },
+        {
+          "text": "ketones",
+          "image": null
+        },
+        {
+          "text": "haloalkanes",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-106",
+      "text": "The functional group $\\ce{-X}$, where X is a halogen, is found in:",
+      "image": null,
+      "options": [
+        {
+          "text": "haloalkanes",
+          "image": null
+        },
+        {
+          "text": "alcohols",
+          "image": null
+        },
+        {
+          "text": "aldehydes",
+          "image": null
+        },
+        {
+          "text": "carboxylic acids",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-107",
+      "text": "Assertion: Diamond and graphite are allotropes of carbon. Reason: They are different structural forms of the same element. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-108",
+      "text": "Assertion: Saturated hydrocarbons are less reactive than unsaturated hydrocarbons. Reason: Saturated hydrocarbons contain only single bonds. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-109",
+      "text": "Assertion: Soap cannot form lather easily in hard water. Reason: Calcium and magnesium ions form insoluble salts with soap. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-110",
+      "text": "Assertion: Ethanol is used in medicines such as tincture iodine. Reason: Ethanol is a good solvent for many substances. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-111",
+      "text": "Assertion: Ethanoic acid reacts with sodium carbonate to produce carbon dioxide. Reason: Carboxylic acids react with carbonates to release $\\ce{CO2}$. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-112",
+      "text": "Assertion: Graphite is used for making electrodes. Reason: Graphite conducts electricity. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-113",
+      "text": "Assertion: Ethene undergoes addition reactions. Reason: Ethene contains a carbon-carbon double bond. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-114",
+      "text": "Assertion: Carbon forms long chains and rings. Reason: Carbon has a strong tendency for catenation. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-115",
+      "text": "Assertion: Most covalent carbon compounds do not conduct electricity. Reason: They usually do not produce ions. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-116",
+      "text": "Assertion: Concentrated sulphuric acid converts ethanol into ethene. Reason: Concentrated sulphuric acid removes water from ethanol. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-117",
+      "text": "A black electrode from a dry cell gives a gas that turns lime water milky when strongly heated in air. The electrode material is most likely:",
+      "image": null,
+      "options": [
+        {
+          "text": "copper",
+          "image": null
+        },
+        {
+          "text": "graphite",
+          "image": null
+        },
+        {
+          "text": "sodium chloride",
+          "image": null
+        },
+        {
+          "text": "sulphur",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-118",
+      "text": "Which gas turns lime water milky when produced during combustion of carbon?",
+      "image": null,
+      "options": [
+        {
+          "text": "Hydrogen",
+          "image": null
+        },
+        {
+          "text": "Oxygen",
+          "image": null
+        },
+        {
+          "text": "Carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "Nitrogen",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-119",
+      "text": "The carbon compound that gives ethene on heating with excess concentrated sulphuric acid is:",
+      "image": null,
+      "options": [
+        {
+          "text": "ethanol",
+          "image": null
+        },
+        {
+          "text": "ethanoic acid",
+          "image": null
+        },
+        {
+          "text": "methane",
+          "image": null
+        },
+        {
+          "text": "propanone",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-120",
+      "text": "The difference in molecular formula between two consecutive members of a homologous series is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{CH}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CH2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{COOH}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{OH}$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-121",
+      "text": "Which compound is used for making alcoholic drinks by fermentation?",
+      "image": null,
+      "options": [
+        {
+          "text": "Methanol",
+          "image": null
+        },
+        {
+          "text": "Ethanol",
+          "image": null
+        },
+        {
+          "text": "Ethanoic acid",
+          "image": null
+        },
+        {
+          "text": "Propanone",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-122",
+      "text": "Which enzyme is commonly associated with conversion of glucose into ethanol during fermentation?",
+      "image": null,
+      "options": [
+        {
+          "text": "Zymase",
+          "image": null
+        },
+        {
+          "text": "Pepsin",
+          "image": null
+        },
+        {
+          "text": "Trypsin",
+          "image": null
+        },
+        {
+          "text": "Amylase",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-123",
+      "text": "Which substance is added to ethanol to make denatured alcohol poisonous and unfit for drinking?",
+      "image": null,
+      "options": [
+        {
+          "text": "Methanol",
+          "image": null
+        },
+        {
+          "text": "Glucose",
+          "image": null
+        },
+        {
+          "text": "Sodium chloride",
+          "image": null
+        },
+        {
+          "text": "Ethanoic acid",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-124",
+      "text": "Excess intake of ethanol mainly affects the:",
+      "image": null,
+      "options": [
+        {
+          "text": "liver and nervous system",
+          "image": null
+        },
+        {
+          "text": "bones only",
+          "image": null
+        },
+        {
+          "text": "hair only",
+          "image": null
+        },
+        {
+          "text": "tooth enamel only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-125",
+      "text": "Which compound is produced when ethanol reacts with sodium?",
+      "image": null,
+      "options": [
+        {
+          "text": "sodium ethoxide",
+          "image": null
+        },
+        {
+          "text": "sodium carbonate",
+          "image": null
+        },
+        {
+          "text": "sodium acetate only",
+          "image": null
+        },
+        {
+          "text": "sodium chloride",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-126",
+      "text": "Which gas is liberated when ethanol reacts with sodium?",
+      "image": null,
+      "options": [
+        {
+          "text": "Oxygen",
+          "image": null
+        },
+        {
+          "text": "Hydrogen",
+          "image": null
+        },
+        {
+          "text": "Carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "Chlorine",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-127",
+      "text": "Which carbon compound is mainly responsible for the sour taste of vinegar?",
+      "image": null,
+      "options": [
+        {
+          "text": "Ethanol",
+          "image": null
+        },
+        {
+          "text": "Ethanoic acid",
+          "image": null
+        },
+        {
+          "text": "Methane",
+          "image": null
+        },
+        {
+          "text": "Ethyne",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-128",
+      "text": "Ethanoic acid reacts with sodium hydroxide to form sodium ethanoate and:",
+      "image": null,
+      "options": [
+        {
+          "text": "hydrogen gas",
+          "image": null
+        },
+        {
+          "text": "water",
+          "image": null
+        },
+        {
+          "text": "carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "methane",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-carbon-compounds-129",
+      "text": "Which reaction forms soap from fats or oils using alkali?",
+      "image": null,
+      "options": [
+        {
+          "text": "Esterification",
+          "image": null
+        },
+        {
+          "text": "Saponification",
+          "image": null
+        },
+        {
+          "text": "Combustion",
+          "image": null
+        },
+        {
+          "text": "Hydrogenation",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    }
+  ]
+}

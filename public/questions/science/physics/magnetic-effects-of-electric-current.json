@@ -1,0 +1,3899 @@
+{
+  "subject": "Science",
+  "topic": "Physics",
+  "subtopic": "Magnetic Effects of Electric Current",
+  "questions": [
+    {
+      "id": "sci-magnetic-effects-current-001",
+      "text": "A house has a 2 A fuse on a 220 V supply. How many 50 W bulbs can safely be used?",
+      "image": null,
+      "options": [
+        {
+          "text": "7",
+          "image": null
+        },
+        {
+          "text": "8",
+          "image": null
+        },
+        {
+          "text": "5",
+          "image": null
+        },
+        {
+          "text": "6",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-002",
+      "text": "When electricity is billed in kilowatt-hours, the consumer pays for:",
+      "image": null,
+      "options": [
+        {
+          "text": "electric current",
+          "image": null
+        },
+        {
+          "text": "electric energy",
+          "image": null
+        },
+        {
+          "text": "electric charge",
+          "image": null
+        },
+        {
+          "text": "electric power",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-003",
+      "text": "A magnetic field line is used to show the direction of:",
+      "image": null,
+      "options": [
+        {
+          "text": "south-north line only",
+          "image": null
+        },
+        {
+          "text": "a compass box",
+          "image": null
+        },
+        {
+          "text": "a bar magnet body",
+          "image": null
+        },
+        {
+          "text": "magnetic field",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-004",
+      "text": "A house has a 20 A fuse and a 220 V supply. If a 1500 W heater is on, how many 100 W bulbs can be used simultaneously?",
+      "image": null,
+      "options": [
+        {
+          "text": "35",
+          "image": null
+        },
+        {
+          "text": "29",
+          "image": null
+        },
+        {
+          "text": "30",
+          "image": null
+        },
+        {
+          "text": "19",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-005",
+      "text": "Inside a current-carrying solenoid, magnetic field lines are mainly:",
+      "image": null,
+      "options": [
+        {
+          "text": "along the axis and parallel to each other",
+          "image": null
+        },
+        {
+          "text": "circular but non-intersecting everywhere",
+          "image": null
+        },
+        {
+          "text": "circular only at all interior points",
+          "image": null
+        },
+        {
+          "text": "random and discontinuous",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-006",
+      "text": "A strong bar magnet is placed vertically above a horizontal wooden board. The magnetic field lines exist:",
+      "image": null,
+      "options": [
+        {
+          "text": "only in the horizontal plane",
+          "image": null
+        },
+        {
+          "text": "only in the vertical plane",
+          "image": null
+        },
+        {
+          "text": "only near the poles",
+          "image": null
+        },
+        {
+          "text": "in all planes around the magnet",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-007",
+      "text": "Fuse wires are generally made of:",
+      "image": null,
+      "options": [
+        {
+          "text": "hard steel",
+          "image": null
+        },
+        {
+          "text": "pure tin or an alloy of tin",
+          "image": null
+        },
+        {
+          "text": "glass fibre",
+          "image": null
+        },
+        {
+          "text": "aluminium oxide",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-008",
+      "text": "The most suitable core material for an electromagnet is:",
+      "image": null,
+      "options": [
+        {
+          "text": "soft iron",
+          "image": null
+        },
+        {
+          "text": "brass",
+          "image": null
+        },
+        {
+          "text": "aluminium",
+          "image": null
+        },
+        {
+          "text": "steel",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-009",
+      "text": "The north pole of the earth's magnet lies near the:",
+      "image": null,
+      "options": [
+        {
+          "text": "geographical south",
+          "image": null
+        },
+        {
+          "text": "geographical east",
+          "image": null
+        },
+        {
+          "text": "geographical west",
+          "image": null
+        },
+        {
+          "text": "geographical north",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-010",
+      "text": "An electric fuse is used to prevent damage due to:",
+      "image": null,
+      "options": [
+        {
+          "text": "short circuit only",
+          "image": null
+        },
+        {
+          "text": "overload only",
+          "image": null
+        },
+        {
+          "text": "both short circuit and overload",
+          "image": null
+        },
+        {
+          "text": "low voltage only",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-011",
+      "text": "Which of these is not attracted by a magnet?",
+      "image": null,
+      "options": [
+        {
+          "text": "steel",
+          "image": null
+        },
+        {
+          "text": "cobalt",
+          "image": null
+        },
+        {
+          "text": "brass",
+          "image": null
+        },
+        {
+          "text": "nickel",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-012",
+      "text": "Overloading in domestic wiring can occur because of:",
+      "image": null,
+      "options": [
+        {
+          "text": "many appliances connected to one socket",
+          "image": null
+        },
+        {
+          "text": "short circuiting",
+          "image": null
+        },
+        {
+          "text": "sudden rise in supply voltage",
+          "image": null
+        },
+        {
+          "text": "any of these conditions",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-013",
+      "text": "The magnetic field near a long straight current-carrying wire consists of:",
+      "image": null,
+      "options": [
+        {
+          "text": "straight lines perpendicular to the wire",
+          "image": null
+        },
+        {
+          "text": "straight lines parallel to the wire",
+          "image": null
+        },
+        {
+          "text": "radial lines from the wire",
+          "image": null
+        },
+        {
+          "text": "concentric circles centred on the wire",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-014",
+      "text": "The shape of the earth's magnetic field resembles that of an imaginary:",
+      "image": null,
+      "options": [
+        {
+          "text": "U-shaped magnet",
+          "image": null
+        },
+        {
+          "text": "straight current-carrying conductor",
+          "image": null
+        },
+        {
+          "text": "current-carrying circular coil",
+          "image": null
+        },
+        {
+          "text": "bar magnet",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-015",
+      "text": "Which device works on electromagnetic induction?",
+      "image": null,
+      "options": [
+        {
+          "text": "galvanometer",
+          "image": null
+        },
+        {
+          "text": "ammeter",
+          "image": null
+        },
+        {
+          "text": "voltmeter",
+          "image": null
+        },
+        {
+          "text": "transformer",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-016",
+      "text": "Which statement about magnetic field lines is incorrect?",
+      "image": null,
+      "options": [
+        {
+          "text": "Their direction at a point is the direction a north pole of a compass points.",
+          "image": null
+        },
+        {
+          "text": "Magnetic field lines are closed curves.",
+          "image": null
+        },
+        {
+          "text": "Parallel and equidistant field lines represent zero field strength.",
+          "image": null
+        },
+        {
+          "text": "Closeness of field lines indicates relative strength.",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-017",
+      "text": "If current in the coil at one end of an electromagnet appears clockwise, that end behaves as a:",
+      "image": null,
+      "options": [
+        {
+          "text": "north pole",
+          "image": null
+        },
+        {
+          "text": "east pole",
+          "image": null
+        },
+        {
+          "text": "south pole",
+          "image": null
+        },
+        {
+          "text": "west pole",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-018",
+      "text": "If the front face of a circular current loop behaves as a north pole, current in that face is:",
+      "image": null,
+      "options": [
+        {
+          "text": "clockwise",
+          "image": null
+        },
+        {
+          "text": "downwards",
+          "image": null
+        },
+        {
+          "text": "anticlockwise",
+          "image": null
+        },
+        {
+          "text": "upwards",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-019",
+      "text": "In an electric motor, the direction of current in the coil changes once in each:",
+      "image": null,
+      "options": [
+        {
+          "text": "two rotations",
+          "image": null
+        },
+        {
+          "text": "one rotation",
+          "image": null
+        },
+        {
+          "text": "half rotation",
+          "image": null
+        },
+        {
+          "text": "one-fourth rotation",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-020",
+      "text": "A magnetic field exerts no force on:",
+      "image": null,
+      "options": [
+        {
+          "text": "a charge moving perpendicular to the field",
+          "image": null
+        },
+        {
+          "text": "an unmagnetised iron bar",
+          "image": null
+        },
+        {
+          "text": "a stationary electric charge",
+          "image": null
+        },
+        {
+          "text": "a magnet",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-021",
+      "text": "When a rectangular coil is rotated in a magnetic field, the induced current changes direction once in each:",
+      "image": null,
+      "options": [
+        {
+          "text": "two revolutions",
+          "image": null
+        },
+        {
+          "text": "one revolution",
+          "image": null
+        },
+        {
+          "text": "half revolution",
+          "image": null
+        },
+        {
+          "text": "one-fourth revolution",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-022",
+      "text": "During a short circuit, current in the circuit:",
+      "image": null,
+      "options": [
+        {
+          "text": "reduces substantially",
+          "image": null
+        },
+        {
+          "text": "does not change",
+          "image": null
+        },
+        {
+          "text": "increases heavily",
+          "image": null
+        },
+        {
+          "text": "varies continuously within safe limits",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-023",
+      "text": "Which domestic wiring statement is not true?",
+      "image": null,
+      "options": [
+        {
+          "text": "Lamps are connected in parallel.",
+          "image": null
+        },
+        {
+          "text": "Switches, fuses, and circuit breakers should be placed in the neutral wire.",
+          "image": null
+        },
+        {
+          "text": "The earth wire of an electric iron is connected to its metal case.",
+          "image": null
+        },
+        {
+          "text": "The live wire is connected to the live pin of a plug.",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-024",
+      "text": "A DC generator is based on the principle of:",
+      "image": null,
+      "options": [
+        {
+          "text": "electrochemical induction",
+          "image": null
+        },
+        {
+          "text": "electromagnetic induction",
+          "image": null
+        },
+        {
+          "text": "magnetic effect of current",
+          "image": null
+        },
+        {
+          "text": "heating effect of current",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-025",
+      "text": "A north pole of a bar magnet is pushed slowly into a solenoid, held still, and then withdrawn rapidly. Maximum galvanometer deflection is observed when the magnet is:",
+      "image": null,
+      "options": [
+        {
+          "text": "moving towards the solenoid",
+          "image": null
+        },
+        {
+          "text": "moving into the solenoid slowly",
+          "image": null
+        },
+        {
+          "text": "at rest inside the solenoid",
+          "image": null
+        },
+        {
+          "text": "moving out of the solenoid rapidly",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-026",
+      "text": "The maximum number of 40 W tube lights that can safely run in parallel from a 240 V supply with a 5 A fuse is:",
+      "image": null,
+      "options": [
+        {
+          "text": "5",
+          "image": null
+        },
+        {
+          "text": "15",
+          "image": null
+        },
+        {
+          "text": "20",
+          "image": null
+        },
+        {
+          "text": "30",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-027",
+      "text": "Force on a current-carrying conductor in a magnetic field is maximum when the angle between conductor and field is:",
+      "image": null,
+      "options": [
+        {
+          "text": "45 degree",
+          "image": null
+        },
+        {
+          "text": "60 degree",
+          "image": null
+        },
+        {
+          "text": "90 degree",
+          "image": null
+        },
+        {
+          "text": "180 degree",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-028",
+      "text": "The frequency of direct current is:",
+      "image": null,
+      "options": [
+        {
+          "text": "0 Hz",
+          "image": null
+        },
+        {
+          "text": "50 Hz",
+          "image": null
+        },
+        {
+          "text": "60 Hz",
+          "image": null
+        },
+        {
+          "text": "100 Hz",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-029",
+      "text": "The device used to produce electric current is called a:",
+      "image": null,
+      "options": [
+        {
+          "text": "generator",
+          "image": null
+        },
+        {
+          "text": "galvanometer",
+          "image": null
+        },
+        {
+          "text": "ammeter",
+          "image": null
+        },
+        {
+          "text": "motor",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-030",
+      "text": "Which change does not increase the emf of a simple generator?",
+      "image": null,
+      "options": [
+        {
+          "text": "Increasing the number of turns in the coil",
+          "image": null
+        },
+        {
+          "text": "Winding the coil on a soft iron armature",
+          "image": null
+        },
+        {
+          "text": "Increasing the air gap in which the armature turns",
+          "image": null
+        },
+        {
+          "text": "Increasing the speed of rotation",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-031",
+      "text": "An electric generator converts mechanical energy mainly into:",
+      "image": null,
+      "options": [
+        {
+          "text": "electrical energy",
+          "image": null
+        },
+        {
+          "text": "heat energy",
+          "image": null
+        },
+        {
+          "text": "chemical energy",
+          "image": null
+        },
+        {
+          "text": "sound energy",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-032",
+      "text": "Electromagnetic induction is the phenomenon of:",
+      "image": null,
+      "options": [
+        {
+          "text": "charging a body by friction",
+          "image": null
+        },
+        {
+          "text": "generating a magnetic field due to current",
+          "image": null
+        },
+        {
+          "text": "producing induced current due to relative motion of a magnet and coil",
+          "image": null
+        },
+        {
+          "text": "rotating a motor coil by a battery",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-033",
+      "text": "A circuit breaker used instead of a fuse in domestic wiring is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "CBD",
+          "image": null
+        },
+        {
+          "text": "DCB",
+          "image": null
+        },
+        {
+          "text": "MCD",
+          "image": null
+        },
+        {
+          "text": "MCB",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-034",
+      "text": "The frequency of alternating current supply in India is:",
+      "image": null,
+      "options": [
+        {
+          "text": "0 Hz",
+          "image": null
+        },
+        {
+          "text": "50 Hz",
+          "image": null
+        },
+        {
+          "text": "60 Hz",
+          "image": null
+        },
+        {
+          "text": "100 Hz",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-035",
+      "text": "For a 1 kW electric kettle on a 250 V AC supply, which statement is not correct?",
+      "image": null,
+      "options": [
+        {
+          "text": "The fuse should be fitted in the live wire.",
+          "image": null
+        },
+        {
+          "text": "A 13 A fuse is the most appropriate value.",
+          "image": null
+        },
+        {
+          "text": "The neutral wire is coloured black in older colour coding.",
+          "image": null
+        },
+        {
+          "text": "The green wire should be connected to the earth pin.",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-036",
+      "text": "A hair dryer normally draws 3.5 A. Which fuse is most suitable?",
+      "image": null,
+      "options": [
+        {
+          "text": "3 A",
+          "image": null
+        },
+        {
+          "text": "5 A",
+          "image": null
+        },
+        {
+          "text": "10 A",
+          "image": null
+        },
+        {
+          "text": "30 A",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-037",
+      "text": "The magnitude of induced current in a coil does not directly depend on:",
+      "image": null,
+      "options": [
+        {
+          "text": "speed of motion of the magnet",
+          "image": null
+        },
+        {
+          "text": "number of turns of the coil",
+          "image": null
+        },
+        {
+          "text": "resistivity of the coil wire",
+          "image": null
+        },
+        {
+          "text": "strength of the magnet",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-038",
+      "text": "An electric motor transforms:",
+      "image": null,
+      "options": [
+        {
+          "text": "mechanical energy into electrical energy",
+          "image": null
+        },
+        {
+          "text": "heat energy into electrical energy only",
+          "image": null
+        },
+        {
+          "text": "electrical energy into heat energy only",
+          "image": null
+        },
+        {
+          "text": "electrical energy into mechanical energy",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-039",
+      "text": "A 48 W car headlamp works from a 12 V battery. A suitable fuse rating is:",
+      "image": null,
+      "options": [
+        {
+          "text": "5 A",
+          "image": null
+        },
+        {
+          "text": "10 A",
+          "image": null
+        },
+        {
+          "text": "3 A",
+          "image": null
+        },
+        {
+          "text": "13 A",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-040",
+      "text": "The essential difference between an AC generator and a DC generator is that:",
+      "image": null,
+      "options": [
+        {
+          "text": "an AC generator has an electromagnet while a DC generator has a permanent magnet",
+          "image": null
+        },
+        {
+          "text": "a DC generator always gives higher voltage",
+          "image": null
+        },
+        {
+          "text": "an AC generator always gives higher voltage",
+          "image": null
+        },
+        {
+          "text": "an AC generator has slip rings while a DC generator has a commutator",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-041",
+      "text": "An MCB cuts off supply in short-circuiting or overloading mainly using the:",
+      "image": null,
+      "options": [
+        {
+          "text": "chemical effect of current",
+          "image": null
+        },
+        {
+          "text": "heating effect of current",
+          "image": null
+        },
+        {
+          "text": "magnetic effect of current",
+          "image": null
+        },
+        {
+          "text": "electroplating effect of current",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-042",
+      "text": "A 1.25 kW heater works on a 220 V mains supply. A suitable fuse rating is:",
+      "image": null,
+      "options": [
+        {
+          "text": "2 A",
+          "image": null
+        },
+        {
+          "text": "5 A",
+          "image": null
+        },
+        {
+          "text": "10 A",
+          "image": null
+        },
+        {
+          "text": "13 A",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-043",
+      "text": "A TV set uses 230 W on a 230 V mains supply. A suitable fuse rating is:",
+      "image": null,
+      "options": [
+        {
+          "text": "5 A",
+          "image": null
+        },
+        {
+          "text": "3 A",
+          "image": null
+        },
+        {
+          "text": "1 A",
+          "image": null
+        },
+        {
+          "text": "2 A",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-044",
+      "text": "If the back face of a circular loop is a south magnetic pole, current in that face is:",
+      "image": null,
+      "options": [
+        {
+          "text": "towards south",
+          "image": null
+        },
+        {
+          "text": "clockwise",
+          "image": null
+        },
+        {
+          "text": "anticlockwise",
+          "image": null
+        },
+        {
+          "text": "towards north",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-045",
+      "text": "The magnetic effect of current was discovered by:",
+      "image": null,
+      "options": [
+        {
+          "text": "Maxwell",
+          "image": null
+        },
+        {
+          "text": "Fleming",
+          "image": null
+        },
+        {
+          "text": "Oersted",
+          "image": null
+        },
+        {
+          "text": "Faraday",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-046",
+      "text": "Magnetic field lines:",
+      "image": null,
+      "options": [
+        {
+          "text": "intersect at right angles",
+          "image": null
+        },
+        {
+          "text": "intersect at 45 degree",
+          "image": null
+        },
+        {
+          "text": "do not cross one another",
+          "image": null
+        },
+        {
+          "text": "cross at 60 degree",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-047",
+      "text": "If current in a solenoid appears anticlockwise from one end, that end is a:",
+      "image": null,
+      "options": [
+        {
+          "text": "west pole",
+          "image": null
+        },
+        {
+          "text": "south pole",
+          "image": null
+        },
+        {
+          "text": "north pole",
+          "image": null
+        },
+        {
+          "text": "east pole",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-048",
+      "text": "The magnetic field inside a long straight solenoid carrying current:",
+      "image": null,
+      "options": [
+        {
+          "text": "is zero",
+          "image": null
+        },
+        {
+          "text": "decreases near the end only",
+          "image": null
+        },
+        {
+          "text": "increases near the end only",
+          "image": null
+        },
+        {
+          "text": "is nearly the same at all interior points",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-049",
+      "text": "A magnet attracts:",
+      "image": null,
+      "options": [
+        {
+          "text": "plastic",
+          "image": null
+        },
+        {
+          "text": "any metal",
+          "image": null
+        },
+        {
+          "text": "aluminium",
+          "image": null
+        },
+        {
+          "text": "iron and steel",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-050",
+      "text": "Magnetic field lines outside a bar magnet begin from the:",
+      "image": null,
+      "options": [
+        {
+          "text": "north pole and end at the south pole",
+          "image": null
+        },
+        {
+          "text": "south pole and end at the north pole",
+          "image": null
+        },
+        {
+          "text": "middle and end at the north pole",
+          "image": null
+        },
+        {
+          "text": "middle and end at the south pole",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-051",
+      "text": "The magnetic field is strongest at:",
+      "image": null,
+      "options": [
+        {
+          "text": "the middle of the magnet",
+          "image": null
+        },
+        {
+          "text": "the north pole only",
+          "image": null
+        },
+        {
+          "text": "the south pole only",
+          "image": null
+        },
+        {
+          "text": "both poles",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-052",
+      "text": "The core of a strong electromagnet is usually made of:",
+      "image": null,
+      "options": [
+        {
+          "text": "aluminium",
+          "image": null
+        },
+        {
+          "text": "soft iron",
+          "image": null
+        },
+        {
+          "text": "copper",
+          "image": null
+        },
+        {
+          "text": "steel",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-053",
+      "text": "Magnetic lines of force inside a current-carrying solenoid are:",
+      "image": null,
+      "options": [
+        {
+          "text": "perpendicular to the axis",
+          "image": null
+        },
+        {
+          "text": "parallel inside and circular near the ends",
+          "image": null
+        },
+        {
+          "text": "randomly spaced",
+          "image": null
+        },
+        {
+          "text": "only circular everywhere",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-054",
+      "text": "When a soft iron bar is inserted into a current-carrying solenoid, the magnetic field inside:",
+      "image": null,
+      "options": [
+        {
+          "text": "becomes zero",
+          "image": null
+        },
+        {
+          "text": "increases",
+          "image": null
+        },
+        {
+          "text": "decreases",
+          "image": null
+        },
+        {
+          "text": "remains unaffected",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-055",
+      "text": "An electric generator actually acts as:",
+      "image": null,
+      "options": [
+        {
+          "text": "a source of electric charge",
+          "image": null
+        },
+        {
+          "text": "a source of heat energy",
+          "image": null
+        },
+        {
+          "text": "an electromagnet only",
+          "image": null
+        },
+        {
+          "text": "a converter of energy",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-056",
+      "text": "A magnetic field directed north acts on an electron moving east. The magnetic force on the electron is:",
+      "image": null,
+      "options": [
+        {
+          "text": "vertically upwards",
+          "image": null
+        },
+        {
+          "text": "towards east",
+          "image": null
+        },
+        {
+          "text": "vertically downwards",
+          "image": null
+        },
+        {
+          "text": "towards north",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-057",
+      "text": "The direction of force on a current-carrying conductor in a magnetic field is given by:",
+      "image": null,
+      "options": [
+        {
+          "text": "Fleming's left hand rule",
+          "image": null
+        },
+        {
+          "text": "Fleming's right hand rule",
+          "image": null
+        },
+        {
+          "text": "right hand thumb rule",
+          "image": null
+        },
+        {
+          "text": "left hand thumb rule",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-058",
+      "text": "The direction of induced current is given by:",
+      "image": null,
+      "options": [
+        {
+          "text": "Fleming's right hand rule",
+          "image": null
+        },
+        {
+          "text": "Fleming's left hand rule",
+          "image": null
+        },
+        {
+          "text": "right hand thumb rule",
+          "image": null
+        },
+        {
+          "text": "left hand thumb rule",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-059",
+      "text": "Switches in household circuits should be connected to the:",
+      "image": null,
+      "options": [
+        {
+          "text": "live wire",
+          "image": null
+        },
+        {
+          "text": "neutral wire",
+          "image": null
+        },
+        {
+          "text": "earth wire",
+          "image": null
+        },
+        {
+          "text": "any one wire",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-060",
+      "text": "The most important safety device for protecting home appliances from short circuiting or overloading is a:",
+      "image": null,
+      "options": [
+        {
+          "text": "earthing wire only",
+          "image": null
+        },
+        {
+          "text": "voltage stabilizer only",
+          "image": null
+        },
+        {
+          "text": "fuse",
+          "image": null
+        },
+        {
+          "text": "electric meter",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-061",
+      "text": "The best material for making permanent magnets is:",
+      "image": null,
+      "options": [
+        {
+          "text": "aluminium",
+          "image": null
+        },
+        {
+          "text": "soft iron",
+          "image": null
+        },
+        {
+          "text": "copper",
+          "image": null
+        },
+        {
+          "text": "alnico",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-062",
+      "text": "The magnetic field of a current-carrying solenoid is similar to that of a:",
+      "image": null,
+      "options": [
+        {
+          "text": "bar magnet",
+          "image": null
+        },
+        {
+          "text": "glass rod",
+          "image": null
+        },
+        {
+          "text": "capacitor",
+          "image": null
+        },
+        {
+          "text": "resistor",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-063",
+      "text": "In household supply in India, the usual AC voltage and frequency are about:",
+      "image": null,
+      "options": [
+        {
+          "text": "110 V and 60 Hz",
+          "image": null
+        },
+        {
+          "text": "220 V and 50 Hz",
+          "image": null
+        },
+        {
+          "text": "12 V and 0 Hz",
+          "image": null
+        },
+        {
+          "text": "440 V and 100 Hz",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-064",
+      "text": "In Fleming's left hand rule, the first finger points in the direction of:",
+      "image": null,
+      "options": [
+        {
+          "text": "force",
+          "image": null
+        },
+        {
+          "text": "current",
+          "image": null
+        },
+        {
+          "text": "magnetic field",
+          "image": null
+        },
+        {
+          "text": "motion of positive charge only",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-065",
+      "text": "In Fleming's left hand rule, the central finger points in the direction of:",
+      "image": null,
+      "options": [
+        {
+          "text": "magnetic field",
+          "image": null
+        },
+        {
+          "text": "current",
+          "image": null
+        },
+        {
+          "text": "force",
+          "image": null
+        },
+        {
+          "text": "motion",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-066",
+      "text": "In Fleming's left hand rule, the thumb points in the direction of:",
+      "image": null,
+      "options": [
+        {
+          "text": "magnetic field",
+          "image": null
+        },
+        {
+          "text": "current",
+          "image": null
+        },
+        {
+          "text": "force or motion",
+          "image": null
+        },
+        {
+          "text": "induced current",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-067",
+      "text": "A magnetic compass is used mainly to:",
+      "image": null,
+      "options": [
+        {
+          "text": "measure current",
+          "image": null
+        },
+        {
+          "text": "determine north-south direction",
+          "image": null
+        },
+        {
+          "text": "produce AC voltage",
+          "image": null
+        },
+        {
+          "text": "increase resistance",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-068",
+      "text": "A compass can also be used to:",
+      "image": null,
+      "options": [
+        {
+          "text": "draw magnetic field lines around a magnet",
+          "image": null
+        },
+        {
+          "text": "make a permanent magnet stronger",
+          "image": null
+        },
+        {
+          "text": "convert AC into DC",
+          "image": null
+        },
+        {
+          "text": "prevent overloading",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-069",
+      "text": "The strength of magnetic field around a straight wire increases when:",
+      "image": null,
+      "options": [
+        {
+          "text": "current through the wire increases",
+          "image": null
+        },
+        {
+          "text": "current through the wire decreases",
+          "image": null
+        },
+        {
+          "text": "the wire is disconnected",
+          "image": null
+        },
+        {
+          "text": "the wire is replaced by plastic",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-070",
+      "text": "The direction of magnetic field around a straight current-carrying conductor is found by:",
+      "image": null,
+      "options": [
+        {
+          "text": "right hand thumb rule",
+          "image": null
+        },
+        {
+          "text": "Fleming's left hand rule",
+          "image": null
+        },
+        {
+          "text": "Fleming's right hand rule",
+          "image": null
+        },
+        {
+          "text": "Ohm's law",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-071",
+      "text": "Right hand thumb rule states that when the thumb points in the direction of current, the curled fingers show the direction of:",
+      "image": null,
+      "options": [
+        {
+          "text": "electric field",
+          "image": null
+        },
+        {
+          "text": "magnetic field",
+          "image": null
+        },
+        {
+          "text": "force on a wire",
+          "image": null
+        },
+        {
+          "text": "induced current",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-072",
+      "text": "The rule used to find force on a current-carrying conductor placed perpendicular to a magnetic field is:",
+      "image": null,
+      "options": [
+        {
+          "text": "Fleming's left hand rule",
+          "image": null
+        },
+        {
+          "text": "Fleming's right hand rule",
+          "image": null
+        },
+        {
+          "text": "right hand thumb rule",
+          "image": null
+        },
+        {
+          "text": "corkscrew rule only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-073",
+      "text": "In Fleming's right hand rule, the thumb indicates the direction of:",
+      "image": null,
+      "options": [
+        {
+          "text": "motion of conductor",
+          "image": null
+        },
+        {
+          "text": "magnetic field",
+          "image": null
+        },
+        {
+          "text": "induced current",
+          "image": null
+        },
+        {
+          "text": "earth wire",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-074",
+      "text": "In Fleming's right hand rule, the first finger indicates the direction of:",
+      "image": null,
+      "options": [
+        {
+          "text": "motion",
+          "image": null
+        },
+        {
+          "text": "magnetic field",
+          "image": null
+        },
+        {
+          "text": "induced current",
+          "image": null
+        },
+        {
+          "text": "force on electron",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-075",
+      "text": "In Fleming's right hand rule, the middle finger indicates the direction of:",
+      "image": null,
+      "options": [
+        {
+          "text": "motion",
+          "image": null
+        },
+        {
+          "text": "magnetic field",
+          "image": null
+        },
+        {
+          "text": "induced current",
+          "image": null
+        },
+        {
+          "text": "force",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-076",
+      "text": "A current-carrying conductor placed in a magnetic field experiences:",
+      "image": null,
+      "options": [
+        {
+          "text": "no effect",
+          "image": null
+        },
+        {
+          "text": "a force",
+          "image": null
+        },
+        {
+          "text": "only heating and no force",
+          "image": null
+        },
+        {
+          "text": "only charging",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-077",
+      "text": "An electromagnet works on the:",
+      "image": null,
+      "options": [
+        {
+          "text": "heating effect of current",
+          "image": null
+        },
+        {
+          "text": "magnetic effect of current",
+          "image": null
+        },
+        {
+          "text": "chemical effect of current",
+          "image": null
+        },
+        {
+          "text": "photoelectric effect",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-078",
+      "text": "The split-ring commutator in a DC motor is used to:",
+      "image": null,
+      "options": [
+        {
+          "text": "reverse current in the coil every half rotation",
+          "image": null
+        },
+        {
+          "text": "increase resistance permanently",
+          "image": null
+        },
+        {
+          "text": "store charge",
+          "image": null
+        },
+        {
+          "text": "make the field zero",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-079",
+      "text": "The brushes in an electric motor are usually made of:",
+      "image": null,
+      "options": [
+        {
+          "text": "carbon",
+          "image": null
+        },
+        {
+          "text": "glass",
+          "image": null
+        },
+        {
+          "text": "rubber",
+          "image": null
+        },
+        {
+          "text": "wood",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-080",
+      "text": "A motor coil rotates because opposite sides of the coil experience:",
+      "image": null,
+      "options": [
+        {
+          "text": "equal forces in the same direction",
+          "image": null
+        },
+        {
+          "text": "forces in opposite directions",
+          "image": null
+        },
+        {
+          "text": "no forces",
+          "image": null
+        },
+        {
+          "text": "only electrostatic attraction",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-081",
+      "text": "The phenomenon in which current is induced in a coil by changing magnetic field is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "electrolysis",
+          "image": null
+        },
+        {
+          "text": "electromagnetic induction",
+          "image": null
+        },
+        {
+          "text": "magnetisation by rubbing",
+          "image": null
+        },
+        {
+          "text": "thermal expansion",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-082",
+      "text": "No induced current is produced in a coil when a nearby magnet is:",
+      "image": null,
+      "options": [
+        {
+          "text": "moved towards the coil",
+          "image": null
+        },
+        {
+          "text": "moved away from the coil",
+          "image": null
+        },
+        {
+          "text": "kept stationary near the coil",
+          "image": null
+        },
+        {
+          "text": "moved quickly away from the coil",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-083",
+      "text": "The current given by an ordinary dry cell is:",
+      "image": null,
+      "options": [
+        {
+          "text": "alternating current",
+          "image": null
+        },
+        {
+          "text": "direct current",
+          "image": null
+        },
+        {
+          "text": "pulsating AC only",
+          "image": null
+        },
+        {
+          "text": "zero-frequency AC only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-084",
+      "text": "The type of current used in household supply is:",
+      "image": null,
+      "options": [
+        {
+          "text": "direct current",
+          "image": null
+        },
+        {
+          "text": "alternating current",
+          "image": null
+        },
+        {
+          "text": "static current",
+          "image": null
+        },
+        {
+          "text": "induced current only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-085",
+      "text": "Overloading occurs when the current drawn by appliances is:",
+      "image": null,
+      "options": [
+        {
+          "text": "less than the bearing capacity of wire",
+          "image": null
+        },
+        {
+          "text": "equal to zero",
+          "image": null
+        },
+        {
+          "text": "greater than the bearing capacity of wire",
+          "image": null
+        },
+        {
+          "text": "only due to earthing",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-086",
+      "text": "A solenoid is:",
+      "image": null,
+      "options": [
+        {
+          "text": "a straight wire carrying current",
+          "image": null
+        },
+        {
+          "text": "a coil of many circular turns wound like a cylinder",
+          "image": null
+        },
+        {
+          "text": "a glass tube only",
+          "image": null
+        },
+        {
+          "text": "a fuse wire inside a plug",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-087",
+      "text": "The magnetic field produced by a long current-carrying solenoid resembles that of a:",
+      "image": null,
+      "options": [
+        {
+          "text": "bar magnet",
+          "image": null
+        },
+        {
+          "text": "single electric charge",
+          "image": null
+        },
+        {
+          "text": "charged comb",
+          "image": null
+        },
+        {
+          "text": "plane mirror",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-088",
+      "text": "An important advantage of AC over DC for power transmission is that AC can be:",
+      "image": null,
+      "options": [
+        {
+          "text": "stepped up and stepped down",
+          "image": null
+        },
+        {
+          "text": "stored directly in dry cells",
+          "image": null
+        },
+        {
+          "text": "made to have zero voltage always",
+          "image": null
+        },
+        {
+          "text": "used without wires",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-089",
+      "text": "A fuse protects a circuit because its wire:",
+      "image": null,
+      "options": [
+        {
+          "text": "has a high melting point",
+          "image": null
+        },
+        {
+          "text": "melts when excessive current flows",
+          "image": null
+        },
+        {
+          "text": "never heats up",
+          "image": null
+        },
+        {
+          "text": "is connected in parallel with appliances",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-090",
+      "text": "A fuse wire is connected in:",
+      "image": null,
+      "options": [
+        {
+          "text": "series with the circuit",
+          "image": null
+        },
+        {
+          "text": "parallel with the circuit",
+          "image": null
+        },
+        {
+          "text": "only across the voltmeter",
+          "image": null
+        },
+        {
+          "text": "only in the earth wire",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-091",
+      "text": "For a current-carrying circular loop, the magnetic field at the centre increases when:",
+      "image": null,
+      "options": [
+        {
+          "text": "current is increased",
+          "image": null
+        },
+        {
+          "text": "loop is broken",
+          "image": null
+        },
+        {
+          "text": "number of turns is reduced to zero",
+          "image": null
+        },
+        {
+          "text": "current is switched off",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-092",
+      "text": "If current through a straight conductor is reversed, the magnetic field direction:",
+      "image": null,
+      "options": [
+        {
+          "text": "remains the same",
+          "image": null
+        },
+        {
+          "text": "reverses",
+          "image": null
+        },
+        {
+          "text": "becomes zero permanently",
+          "image": null
+        },
+        {
+          "text": "points only north",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-093",
+      "text": "The magnetic field at a point near a straight current-carrying wire decreases when:",
+      "image": null,
+      "options": [
+        {
+          "text": "distance from the wire increases",
+          "image": null
+        },
+        {
+          "text": "current increases",
+          "image": null
+        },
+        {
+          "text": "wire becomes longer only",
+          "image": null
+        },
+        {
+          "text": "compass is removed",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-094",
+      "text": "The field inside a solenoid is considered nearly uniform because field lines are:",
+      "image": null,
+      "options": [
+        {
+          "text": "parallel and equally spaced",
+          "image": null
+        },
+        {
+          "text": "crossing each other",
+          "image": null
+        },
+        {
+          "text": "randomly curved",
+          "image": null
+        },
+        {
+          "text": "only outside the solenoid",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-095",
+      "text": "A current-carrying solenoid can be used as:",
+      "image": null,
+      "options": [
+        {
+          "text": "an electromagnet",
+          "image": null
+        },
+        {
+          "text": "a chemical cell",
+          "image": null
+        },
+        {
+          "text": "a lens",
+          "image": null
+        },
+        {
+          "text": "an insulator",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-096",
+      "text": "If current in a circular loop is clockwise when viewed from one side, that side behaves as:",
+      "image": null,
+      "options": [
+        {
+          "text": "north pole",
+          "image": null
+        },
+        {
+          "text": "south pole",
+          "image": null
+        },
+        {
+          "text": "east pole",
+          "image": null
+        },
+        {
+          "text": "west pole",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-097",
+      "text": "If current in a circular loop is anticlockwise when viewed from one side, that side behaves as:",
+      "image": null,
+      "options": [
+        {
+          "text": "north pole",
+          "image": null
+        },
+        {
+          "text": "south pole",
+          "image": null
+        },
+        {
+          "text": "east pole",
+          "image": null
+        },
+        {
+          "text": "west pole",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-098",
+      "text": "The magnetic field strength in a solenoid can be increased by:",
+      "image": null,
+      "options": [
+        {
+          "text": "increasing the number of turns per unit length",
+          "image": null
+        },
+        {
+          "text": "decreasing the current to zero",
+          "image": null
+        },
+        {
+          "text": "using plastic core only",
+          "image": null
+        },
+        {
+          "text": "removing the core and current",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-099",
+      "text": "The force on a current-carrying conductor is zero when the current is:",
+      "image": null,
+      "options": [
+        {
+          "text": "perpendicular to the magnetic field",
+          "image": null
+        },
+        {
+          "text": "parallel to the magnetic field",
+          "image": null
+        },
+        {
+          "text": "at 45 degree to the field",
+          "image": null
+        },
+        {
+          "text": "in a very strong field only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-100",
+      "text": "The force on a moving charged particle is maximum when its velocity is:",
+      "image": null,
+      "options": [
+        {
+          "text": "parallel to the magnetic field",
+          "image": null
+        },
+        {
+          "text": "opposite to the magnetic field",
+          "image": null
+        },
+        {
+          "text": "perpendicular to the magnetic field",
+          "image": null
+        },
+        {
+          "text": "zero",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-101",
+      "text": "An electric motor is based on:",
+      "image": null,
+      "options": [
+        {
+          "text": "force on a current-carrying conductor in a magnetic field",
+          "image": null
+        },
+        {
+          "text": "heating by a resistor only",
+          "image": null
+        },
+        {
+          "text": "dispersion of light",
+          "image": null
+        },
+        {
+          "text": "neutralisation reaction",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-102",
+      "text": "A generator is based on:",
+      "image": null,
+      "options": [
+        {
+          "text": "electromagnetic induction",
+          "image": null
+        },
+        {
+          "text": "heating effect only",
+          "image": null
+        },
+        {
+          "text": "chemical effect only",
+          "image": null
+        },
+        {
+          "text": "reflection of light",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-103",
+      "text": "In an AC generator, the current produced changes direction after every:",
+      "image": null,
+      "options": [
+        {
+          "text": "quarter rotation",
+          "image": null
+        },
+        {
+          "text": "half rotation",
+          "image": null
+        },
+        {
+          "text": "two rotations",
+          "image": null
+        },
+        {
+          "text": "ten rotations",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-104",
+      "text": "In a DC generator, the commutator helps the output current remain:",
+      "image": null,
+      "options": [
+        {
+          "text": "unidirectional",
+          "image": null
+        },
+        {
+          "text": "alternating at 50 Hz only",
+          "image": null
+        },
+        {
+          "text": "zero",
+          "image": null
+        },
+        {
+          "text": "random",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-105",
+      "text": "A galvanometer is used to detect:",
+      "image": null,
+      "options": [
+        {
+          "text": "small current",
+          "image": null
+        },
+        {
+          "text": "temperature",
+          "image": null
+        },
+        {
+          "text": "resistance of air",
+          "image": null
+        },
+        {
+          "text": "magnetic pole strength only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-106",
+      "text": "Induced current in a coil increases when the magnet is moved:",
+      "image": null,
+      "options": [
+        {
+          "text": "more slowly",
+          "image": null
+        },
+        {
+          "text": "faster",
+          "image": null
+        },
+        {
+          "text": "not at all",
+          "image": null
+        },
+        {
+          "text": "sideways far away without changing flux",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-107",
+      "text": "Induced current can be produced by moving:",
+      "image": null,
+      "options": [
+        {
+          "text": "a magnet near a coil",
+          "image": null
+        },
+        {
+          "text": "a wooden block near a coil",
+          "image": null
+        },
+        {
+          "text": "a plastic scale near a coil",
+          "image": null
+        },
+        {
+          "text": "a paper sheet near a coil",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-108",
+      "text": "Which is the SI unit of magnetic field?",
+      "image": null,
+      "options": [
+        {
+          "text": "joule",
+          "image": null
+        },
+        {
+          "text": "volt",
+          "image": null
+        },
+        {
+          "text": "ampere",
+          "image": null
+        },
+        {
+          "text": "tesla",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-109",
+      "text": "A magnetic field can change the direction of a moving:",
+      "image": null,
+      "options": [
+        {
+          "text": "uncharged stationary object only",
+          "image": null
+        },
+        {
+          "text": "charged particle",
+          "image": null
+        },
+        {
+          "text": "glass slab at rest",
+          "image": null
+        },
+        {
+          "text": "neutral paper piece only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-110",
+      "text": "For a current-carrying conductor of length $L$ in magnetic field $B$ at angle theta, force is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$F = BIL \\sin\\theta$",
+          "image": null
+        },
+        {
+          "text": "$F = BIL \\cos\\theta$",
+          "image": null
+        },
+        {
+          "text": "$F = BIL \\tan\\theta$",
+          "image": null
+        },
+        {
+          "text": "$F = BI/L$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-111",
+      "text": "An electromagnet is best described as:",
+      "image": null,
+      "options": [
+        {
+          "text": "a magnet made only from steel",
+          "image": null
+        },
+        {
+          "text": "a magnet produced by a current-carrying coil",
+          "image": null
+        },
+        {
+          "text": "a permanent magnet with no current",
+          "image": null
+        },
+        {
+          "text": "a charged plastic rod",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-112",
+      "text": "A dynamo is a device that converts:",
+      "image": null,
+      "options": [
+        {
+          "text": "mechanical energy into electrical energy",
+          "image": null
+        },
+        {
+          "text": "electrical energy into mechanical energy",
+          "image": null
+        },
+        {
+          "text": "heat into sound",
+          "image": null
+        },
+        {
+          "text": "chemical energy into light only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-113",
+      "text": "A transformer can:",
+      "image": null,
+      "options": [
+        {
+          "text": "increase or decrease AC voltage",
+          "image": null
+        },
+        {
+          "text": "work only on DC without changing current",
+          "image": null
+        },
+        {
+          "text": "convert plastic into magnet",
+          "image": null
+        },
+        {
+          "text": "stop electromagnetic induction",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-114",
+      "text": "Magnetic field lines are closer together where the magnetic field is:",
+      "image": null,
+      "options": [
+        {
+          "text": "weaker",
+          "image": null
+        },
+        {
+          "text": "stronger",
+          "image": null
+        },
+        {
+          "text": "zero",
+          "image": null
+        },
+        {
+          "text": "electric only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-115",
+      "text": "Two magnetic field lines never intersect because at the point of intersection:",
+      "image": null,
+      "options": [
+        {
+          "text": "field would have two directions",
+          "image": null
+        },
+        {
+          "text": "field would become electric current",
+          "image": null
+        },
+        {
+          "text": "magnetism would vanish",
+          "image": null
+        },
+        {
+          "text": "a compass cannot move",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-116",
+      "text": "The direction of magnetic field at a point is taken as the direction in which a compass needle's:",
+      "image": null,
+      "options": [
+        {
+          "text": "south pole points",
+          "image": null
+        },
+        {
+          "text": "north pole points",
+          "image": null
+        },
+        {
+          "text": "case points",
+          "image": null
+        },
+        {
+          "text": "pivot points",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-117",
+      "text": "The region around a magnet where its force can be detected is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "electric field",
+          "image": null
+        },
+        {
+          "text": "magnetic field",
+          "image": null
+        },
+        {
+          "text": "gravitational shield",
+          "image": null
+        },
+        {
+          "text": "neutral zone only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-118",
+      "text": "In a domestic electric circuit, the earth wire is usually connected to:",
+      "image": null,
+      "options": [
+        {
+          "text": "metal body of appliances",
+          "image": null
+        },
+        {
+          "text": "glass covers",
+          "image": null
+        },
+        {
+          "text": "switch knob only",
+          "image": null
+        },
+        {
+          "text": "plastic insulation only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-119",
+      "text": "The earth wire provides:",
+      "image": null,
+      "options": [
+        {
+          "text": "a low-resistance path for leakage current",
+          "image": null
+        },
+        {
+          "text": "a high-resistance heating coil",
+          "image": null
+        },
+        {
+          "text": "an extra live supply",
+          "image": null
+        },
+        {
+          "text": "a replacement for the neutral wire",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-120",
+      "text": "The colour of the earth wire in modern domestic wiring is commonly:",
+      "image": null,
+      "options": [
+        {
+          "text": "green or green-yellow",
+          "image": null
+        },
+        {
+          "text": "red only",
+          "image": null
+        },
+        {
+          "text": "black only",
+          "image": null
+        },
+        {
+          "text": "blue only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-121",
+      "text": "The live wire is the wire at:",
+      "image": null,
+      "options": [
+        {
+          "text": "high potential",
+          "image": null
+        },
+        {
+          "text": "zero potential",
+          "image": null
+        },
+        {
+          "text": "earth potential only",
+          "image": null
+        },
+        {
+          "text": "negative magnetic pole only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-122",
+      "text": "The neutral wire is approximately at:",
+      "image": null,
+      "options": [
+        {
+          "text": "earth potential",
+          "image": null
+        },
+        {
+          "text": "very high potential",
+          "image": null
+        },
+        {
+          "text": "magnetic north only",
+          "image": null
+        },
+        {
+          "text": "infinite resistance",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-123",
+      "text": "A short circuit may occur when:",
+      "image": null,
+      "options": [
+        {
+          "text": "live and neutral wires touch directly",
+          "image": null
+        },
+        {
+          "text": "earth wire is connected correctly",
+          "image": null
+        },
+        {
+          "text": "appliances are in parallel",
+          "image": null
+        },
+        {
+          "text": "a fuse melts after opening the circuit",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-124",
+      "text": "A fuse wire must have:",
+      "image": null,
+      "options": [
+        {
+          "text": "low melting point",
+          "image": null
+        },
+        {
+          "text": "very high melting point",
+          "image": null
+        },
+        {
+          "text": "infinite thickness",
+          "image": null
+        },
+        {
+          "text": "zero resistance only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-125",
+      "text": "A solenoid can be made stronger by inserting:",
+      "image": null,
+      "options": [
+        {
+          "text": "soft iron core",
+          "image": null
+        },
+        {
+          "text": "glass rod",
+          "image": null
+        },
+        {
+          "text": "wooden rod",
+          "image": null
+        },
+        {
+          "text": "rubber tube",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-126",
+      "text": "The magnetic field due to a current-carrying circular loop is strongest near:",
+      "image": null,
+      "options": [
+        {
+          "text": "the centre of the loop",
+          "image": null
+        },
+        {
+          "text": "a far away point only",
+          "image": null
+        },
+        {
+          "text": "the switch only",
+          "image": null
+        },
+        {
+          "text": "the battery casing only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-127",
+      "text": "If the number of turns in a circular coil is increased, the magnetic field at its centre:",
+      "image": null,
+      "options": [
+        {
+          "text": "increases",
+          "image": null
+        },
+        {
+          "text": "decreases to zero",
+          "image": null
+        },
+        {
+          "text": "does not change",
+          "image": null
+        },
+        {
+          "text": "becomes electric field only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-128",
+      "text": "In an electric bell, the working magnet is usually:",
+      "image": null,
+      "options": [
+        {
+          "text": "an electromagnet",
+          "image": null
+        },
+        {
+          "text": "a glass magnet",
+          "image": null
+        },
+        {
+          "text": "a plastic magnet",
+          "image": null
+        },
+        {
+          "text": "a chemical magnet",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-129",
+      "text": "An electromagnet loses its magnetism when:",
+      "image": null,
+      "options": [
+        {
+          "text": "current is switched off",
+          "image": null
+        },
+        {
+          "text": "current is switched on",
+          "image": null
+        },
+        {
+          "text": "soft iron core is inserted",
+          "image": null
+        },
+        {
+          "text": "turns are increased",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-130",
+      "text": "A permanent magnet is made from a material that:",
+      "image": null,
+      "options": [
+        {
+          "text": "retains magnetism after magnetising",
+          "image": null
+        },
+        {
+          "text": "loses magnetism immediately",
+          "image": null
+        },
+        {
+          "text": "cannot attract iron",
+          "image": null
+        },
+        {
+          "text": "must be liquid",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-131",
+      "text": "Compared with a permanent magnet, an electromagnet has the advantage that its strength:",
+      "image": null,
+      "options": [
+        {
+          "text": "can be changed by changing current",
+          "image": null
+        },
+        {
+          "text": "can never be changed",
+          "image": null
+        },
+        {
+          "text": "is always zero",
+          "image": null
+        },
+        {
+          "text": "does not depend on current",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-132",
+      "text": "The polarity of an electromagnet can be reversed by reversing the:",
+      "image": null,
+      "options": [
+        {
+          "text": "direction of current",
+          "image": null
+        },
+        {
+          "text": "mass of the core",
+          "image": null
+        },
+        {
+          "text": "colour of insulation",
+          "image": null
+        },
+        {
+          "text": "length of table",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-133",
+      "text": "Electromagnetic induction requires a change in:",
+      "image": null,
+      "options": [
+        {
+          "text": "magnetic field linked with a circuit",
+          "image": null
+        },
+        {
+          "text": "mass of a conductor",
+          "image": null
+        },
+        {
+          "text": "colour of coil",
+          "image": null
+        },
+        {
+          "text": "temperature only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-134",
+      "text": "When the coil and magnet are both stationary relative to each other, the induced current is:",
+      "image": null,
+      "options": [
+        {
+          "text": "zero",
+          "image": null
+        },
+        {
+          "text": "maximum",
+          "image": null
+        },
+        {
+          "text": "alternating at 50 Hz",
+          "image": null
+        },
+        {
+          "text": "infinite",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-135",
+      "text": "The output of a simple AC generator is obtained through:",
+      "image": null,
+      "options": [
+        {
+          "text": "slip rings",
+          "image": null
+        },
+        {
+          "text": "split rings",
+          "image": null
+        },
+        {
+          "text": "a fuse wire only",
+          "image": null
+        },
+        {
+          "text": "an earth pin only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-136",
+      "text": "The output of a simple DC generator is obtained using:",
+      "image": null,
+      "options": [
+        {
+          "text": "split-ring commutator",
+          "image": null
+        },
+        {
+          "text": "two slip rings only",
+          "image": null
+        },
+        {
+          "text": "glass brushes",
+          "image": null
+        },
+        {
+          "text": "a neutral wire only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-137",
+      "text": "The force on a current-carrying conductor reverses direction when:",
+      "image": null,
+      "options": [
+        {
+          "text": "current direction is reversed",
+          "image": null
+        },
+        {
+          "text": "wire length is unchanged",
+          "image": null
+        },
+        {
+          "text": "field remains same and current unchanged",
+          "image": null
+        },
+        {
+          "text": "conductor is kept parallel to field with no current",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-138",
+      "text": "For maximum force in a motor, the current-carrying arm should be:",
+      "image": null,
+      "options": [
+        {
+          "text": "perpendicular to magnetic field",
+          "image": null
+        },
+        {
+          "text": "parallel to magnetic field",
+          "image": null
+        },
+        {
+          "text": "outside the field only",
+          "image": null
+        },
+        {
+          "text": "at rest with no current",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-magnetic-effects-current-139",
+      "text": "The direction of induced current changes if the direction of motion of magnet is:",
+      "image": null,
+      "options": [
+        {
+          "text": "reversed",
+          "image": null
+        },
+        {
+          "text": "unchanged",
+          "image": null
+        },
+        {
+          "text": "stopped near the coil after moving",
+          "image": null
+        },
+        {
+          "text": "unrelated to coil",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    }
+  ]
+}

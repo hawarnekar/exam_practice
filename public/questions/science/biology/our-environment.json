@@ -1,0 +1,3647 @@
+{
+  "subject": "Science",
+  "topic": "Biology",
+  "subtopic": "Our Environment",
+  "questions": [
+    {
+      "id": "sci-our-environment-001",
+      "text": "Disposable plastic plates should generally not be used because they are:",
+      "image": null,
+      "options": [
+        {
+          "text": "made of lightweight material",
+          "image": null
+        },
+        {
+          "text": "made of toxic material only",
+          "image": null
+        },
+        {
+          "text": "biodegradable",
+          "image": null
+        },
+        {
+          "text": "non-biodegradable",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-002",
+      "text": "Which group contains only biodegradable items?",
+      "image": null,
+      "options": [
+        {
+          "text": "grass, flowers, leather",
+          "image": null
+        },
+        {
+          "text": "grass, wood, plastic",
+          "image": null
+        },
+        {
+          "text": "fruit peels, cake, lime juice",
+          "image": null
+        },
+        {
+          "text": "plastic, glass, DDT",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-003",
+      "text": "In the food chain grass -> deer -> tiger, what is likely if deer disappear?",
+      "image": null,
+      "options": [
+        {
+          "text": "The tiger population will increase.",
+          "image": null
+        },
+        {
+          "text": "Tigers will start eating grass.",
+          "image": null
+        },
+        {
+          "text": "The grass population will decrease.",
+          "image": null
+        },
+        {
+          "text": "Tiger population will decrease and grass will increase.",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-004",
+      "text": "Which statement about producers is incorrect?",
+      "image": null,
+      "options": [
+        {
+          "text": "Green plants and blue-green algae are producers.",
+          "image": null
+        },
+        {
+          "text": "Green plants get food from organic compounds.",
+          "image": null
+        },
+        {
+          "text": "Producers prepare food from inorganic substances.",
+          "image": null
+        },
+        {
+          "text": "Plants convert solar energy into chemical energy.",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-005",
+      "text": "About how much solar radiation is captured by green plants for photosynthesis?",
+      "image": null,
+      "options": [
+        {
+          "text": "1 percent",
+          "image": null
+        },
+        {
+          "text": "5 percent",
+          "image": null
+        },
+        {
+          "text": "8 percent",
+          "image": null
+        },
+        {
+          "text": "10 percent",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-006",
+      "text": "If a grasshopper is eaten by a frog, energy is transferred from:",
+      "image": null,
+      "options": [
+        {
+          "text": "producer to decomposer",
+          "image": null
+        },
+        {
+          "text": "producer to primary consumer",
+          "image": null
+        },
+        {
+          "text": "primary consumer to secondary consumer",
+          "image": null
+        },
+        {
+          "text": "secondary consumer to primary consumer",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-007",
+      "text": "Organisms at higher trophic levels feeding on several lower-level organisms form a:",
+      "image": null,
+      "options": [
+        {
+          "text": "food web",
+          "image": null
+        },
+        {
+          "text": "ecological pyramid",
+          "image": null
+        },
+        {
+          "text": "single ecosystem only",
+          "image": null
+        },
+        {
+          "text": "single food chain only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-008",
+      "text": "Which group contains non-biodegradable substances only?",
+      "image": null,
+      "options": [
+        {
+          "text": "wood, paper, leather",
+          "image": null
+        },
+        {
+          "text": "polythene, detergent, grass",
+          "image": null
+        },
+        {
+          "text": "plastic, detergent, glass",
+          "image": null
+        },
+        {
+          "text": "plastic, bakelite, DDT",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-009",
+      "text": "If the fourth trophic level has 5 kJ of energy, the producer level had approximately:",
+      "image": null,
+      "options": [
+        {
+          "text": "5 kJ",
+          "image": null
+        },
+        {
+          "text": "50 kJ",
+          "image": null
+        },
+        {
+          "text": "500 kJ",
+          "image": null
+        },
+        {
+          "text": "5000 kJ",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-010",
+      "text": "Excessive exposure of humans to UV rays can cause:",
+      "image": null,
+      "options": [
+        {
+          "text": "only immune improvement",
+          "image": null
+        },
+        {
+          "text": "skin cancer",
+          "image": null
+        },
+        {
+          "text": "peptic ulcers",
+          "image": null
+        },
+        {
+          "text": "damage to lungs only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-011",
+      "text": "Decomposers in an ecosystem mainly:",
+      "image": null,
+      "options": [
+        {
+          "text": "convert organic material into inorganic forms",
+          "image": null
+        },
+        {
+          "text": "convert inorganic materials into complex organic food",
+          "image": null
+        },
+        {
+          "text": "do not break down organic compounds",
+          "image": null
+        },
+        {
+          "text": "form only the top consumer level",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-012",
+      "text": "The flow of energy in an ecosystem is:",
+      "image": null,
+      "options": [
+        {
+          "text": "unidirectional",
+          "image": null
+        },
+        {
+          "text": "bidirectional",
+          "image": null
+        },
+        {
+          "text": "multidirectional",
+          "image": null
+        },
+        {
+          "text": "without any pattern",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-013",
+      "text": "The 10 percent energy transferred to the next trophic level is mainly in the form of:",
+      "image": null,
+      "options": [
+        {
+          "text": "heat energy",
+          "image": null
+        },
+        {
+          "text": "light energy",
+          "image": null
+        },
+        {
+          "text": "mechanical energy",
+          "image": null
+        },
+        {
+          "text": "chemical energy stored in biomass",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-014",
+      "text": "The number of trophic levels in a food chain is limited mainly because:",
+      "image": null,
+      "options": [
+        {
+          "text": "energy decreases at higher trophic levels",
+          "image": null
+        },
+        {
+          "text": "all food chains need polluted air",
+          "image": null
+        },
+        {
+          "text": "water is absent at higher levels",
+          "image": null
+        },
+        {
+          "text": "decomposers stop working after two levels",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-015",
+      "text": "Which sequence forms a valid food chain?",
+      "image": null,
+      "options": [
+        {
+          "text": "grass, wheat, mango",
+          "image": null
+        },
+        {
+          "text": "grass, goat, human",
+          "image": null
+        },
+        {
+          "text": "goat, cow, elephant",
+          "image": null
+        },
+        {
+          "text": "grass, fish, goat",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-016",
+      "text": "Which of the following is an environment-friendly practice?",
+      "image": null,
+      "options": [
+        {
+          "text": "carrying cloth bags while shopping",
+          "image": null
+        },
+        {
+          "text": "switching off unnecessary lights and fans",
+          "image": null
+        },
+        {
+          "text": "walking to school where feasible",
+          "image": null
+        },
+        {
+          "text": "all of these",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-017",
+      "text": "In a food chain, the third trophic level is generally occupied by:",
+      "image": null,
+      "options": [
+        {
+          "text": "carnivores",
+          "image": null
+        },
+        {
+          "text": "herbivores",
+          "image": null
+        },
+        {
+          "text": "producers",
+          "image": null
+        },
+        {
+          "text": "decomposers",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-018",
+      "text": "An ecosystem includes:",
+      "image": null,
+      "options": [
+        {
+          "text": "only living organisms",
+          "image": null
+        },
+        {
+          "text": "only non-living objects",
+          "image": null
+        },
+        {
+          "text": "both living and non-living components",
+          "image": null
+        },
+        {
+          "text": "only animals and plants",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-019",
+      "text": "Accumulation of non-biodegradable pesticides at higher trophic levels is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "eutrophication",
+          "image": null
+        },
+        {
+          "text": "pollution",
+          "image": null
+        },
+        {
+          "text": "biomagnification",
+          "image": null
+        },
+        {
+          "text": "simple accumulation",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-020",
+      "text": "Ozone depletion is mainly due to:",
+      "image": null,
+      "options": [
+        {
+          "text": "chlorofluorocarbons",
+          "image": null
+        },
+        {
+          "text": "sulphur dioxide",
+          "image": null
+        },
+        {
+          "text": "acid rain",
+          "image": null
+        },
+        {
+          "text": "greenhouse effect",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-021",
+      "text": "Which constituent does not form a natural ecosystem component?",
+      "image": null,
+      "options": [
+        {
+          "text": "plastic",
+          "image": null
+        },
+        {
+          "text": "biotic components",
+          "image": null
+        },
+        {
+          "text": "abiotic components",
+          "image": null
+        },
+        {
+          "text": "decomposers",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-022",
+      "text": "Which is an example of a producer?",
+      "image": null,
+      "options": [
+        {
+          "text": "plastic pen",
+          "image": null
+        },
+        {
+          "text": "plastic bag",
+          "image": null
+        },
+        {
+          "text": "polythene",
+          "image": null
+        },
+        {
+          "text": "grass",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-023",
+      "text": "Which is an example of a herbivore?",
+      "image": null,
+      "options": [
+        {
+          "text": "cow",
+          "image": null
+        },
+        {
+          "text": "shark",
+          "image": null
+        },
+        {
+          "text": "lion",
+          "image": null
+        },
+        {
+          "text": "tiger",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-024",
+      "text": "Which is not an abiotic factor?",
+      "image": null,
+      "options": [
+        {
+          "text": "light",
+          "image": null
+        },
+        {
+          "text": "plants",
+          "image": null
+        },
+        {
+          "text": "heat",
+          "image": null
+        },
+        {
+          "text": "temperature",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-025",
+      "text": "Which of these is a non-biodegradable pollutant?",
+      "image": null,
+      "options": [
+        {
+          "text": "paper",
+          "image": null
+        },
+        {
+          "text": "cotton cloth",
+          "image": null
+        },
+        {
+          "text": "cotton",
+          "image": null
+        },
+        {
+          "text": "DDT",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-026",
+      "text": "Which is a terrestrial ecosystem?",
+      "image": null,
+      "options": [
+        {
+          "text": "natural forest",
+          "image": null
+        },
+        {
+          "text": "pond",
+          "image": null
+        },
+        {
+          "text": "lake",
+          "image": null
+        },
+        {
+          "text": "aquarium",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-027",
+      "text": "Which of these is an omnivorous animal?",
+      "image": null,
+      "options": [
+        {
+          "text": "lion",
+          "image": null
+        },
+        {
+          "text": "hawk",
+          "image": null
+        },
+        {
+          "text": "jackal",
+          "image": null
+        },
+        {
+          "text": "human being",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-028",
+      "text": "The chemical formula of ozone is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$O_2$",
+          "image": null
+        },
+        {
+          "text": "$O_3$",
+          "image": null
+        },
+        {
+          "text": "$O_4$",
+          "image": null
+        },
+        {
+          "text": "$O_5$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-029",
+      "text": "Each ozone molecule contains how many oxygen atoms?",
+      "image": null,
+      "options": [
+        {
+          "text": "2",
+          "image": null
+        },
+        {
+          "text": "3",
+          "image": null
+        },
+        {
+          "text": "6",
+          "image": null
+        },
+        {
+          "text": "7",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-030",
+      "text": "The functional unit of the environment is:",
+      "image": null,
+      "options": [
+        {
+          "text": "ecosystem",
+          "image": null
+        },
+        {
+          "text": "nitrogen",
+          "image": null
+        },
+        {
+          "text": "carbon",
+          "image": null
+        },
+        {
+          "text": "oxygen",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-031",
+      "text": "Microorganisms involved in decomposition commonly include:",
+      "image": null,
+      "options": [
+        {
+          "text": "bacteria only",
+          "image": null
+        },
+        {
+          "text": "fungi only",
+          "image": null
+        },
+        {
+          "text": "bacteria and fungi",
+          "image": null
+        },
+        {
+          "text": "green plants only",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-032",
+      "text": "In a food chain, herbivores occupy the:",
+      "image": null,
+      "options": [
+        {
+          "text": "first trophic level",
+          "image": null
+        },
+        {
+          "text": "second trophic level",
+          "image": null
+        },
+        {
+          "text": "third trophic level",
+          "image": null
+        },
+        {
+          "text": "fourth trophic level",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-033",
+      "text": "In a food chain, small carnivores generally occupy the:",
+      "image": null,
+      "options": [
+        {
+          "text": "first trophic level",
+          "image": null
+        },
+        {
+          "text": "second trophic level",
+          "image": null
+        },
+        {
+          "text": "third trophic level",
+          "image": null
+        },
+        {
+          "text": "fourth trophic level",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-034",
+      "text": "In an ecological pyramid, the greatest number of organisms is usually at the level of:",
+      "image": null,
+      "options": [
+        {
+          "text": "producers",
+          "image": null
+        },
+        {
+          "text": "primary consumers",
+          "image": null
+        },
+        {
+          "text": "secondary consumers",
+          "image": null
+        },
+        {
+          "text": "tertiary consumers",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-035",
+      "text": "In a food web, the flow of energy is:",
+      "image": null,
+      "options": [
+        {
+          "text": "non-directional",
+          "image": null
+        },
+        {
+          "text": "bidirectional",
+          "image": null
+        },
+        {
+          "text": "unidirectional",
+          "image": null
+        },
+        {
+          "text": "cyclic from consumers to sun",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-036",
+      "text": "Which statement about a food web is true?",
+      "image": null,
+      "options": [
+        {
+          "text": "Energy available at each level gets diminished.",
+          "image": null
+        },
+        {
+          "text": "Energy moves progressively through trophic levels.",
+          "image": null
+        },
+        {
+          "text": "Both statements are true.",
+          "image": null
+        },
+        {
+          "text": "Neither statement is true.",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-037",
+      "text": "The usual order of energy flow in an ecosystem is:",
+      "image": null,
+      "options": [
+        {
+          "text": "sunlight -> herbivores -> producers -> carnivores",
+          "image": null
+        },
+        {
+          "text": "sunlight -> producers -> carnivores -> herbivores",
+          "image": null
+        },
+        {
+          "text": "sunlight -> herbivores -> carnivores -> producers",
+          "image": null
+        },
+        {
+          "text": "sunlight -> producers -> herbivores -> carnivores",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-038",
+      "text": "The ozone layer shields the earth from:",
+      "image": null,
+      "options": [
+        {
+          "text": "infrared rays",
+          "image": null
+        },
+        {
+          "text": "ultraviolet rays",
+          "image": null
+        },
+        {
+          "text": "X-rays only",
+          "image": null
+        },
+        {
+          "text": "all visible rays",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-039",
+      "text": "Which refrigerant group is associated with ozone layer depletion?",
+      "image": null,
+      "options": [
+        {
+          "text": "CFCs",
+          "image": null
+        },
+        {
+          "text": "FCC",
+          "image": null
+        },
+        {
+          "text": "FCF",
+          "image": null
+        },
+        {
+          "text": "CCF",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-040",
+      "text": "Organisms that synthesise carbohydrates from inorganic compounds using radiant energy are called:",
+      "image": null,
+      "options": [
+        {
+          "text": "decomposers",
+          "image": null
+        },
+        {
+          "text": "producers",
+          "image": null
+        },
+        {
+          "text": "herbivores",
+          "image": null
+        },
+        {
+          "text": "carnivores",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-041",
+      "text": "A detritus food chain begins with:",
+      "image": null,
+      "options": [
+        {
+          "text": "carnivores",
+          "image": null
+        },
+        {
+          "text": "herbivores",
+          "image": null
+        },
+        {
+          "text": "omnivores",
+          "image": null
+        },
+        {
+          "text": "decomposers or dead organic matter",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-042",
+      "text": "Edaphic factors are related to:",
+      "image": null,
+      "options": [
+        {
+          "text": "abiotic soil components",
+          "image": null
+        },
+        {
+          "text": "biotic components only",
+          "image": null
+        },
+        {
+          "text": "producers only",
+          "image": null
+        },
+        {
+          "text": "consumers only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-043",
+      "text": "Acid rain is caused mainly by oxides of:",
+      "image": null,
+      "options": [
+        {
+          "text": "carbon only",
+          "image": null
+        },
+        {
+          "text": "nitrogen and sulphur",
+          "image": null
+        },
+        {
+          "text": "oxygen and hydrogen",
+          "image": null
+        },
+        {
+          "text": "argon and neon",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-044",
+      "text": "Which pair belongs to primary consumers?",
+      "image": null,
+      "options": [
+        {
+          "text": "eagle and snake",
+          "image": null
+        },
+        {
+          "text": "grasshopper and cattle",
+          "image": null
+        },
+        {
+          "text": "snake and frog",
+          "image": null
+        },
+        {
+          "text": "water beetle and fish",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-045",
+      "text": "Which of the following is biodegradable?",
+      "image": null,
+      "options": [
+        {
+          "text": "aluminium can",
+          "image": null
+        },
+        {
+          "text": "polythene bag",
+          "image": null
+        },
+        {
+          "text": "cow dung",
+          "image": null
+        },
+        {
+          "text": "DDT",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-046",
+      "text": "Which is an abiotic component of an ecosystem?",
+      "image": null,
+      "options": [
+        {
+          "text": "humus",
+          "image": null
+        },
+        {
+          "text": "bacteria",
+          "image": null
+        },
+        {
+          "text": "plants",
+          "image": null
+        },
+        {
+          "text": "fungi",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-047",
+      "text": "Which chemical is a major cause of ozone depletion?",
+      "image": null,
+      "options": [
+        {
+          "text": "carbon tetrachloride only",
+          "image": null
+        },
+        {
+          "text": "methane only",
+          "image": null
+        },
+        {
+          "text": "chlorofluorocarbon",
+          "image": null
+        },
+        {
+          "text": "carbon monoxide",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-048",
+      "text": "Ozone layer depletion causes increased exposure to:",
+      "image": null,
+      "options": [
+        {
+          "text": "global warming only",
+          "image": null
+        },
+        {
+          "text": "earthquakes",
+          "image": null
+        },
+        {
+          "text": "ultraviolet radiation",
+          "image": null
+        },
+        {
+          "text": "acid rain only",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-049",
+      "text": "In the food chain grass -> grasshopper -> frog -> snake, if the snake level has 4 kJ, energy at producer level was about:",
+      "image": null,
+      "options": [
+        {
+          "text": "4 kJ",
+          "image": null
+        },
+        {
+          "text": "40 kJ",
+          "image": null
+        },
+        {
+          "text": "400 kJ",
+          "image": null
+        },
+        {
+          "text": "4000 kJ",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-050",
+      "text": "In the food chain grass -> deer -> lion, if all deer are killed:",
+      "image": null,
+      "options": [
+        {
+          "text": "grass decreases",
+          "image": null
+        },
+        {
+          "text": "lion population increases",
+          "image": null
+        },
+        {
+          "text": "lion population remains unchanged",
+          "image": null
+        },
+        {
+          "text": "lion decreases and grass increases",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-051",
+      "text": "Which pair belongs to the same trophic level?",
+      "image": null,
+      "options": [
+        {
+          "text": "grass and grasshopper",
+          "image": null
+        },
+        {
+          "text": "goat and spider",
+          "image": null
+        },
+        {
+          "text": "hawk and rat",
+          "image": null
+        },
+        {
+          "text": "frog and lizard",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-052",
+      "text": "Which of these is an artificial ecosystem?",
+      "image": null,
+      "options": [
+        {
+          "text": "lake",
+          "image": null
+        },
+        {
+          "text": "forest",
+          "image": null
+        },
+        {
+          "text": "pond",
+          "image": null
+        },
+        {
+          "text": "crop field",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-053",
+      "text": "Waste that can be broken down by microorganisms into harmless substances is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "biodegradable waste",
+          "image": null
+        },
+        {
+          "text": "non-biodegradable waste",
+          "image": null
+        },
+        {
+          "text": "radioactive waste only",
+          "image": null
+        },
+        {
+          "text": "synthetic waste only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-054",
+      "text": "Waste that cannot be broken down into harmless substances in nature is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "biodegradable waste",
+          "image": null
+        },
+        {
+          "text": "non-biodegradable waste",
+          "image": null
+        },
+        {
+          "text": "compost",
+          "image": null
+        },
+        {
+          "text": "humus only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-055",
+      "text": "The ultimate source of energy for most ecosystems is:",
+      "image": null,
+      "options": [
+        {
+          "text": "the sun",
+          "image": null
+        },
+        {
+          "text": "soil",
+          "image": null
+        },
+        {
+          "text": "decomposers",
+          "image": null
+        },
+        {
+          "text": "carnivores",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-056",
+      "text": "The 1987 agreement to freeze CFC production was forged under the:",
+      "image": null,
+      "options": [
+        {
+          "text": "United Nations Environment Programme",
+          "image": null
+        },
+        {
+          "text": "World Health Organization only",
+          "image": null
+        },
+        {
+          "text": "Reserve Bank of India",
+          "image": null
+        },
+        {
+          "text": "International Atomic Energy Agency only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-057",
+      "text": "High-atmosphere ozone is formed when UV radiation acts on:",
+      "image": null,
+      "options": [
+        {
+          "text": "oxygen molecules",
+          "image": null
+        },
+        {
+          "text": "nitrogen molecules",
+          "image": null
+        },
+        {
+          "text": "carbon dioxide molecules",
+          "image": null
+        },
+        {
+          "text": "methane molecules",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-058",
+      "text": "Consumers may be classified as:",
+      "image": null,
+      "options": [
+        {
+          "text": "herbivores, carnivores, omnivores, and parasites",
+          "image": null
+        },
+        {
+          "text": "only green plants",
+          "image": null
+        },
+        {
+          "text": "only decomposers",
+          "image": null
+        },
+        {
+          "text": "only abiotic factors",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-059",
+      "text": "The two main components of the environment are:",
+      "image": null,
+      "options": [
+        {
+          "text": "biotic and abiotic components",
+          "image": null
+        },
+        {
+          "text": "soil and plastic only",
+          "image": null
+        },
+        {
+          "text": "producers and sunlight only",
+          "image": null
+        },
+        {
+          "text": "herbivores and carnivores only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-060",
+      "text": "Green plants are called producers because they:",
+      "image": null,
+      "options": [
+        {
+          "text": "consume herbivores",
+          "image": null
+        },
+        {
+          "text": "synthesise food from inorganic raw materials using solar energy",
+          "image": null
+        },
+        {
+          "text": "break down dead organisms only",
+          "image": null
+        },
+        {
+          "text": "use CFCs",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-061",
+      "text": "The trophic level of producers is represented as:",
+      "image": null,
+      "options": [
+        {
+          "text": "T1",
+          "image": null
+        },
+        {
+          "text": "T2",
+          "image": null
+        },
+        {
+          "text": "T3",
+          "image": null
+        },
+        {
+          "text": "T4",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-062",
+      "text": "Primary consumers in a food chain are usually:",
+      "image": null,
+      "options": [
+        {
+          "text": "green plants",
+          "image": null
+        },
+        {
+          "text": "herbivores",
+          "image": null
+        },
+        {
+          "text": "secondary carnivores",
+          "image": null
+        },
+        {
+          "text": "decomposers",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-063",
+      "text": "Secondary consumers in a food chain are usually:",
+      "image": null,
+      "options": [
+        {
+          "text": "producers",
+          "image": null
+        },
+        {
+          "text": "herbivores",
+          "image": null
+        },
+        {
+          "text": "primary carnivores",
+          "image": null
+        },
+        {
+          "text": "abiotic components",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-064",
+      "text": "Biological magnification commonly involves:",
+      "image": null,
+      "options": [
+        {
+          "text": "pesticides and heavy metals entering food chains",
+          "image": null
+        },
+        {
+          "text": "sunlight becoming heat in air",
+          "image": null
+        },
+        {
+          "text": "plants producing oxygen only",
+          "image": null
+        },
+        {
+          "text": "water freezing in ponds",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-065",
+      "text": "Dumping non-biodegradable waste on land may cause:",
+      "image": null,
+      "options": [
+        {
+          "text": "landscape pollution and barren land",
+          "image": null
+        },
+        {
+          "text": "faster photosynthesis",
+          "image": null
+        },
+        {
+          "text": "more ozone formation",
+          "image": null
+        },
+        {
+          "text": "reduced pesticide toxicity",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-066",
+      "text": "Decaying biodegradable waste can become a breeding place for:",
+      "image": null,
+      "options": [
+        {
+          "text": "flies and pathogens",
+          "image": null
+        },
+        {
+          "text": "only producers",
+          "image": null
+        },
+        {
+          "text": "only ozone molecules",
+          "image": null
+        },
+        {
+          "text": "only abiotic factors",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-067",
+      "text": "In a food chain, energy is ultimately lost as:",
+      "image": null,
+      "options": [
+        {
+          "text": "heat",
+          "image": null
+        },
+        {
+          "text": "DDT",
+          "image": null
+        },
+        {
+          "text": "ozone",
+          "image": null
+        },
+        {
+          "text": "plastic",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-068",
+      "text": "At each trophic transfer, approximately what fraction of energy passes to the next level?",
+      "image": null,
+      "options": [
+        {
+          "text": "10 percent",
+          "image": null
+        },
+        {
+          "text": "50 percent",
+          "image": null
+        },
+        {
+          "text": "90 percent",
+          "image": null
+        },
+        {
+          "text": "100 percent",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-069",
+      "text": "The term environment refers to:",
+      "image": null,
+      "options": [
+        {
+          "text": "biotic and abiotic surroundings of an organism",
+          "image": null
+        },
+        {
+          "text": "only living plants",
+          "image": null
+        },
+        {
+          "text": "only animals in forests",
+          "image": null
+        },
+        {
+          "text": "only air pollution",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-070",
+      "text": "A food chain is best described as:",
+      "image": null,
+      "options": [
+        {
+          "text": "a sequence of organisms through which food and energy pass",
+          "image": null
+        },
+        {
+          "text": "a list of abiotic factors",
+          "image": null
+        },
+        {
+          "text": "only decomposers in soil",
+          "image": null
+        },
+        {
+          "text": "a type of plastic chain",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-071",
+      "text": "The main components in a food chain include:",
+      "image": null,
+      "options": [
+        {
+          "text": "plants, herbivores, carnivores, decomposers",
+          "image": null
+        },
+        {
+          "text": "plastic, glass, metal, DDT",
+          "image": null
+        },
+        {
+          "text": "ozone, UV, CFC, acid rain",
+          "image": null
+        },
+        {
+          "text": "only producers and sunlight",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-072",
+      "text": "A food web is formed by:",
+      "image": null,
+      "options": [
+        {
+          "text": "interconnected food chains",
+          "image": null
+        },
+        {
+          "text": "only one straight food chain",
+          "image": null
+        },
+        {
+          "text": "only abiotic factors",
+          "image": null
+        },
+        {
+          "text": "only non-biodegradable substances",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-073",
+      "text": "Pollution is:",
+      "image": null,
+      "options": [
+        {
+          "text": "any undesirable change in the environment",
+          "image": null
+        },
+        {
+          "text": "only useful change in soil",
+          "image": null
+        },
+        {
+          "text": "only formation of ozone",
+          "image": null
+        },
+        {
+          "text": "only photosynthesis by plants",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-074",
+      "text": "The ozone layer is important because it:",
+      "image": null,
+      "options": [
+        {
+          "text": "blocks much of the sun's ultraviolet radiation",
+          "image": null
+        },
+        {
+          "text": "increases DDT in food chains",
+          "image": null
+        },
+        {
+          "text": "creates plastics",
+          "image": null
+        },
+        {
+          "text": "converts decomposers into producers",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-075",
+      "text": "Ozone depletion is severe in very cold regions partly because of:",
+      "image": null,
+      "options": [
+        {
+          "text": "polar stratospheric clouds aiding ozone-destroying reactions",
+          "image": null
+        },
+        {
+          "text": "more cattle grazing",
+          "image": null
+        },
+        {
+          "text": "absence of decomposers",
+          "image": null
+        },
+        {
+          "text": "less food web complexity",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-076",
+      "text": "Proper garbage management is necessary mainly to:",
+      "image": null,
+      "options": [
+        {
+          "text": "keep surroundings clean and reduce disease spread",
+          "image": null
+        },
+        {
+          "text": "increase plastic dumping",
+          "image": null
+        },
+        {
+          "text": "increase biomagnification",
+          "image": null
+        },
+        {
+          "text": "remove all producers",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-077",
+      "text": "Biodegradable wastes are acted upon mainly by:",
+      "image": null,
+      "options": [
+        {
+          "text": "microorganisms",
+          "image": null
+        },
+        {
+          "text": "plasticizers",
+          "image": null
+        },
+        {
+          "text": "CFCs",
+          "image": null
+        },
+        {
+          "text": "heavy metals",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-078",
+      "text": "Which material is least likely to be decomposed naturally in a short time?",
+      "image": null,
+      "options": [
+        {
+          "text": "vegetable peels",
+          "image": null
+        },
+        {
+          "text": "paper",
+          "image": null
+        },
+        {
+          "text": "plastic bottle",
+          "image": null
+        },
+        {
+          "text": "leaves",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-079",
+      "text": "Which is a decomposer?",
+      "image": null,
+      "options": [
+        {
+          "text": "bacteria",
+          "image": null
+        },
+        {
+          "text": "deer",
+          "image": null
+        },
+        {
+          "text": "lion",
+          "image": null
+        },
+        {
+          "text": "grasshopper",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-080",
+      "text": "Which organism is a producer in a pond ecosystem?",
+      "image": null,
+      "options": [
+        {
+          "text": "algae",
+          "image": null
+        },
+        {
+          "text": "fish",
+          "image": null
+        },
+        {
+          "text": "frog",
+          "image": null
+        },
+        {
+          "text": "snake",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-081",
+      "text": "Which organism is a primary consumer in a pond food chain?",
+      "image": null,
+      "options": [
+        {
+          "text": "algae",
+          "image": null
+        },
+        {
+          "text": "zooplankton",
+          "image": null
+        },
+        {
+          "text": "large fish",
+          "image": null
+        },
+        {
+          "text": "decomposer bacteria",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-082",
+      "text": "Which food chain is correctly arranged?",
+      "image": null,
+      "options": [
+        {
+          "text": "grass -> grasshopper -> frog -> snake",
+          "image": null
+        },
+        {
+          "text": "snake -> frog -> grasshopper -> grass",
+          "image": null
+        },
+        {
+          "text": "frog -> grass -> snake -> grasshopper",
+          "image": null
+        },
+        {
+          "text": "grasshopper -> grass -> frog -> snake",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-083",
+      "text": "Which food chain has the maximum energy at its first level?",
+      "image": null,
+      "options": [
+        {
+          "text": "grass -> deer -> lion",
+          "image": null
+        },
+        {
+          "text": "deer -> grass -> lion",
+          "image": null
+        },
+        {
+          "text": "lion -> deer -> grass",
+          "image": null
+        },
+        {
+          "text": "grass -> lion -> deer",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-084",
+      "text": "A top carnivore receives less energy because:",
+      "image": null,
+      "options": [
+        {
+          "text": "energy is lost at each trophic transfer",
+          "image": null
+        },
+        {
+          "text": "producers do not photosynthesise",
+          "image": null
+        },
+        {
+          "text": "decomposers make no minerals",
+          "image": null
+        },
+        {
+          "text": "ozone blocks all sunlight",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-085",
+      "text": "Food chains usually have only three or four trophic levels because:",
+      "image": null,
+      "options": [
+        {
+          "text": "energy availability becomes too low at higher levels",
+          "image": null
+        },
+        {
+          "text": "all animals become producers",
+          "image": null
+        },
+        {
+          "text": "decomposers stop all food chains",
+          "image": null
+        },
+        {
+          "text": "sunlight increases upward",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-086",
+      "text": "Which substance is most likely to show biomagnification?",
+      "image": null,
+      "options": [
+        {
+          "text": "DDT",
+          "image": null
+        },
+        {
+          "text": "glucose",
+          "image": null
+        },
+        {
+          "text": "starch",
+          "image": null
+        },
+        {
+          "text": "water",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-087",
+      "text": "Biomagnification is highest in:",
+      "image": null,
+      "options": [
+        {
+          "text": "producers",
+          "image": null
+        },
+        {
+          "text": "primary consumers",
+          "image": null
+        },
+        {
+          "text": "secondary consumers",
+          "image": null
+        },
+        {
+          "text": "top carnivores",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-088",
+      "text": "Which is a harmful effect of non-biodegradable waste?",
+      "image": null,
+      "options": [
+        {
+          "text": "it may persist and accumulate",
+          "image": null
+        },
+        {
+          "text": "it rapidly becomes manure",
+          "image": null
+        },
+        {
+          "text": "it always increases soil fertility",
+          "image": null
+        },
+        {
+          "text": "it is always eaten by decomposers",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-089",
+      "text": "Which is a useful practice for reducing non-biodegradable waste?",
+      "image": null,
+      "options": [
+        {
+          "text": "using cloth bags",
+          "image": null
+        },
+        {
+          "text": "using single-use plastic bags",
+          "image": null
+        },
+        {
+          "text": "burning all plastics openly",
+          "image": null
+        },
+        {
+          "text": "throwing batteries into drains",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-090",
+      "text": "Composting is useful because it converts biodegradable waste into:",
+      "image": null,
+      "options": [
+        {
+          "text": "manure",
+          "image": null
+        },
+        {
+          "text": "plastic",
+          "image": null
+        },
+        {
+          "text": "CFCs",
+          "image": null
+        },
+        {
+          "text": "ozone",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-091",
+      "text": "Which item should be segregated as biodegradable waste?",
+      "image": null,
+      "options": [
+        {
+          "text": "vegetable peel",
+          "image": null
+        },
+        {
+          "text": "glass bottle",
+          "image": null
+        },
+        {
+          "text": "metal can",
+          "image": null
+        },
+        {
+          "text": "polythene bag",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-092",
+      "text": "Which item should be segregated as non-biodegradable waste?",
+      "image": null,
+      "options": [
+        {
+          "text": "banana peel",
+          "image": null
+        },
+        {
+          "text": "dry leaves",
+          "image": null
+        },
+        {
+          "text": "paper food waste",
+          "image": null
+        },
+        {
+          "text": "plastic wrapper",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-093",
+      "text": "A group of interacting organisms and their physical surroundings is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "ecosystem",
+          "image": null
+        },
+        {
+          "text": "trophic level only",
+          "image": null
+        },
+        {
+          "text": "biomagnification",
+          "image": null
+        },
+        {
+          "text": "ozone hole",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-094",
+      "text": "Living components of an ecosystem are called:",
+      "image": null,
+      "options": [
+        {
+          "text": "biotic components",
+          "image": null
+        },
+        {
+          "text": "abiotic components",
+          "image": null
+        },
+        {
+          "text": "edaphic factors only",
+          "image": null
+        },
+        {
+          "text": "climatic factors only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-095",
+      "text": "Non-living components of an ecosystem are called:",
+      "image": null,
+      "options": [
+        {
+          "text": "biotic components",
+          "image": null
+        },
+        {
+          "text": "abiotic components",
+          "image": null
+        },
+        {
+          "text": "consumers",
+          "image": null
+        },
+        {
+          "text": "decomposers",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-096",
+      "text": "Which is a biotic component?",
+      "image": null,
+      "options": [
+        {
+          "text": "grass",
+          "image": null
+        },
+        {
+          "text": "sunlight",
+          "image": null
+        },
+        {
+          "text": "temperature",
+          "image": null
+        },
+        {
+          "text": "soil minerals only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-097",
+      "text": "Which is an abiotic component?",
+      "image": null,
+      "options": [
+        {
+          "text": "water",
+          "image": null
+        },
+        {
+          "text": "bacteria",
+          "image": null
+        },
+        {
+          "text": "frog",
+          "image": null
+        },
+        {
+          "text": "grasshopper",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-098",
+      "text": "Autotrophs in an ecosystem are usually:",
+      "image": null,
+      "options": [
+        {
+          "text": "producers",
+          "image": null
+        },
+        {
+          "text": "primary consumers",
+          "image": null
+        },
+        {
+          "text": "secondary consumers",
+          "image": null
+        },
+        {
+          "text": "top carnivores",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-099",
+      "text": "Heterotrophs in an ecosystem are mainly:",
+      "image": null,
+      "options": [
+        {
+          "text": "consumers",
+          "image": null
+        },
+        {
+          "text": "green plants only",
+          "image": null
+        },
+        {
+          "text": "sunlight",
+          "image": null
+        },
+        {
+          "text": "carbon dioxide only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-100",
+      "text": "Herbivores feed directly on:",
+      "image": null,
+      "options": [
+        {
+          "text": "producers",
+          "image": null
+        },
+        {
+          "text": "carnivores",
+          "image": null
+        },
+        {
+          "text": "decomposers only",
+          "image": null
+        },
+        {
+          "text": "non-biodegradable waste",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-101",
+      "text": "Carnivores feed mainly on:",
+      "image": null,
+      "options": [
+        {
+          "text": "other animals",
+          "image": null
+        },
+        {
+          "text": "only green plants",
+          "image": null
+        },
+        {
+          "text": "sunlight",
+          "image": null
+        },
+        {
+          "text": "soil minerals",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-102",
+      "text": "Omnivores feed on:",
+      "image": null,
+      "options": [
+        {
+          "text": "both plants and animals",
+          "image": null
+        },
+        {
+          "text": "only plants",
+          "image": null
+        },
+        {
+          "text": "only animals",
+          "image": null
+        },
+        {
+          "text": "only decomposers",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-103",
+      "text": "Parasites obtain food from:",
+      "image": null,
+      "options": [
+        {
+          "text": "a host organism",
+          "image": null
+        },
+        {
+          "text": "sunlight directly",
+          "image": null
+        },
+        {
+          "text": "plastic waste",
+          "image": null
+        },
+        {
+          "text": "ozone molecules",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-104",
+      "text": "Decomposers help recycle nutrients by:",
+      "image": null,
+      "options": [
+        {
+          "text": "breaking down dead organic matter",
+          "image": null
+        },
+        {
+          "text": "producing plastic",
+          "image": null
+        },
+        {
+          "text": "destroying ozone",
+          "image": null
+        },
+        {
+          "text": "blocking sunlight",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-105",
+      "text": "The green plants in a food chain are placed at:",
+      "image": null,
+      "options": [
+        {
+          "text": "first trophic level",
+          "image": null
+        },
+        {
+          "text": "second trophic level",
+          "image": null
+        },
+        {
+          "text": "third trophic level",
+          "image": null
+        },
+        {
+          "text": "fourth trophic level",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-106",
+      "text": "A goat eating grass is a:",
+      "image": null,
+      "options": [
+        {
+          "text": "primary consumer",
+          "image": null
+        },
+        {
+          "text": "producer",
+          "image": null
+        },
+        {
+          "text": "secondary consumer",
+          "image": null
+        },
+        {
+          "text": "decomposer",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-107",
+      "text": "A lion eating a deer is a:",
+      "image": null,
+      "options": [
+        {
+          "text": "producer",
+          "image": null
+        },
+        {
+          "text": "primary consumer",
+          "image": null
+        },
+        {
+          "text": "secondary consumer or carnivore",
+          "image": null
+        },
+        {
+          "text": "decomposer",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-108",
+      "text": "A food web is more stable than a single food chain because:",
+      "image": null,
+      "options": [
+        {
+          "text": "organisms may have alternative food sources",
+          "image": null
+        },
+        {
+          "text": "it has no producers",
+          "image": null
+        },
+        {
+          "text": "it has no consumers",
+          "image": null
+        },
+        {
+          "text": "energy flows backward to the sun",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-109",
+      "text": "If producers vanish from an ecosystem:",
+      "image": null,
+      "options": [
+        {
+          "text": "the food chain collapses",
+          "image": null
+        },
+        {
+          "text": "consumers increase forever",
+          "image": null
+        },
+        {
+          "text": "decomposers become producers only",
+          "image": null
+        },
+        {
+          "text": "energy flow increases",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-110",
+      "text": "If decomposers are removed from an ecosystem:",
+      "image": null,
+      "options": [
+        {
+          "text": "dead matter and wastes accumulate",
+          "image": null
+        },
+        {
+          "text": "all waste disappears faster",
+          "image": null
+        },
+        {
+          "text": "producers immediately become carnivores",
+          "image": null
+        },
+        {
+          "text": "ozone layer thickens",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-111",
+      "text": "The ozone layer is located mainly in the:",
+      "image": null,
+      "options": [
+        {
+          "text": "stratosphere",
+          "image": null
+        },
+        {
+          "text": "lithosphere",
+          "image": null
+        },
+        {
+          "text": "hydrosphere",
+          "image": null
+        },
+        {
+          "text": "mantle",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-112",
+      "text": "Ground-level ozone is harmful because it is:",
+      "image": null,
+      "options": [
+        {
+          "text": "a poisonous pollutant",
+          "image": null
+        },
+        {
+          "text": "always a food source",
+          "image": null
+        },
+        {
+          "text": "a biodegradable waste",
+          "image": null
+        },
+        {
+          "text": "a decomposer",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-113",
+      "text": "Stratospheric ozone is beneficial because it:",
+      "image": null,
+      "options": [
+        {
+          "text": "absorbs harmful UV radiation",
+          "image": null
+        },
+        {
+          "text": "causes biomagnification",
+          "image": null
+        },
+        {
+          "text": "forms plastic",
+          "image": null
+        },
+        {
+          "text": "kills all decomposers",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-114",
+      "text": "CFCs were widely used in:",
+      "image": null,
+      "options": [
+        {
+          "text": "refrigerants and aerosol propellants",
+          "image": null
+        },
+        {
+          "text": "natural compost only",
+          "image": null
+        },
+        {
+          "text": "cow dung only",
+          "image": null
+        },
+        {
+          "text": "soil humus only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-115",
+      "text": "UV radiation can damage:",
+      "image": null,
+      "options": [
+        {
+          "text": "skin and eyes",
+          "image": null
+        },
+        {
+          "text": "only soil minerals",
+          "image": null
+        },
+        {
+          "text": "only plastic bags",
+          "image": null
+        },
+        {
+          "text": "only decomposers",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-116",
+      "text": "A major way to reduce ozone depletion is to:",
+      "image": null,
+      "options": [
+        {
+          "text": "avoid or phase out CFCs",
+          "image": null
+        },
+        {
+          "text": "increase CFC use",
+          "image": null
+        },
+        {
+          "text": "burn more plastics",
+          "image": null
+        },
+        {
+          "text": "remove producers",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-117",
+      "text": "Which practice best supports a cleaner environment?",
+      "image": null,
+      "options": [
+        {
+          "text": "waste segregation",
+          "image": null
+        },
+        {
+          "text": "mixing all waste together",
+          "image": null
+        },
+        {
+          "text": "throwing plastic into water bodies",
+          "image": null
+        },
+        {
+          "text": "burning all waste openly",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-118",
+      "text": "The best way to handle kitchen vegetable waste is often:",
+      "image": null,
+      "options": [
+        {
+          "text": "composting",
+          "image": null
+        },
+        {
+          "text": "mixing with plastic waste",
+          "image": null
+        },
+        {
+          "text": "burning in open air",
+          "image": null
+        },
+        {
+          "text": "throwing into drains",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-119",
+      "text": "Open burning of plastic waste is harmful because it may release:",
+      "image": null,
+      "options": [
+        {
+          "text": "toxic fumes",
+          "image": null
+        },
+        {
+          "text": "oxygen for photosynthesis",
+          "image": null
+        },
+        {
+          "text": "useful manure",
+          "image": null
+        },
+        {
+          "text": "clean water",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-120",
+      "text": "Reusable bags reduce environmental burden by reducing:",
+      "image": null,
+      "options": [
+        {
+          "text": "single-use plastic waste",
+          "image": null
+        },
+        {
+          "text": "producer population",
+          "image": null
+        },
+        {
+          "text": "sunlight absorption",
+          "image": null
+        },
+        {
+          "text": "decomposition",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-121",
+      "text": "The 10 percent law was proposed by:",
+      "image": null,
+      "options": [
+        {
+          "text": "Lindeman",
+          "image": null
+        },
+        {
+          "text": "Oersted",
+          "image": null
+        },
+        {
+          "text": "Faraday",
+          "image": null
+        },
+        {
+          "text": "Mendel",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-122",
+      "text": "An ecological pyramid represents:",
+      "image": null,
+      "options": [
+        {
+          "text": "trophic levels in an ecosystem",
+          "image": null
+        },
+        {
+          "text": "only ozone molecules",
+          "image": null
+        },
+        {
+          "text": "only garbage heaps",
+          "image": null
+        },
+        {
+          "text": "only CFC levels",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-123",
+      "text": "The base of an ecological pyramid is usually formed by:",
+      "image": null,
+      "options": [
+        {
+          "text": "producers",
+          "image": null
+        },
+        {
+          "text": "primary carnivores",
+          "image": null
+        },
+        {
+          "text": "secondary carnivores",
+          "image": null
+        },
+        {
+          "text": "top carnivores",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-124",
+      "text": "A pyramid of energy is always:",
+      "image": null,
+      "options": [
+        {
+          "text": "upright",
+          "image": null
+        },
+        {
+          "text": "inverted",
+          "image": null
+        },
+        {
+          "text": "diamond-shaped",
+          "image": null
+        },
+        {
+          "text": "absent in ecosystems",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-125",
+      "text": "Energy cannot be recycled in an ecosystem because it:",
+      "image": null,
+      "options": [
+        {
+          "text": "flows and is lost as heat",
+          "image": null
+        },
+        {
+          "text": "is a non-biodegradable substance",
+          "image": null
+        },
+        {
+          "text": "is made of plastic",
+          "image": null
+        },
+        {
+          "text": "is stored only in ozone",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-126",
+      "text": "Matter in ecosystems is recycled mainly through:",
+      "image": null,
+      "options": [
+        {
+          "text": "decomposition and nutrient cycles",
+          "image": null
+        },
+        {
+          "text": "UV radiation only",
+          "image": null
+        },
+        {
+          "text": "plastic dumping",
+          "image": null
+        },
+        {
+          "text": "CFC release",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-127",
+      "text": "Which is most likely to be a top carnivore?",
+      "image": null,
+      "options": [
+        {
+          "text": "hawk",
+          "image": null
+        },
+        {
+          "text": "grass",
+          "image": null
+        },
+        {
+          "text": "grasshopper",
+          "image": null
+        },
+        {
+          "text": "algae",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-128",
+      "text": "Which sequence correctly places trophic levels?",
+      "image": null,
+      "options": [
+        {
+          "text": "producer -> primary consumer -> secondary consumer -> tertiary consumer",
+          "image": null
+        },
+        {
+          "text": "primary consumer -> producer -> tertiary consumer -> decomposer",
+          "image": null
+        },
+        {
+          "text": "decomposer -> tertiary consumer -> producer -> herbivore",
+          "image": null
+        },
+        {
+          "text": "tertiary consumer -> producer -> herbivore -> carnivore",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-129",
+      "text": "The main reason pesticides become dangerous in food chains is that many are:",
+      "image": null,
+      "options": [
+        {
+          "text": "non-biodegradable",
+          "image": null
+        },
+        {
+          "text": "good producers",
+          "image": null
+        },
+        {
+          "text": "rapidly converted to oxygen",
+          "image": null
+        },
+        {
+          "text": "essential sunlight",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-our-environment-130",
+      "text": "The organism with the highest pesticide concentration in a contaminated food chain is usually the:",
+      "image": null,
+      "options": [
+        {
+          "text": "top-level carnivore",
+          "image": null
+        },
+        {
+          "text": "producer",
+          "image": null
+        },
+        {
+          "text": "soil bacterium only",
+          "image": null
+        },
+        {
+          "text": "primary producer",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    }
+  ]
+}

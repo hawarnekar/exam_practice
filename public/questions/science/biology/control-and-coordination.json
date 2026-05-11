@@ -1,0 +1,3283 @@
+{
+  "subject": "Science",
+  "topic": "Biology",
+  "subtopic": "Control and Coordination",
+  "questions": [
+    {
+      "id": "sci-control-coordination-001",
+      "text": "Any change in the environment to which an organism responds is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "stimulus",
+          "image": null
+        },
+        {
+          "text": "coordination",
+          "image": null
+        },
+        {
+          "text": "response",
+          "image": null
+        },
+        {
+          "text": "hormone",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-002",
+      "text": "A part of the body that responds to instructions from the nervous system is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "receptor",
+          "image": null
+        },
+        {
+          "text": "effector",
+          "image": null
+        },
+        {
+          "text": "nerve",
+          "image": null
+        },
+        {
+          "text": "hormone",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-003",
+      "text": "The control and coordination centre in humans includes:",
+      "image": null,
+      "options": [
+        {
+          "text": "brain and spinal cord",
+          "image": null
+        },
+        {
+          "text": "only peripheral nerves",
+          "image": null
+        },
+        {
+          "text": "only endocrine glands",
+          "image": null
+        },
+        {
+          "text": "respiratory system",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-004",
+      "text": "The human nervous system is broadly divided into:",
+      "image": null,
+      "options": [
+        {
+          "text": "central and peripheral nervous system",
+          "image": null
+        },
+        {
+          "text": "central and autonomic only",
+          "image": null
+        },
+        {
+          "text": "peripheral and autonomic only",
+          "image": null
+        },
+        {
+          "text": "digestive and respiratory systems",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-005",
+      "text": "The central nervous system consists of:",
+      "image": null,
+      "options": [
+        {
+          "text": "brain and spinal cord",
+          "image": null
+        },
+        {
+          "text": "heart and brain",
+          "image": null
+        },
+        {
+          "text": "nerves and muscles only",
+          "image": null
+        },
+        {
+          "text": "glands and hormones",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-006",
+      "text": "The structural and functional unit of the nervous system is:",
+      "image": null,
+      "options": [
+        {
+          "text": "nephron",
+          "image": null
+        },
+        {
+          "text": "neuron",
+          "image": null
+        },
+        {
+          "text": "alveolus",
+          "image": null
+        },
+        {
+          "text": "villus",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-007",
+      "text": "The longest fibre on the cell body of a neuron is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "sheath",
+          "image": null
+        },
+        {
+          "text": "cytoplasm",
+          "image": null
+        },
+        {
+          "text": "axon",
+          "image": null
+        },
+        {
+          "text": "dendrite",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-008",
+      "text": "In a neuron, impulse usually flows from:",
+      "image": null,
+      "options": [
+        {
+          "text": "dendrite to axon",
+          "image": null
+        },
+        {
+          "text": "axon to dendrite",
+          "image": null
+        },
+        {
+          "text": "node to nucleus only",
+          "image": null
+        },
+        {
+          "text": "muscle to dendrite only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-009",
+      "text": "The microscopic gap between two adjacent neurons is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "neurotransmitter",
+          "image": null
+        },
+        {
+          "text": "dendrite",
+          "image": null
+        },
+        {
+          "text": "axon",
+          "image": null
+        },
+        {
+          "text": "synapse",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-010",
+      "text": "In a synapse, chemical signal is transmitted from:",
+      "image": null,
+      "options": [
+        {
+          "text": "axon terminal of one neuron to dendrite of another neuron",
+          "image": null
+        },
+        {
+          "text": "dendrite to axon terminal of another neuron",
+          "image": null
+        },
+        {
+          "text": "cell body to nucleus",
+          "image": null
+        },
+        {
+          "text": "muscle directly to receptor",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-011",
+      "text": "In a neuron, electric signal is converted into a chemical signal at:",
+      "image": null,
+      "options": [
+        {
+          "text": "cell body",
+          "image": null
+        },
+        {
+          "text": "dendritic end",
+          "image": null
+        },
+        {
+          "text": "axon terminals",
+          "image": null
+        },
+        {
+          "text": "axon shaft",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-012",
+      "text": "Which type of neuron carries impulses from receptors to the central nervous system?",
+      "image": null,
+      "options": [
+        {
+          "text": "sensory neuron",
+          "image": null
+        },
+        {
+          "text": "motor neuron",
+          "image": null
+        },
+        {
+          "text": "relay neuron only",
+          "image": null
+        },
+        {
+          "text": "respiratory neuron",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-013",
+      "text": "Which nerves carry impulses from the central nervous system to muscles?",
+      "image": null,
+      "options": [
+        {
+          "text": "sensory nerves",
+          "image": null
+        },
+        {
+          "text": "motor nerves",
+          "image": null
+        },
+        {
+          "text": "relay nerves",
+          "image": null
+        },
+        {
+          "text": "cranial nerves only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-014",
+      "text": "Which of the following is not a common neuron type?",
+      "image": null,
+      "options": [
+        {
+          "text": "sensory neuron",
+          "image": null
+        },
+        {
+          "text": "motor neuron",
+          "image": null
+        },
+        {
+          "text": "relay neuron",
+          "image": null
+        },
+        {
+          "text": "respiratory neuron",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-015",
+      "text": "Sudden action in response to a stimulus is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "reflex action",
+          "image": null
+        },
+        {
+          "text": "digestion",
+          "image": null
+        },
+        {
+          "text": "transpiration",
+          "image": null
+        },
+        {
+          "text": "hormonal secretion only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-016",
+      "text": "The pathway through which signals travel in a reflex action is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "reflex arc",
+          "image": null
+        },
+        {
+          "text": "synapse only",
+          "image": null
+        },
+        {
+          "text": "axon sheath",
+          "image": null
+        },
+        {
+          "text": "hormone pathway",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-017",
+      "text": "Which part of the nervous system controls reflex activities?",
+      "image": null,
+      "options": [
+        {
+          "text": "brain",
+          "image": null
+        },
+        {
+          "text": "spinal cord",
+          "image": null
+        },
+        {
+          "text": "cerebrum",
+          "image": null
+        },
+        {
+          "text": "cerebellum",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-018",
+      "text": "Which of the following is generally not a reflex action?",
+      "image": null,
+      "options": [
+        {
+          "text": "blinking of eyes",
+          "image": null
+        },
+        {
+          "text": "coughing",
+          "image": null
+        },
+        {
+          "text": "sneezing",
+          "image": null
+        },
+        {
+          "text": "planned walking to school",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-019",
+      "text": "Motor neurons carry signals from:",
+      "image": null,
+      "options": [
+        {
+          "text": "spinal cord to effector organs",
+          "image": null
+        },
+        {
+          "text": "effector organs to receptors",
+          "image": null
+        },
+        {
+          "text": "muscle to sense organ",
+          "image": null
+        },
+        {
+          "text": "blood to brain",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-020",
+      "text": "Sensory neurons carry impulses from:",
+      "image": null,
+      "options": [
+        {
+          "text": "receptors to CNS",
+          "image": null
+        },
+        {
+          "text": "effectors to receptors only",
+          "image": null
+        },
+        {
+          "text": "CNS to muscles",
+          "image": null
+        },
+        {
+          "text": "glands to blood only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-021",
+      "text": "The highest coordinating centre in the human body is:",
+      "image": null,
+      "options": [
+        {
+          "text": "spinal cord",
+          "image": null
+        },
+        {
+          "text": "heart",
+          "image": null
+        },
+        {
+          "text": "brain",
+          "image": null
+        },
+        {
+          "text": "kidney",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-022",
+      "text": "The largest part of the human brain is:",
+      "image": null,
+      "options": [
+        {
+          "text": "cerebrum",
+          "image": null
+        },
+        {
+          "text": "cerebellum",
+          "image": null
+        },
+        {
+          "text": "pons",
+          "image": null
+        },
+        {
+          "text": "medulla",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-023",
+      "text": "The main function of the cerebrum is associated with:",
+      "image": null,
+      "options": [
+        {
+          "text": "thinking",
+          "image": null
+        },
+        {
+          "text": "only breathing",
+          "image": null
+        },
+        {
+          "text": "only balance",
+          "image": null
+        },
+        {
+          "text": "only reflexes",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-024",
+      "text": "Posture and balance of the body are controlled by:",
+      "image": null,
+      "options": [
+        {
+          "text": "pons",
+          "image": null
+        },
+        {
+          "text": "medulla oblongata",
+          "image": null
+        },
+        {
+          "text": "cerebellum",
+          "image": null
+        },
+        {
+          "text": "cerebrum",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-025",
+      "text": "Voluntary movement coordination in humans is mainly handled by:",
+      "image": null,
+      "options": [
+        {
+          "text": "cerebrum",
+          "image": null
+        },
+        {
+          "text": "cerebellum",
+          "image": null
+        },
+        {
+          "text": "medulla oblongata",
+          "image": null
+        },
+        {
+          "text": "hypothalamus only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-026",
+      "text": "Breathing is controlled by which part of the brain?",
+      "image": null,
+      "options": [
+        {
+          "text": "cerebrum",
+          "image": null
+        },
+        {
+          "text": "cerebellum",
+          "image": null
+        },
+        {
+          "text": "hypothalamus",
+          "image": null
+        },
+        {
+          "text": "medulla oblongata",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-027",
+      "text": "Heart rate and breathing are regulated mainly by:",
+      "image": null,
+      "options": [
+        {
+          "text": "cerebrum",
+          "image": null
+        },
+        {
+          "text": "cerebellum",
+          "image": null
+        },
+        {
+          "text": "medulla oblongata",
+          "image": null
+        },
+        {
+          "text": "pineal gland",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-028",
+      "text": "The cerebellum is mainly responsible for:",
+      "image": null,
+      "options": [
+        {
+          "text": "balance and muscular coordination",
+          "image": null
+        },
+        {
+          "text": "thinking only",
+          "image": null
+        },
+        {
+          "text": "secretion of insulin",
+          "image": null
+        },
+        {
+          "text": "smell detection",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-029",
+      "text": "The brain is protected by:",
+      "image": null,
+      "options": [
+        {
+          "text": "cranium",
+          "image": null
+        },
+        {
+          "text": "ribs",
+          "image": null
+        },
+        {
+          "text": "vertebral column only",
+          "image": null
+        },
+        {
+          "text": "skin only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-030",
+      "text": "The spinal cord is protected by:",
+      "image": null,
+      "options": [
+        {
+          "text": "vertebral column",
+          "image": null
+        },
+        {
+          "text": "cranium only",
+          "image": null
+        },
+        {
+          "text": "rib cage only",
+          "image": null
+        },
+        {
+          "text": "pelvis",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-031",
+      "text": "Gustatory receptors are sensitive to:",
+      "image": null,
+      "options": [
+        {
+          "text": "taste",
+          "image": null
+        },
+        {
+          "text": "smell",
+          "image": null
+        },
+        {
+          "text": "light",
+          "image": null
+        },
+        {
+          "text": "sound",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-032",
+      "text": "Olfactory receptors are sensitive to:",
+      "image": null,
+      "options": [
+        {
+          "text": "smell",
+          "image": null
+        },
+        {
+          "text": "taste",
+          "image": null
+        },
+        {
+          "text": "pressure only",
+          "image": null
+        },
+        {
+          "text": "heat only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-033",
+      "text": "The sense of smell is detected by:",
+      "image": null,
+      "options": [
+        {
+          "text": "taste buds",
+          "image": null
+        },
+        {
+          "text": "olfactory receptors",
+          "image": null
+        },
+        {
+          "text": "touch receptors",
+          "image": null
+        },
+        {
+          "text": "photoreceptors only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-034",
+      "text": "The sense of touch is detected by:",
+      "image": null,
+      "options": [
+        {
+          "text": "olfactory receptors",
+          "image": null
+        },
+        {
+          "text": "taste buds",
+          "image": null
+        },
+        {
+          "text": "touch receptors",
+          "image": null
+        },
+        {
+          "text": "photoreceptors only",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-035",
+      "text": "The receptor for light in animals is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "photoreceptor",
+          "image": null
+        },
+        {
+          "text": "phonoreceptor",
+          "image": null
+        },
+        {
+          "text": "gustatory receptor",
+          "image": null
+        },
+        {
+          "text": "olfactory receptor",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-036",
+      "text": "The receptor for sound in animals is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "photoreceptor",
+          "image": null
+        },
+        {
+          "text": "phonoreceptor",
+          "image": null
+        },
+        {
+          "text": "gustatory receptor",
+          "image": null
+        },
+        {
+          "text": "olfactory receptor",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-037",
+      "text": "Chemical messengers secreted by endocrine glands are called:",
+      "image": null,
+      "options": [
+        {
+          "text": "hormones",
+          "image": null
+        },
+        {
+          "text": "neurotransmitters only",
+          "image": null
+        },
+        {
+          "text": "enzymes",
+          "image": null
+        },
+        {
+          "text": "digestive juices",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-038",
+      "text": "The endocrine system mainly uses:",
+      "image": null,
+      "options": [
+        {
+          "text": "chemical messengers",
+          "image": null
+        },
+        {
+          "text": "only electrical impulses",
+          "image": null
+        },
+        {
+          "text": "xylem vessels",
+          "image": null
+        },
+        {
+          "text": "stomata",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-039",
+      "text": "The nervous system transmits messages mainly through:",
+      "image": null,
+      "options": [
+        {
+          "text": "electrical impulses",
+          "image": null
+        },
+        {
+          "text": "bile",
+          "image": null
+        },
+        {
+          "text": "starch",
+          "image": null
+        },
+        {
+          "text": "urine",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-040",
+      "text": "Control and coordination in humans are functions of the nervous system and:",
+      "image": null,
+      "options": [
+        {
+          "text": "hormones",
+          "image": null
+        },
+        {
+          "text": "bones",
+          "image": null
+        },
+        {
+          "text": "blood plasma only",
+          "image": null
+        },
+        {
+          "text": "villi",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-041",
+      "text": "Which gland is called the master gland?",
+      "image": null,
+      "options": [
+        {
+          "text": "pituitary gland",
+          "image": null
+        },
+        {
+          "text": "thyroid gland",
+          "image": null
+        },
+        {
+          "text": "adrenal gland",
+          "image": null
+        },
+        {
+          "text": "pancreas",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-042",
+      "text": "Which gland secretes growth hormone?",
+      "image": null,
+      "options": [
+        {
+          "text": "pituitary gland",
+          "image": null
+        },
+        {
+          "text": "thyroid gland",
+          "image": null
+        },
+        {
+          "text": "hypothalamus",
+          "image": null
+        },
+        {
+          "text": "adrenal gland",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-043",
+      "text": "Deficiency of growth hormone in childhood may cause:",
+      "image": null,
+      "options": [
+        {
+          "text": "dwarfism",
+          "image": null
+        },
+        {
+          "text": "diabetes",
+          "image": null
+        },
+        {
+          "text": "goitre",
+          "image": null
+        },
+        {
+          "text": "gigantism only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-044",
+      "text": "Excess secretion of growth hormone in childhood may cause:",
+      "image": null,
+      "options": [
+        {
+          "text": "gigantism",
+          "image": null
+        },
+        {
+          "text": "diabetes",
+          "image": null
+        },
+        {
+          "text": "goitre",
+          "image": null
+        },
+        {
+          "text": "dwarfism",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-045",
+      "text": "The gland responsible for regulation of metabolism is:",
+      "image": null,
+      "options": [
+        {
+          "text": "thyroid gland",
+          "image": null
+        },
+        {
+          "text": "adrenal gland",
+          "image": null
+        },
+        {
+          "text": "pituitary gland",
+          "image": null
+        },
+        {
+          "text": "pancreas only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-046",
+      "text": "Thyroid gland needs which element to synthesise thyroxine?",
+      "image": null,
+      "options": [
+        {
+          "text": "iodine",
+          "image": null
+        },
+        {
+          "text": "iron",
+          "image": null
+        },
+        {
+          "text": "calcium",
+          "image": null
+        },
+        {
+          "text": "sodium",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-047",
+      "text": "Which statement about thyroxine is incorrect?",
+      "image": null,
+      "options": [
+        {
+          "text": "Thyroid gland requires iodine to synthesize thyroxine",
+          "image": null
+        },
+        {
+          "text": "Thyroxine is also called thyroid hormone",
+          "image": null
+        },
+        {
+          "text": "It regulates protein, carbohydrate and fat metabolism",
+          "image": null
+        },
+        {
+          "text": "Iron is essential for thyroxine synthesis",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-048",
+      "text": "Iodised salt is advised because iodine helps produce:",
+      "image": null,
+      "options": [
+        {
+          "text": "thyroxine",
+          "image": null
+        },
+        {
+          "text": "insulin",
+          "image": null
+        },
+        {
+          "text": "adrenaline",
+          "image": null
+        },
+        {
+          "text": "testosterone",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-049",
+      "text": "Deficiency of iodine may lead to:",
+      "image": null,
+      "options": [
+        {
+          "text": "goitre",
+          "image": null
+        },
+        {
+          "text": "diabetes",
+          "image": null
+        },
+        {
+          "text": "dwarfism",
+          "image": null
+        },
+        {
+          "text": "night blindness only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-050",
+      "text": "The hormone responsible for regulating blood glucose level is:",
+      "image": null,
+      "options": [
+        {
+          "text": "insulin",
+          "image": null
+        },
+        {
+          "text": "glucagon only",
+          "image": null
+        },
+        {
+          "text": "adrenaline",
+          "image": null
+        },
+        {
+          "text": "thyroxine",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-051",
+      "text": "A diabetic patient suffers from deficiency of:",
+      "image": null,
+      "options": [
+        {
+          "text": "thyroxine",
+          "image": null
+        },
+        {
+          "text": "testosterone",
+          "image": null
+        },
+        {
+          "text": "oestrogen",
+          "image": null
+        },
+        {
+          "text": "insulin",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-052",
+      "text": "Which gland acts as both endocrine and exocrine gland?",
+      "image": null,
+      "options": [
+        {
+          "text": "pancreas",
+          "image": null
+        },
+        {
+          "text": "thyroid",
+          "image": null
+        },
+        {
+          "text": "adrenal",
+          "image": null
+        },
+        {
+          "text": "liver",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-053",
+      "text": "The hormone secreted in emergency situations is:",
+      "image": null,
+      "options": [
+        {
+          "text": "adrenaline",
+          "image": null
+        },
+        {
+          "text": "insulin",
+          "image": null
+        },
+        {
+          "text": "thyroxine",
+          "image": null
+        },
+        {
+          "text": "oestrogen",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-054",
+      "text": "Adrenaline is secreted by:",
+      "image": null,
+      "options": [
+        {
+          "text": "adrenal gland",
+          "image": null
+        },
+        {
+          "text": "thyroid gland",
+          "image": null
+        },
+        {
+          "text": "pituitary gland",
+          "image": null
+        },
+        {
+          "text": "testes",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-055",
+      "text": "Adrenaline prepares the body for:",
+      "image": null,
+      "options": [
+        {
+          "text": "fight or flight response",
+          "image": null
+        },
+        {
+          "text": "digestion only",
+          "image": null
+        },
+        {
+          "text": "photosynthesis",
+          "image": null
+        },
+        {
+          "text": "seed dormancy only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-056",
+      "text": "Which hormone is secreted by testes at puberty?",
+      "image": null,
+      "options": [
+        {
+          "text": "testosterone",
+          "image": null
+        },
+        {
+          "text": "oestrogen",
+          "image": null
+        },
+        {
+          "text": "insulin",
+          "image": null
+        },
+        {
+          "text": "thyroxine",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-057",
+      "text": "Which hormone is secreted by ovaries at puberty?",
+      "image": null,
+      "options": [
+        {
+          "text": "oestrogen",
+          "image": null
+        },
+        {
+          "text": "testosterone",
+          "image": null
+        },
+        {
+          "text": "adrenaline",
+          "image": null
+        },
+        {
+          "text": "thyroxine",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-058",
+      "text": "Physical changes during puberty are mainly controlled by:",
+      "image": null,
+      "options": [
+        {
+          "text": "testosterone from testes and oestrogen from ovaries",
+          "image": null
+        },
+        {
+          "text": "oestrogen from testes and testosterone from ovaries",
+          "image": null
+        },
+        {
+          "text": "thyroxine from pancreas",
+          "image": null
+        },
+        {
+          "text": "insulin from thyroid",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-059",
+      "text": "Which endocrine gland does not exist in pairs?",
+      "image": null,
+      "options": [
+        {
+          "text": "testes",
+          "image": null
+        },
+        {
+          "text": "adrenal",
+          "image": null
+        },
+        {
+          "text": "pituitary",
+          "image": null
+        },
+        {
+          "text": "ovary",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-060",
+      "text": "Which hormone is secreted by the pineal gland?",
+      "image": null,
+      "options": [
+        {
+          "text": "melatonin",
+          "image": null
+        },
+        {
+          "text": "insulin",
+          "image": null
+        },
+        {
+          "text": "thyroxine",
+          "image": null
+        },
+        {
+          "text": "growth hormone",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-061",
+      "text": "The pineal gland is associated with regulation of:",
+      "image": null,
+      "options": [
+        {
+          "text": "sleep-wake cycle",
+          "image": null
+        },
+        {
+          "text": "blood sugar only",
+          "image": null
+        },
+        {
+          "text": "seed dormancy",
+          "image": null
+        },
+        {
+          "text": "phototropism",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-062",
+      "text": "Which of the following is not a function of the endocrine system?",
+      "image": null,
+      "options": [
+        {
+          "text": "regulation of growth",
+          "image": null
+        },
+        {
+          "text": "regulation of metabolism",
+          "image": null
+        },
+        {
+          "text": "regulation of reproductive functions",
+          "image": null
+        },
+        {
+          "text": "direct regulation of breathing movements through medulla",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-063",
+      "text": "Which plant hormone promotes dormancy in seeds and buds?",
+      "image": null,
+      "options": [
+        {
+          "text": "auxin",
+          "image": null
+        },
+        {
+          "text": "gibberellin",
+          "image": null
+        },
+        {
+          "text": "cytokinin",
+          "image": null
+        },
+        {
+          "text": "abscisic acid",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-064",
+      "text": "The main function of abscisic acid is to:",
+      "image": null,
+      "options": [
+        {
+          "text": "promote cell division",
+          "image": null
+        },
+        {
+          "text": "inhibit growth",
+          "image": null
+        },
+        {
+          "text": "promote stem growth",
+          "image": null
+        },
+        {
+          "text": "increase cell length",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-065",
+      "text": "Fall of mature leaves and fruits is triggered by:",
+      "image": null,
+      "options": [
+        {
+          "text": "auxin",
+          "image": null
+        },
+        {
+          "text": "cytokinin",
+          "image": null
+        },
+        {
+          "text": "gibberellin",
+          "image": null
+        },
+        {
+          "text": "abscisic acid",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-066",
+      "text": "Which plant hormone promotes cell division?",
+      "image": null,
+      "options": [
+        {
+          "text": "auxin",
+          "image": null
+        },
+        {
+          "text": "gibberellin",
+          "image": null
+        },
+        {
+          "text": "cytokinin",
+          "image": null
+        },
+        {
+          "text": "abscisic acid",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-067",
+      "text": "Which plant hormone promotes elongation of cells?",
+      "image": null,
+      "options": [
+        {
+          "text": "auxin",
+          "image": null
+        },
+        {
+          "text": "cytokinin",
+          "image": null
+        },
+        {
+          "text": "abscisic acid",
+          "image": null
+        },
+        {
+          "text": "insulin",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-068",
+      "text": "Which plant hormone promotes growth of stem?",
+      "image": null,
+      "options": [
+        {
+          "text": "gibberellin",
+          "image": null
+        },
+        {
+          "text": "abscisic acid",
+          "image": null
+        },
+        {
+          "text": "insulin",
+          "image": null
+        },
+        {
+          "text": "thyroxine",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-069",
+      "text": "Plant hormones are also called:",
+      "image": null,
+      "options": [
+        {
+          "text": "phytohormones",
+          "image": null
+        },
+        {
+          "text": "neurotransmitters",
+          "image": null
+        },
+        {
+          "text": "enzymes only",
+          "image": null
+        },
+        {
+          "text": "antibodies",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-070",
+      "text": "Which pair contains plant hormones?",
+      "image": null,
+      "options": [
+        {
+          "text": "auxin and gibberellin",
+          "image": null
+        },
+        {
+          "text": "insulin and thyroxine",
+          "image": null
+        },
+        {
+          "text": "adrenaline and oestrogen",
+          "image": null
+        },
+        {
+          "text": "pepsin and trypsin",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-071",
+      "text": "Roots of plants are generally:",
+      "image": null,
+      "options": [
+        {
+          "text": "positively geotropic",
+          "image": null
+        },
+        {
+          "text": "negatively geotropic",
+          "image": null
+        },
+        {
+          "text": "positively phototropic",
+          "image": null
+        },
+        {
+          "text": "not geotropic",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-072",
+      "text": "Shoots of plants are generally:",
+      "image": null,
+      "options": [
+        {
+          "text": "negatively geotropic and positively phototropic",
+          "image": null
+        },
+        {
+          "text": "positively geotropic only",
+          "image": null
+        },
+        {
+          "text": "negatively phototropic only",
+          "image": null
+        },
+        {
+          "text": "not responsive to light",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-073",
+      "text": "Growth of roots towards water is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "chemotropism",
+          "image": null
+        },
+        {
+          "text": "phototropism",
+          "image": null
+        },
+        {
+          "text": "hydrotropism",
+          "image": null
+        },
+        {
+          "text": "geotropism",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-074",
+      "text": "Movement of sunflower in accordance with the path of the Sun is due to:",
+      "image": null,
+      "options": [
+        {
+          "text": "chemotropism",
+          "image": null
+        },
+        {
+          "text": "geotropism",
+          "image": null
+        },
+        {
+          "text": "phototropism",
+          "image": null
+        },
+        {
+          "text": "hydrotropism",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-075",
+      "text": "Growth of a shoot towards light is:",
+      "image": null,
+      "options": [
+        {
+          "text": "positive phototropism",
+          "image": null
+        },
+        {
+          "text": "negative phototropism",
+          "image": null
+        },
+        {
+          "text": "positive geotropism",
+          "image": null
+        },
+        {
+          "text": "hydrotropism",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-076",
+      "text": "Growth of roots away from light is:",
+      "image": null,
+      "options": [
+        {
+          "text": "negative phototropism",
+          "image": null
+        },
+        {
+          "text": "positive phototropism",
+          "image": null
+        },
+        {
+          "text": "chemotropism",
+          "image": null
+        },
+        {
+          "text": "thigmotropism",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-077",
+      "text": "Growth of roots towards earth due to gravity is:",
+      "image": null,
+      "options": [
+        {
+          "text": "positive geotropism",
+          "image": null
+        },
+        {
+          "text": "negative geotropism",
+          "image": null
+        },
+        {
+          "text": "positive phototropism",
+          "image": null
+        },
+        {
+          "text": "chemotropism",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-078",
+      "text": "Growth of shoots away from earth is:",
+      "image": null,
+      "options": [
+        {
+          "text": "negative geotropism",
+          "image": null
+        },
+        {
+          "text": "positive geotropism",
+          "image": null
+        },
+        {
+          "text": "hydrotropism",
+          "image": null
+        },
+        {
+          "text": "chemotropism",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-079",
+      "text": "Growth of pollen tube towards ovule is an example of:",
+      "image": null,
+      "options": [
+        {
+          "text": "chemotropism",
+          "image": null
+        },
+        {
+          "text": "phototropism",
+          "image": null
+        },
+        {
+          "text": "geotropism",
+          "image": null
+        },
+        {
+          "text": "hydrotropism",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-080",
+      "text": "Growth of tendrils around a support is due to:",
+      "image": null,
+      "options": [
+        {
+          "text": "effect of gravity",
+          "image": null
+        },
+        {
+          "text": "effect of chemicals only",
+          "image": null
+        },
+        {
+          "text": "faster growth of cells away from support",
+          "image": null
+        },
+        {
+          "text": "faster growth of cells in contact with support",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-081",
+      "text": "Tendril movement around support is an example of:",
+      "image": null,
+      "options": [
+        {
+          "text": "thigmotropism",
+          "image": null
+        },
+        {
+          "text": "phototropism",
+          "image": null
+        },
+        {
+          "text": "geotropism",
+          "image": null
+        },
+        {
+          "text": "hydrotropism",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-082",
+      "text": "The shape of guard cells changes due to change in:",
+      "image": null,
+      "options": [
+        {
+          "text": "protein composition",
+          "image": null
+        },
+        {
+          "text": "temperature only",
+          "image": null
+        },
+        {
+          "text": "amount of water in cells",
+          "image": null
+        },
+        {
+          "text": "position of nucleus",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-083",
+      "text": "Opening and closing of stomata occurs due to:",
+      "image": null,
+      "options": [
+        {
+          "text": "turgor changes in guard cells",
+          "image": null
+        },
+        {
+          "text": "blood pressure",
+          "image": null
+        },
+        {
+          "text": "insulin secretion",
+          "image": null
+        },
+        {
+          "text": "growth hormone only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-084",
+      "text": "The folding of Mimosa leaves on touch is a:",
+      "image": null,
+      "options": [
+        {
+          "text": "growth movement",
+          "image": null
+        },
+        {
+          "text": "nastic movement",
+          "image": null
+        },
+        {
+          "text": "phototropic movement",
+          "image": null
+        },
+        {
+          "text": "chemotropic movement only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-085",
+      "text": "Touch-me-not plant responds to touch by:",
+      "image": null,
+      "options": [
+        {
+          "text": "folding its leaves",
+          "image": null
+        },
+        {
+          "text": "increasing blood sugar",
+          "image": null
+        },
+        {
+          "text": "secreting insulin",
+          "image": null
+        },
+        {
+          "text": "growing roots upward",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-086",
+      "text": "Plant movements controlled by directional stimuli are called:",
+      "image": null,
+      "options": [
+        {
+          "text": "tropic movements",
+          "image": null
+        },
+        {
+          "text": "reflex actions",
+          "image": null
+        },
+        {
+          "text": "hormonal deficiency",
+          "image": null
+        },
+        {
+          "text": "synapses",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-087",
+      "text": "Phototropism is response to:",
+      "image": null,
+      "options": [
+        {
+          "text": "light",
+          "image": null
+        },
+        {
+          "text": "gravity",
+          "image": null
+        },
+        {
+          "text": "water",
+          "image": null
+        },
+        {
+          "text": "chemicals",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-088",
+      "text": "Geotropism is response to:",
+      "image": null,
+      "options": [
+        {
+          "text": "gravity",
+          "image": null
+        },
+        {
+          "text": "light",
+          "image": null
+        },
+        {
+          "text": "water",
+          "image": null
+        },
+        {
+          "text": "touch",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-089",
+      "text": "Hydrotropism is response to:",
+      "image": null,
+      "options": [
+        {
+          "text": "water",
+          "image": null
+        },
+        {
+          "text": "light",
+          "image": null
+        },
+        {
+          "text": "gravity",
+          "image": null
+        },
+        {
+          "text": "touch",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-090",
+      "text": "Chemotropism is response to:",
+      "image": null,
+      "options": [
+        {
+          "text": "chemicals",
+          "image": null
+        },
+        {
+          "text": "gravity",
+          "image": null
+        },
+        {
+          "text": "water",
+          "image": null
+        },
+        {
+          "text": "light",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-091",
+      "text": "Coordination in plants is mainly brought about by:",
+      "image": null,
+      "options": [
+        {
+          "text": "plant hormones and growth movements",
+          "image": null
+        },
+        {
+          "text": "nervous system",
+          "image": null
+        },
+        {
+          "text": "blood circulation",
+          "image": null
+        },
+        {
+          "text": "spinal cord",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-092",
+      "text": "Plants lack which coordination system found in animals?",
+      "image": null,
+      "options": [
+        {
+          "text": "nervous system",
+          "image": null
+        },
+        {
+          "text": "chemical regulation",
+          "image": null
+        },
+        {
+          "text": "hormonal regulation",
+          "image": null
+        },
+        {
+          "text": "growth response",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-093",
+      "text": "Which response is faster in humans?",
+      "image": null,
+      "options": [
+        {
+          "text": "nervous response",
+          "image": null
+        },
+        {
+          "text": "hormonal response",
+          "image": null
+        },
+        {
+          "text": "growth response",
+          "image": null
+        },
+        {
+          "text": "seed dormancy",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-094",
+      "text": "Which response usually lasts longer?",
+      "image": null,
+      "options": [
+        {
+          "text": "hormonal response",
+          "image": null
+        },
+        {
+          "text": "nervous response",
+          "image": null
+        },
+        {
+          "text": "reflex response only",
+          "image": null
+        },
+        {
+          "text": "synaptic response only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-095",
+      "text": "Chemical coordination in animals is carried out by:",
+      "image": null,
+      "options": [
+        {
+          "text": "endocrine glands",
+          "image": null
+        },
+        {
+          "text": "xylem",
+          "image": null
+        },
+        {
+          "text": "phloem",
+          "image": null
+        },
+        {
+          "text": "stomata",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-096",
+      "text": "Which gland secretes insulin?",
+      "image": null,
+      "options": [
+        {
+          "text": "pancreas",
+          "image": null
+        },
+        {
+          "text": "thyroid gland",
+          "image": null
+        },
+        {
+          "text": "adrenal gland",
+          "image": null
+        },
+        {
+          "text": "pituitary gland",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-097",
+      "text": "Which gland secretes thyroxine?",
+      "image": null,
+      "options": [
+        {
+          "text": "thyroid gland",
+          "image": null
+        },
+        {
+          "text": "pancreas",
+          "image": null
+        },
+        {
+          "text": "adrenal gland",
+          "image": null
+        },
+        {
+          "text": "ovary",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-098",
+      "text": "Which gland secretes adrenaline?",
+      "image": null,
+      "options": [
+        {
+          "text": "adrenal gland",
+          "image": null
+        },
+        {
+          "text": "thyroid gland",
+          "image": null
+        },
+        {
+          "text": "pancreas",
+          "image": null
+        },
+        {
+          "text": "pituitary gland",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-099",
+      "text": "Which gland secretes testosterone?",
+      "image": null,
+      "options": [
+        {
+          "text": "testes",
+          "image": null
+        },
+        {
+          "text": "ovary",
+          "image": null
+        },
+        {
+          "text": "thyroid",
+          "image": null
+        },
+        {
+          "text": "pancreas",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-100",
+      "text": "Which gland secretes oestrogen?",
+      "image": null,
+      "options": [
+        {
+          "text": "ovary",
+          "image": null
+        },
+        {
+          "text": "testes",
+          "image": null
+        },
+        {
+          "text": "adrenal",
+          "image": null
+        },
+        {
+          "text": "thyroid",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-101",
+      "text": "A target organ responds to a hormone because:",
+      "image": null,
+      "options": [
+        {
+          "text": "it has specific receptors for that hormone",
+          "image": null
+        },
+        {
+          "text": "all organs respond equally to all hormones",
+          "image": null
+        },
+        {
+          "text": "hormones are electrical wires",
+          "image": null
+        },
+        {
+          "text": "target organs have no receptors",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-102",
+      "text": "Hormones are transported in animals mainly through:",
+      "image": null,
+      "options": [
+        {
+          "text": "blood",
+          "image": null
+        },
+        {
+          "text": "xylem",
+          "image": null
+        },
+        {
+          "text": "phloem",
+          "image": null
+        },
+        {
+          "text": "synaptic gap only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-103",
+      "text": "The part labelled effector in a reflex arc is usually:",
+      "image": null,
+      "options": [
+        {
+          "text": "muscle or gland",
+          "image": null
+        },
+        {
+          "text": "receptor only",
+          "image": null
+        },
+        {
+          "text": "sensory neuron only",
+          "image": null
+        },
+        {
+          "text": "spinal cord only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-104",
+      "text": "The correct order in a reflex arc is:",
+      "image": null,
+      "options": [
+        {
+          "text": "receptor -> sensory neuron -> spinal cord -> motor neuron -> effector",
+          "image": null
+        },
+        {
+          "text": "effector -> motor neuron -> receptor -> spinal cord",
+          "image": null
+        },
+        {
+          "text": "spinal cord -> receptor -> sensory neuron -> effector",
+          "image": null
+        },
+        {
+          "text": "receptor -> motor neuron -> sensory neuron -> effector",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-105",
+      "text": "The direction of electrical signal in a neuron is generally:",
+      "image": null,
+      "options": [
+        {
+          "text": "dendrite -> cell body -> axon -> axon terminal",
+          "image": null
+        },
+        {
+          "text": "axon -> dendrite -> cell body",
+          "image": null
+        },
+        {
+          "text": "cell body -> dendrite -> receptor",
+          "image": null
+        },
+        {
+          "text": "axon terminal -> dendrite in same neuron only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-106",
+      "text": "Neurotransmitters are released at:",
+      "image": null,
+      "options": [
+        {
+          "text": "synapse",
+          "image": null
+        },
+        {
+          "text": "nucleus",
+          "image": null
+        },
+        {
+          "text": "stomata",
+          "image": null
+        },
+        {
+          "text": "xylem",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-107",
+      "text": "A reflex action helps by:",
+      "image": null,
+      "options": [
+        {
+          "text": "providing quick automatic protection",
+          "image": null
+        },
+        {
+          "text": "slowing down response",
+          "image": null
+        },
+        {
+          "text": "stopping all nerve impulses",
+          "image": null
+        },
+        {
+          "text": "preventing muscles from acting",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-108",
+      "text": "Withdrawal of hand from a hot object is controlled initially by:",
+      "image": null,
+      "options": [
+        {
+          "text": "spinal cord reflex",
+          "image": null
+        },
+        {
+          "text": "thyroid hormone only",
+          "image": null
+        },
+        {
+          "text": "cerebrum planning only",
+          "image": null
+        },
+        {
+          "text": "pancreas",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-109",
+      "text": "Which organ coordinates both voluntary actions and involuntary activities through different parts?",
+      "image": null,
+      "options": [
+        {
+          "text": "brain",
+          "image": null
+        },
+        {
+          "text": "heart",
+          "image": null
+        },
+        {
+          "text": "kidney",
+          "image": null
+        },
+        {
+          "text": "pancreas",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-110",
+      "text": "Which part of the brain is mainly associated with memory?",
+      "image": null,
+      "options": [
+        {
+          "text": "cerebrum",
+          "image": null
+        },
+        {
+          "text": "cerebellum",
+          "image": null
+        },
+        {
+          "text": "medulla",
+          "image": null
+        },
+        {
+          "text": "pons only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-111",
+      "text": "Which part of the brain controls involuntary actions like breathing?",
+      "image": null,
+      "options": [
+        {
+          "text": "medulla oblongata",
+          "image": null
+        },
+        {
+          "text": "cerebrum",
+          "image": null
+        },
+        {
+          "text": "cerebellum",
+          "image": null
+        },
+        {
+          "text": "optic lobe only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-112",
+      "text": "Which part of the brain coordinates precision of voluntary actions?",
+      "image": null,
+      "options": [
+        {
+          "text": "cerebellum",
+          "image": null
+        },
+        {
+          "text": "medulla",
+          "image": null
+        },
+        {
+          "text": "spinal cord only",
+          "image": null
+        },
+        {
+          "text": "thyroid",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-113",
+      "text": "Assertion: Reflex actions are quick and automatic. Reason: Reflex arcs can be completed through the spinal cord. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-114",
+      "text": "Assertion: Auxin helps shoots bend towards light. Reason: Auxin accumulates on the shaded side and promotes elongation there. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-115",
+      "text": "Assertion: Insulin deficiency may cause diabetes. Reason: Insulin helps regulate blood sugar level. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-116",
+      "text": "Assertion: Iodised salt helps prevent goitre. Reason: Iodine is needed for thyroxine synthesis. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-control-coordination-117",
+      "text": "Assertion: Abscisic acid inhibits growth. Reason: It promotes seed and bud dormancy. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    }
+  ]
+}

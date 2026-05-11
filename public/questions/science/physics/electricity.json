@@ -1,0 +1,4319 @@
+{
+  "subject": "Science",
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "questions": [
+    {
+      "id": "sci-electricity-001",
+      "text": "Which of the following is the SI unit of electric current?",
+      "image": null,
+      "options": [
+        {
+          "text": "Ohm",
+          "image": null
+        },
+        {
+          "text": "Ampere",
+          "image": null
+        },
+        {
+          "text": "Volt",
+          "image": null
+        },
+        {
+          "text": "Farad",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-002",
+      "text": "The opposition offered by a conductor to the flow of electric current is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "resistance",
+          "image": null
+        },
+        {
+          "text": "conductance",
+          "image": null
+        },
+        {
+          "text": "inductance",
+          "image": null
+        },
+        {
+          "text": "capacitance",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-003",
+      "text": "In household wiring, a fuse wire should be connected in the:",
+      "image": null,
+      "options": [
+        {
+          "text": "live wire",
+          "image": null
+        },
+        {
+          "text": "neutral wire",
+          "image": null
+        },
+        {
+          "text": "earth wire",
+          "image": null
+        },
+        {
+          "text": "any wire",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-004",
+      "text": "The rate of flow of electric charge through a conductor is known as:",
+      "image": null,
+      "options": [
+        {
+          "text": "electric potential",
+          "image": null
+        },
+        {
+          "text": "electric conductance",
+          "image": null
+        },
+        {
+          "text": "electric current",
+          "image": null
+        },
+        {
+          "text": "electric power",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-005",
+      "text": "The instrument used to measure electric current in a circuit is a/an:",
+      "image": null,
+      "options": [
+        {
+          "text": "ammeter",
+          "image": null
+        },
+        {
+          "text": "galvanometer",
+          "image": null
+        },
+        {
+          "text": "voltmeter",
+          "image": null
+        },
+        {
+          "text": "potentiometer",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-006",
+      "text": "Work done per unit charge in moving a charge between two points is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "electric current",
+          "image": null
+        },
+        {
+          "text": "electric resistance",
+          "image": null
+        },
+        {
+          "text": "electric conductance",
+          "image": null
+        },
+        {
+          "text": "potential difference",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-007",
+      "text": "The SI unit of potential difference is:",
+      "image": null,
+      "options": [
+        {
+          "text": "volt",
+          "image": null
+        },
+        {
+          "text": "ohm",
+          "image": null
+        },
+        {
+          "text": "ampere",
+          "image": null
+        },
+        {
+          "text": "coulomb",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-008",
+      "text": "For an ohmic conductor at constant temperature, the relation between potential difference $V$ and current $I$ is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$V \\propto I^2$",
+          "image": null
+        },
+        {
+          "text": "$V \\propto 1/I$",
+          "image": null
+        },
+        {
+          "text": "$V^2 \\propto I$",
+          "image": null
+        },
+        {
+          "text": "$V \\propto I$",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-009",
+      "text": "The relation between potential difference and current in a metallic conductor was experimentally established by:",
+      "image": null,
+      "options": [
+        {
+          "text": "Newton",
+          "image": null
+        },
+        {
+          "text": "Ampere",
+          "image": null
+        },
+        {
+          "text": "Ohm",
+          "image": null
+        },
+        {
+          "text": "Volta",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-010",
+      "text": "The SI unit of resistance is:",
+      "image": null,
+      "options": [
+        {
+          "text": "newton",
+          "image": null
+        },
+        {
+          "text": "ohm",
+          "image": null
+        },
+        {
+          "text": "watt",
+          "image": null
+        },
+        {
+          "text": "joule",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-011",
+      "text": "Which statement about the usual Ohm's law experimental setup is not correct?",
+      "image": null,
+      "options": [
+        {
+          "text": "The voltmeter is connected in parallel with the resistance.",
+          "image": null
+        },
+        {
+          "text": "The ammeter is connected in series.",
+          "image": null
+        },
+        {
+          "text": "The rheostat can only increase resistance in the circuit.",
+          "image": null
+        },
+        {
+          "text": "The key is used to open or close the circuit.",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-012",
+      "text": "Which statement correctly describes a voltmeter connection?",
+      "image": null,
+      "options": [
+        {
+          "text": "It has high resistance and is connected in series.",
+          "image": null
+        },
+        {
+          "text": "It has low resistance and is connected in series.",
+          "image": null
+        },
+        {
+          "text": "It has high resistance and is connected in parallel.",
+          "image": null
+        },
+        {
+          "text": "It has low resistance and is connected in parallel.",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-013",
+      "text": "A 12 V battery is connected in series with resistors of $0.2\\Omega$, $0.3\\Omega$, $0.4\\Omega$, $0.5\\Omega$, and $12\\Omega$. The current through the $0.3\\Omega$ resistor is closest to:",
+      "image": null,
+      "options": [
+        {
+          "text": "0.895 A",
+          "image": null
+        },
+        {
+          "text": "1.11 A",
+          "image": null
+        },
+        {
+          "text": "0.5 A",
+          "image": null
+        },
+        {
+          "text": "0.3 A",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-014",
+      "text": "The resistance of a conductor does not directly depend on its:",
+      "image": null,
+      "options": [
+        {
+          "text": "length",
+          "image": null
+        },
+        {
+          "text": "area of cross-section",
+          "image": null
+        },
+        {
+          "text": "temperature",
+          "image": null
+        },
+        {
+          "text": "density",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-015",
+      "text": "In a parallel combination of electrical appliances, the total electrical power generally:",
+      "image": null,
+      "options": [
+        {
+          "text": "increases",
+          "image": null
+        },
+        {
+          "text": "decreases",
+          "image": null
+        },
+        {
+          "text": "becomes zero",
+          "image": null
+        },
+        {
+          "text": "remains the same as one appliance",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-016",
+      "text": "Electric charges flow in a conductor when:",
+      "image": null,
+      "options": [
+        {
+          "text": "the conductor is heated only",
+          "image": null
+        },
+        {
+          "text": "a potential difference is applied",
+          "image": null
+        },
+        {
+          "text": "the conductor is cooled only",
+          "image": null
+        },
+        {
+          "text": "there is no electric field",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-017",
+      "text": "If both the length and radius of a wire are doubled, its resistance becomes:",
+      "image": null,
+      "options": [
+        {
+          "text": "unchanged",
+          "image": null
+        },
+        {
+          "text": "twice",
+          "image": null
+        },
+        {
+          "text": "half",
+          "image": null
+        },
+        {
+          "text": "four times",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-018",
+      "text": "Ohm's law for a metallic conductor is valid only when the conductor's:",
+      "image": null,
+      "options": [
+        {
+          "text": "pressure is zero",
+          "image": null
+        },
+        {
+          "text": "temperature remains constant",
+          "image": null
+        },
+        {
+          "text": "length keeps changing",
+          "image": null
+        },
+        {
+          "text": "current is zero",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-019",
+      "text": "Four resistors of $4\\Omega$ each are connected in parallel. The equivalent resistance is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$4\\Omega$",
+          "image": null
+        },
+        {
+          "text": "$1\\Omega$",
+          "image": null
+        },
+        {
+          "text": "$2\\Omega$",
+          "image": null
+        },
+        {
+          "text": "$16\\Omega$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-020",
+      "text": "A wire has length $l$ and cross-sectional area $A$. Which change gives the least resistance?",
+      "image": null,
+      "options": [
+        {
+          "text": "Length doubled and area halved",
+          "image": null
+        },
+        {
+          "text": "Length tripled and area doubled",
+          "image": null
+        },
+        {
+          "text": "Length halved and area doubled",
+          "image": null
+        },
+        {
+          "text": "Original length and area",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-021",
+      "text": "The specific resistance or resistivity of a material depends mainly on:",
+      "image": null,
+      "options": [
+        {
+          "text": "length of wire",
+          "image": null
+        },
+        {
+          "text": "area of wire",
+          "image": null
+        },
+        {
+          "text": "current through it",
+          "image": null
+        },
+        {
+          "text": "temperature",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-022",
+      "text": "A resistor of length $l$ is cut into three equal parts and the parts are connected in series across the same battery. The current through the series combination is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$I/3$",
+          "image": null
+        },
+        {
+          "text": "$3I$",
+          "image": null
+        },
+        {
+          "text": "$I$",
+          "image": null
+        },
+        {
+          "text": "$3I/2$",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-023",
+      "text": "Two resistances $R_1$ and $R_2$ are connected in parallel. The ratio of current through $R_1$ to current through $R_2$ is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$R_1:R_2$",
+          "image": null
+        },
+        {
+          "text": "$R_2:R_1$",
+          "image": null
+        },
+        {
+          "text": "$1:1$",
+          "image": null
+        },
+        {
+          "text": "not related to resistance",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-024",
+      "text": "Which statement about ammeter and voltmeter connections is correct?",
+      "image": null,
+      "options": [
+        {
+          "text": "Ammeter in series and voltmeter in parallel",
+          "image": null
+        },
+        {
+          "text": "Both in series",
+          "image": null
+        },
+        {
+          "text": "Voltmeter in series and ammeter in parallel",
+          "image": null
+        },
+        {
+          "text": "Both in parallel only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-025",
+      "text": "The amount of energy delivered by one kilowatt of power in one hour is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "kilogram-second",
+          "image": null
+        },
+        {
+          "text": "kilowatt-second",
+          "image": null
+        },
+        {
+          "text": "watt-hour",
+          "image": null
+        },
+        {
+          "text": "kilowatt-hour",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-026",
+      "text": "In SI units, $J C^{-1}$ is equal to:",
+      "image": null,
+      "options": [
+        {
+          "text": "volt",
+          "image": null
+        },
+        {
+          "text": "newton",
+          "image": null
+        },
+        {
+          "text": "pascal",
+          "image": null
+        },
+        {
+          "text": "ohm",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-027",
+      "text": "Materials that do not show a linear voltage-current relationship are called:",
+      "image": null,
+      "options": [
+        {
+          "text": "ohmic",
+          "image": null
+        },
+        {
+          "text": "non-ohmic",
+          "image": null
+        },
+        {
+          "text": "ideal conductors",
+          "image": null
+        },
+        {
+          "text": "standard resistors",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-028",
+      "text": "An electric current is produced by the flow of:",
+      "image": null,
+      "options": [
+        {
+          "text": "positive charges only",
+          "image": null
+        },
+        {
+          "text": "negative charges only",
+          "image": null
+        },
+        {
+          "text": "positive or negative charges or both",
+          "image": null
+        },
+        {
+          "text": "uncharged particles only",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-029",
+      "text": "In a filament-type bulb, most electrical power consumed appears as:",
+      "image": null,
+      "options": [
+        {
+          "text": "visible light",
+          "image": null
+        },
+        {
+          "text": "infrared radiation",
+          "image": null
+        },
+        {
+          "text": "ultraviolet radiation",
+          "image": null
+        },
+        {
+          "text": "fluorescent light",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-030",
+      "text": "A house supply is rated at 100 A and 220 V. How many 75 W, 220 V bulbs could theoretically be switched on in parallel at the same time?",
+      "image": null,
+      "options": [
+        {
+          "text": "93",
+          "image": null
+        },
+        {
+          "text": "193",
+          "image": null
+        },
+        {
+          "text": "293",
+          "image": null
+        },
+        {
+          "text": "393",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-031",
+      "text": "If the current through a fixed resistor is halved, the heat produced in the same time becomes:",
+      "image": null,
+      "options": [
+        {
+          "text": "double",
+          "image": null
+        },
+        {
+          "text": "half",
+          "image": null
+        },
+        {
+          "text": "one-fourth",
+          "image": null
+        },
+        {
+          "text": "four times",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-032",
+      "text": "A wire of resistance $R_1$ is cut into five equal pieces and all pieces are connected in parallel to give resistance $R_2$. The ratio $R_1/R_2$ is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$1/25$",
+          "image": null
+        },
+        {
+          "text": "$1/5$",
+          "image": null
+        },
+        {
+          "text": "$5$",
+          "image": null
+        },
+        {
+          "text": "$25$",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-033",
+      "text": "According to Joule's law, heat produced in a fixed resistor is proportional to the square of:",
+      "image": null,
+      "options": [
+        {
+          "text": "resistance",
+          "image": null
+        },
+        {
+          "text": "temperature",
+          "image": null
+        },
+        {
+          "text": "current",
+          "image": null
+        },
+        {
+          "text": "time",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-034",
+      "text": "An electric heater rated 2 kW is used for 3 hours. If energy costs Rs 4 per kWh, the cost is:",
+      "image": null,
+      "options": [
+        {
+          "text": "Rs 12",
+          "image": null
+        },
+        {
+          "text": "Rs 24",
+          "image": null
+        },
+        {
+          "text": "Rs 36",
+          "image": null
+        },
+        {
+          "text": "Rs 48",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-035",
+      "text": "The commercial unit of electrical energy is:",
+      "image": null,
+      "options": [
+        {
+          "text": "watt",
+          "image": null
+        },
+        {
+          "text": "watt-hour",
+          "image": null
+        },
+        {
+          "text": "kilowatt-hour",
+          "image": null
+        },
+        {
+          "text": "kilojoule",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-036",
+      "text": "An electric fuse works mainly on the:",
+      "image": null,
+      "options": [
+        {
+          "text": "chemical effect of current",
+          "image": null
+        },
+        {
+          "text": "magnetic effect of current",
+          "image": null
+        },
+        {
+          "text": "lighting effect of current",
+          "image": null
+        },
+        {
+          "text": "heating effect of current",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-037",
+      "text": "If 300 C of charge flows through a conductor in 10 minutes, the current is:",
+      "image": null,
+      "options": [
+        {
+          "text": "30 A",
+          "image": null
+        },
+        {
+          "text": "0.5 A",
+          "image": null
+        },
+        {
+          "text": "5 A",
+          "image": null
+        },
+        {
+          "text": "50 A",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-038",
+      "text": "The resistivity of copper depends chiefly on:",
+      "image": null,
+      "options": [
+        {
+          "text": "length",
+          "image": null
+        },
+        {
+          "text": "thickness",
+          "image": null
+        },
+        {
+          "text": "temperature",
+          "image": null
+        },
+        {
+          "text": "area of cross-section",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-039",
+      "text": "When a $4\\Omega$ resistor is connected across a 12 V battery, the charge passing per second is:",
+      "image": null,
+      "options": [
+        {
+          "text": "0.3 C",
+          "image": null
+        },
+        {
+          "text": "3 C",
+          "image": null
+        },
+        {
+          "text": "4 C",
+          "image": null
+        },
+        {
+          "text": "12 C",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-040",
+      "text": "If the potential difference is constant and the circuit resistance is doubled, the current becomes:",
+      "image": null,
+      "options": [
+        {
+          "text": "double",
+          "image": null
+        },
+        {
+          "text": "half",
+          "image": null
+        },
+        {
+          "text": "one-fourth",
+          "image": null
+        },
+        {
+          "text": "four times",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-041",
+      "text": "A material with resistivity about $0.6\\Omega m$ is most likely a:",
+      "image": null,
+      "options": [
+        {
+          "text": "insulator",
+          "image": null
+        },
+        {
+          "text": "superconductor",
+          "image": null
+        },
+        {
+          "text": "good conductor",
+          "image": null
+        },
+        {
+          "text": "semiconductor",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-042",
+      "text": "A wire of length 300 m, area $1.0\\text{ mm}^2$, and resistivity $1.0\\times10^{-7}\\Omega m$ has resistance:",
+      "image": null,
+      "options": [
+        {
+          "text": "$2\\Omega$",
+          "image": null
+        },
+        {
+          "text": "$3\\Omega$",
+          "image": null
+        },
+        {
+          "text": "$20\\Omega$",
+          "image": null
+        },
+        {
+          "text": "$30\\Omega$",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-043",
+      "text": "Another name for potential difference is:",
+      "image": null,
+      "options": [
+        {
+          "text": "amperage",
+          "image": null
+        },
+        {
+          "text": "wattage",
+          "image": null
+        },
+        {
+          "text": "voltage",
+          "image": null
+        },
+        {
+          "text": "potential energy",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-044",
+      "text": "The unit of electrical resistance is:",
+      "image": null,
+      "options": [
+        {
+          "text": "ampere",
+          "image": null
+        },
+        {
+          "text": "volt",
+          "image": null
+        },
+        {
+          "text": "coulomb",
+          "image": null
+        },
+        {
+          "text": "ohm",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-045",
+      "text": "If a copper wire has resistance $1\\Omega$, a similar nichrome wire has a much higher resistance, about:",
+      "image": null,
+      "options": [
+        {
+          "text": "$25\\Omega$",
+          "image": null
+        },
+        {
+          "text": "$30\\Omega$",
+          "image": null
+        },
+        {
+          "text": "$60\\Omega$",
+          "image": null
+        },
+        {
+          "text": "$45\\Omega$",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-046",
+      "text": "A 12 V car headlight draws 0.5 A. Its resistance is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$0.5\\Omega$",
+          "image": null
+        },
+        {
+          "text": "$6\\Omega$",
+          "image": null
+        },
+        {
+          "text": "$12\\Omega$",
+          "image": null
+        },
+        {
+          "text": "$24\\Omega$",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-047",
+      "text": "Electrons in a metallic wire move from:",
+      "image": null,
+      "options": [
+        {
+          "text": "high potential to low potential",
+          "image": null
+        },
+        {
+          "text": "low potential to high potential",
+          "image": null
+        },
+        {
+          "text": "the same direction as conventional current",
+          "image": null
+        },
+        {
+          "text": "no definite direction under potential difference",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-048",
+      "text": "The heating element of an electric iron is commonly made of:",
+      "image": null,
+      "options": [
+        {
+          "text": "copper",
+          "image": null
+        },
+        {
+          "text": "nichrome",
+          "image": null
+        },
+        {
+          "text": "aluminium",
+          "image": null
+        },
+        {
+          "text": "iron",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-049",
+      "text": "The electrical resistance of good insulators is:",
+      "image": null,
+      "options": [
+        {
+          "text": "high",
+          "image": null
+        },
+        {
+          "text": "low",
+          "image": null
+        },
+        {
+          "text": "zero",
+          "image": null
+        },
+        {
+          "text": "infinitely high in ideal comparison",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-050",
+      "text": "The resistivity of a given metallic wire depends on its:",
+      "image": null,
+      "options": [
+        {
+          "text": "thickness",
+          "image": null
+        },
+        {
+          "text": "shape",
+          "image": null
+        },
+        {
+          "text": "material",
+          "image": null
+        },
+        {
+          "text": "length",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-051",
+      "text": "Electric power is inversely proportional to resistance when which quantity is kept constant?",
+      "image": null,
+      "options": [
+        {
+          "text": "potential difference",
+          "image": null
+        },
+        {
+          "text": "current",
+          "image": null
+        },
+        {
+          "text": "charge",
+          "image": null
+        },
+        {
+          "text": "temperature only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-052",
+      "text": "Three resistors of $1\\Omega$, $2\\Omega$, and $3\\Omega$ are connected in parallel. Their combined resistance is:",
+      "image": null,
+      "options": [
+        {
+          "text": "greater than $3\\Omega$",
+          "image": null
+        },
+        {
+          "text": "less than $1\\Omega$",
+          "image": null
+        },
+        {
+          "text": "equal to $2\\Omega$",
+          "image": null
+        },
+        {
+          "text": "between $1\\Omega$ and $3\\Omega$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-053",
+      "text": "A bulb connected to a 220 V generator draws 0.50 A. Its power is:",
+      "image": null,
+      "options": [
+        {
+          "text": "440 W",
+          "image": null
+        },
+        {
+          "text": "110 W",
+          "image": null
+        },
+        {
+          "text": "55 W",
+          "image": null
+        },
+        {
+          "text": "0.0023 W",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-054",
+      "text": "The commercial unit $1\\text{ kWh}$ is equal to:",
+      "image": null,
+      "options": [
+        {
+          "text": "$3.6\\times10^{-6}$ J",
+          "image": null
+        },
+        {
+          "text": "$\\frac{1}{3.6}\\times10^6$ J",
+          "image": null
+        },
+        {
+          "text": "$3.6\\times10^6$ J",
+          "image": null
+        },
+        {
+          "text": "$\\frac{1}{3.6}\\times10^{-6}$ J",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-055",
+      "text": "Electric bulbs are commonly filled with:",
+      "image": null,
+      "options": [
+        {
+          "text": "helium and neon",
+          "image": null
+        },
+        {
+          "text": "neon and argon",
+          "image": null
+        },
+        {
+          "text": "argon and hydrogen",
+          "image": null
+        },
+        {
+          "text": "argon and nitrogen",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-056",
+      "text": "If 100 J of heat is produced each second in a $4\\Omega$ resistor, the potential difference across it is:",
+      "image": null,
+      "options": [
+        {
+          "text": "30 V",
+          "image": null
+        },
+        {
+          "text": "20 V",
+          "image": null
+        },
+        {
+          "text": "10 V",
+          "image": null
+        },
+        {
+          "text": "25 V",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-057",
+      "text": "Electric potential is a:",
+      "image": null,
+      "options": [
+        {
+          "text": "scalar quantity",
+          "image": null
+        },
+        {
+          "text": "vector quantity",
+          "image": null
+        },
+        {
+          "text": "neither scalar nor vector quantity",
+          "image": null
+        },
+        {
+          "text": "quantity that is sometimes scalar and sometimes vector",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-058",
+      "text": "$1\\text{ mV}$ is equal to:",
+      "image": null,
+      "options": [
+        {
+          "text": "10 V",
+          "image": null
+        },
+        {
+          "text": "1000 V",
+          "image": null
+        },
+        {
+          "text": "$10^{-3}$ V",
+          "image": null
+        },
+        {
+          "text": "$10^{-6}$ V",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-059",
+      "text": "Coulomb is the SI unit of:",
+      "image": null,
+      "options": [
+        {
+          "text": "electric charge",
+          "image": null
+        },
+        {
+          "text": "electric current",
+          "image": null
+        },
+        {
+          "text": "potential difference",
+          "image": null
+        },
+        {
+          "text": "resistance",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-060",
+      "text": "A 10 V battery moves 20,000 C of charge through a resistance. The work done is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$2\\times10^3$ J",
+          "image": null
+        },
+        {
+          "text": "$2\\times10^5$ J",
+          "image": null
+        },
+        {
+          "text": "$2\\times10^4$ J",
+          "image": null
+        },
+        {
+          "text": "$2\\times10^2$ J",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-061",
+      "text": "To obtain an equivalent resistance of $2\\Omega$ using only $6\\Omega$ resistors, the number of resistors required is:",
+      "image": null,
+      "options": [
+        {
+          "text": "2",
+          "image": null
+        },
+        {
+          "text": "3",
+          "image": null
+        },
+        {
+          "text": "4",
+          "image": null
+        },
+        {
+          "text": "6",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-062",
+      "text": "When the temperature of a metallic conductor increases, its resistance generally:",
+      "image": null,
+      "options": [
+        {
+          "text": "decreases linearly",
+          "image": null
+        },
+        {
+          "text": "increases",
+          "image": null
+        },
+        {
+          "text": "becomes zero",
+          "image": null
+        },
+        {
+          "text": "does not change",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-063",
+      "text": "A boy needs 4000 J of work to transfer 10 C of charge through a $50\\Omega$ resistor. The current through the resistor is:",
+      "image": null,
+      "options": [
+        {
+          "text": "2 A",
+          "image": null
+        },
+        {
+          "text": "4 A",
+          "image": null
+        },
+        {
+          "text": "8 A",
+          "image": null
+        },
+        {
+          "text": "16 A",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-064",
+      "text": "Electric potential at a point is defined as:",
+      "image": null,
+      "options": [
+        {
+          "text": "charge flowing per second",
+          "image": null
+        },
+        {
+          "text": "work done in moving a unit positive charge to that point",
+          "image": null
+        },
+        {
+          "text": "resistance per unit length",
+          "image": null
+        },
+        {
+          "text": "power consumed per unit current",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-065",
+      "text": "The relation between work $W$, charge $q$, and electric potential $V$ is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$V = W/q$",
+          "image": null
+        },
+        {
+          "text": "$V = q/W$",
+          "image": null
+        },
+        {
+          "text": "$W = V/q$",
+          "image": null
+        },
+        {
+          "text": "$q = WV$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-066",
+      "text": "One volt of electric potential means:",
+      "image": null,
+      "options": [
+        {
+          "text": "1 C of charge flows in 1 s",
+          "image": null
+        },
+        {
+          "text": "1 J of work is done in moving 1 C of charge",
+          "image": null
+        },
+        {
+          "text": "1 A current flows through $1\\Omega$",
+          "image": null
+        },
+        {
+          "text": "1 W power is used for 1 s",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-067",
+      "text": "The current $I$ due to $n$ electrons of charge $e$ crossing a section in time $t$ is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$I = ne/t$",
+          "image": null
+        },
+        {
+          "text": "$I = nt/e$",
+          "image": null
+        },
+        {
+          "text": "$I = et/n$",
+          "image": null
+        },
+        {
+          "text": "$I = n/(et)$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-068",
+      "text": "One ampere of current means:",
+      "image": null,
+      "options": [
+        {
+          "text": "one volt per ohm",
+          "image": null
+        },
+        {
+          "text": "one coulomb of charge per second",
+          "image": null
+        },
+        {
+          "text": "one joule per coulomb",
+          "image": null
+        },
+        {
+          "text": "one watt per second",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-069",
+      "text": "The direction of conventional current in a metal wire is:",
+      "image": null,
+      "options": [
+        {
+          "text": "same as electron flow",
+          "image": null
+        },
+        {
+          "text": "opposite to electron flow",
+          "image": null
+        },
+        {
+          "text": "always from negative to positive terminal",
+          "image": null
+        },
+        {
+          "text": "unrelated to charge flow",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-070",
+      "text": "Which law states that current through a conductor is directly proportional to potential difference across its ends at constant temperature?",
+      "image": null,
+      "options": [
+        {
+          "text": "Joule's law",
+          "image": null
+        },
+        {
+          "text": "Ohm's law",
+          "image": null
+        },
+        {
+          "text": "Faraday's law",
+          "image": null
+        },
+        {
+          "text": "Coulomb's law",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-071",
+      "text": "Resistance of a wire varies with its cross-sectional area as:",
+      "image": null,
+      "options": [
+        {
+          "text": "directly proportional",
+          "image": null
+        },
+        {
+          "text": "inversely proportional",
+          "image": null
+        },
+        {
+          "text": "independent",
+          "image": null
+        },
+        {
+          "text": "proportional to square of area",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-072",
+      "text": "Joule's law of heating is represented by:",
+      "image": null,
+      "options": [
+        {
+          "text": "$H = I^2Rt$",
+          "image": null
+        },
+        {
+          "text": "$H = IR/t$",
+          "image": null
+        },
+        {
+          "text": "$H = V/R$",
+          "image": null
+        },
+        {
+          "text": "$H = I/Rt$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-073",
+      "text": "An ammeter is connected in series because it is used to measure:",
+      "image": null,
+      "options": [
+        {
+          "text": "potential difference",
+          "image": null
+        },
+        {
+          "text": "current through the circuit branch",
+          "image": null
+        },
+        {
+          "text": "resistance of air",
+          "image": null
+        },
+        {
+          "text": "electrical energy",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-074",
+      "text": "A voltmeter is connected in parallel because it measures:",
+      "image": null,
+      "options": [
+        {
+          "text": "current through one wire only",
+          "image": null
+        },
+        {
+          "text": "potential difference across two points",
+          "image": null
+        },
+        {
+          "text": "resistance by itself",
+          "image": null
+        },
+        {
+          "text": "charge stored in a cell",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-075",
+      "text": "For two wires of the same material and length, the thicker wire has:",
+      "image": null,
+      "options": [
+        {
+          "text": "greater resistance",
+          "image": null
+        },
+        {
+          "text": "lower resistance",
+          "image": null
+        },
+        {
+          "text": "same resistance",
+          "image": null
+        },
+        {
+          "text": "zero resistance",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-076",
+      "text": "If copper and manganin wires have equal length and equal resistance, and copper has lower resistivity, which wire must be thicker?",
+      "image": null,
+      "options": [
+        {
+          "text": "copper",
+          "image": null
+        },
+        {
+          "text": "manganin",
+          "image": null
+        },
+        {
+          "text": "both equal thickness",
+          "image": null
+        },
+        {
+          "text": "neither can conduct",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-077",
+      "text": "An ammeter may burn out if connected in parallel because:",
+      "image": null,
+      "options": [
+        {
+          "text": "its resistance is very high",
+          "image": null
+        },
+        {
+          "text": "its resistance is very low and large current may pass",
+          "image": null
+        },
+        {
+          "text": "it blocks all current",
+          "image": null
+        },
+        {
+          "text": "it measures voltage only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-078",
+      "text": "Series arrangement is not preferred for domestic lighting because:",
+      "image": null,
+      "options": [
+        {
+          "text": "all lamps get different voltages only",
+          "image": null
+        },
+        {
+          "text": "one fused lamp can break the whole circuit",
+          "image": null
+        },
+        {
+          "text": "it reduces resistance to zero",
+          "image": null
+        },
+        {
+          "text": "it needs no switch",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-079",
+      "text": "Which material is commonly used as the filament of an incandescent bulb?",
+      "image": null,
+      "options": [
+        {
+          "text": "copper",
+          "image": null
+        },
+        {
+          "text": "tungsten",
+          "image": null
+        },
+        {
+          "text": "aluminium",
+          "image": null
+        },
+        {
+          "text": "lead",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-080",
+      "text": "A fuse wire should have:",
+      "image": null,
+      "options": [
+        {
+          "text": "high melting point and high resistance",
+          "image": null
+        },
+        {
+          "text": "low melting point and suitable resistance",
+          "image": null
+        },
+        {
+          "text": "zero resistance and high melting point",
+          "image": null
+        },
+        {
+          "text": "infinite resistance and low melting point",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-081",
+      "text": "In a series circuit, the current through each resistor is:",
+      "image": null,
+      "options": [
+        {
+          "text": "different for each resistor",
+          "image": null
+        },
+        {
+          "text": "same through all resistors",
+          "image": null
+        },
+        {
+          "text": "zero after first resistor",
+          "image": null
+        },
+        {
+          "text": "maximum across highest resistor only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-082",
+      "text": "In a parallel combination of resistors, the potential difference across each branch is:",
+      "image": null,
+      "options": [
+        {
+          "text": "same",
+          "image": null
+        },
+        {
+          "text": "different in proportion to resistance",
+          "image": null
+        },
+        {
+          "text": "zero",
+          "image": null
+        },
+        {
+          "text": "maximum only in smallest resistance branch",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-083",
+      "text": "An ideal ammeter should have:",
+      "image": null,
+      "options": [
+        {
+          "text": "very high resistance",
+          "image": null
+        },
+        {
+          "text": "very low resistance",
+          "image": null
+        },
+        {
+          "text": "infinite resistance",
+          "image": null
+        },
+        {
+          "text": "variable capacitance",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-084",
+      "text": "An ideal voltmeter should have:",
+      "image": null,
+      "options": [
+        {
+          "text": "very low resistance",
+          "image": null
+        },
+        {
+          "text": "very high resistance",
+          "image": null
+        },
+        {
+          "text": "zero resistance",
+          "image": null
+        },
+        {
+          "text": "same resistance as the circuit",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-085",
+      "text": "A current of 1 A flows through a resistor when 2 V is applied across it. Its resistance is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$0.5\\Omega$",
+          "image": null
+        },
+        {
+          "text": "$1\\Omega$",
+          "image": null
+        },
+        {
+          "text": "$2\\Omega$",
+          "image": null
+        },
+        {
+          "text": "$4\\Omega$",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-086",
+      "text": "Two $2\\Omega$ resistors connected in series have equivalent resistance:",
+      "image": null,
+      "options": [
+        {
+          "text": "$1\\Omega$",
+          "image": null
+        },
+        {
+          "text": "$2\\Omega$",
+          "image": null
+        },
+        {
+          "text": "$4\\Omega$",
+          "image": null
+        },
+        {
+          "text": "$8\\Omega$",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-087",
+      "text": "Two $2\\Omega$ resistors connected in parallel have equivalent resistance:",
+      "image": null,
+      "options": [
+        {
+          "text": "$1\\Omega$",
+          "image": null
+        },
+        {
+          "text": "$2\\Omega$",
+          "image": null
+        },
+        {
+          "text": "$4\\Omega$",
+          "image": null
+        },
+        {
+          "text": "$0.5\\Omega$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-088",
+      "text": "For a fixed potential difference, electric power in a resistor is given by:",
+      "image": null,
+      "options": [
+        {
+          "text": "$P = V^2/R$",
+          "image": null
+        },
+        {
+          "text": "$P = IR^2$",
+          "image": null
+        },
+        {
+          "text": "$P = R/V^2$",
+          "image": null
+        },
+        {
+          "text": "$P = I/t$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-089",
+      "text": "For a fixed current, electric power in a resistor is given by:",
+      "image": null,
+      "options": [
+        {
+          "text": "$P = I^2R$",
+          "image": null
+        },
+        {
+          "text": "$P = V^2/R$",
+          "image": null
+        },
+        {
+          "text": "$P = R/I$",
+          "image": null
+        },
+        {
+          "text": "$P = It$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-090",
+      "text": "The heat produced when current flows through a conductor is measured in:",
+      "image": null,
+      "options": [
+        {
+          "text": "joule",
+          "image": null
+        },
+        {
+          "text": "volt",
+          "image": null
+        },
+        {
+          "text": "ampere",
+          "image": null
+        },
+        {
+          "text": "ohm",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-091",
+      "text": "Which combination gives a smaller equivalent resistance than each individual resistor?",
+      "image": null,
+      "options": [
+        {
+          "text": "series combination",
+          "image": null
+        },
+        {
+          "text": "parallel combination",
+          "image": null
+        },
+        {
+          "text": "single resistor only",
+          "image": null
+        },
+        {
+          "text": "open circuit",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-092",
+      "text": "Which combination is used in domestic wiring so that appliances work independently?",
+      "image": null,
+      "options": [
+        {
+          "text": "series",
+          "image": null
+        },
+        {
+          "text": "parallel",
+          "image": null
+        },
+        {
+          "text": "mixed only with all switches closed",
+          "image": null
+        },
+        {
+          "text": "open circuit",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-093",
+      "text": "Which quantity is the same for all resistors connected in series?",
+      "image": null,
+      "options": [
+        {
+          "text": "potential difference",
+          "image": null
+        },
+        {
+          "text": "current",
+          "image": null
+        },
+        {
+          "text": "power",
+          "image": null
+        },
+        {
+          "text": "resistance",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-094",
+      "text": "Which quantity is the same for all resistors connected in parallel?",
+      "image": null,
+      "options": [
+        {
+          "text": "current",
+          "image": null
+        },
+        {
+          "text": "potential difference",
+          "image": null
+        },
+        {
+          "text": "resistance",
+          "image": null
+        },
+        {
+          "text": "heat produced",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-095",
+      "text": "The equivalent resistance of resistors $R_1$ and $R_2$ in series is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$R_1 + R_2$",
+          "image": null
+        },
+        {
+          "text": "$R_1R_2/(R_1+R_2)$",
+          "image": null
+        },
+        {
+          "text": "$R_1/R_2$",
+          "image": null
+        },
+        {
+          "text": "$R_2/R_1$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-096",
+      "text": "The equivalent resistance of two resistors $R_1$ and $R_2$ in parallel is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$R_1 + R_2$",
+          "image": null
+        },
+        {
+          "text": "$R_1R_2/(R_1+R_2)$",
+          "image": null
+        },
+        {
+          "text": "$(R_1+R_2)/R_1R_2$",
+          "image": null
+        },
+        {
+          "text": "$R_1 - R_2$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-097",
+      "text": "The relation between resistance, resistivity, length, and area is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$R = \\rho l/A$",
+          "image": null
+        },
+        {
+          "text": "$R = \\rho A/l$",
+          "image": null
+        },
+        {
+          "text": "$R = l/(\\rho A)$",
+          "image": null
+        },
+        {
+          "text": "$R = A/(\\rho l)$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-098",
+      "text": "The SI unit of resistivity is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\Omega m$",
+          "image": null
+        },
+        {
+          "text": "$\\Omega/m$",
+          "image": null
+        },
+        {
+          "text": "$A m$",
+          "image": null
+        },
+        {
+          "text": "$V/m$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-099",
+      "text": "The energy consumed by a 100 W bulb in 10 hours is:",
+      "image": null,
+      "options": [
+        {
+          "text": "0.1 kWh",
+          "image": null
+        },
+        {
+          "text": "1 kWh",
+          "image": null
+        },
+        {
+          "text": "10 kWh",
+          "image": null
+        },
+        {
+          "text": "100 kWh",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-100",
+      "text": "A 5 A current flows for 2 minutes. The charge passed is:",
+      "image": null,
+      "options": [
+        {
+          "text": "10 C",
+          "image": null
+        },
+        {
+          "text": "60 C",
+          "image": null
+        },
+        {
+          "text": "300 C",
+          "image": null
+        },
+        {
+          "text": "600 C",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-101",
+      "text": "A resistor uses 24 W when connected across 12 V. The current through it is:",
+      "image": null,
+      "options": [
+        {
+          "text": "0.5 A",
+          "image": null
+        },
+        {
+          "text": "2 A",
+          "image": null
+        },
+        {
+          "text": "12 A",
+          "image": null
+        },
+        {
+          "text": "24 A",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-102",
+      "text": "A $6\\Omega$ resistor carries 2 A current. The potential difference across it is:",
+      "image": null,
+      "options": [
+        {
+          "text": "3 V",
+          "image": null
+        },
+        {
+          "text": "6 V",
+          "image": null
+        },
+        {
+          "text": "12 V",
+          "image": null
+        },
+        {
+          "text": "18 V",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-103",
+      "text": "A conductor has potential difference 10 V and current 2 A. Its resistance is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$2\\Omega$",
+          "image": null
+        },
+        {
+          "text": "$5\\Omega$",
+          "image": null
+        },
+        {
+          "text": "$10\\Omega$",
+          "image": null
+        },
+        {
+          "text": "$20\\Omega$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-104",
+      "text": "If a wire is stretched to double its original length without change in volume, its resistance becomes:",
+      "image": null,
+      "options": [
+        {
+          "text": "half",
+          "image": null
+        },
+        {
+          "text": "same",
+          "image": null
+        },
+        {
+          "text": "double",
+          "image": null
+        },
+        {
+          "text": "four times",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-105",
+      "text": "If a wire is cut into two equal halves, the resistance of each half is:",
+      "image": null,
+      "options": [
+        {
+          "text": "same as original",
+          "image": null
+        },
+        {
+          "text": "half the original",
+          "image": null
+        },
+        {
+          "text": "twice the original",
+          "image": null
+        },
+        {
+          "text": "one-fourth the original",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-106",
+      "text": "If the two equal halves of a cut wire are connected in parallel, the equivalent resistance is:",
+      "image": null,
+      "options": [
+        {
+          "text": "original resistance",
+          "image": null
+        },
+        {
+          "text": "half the original resistance",
+          "image": null
+        },
+        {
+          "text": "one-fourth the original resistance",
+          "image": null
+        },
+        {
+          "text": "twice the original resistance",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-107",
+      "text": "In an electric circuit, the device that maintains potential difference is usually a:",
+      "image": null,
+      "options": [
+        {
+          "text": "cell or battery",
+          "image": null
+        },
+        {
+          "text": "resistor only",
+          "image": null
+        },
+        {
+          "text": "ammeter",
+          "image": null
+        },
+        {
+          "text": "fuse",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-108",
+      "text": "A rheostat is used in a circuit to:",
+      "image": null,
+      "options": [
+        {
+          "text": "measure voltage",
+          "image": null
+        },
+        {
+          "text": "change resistance and control current",
+          "image": null
+        },
+        {
+          "text": "store charge permanently",
+          "image": null
+        },
+        {
+          "text": "convert AC to DC",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-109",
+      "text": "Which material is a good conductor of electricity?",
+      "image": null,
+      "options": [
+        {
+          "text": "wood",
+          "image": null
+        },
+        {
+          "text": "glass",
+          "image": null
+        },
+        {
+          "text": "copper",
+          "image": null
+        },
+        {
+          "text": "plastic",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-110",
+      "text": "Which device measures potential difference between two points in a circuit?",
+      "image": null,
+      "options": [
+        {
+          "text": "ammeter",
+          "image": null
+        },
+        {
+          "text": "voltmeter",
+          "image": null
+        },
+        {
+          "text": "galvanometer",
+          "image": null
+        },
+        {
+          "text": "rheostat",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-111",
+      "text": "Which of these is a source of direct current?",
+      "image": null,
+      "options": [
+        {
+          "text": "solar cell",
+          "image": null
+        },
+        {
+          "text": "alternator",
+          "image": null
+        },
+        {
+          "text": "AC generator",
+          "image": null
+        },
+        {
+          "text": "transformer",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-112",
+      "text": "What is the charge on an electron?",
+      "image": null,
+      "options": [
+        {
+          "text": "positive",
+          "image": null
+        },
+        {
+          "text": "negative",
+          "image": null
+        },
+        {
+          "text": "neutral",
+          "image": null
+        },
+        {
+          "text": "zero",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-113",
+      "text": "A device that converts mechanical energy into electrical energy is a:",
+      "image": null,
+      "options": [
+        {
+          "text": "motor",
+          "image": null
+        },
+        {
+          "text": "generator",
+          "image": null
+        },
+        {
+          "text": "resistor",
+          "image": null
+        },
+        {
+          "text": "rheostat",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-114",
+      "text": "Ohm's law is mathematically written as:",
+      "image": null,
+      "options": [
+        {
+          "text": "$V = IR$",
+          "image": null
+        },
+        {
+          "text": "$P = IV$",
+          "image": null
+        },
+        {
+          "text": "$R = VI$",
+          "image": null
+        },
+        {
+          "text": "$I = VR$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-115",
+      "text": "An electric circuit is closed when:",
+      "image": null,
+      "options": [
+        {
+          "text": "the switch is open",
+          "image": null
+        },
+        {
+          "text": "there is a complete conducting path",
+          "image": null
+        },
+        {
+          "text": "the battery is removed",
+          "image": null
+        },
+        {
+          "text": "the wire is broken",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-116",
+      "text": "Which device protects a circuit from excessive current?",
+      "image": null,
+      "options": [
+        {
+          "text": "fuse",
+          "image": null
+        },
+        {
+          "text": "voltmeter",
+          "image": null
+        },
+        {
+          "text": "rheostat",
+          "image": null
+        },
+        {
+          "text": "galvanometer",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-117",
+      "text": "Which effect of current is used in an electric heater?",
+      "image": null,
+      "options": [
+        {
+          "text": "magnetic effect",
+          "image": null
+        },
+        {
+          "text": "chemical effect",
+          "image": null
+        },
+        {
+          "text": "heating effect",
+          "image": null
+        },
+        {
+          "text": "photoelectric effect",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-118",
+      "text": "A match of bulb filament, heating element, superconductor, and emf is correctly given by:",
+      "image": null,
+      "options": [
+        {
+          "text": "tungsten, nichrome, zero resistivity, potential difference",
+          "image": null
+        },
+        {
+          "text": "nichrome, tungsten, potential difference, zero resistivity",
+          "image": null
+        },
+        {
+          "text": "copper, aluminium, high resistivity, current",
+          "image": null
+        },
+        {
+          "text": "silver, copper, insulation, resistance",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-119",
+      "text": "A correct match of best conductor, standard resistor material, semiconductor, and insulator is:",
+      "image": null,
+      "options": [
+        {
+          "text": "ebonite, silver, constantan, silicon",
+          "image": null
+        },
+        {
+          "text": "silver, constantan, silicon, ebonite",
+          "image": null
+        },
+        {
+          "text": "silicon, ebonite, silver, constantan",
+          "image": null
+        },
+        {
+          "text": "constantan, silicon, ebonite, silver",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-120",
+      "text": "Which formula correctly represents electric current?",
+      "image": null,
+      "options": [
+        {
+          "text": "$I = Q/t$",
+          "image": null
+        },
+        {
+          "text": "$I = Vt$",
+          "image": null
+        },
+        {
+          "text": "$I = Rt$",
+          "image": null
+        },
+        {
+          "text": "$I = P/V^2$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-121",
+      "text": "Which formula correctly represents electric power?",
+      "image": null,
+      "options": [
+        {
+          "text": "$P = VI$",
+          "image": null
+        },
+        {
+          "text": "$P = V/I$",
+          "image": null
+        },
+        {
+          "text": "$P = I/R$",
+          "image": null
+        },
+        {
+          "text": "$P = Q/t$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-122",
+      "text": "Which formula is used for the electrostatic force between two point charges?",
+      "image": null,
+      "options": [
+        {
+          "text": "$F = kq_1q_2/r^2$",
+          "image": null
+        },
+        {
+          "text": "$F = IR$",
+          "image": null
+        },
+        {
+          "text": "$F = VIt$",
+          "image": null
+        },
+        {
+          "text": "$F = \\rho l/A$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-123",
+      "text": "The material commonly used for making standard resistors is:",
+      "image": null,
+      "options": [
+        {
+          "text": "silver",
+          "image": null
+        },
+        {
+          "text": "constantan",
+          "image": null
+        },
+        {
+          "text": "ebonite",
+          "image": null
+        },
+        {
+          "text": "silicon",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-124",
+      "text": "Which of the following is a semiconductor?",
+      "image": null,
+      "options": [
+        {
+          "text": "silver",
+          "image": null
+        },
+        {
+          "text": "constantan",
+          "image": null
+        },
+        {
+          "text": "silicon",
+          "image": null
+        },
+        {
+          "text": "ebonite",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-125",
+      "text": "Which of the following is an insulator?",
+      "image": null,
+      "options": [
+        {
+          "text": "silver",
+          "image": null
+        },
+        {
+          "text": "copper",
+          "image": null
+        },
+        {
+          "text": "silicon",
+          "image": null
+        },
+        {
+          "text": "ebonite",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-126",
+      "text": "When identical resistors are connected in series, the equivalent resistance is:",
+      "image": null,
+      "options": [
+        {
+          "text": "less than each resistor",
+          "image": null
+        },
+        {
+          "text": "greater than each resistor",
+          "image": null
+        },
+        {
+          "text": "equal to one resistor",
+          "image": null
+        },
+        {
+          "text": "zero",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-127",
+      "text": "When identical resistors are connected in parallel, the equivalent resistance is:",
+      "image": null,
+      "options": [
+        {
+          "text": "greater than each resistor",
+          "image": null
+        },
+        {
+          "text": "equal to sum of all resistors",
+          "image": null
+        },
+        {
+          "text": "less than each resistor",
+          "image": null
+        },
+        {
+          "text": "infinite",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-128",
+      "text": "A circuit diagram uses conventional symbols mainly to show:",
+      "image": null,
+      "options": [
+        {
+          "text": "actual physical size of components",
+          "image": null
+        },
+        {
+          "text": "how components are connected electrically",
+          "image": null
+        },
+        {
+          "text": "colour of wires",
+          "image": null
+        },
+        {
+          "text": "temperature of wires",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-129",
+      "text": "If the key in a simple circuit is open, the circuit is:",
+      "image": null,
+      "options": [
+        {
+          "text": "closed and current flows",
+          "image": null
+        },
+        {
+          "text": "open and current stops",
+          "image": null
+        },
+        {
+          "text": "short-circuited always",
+          "image": null
+        },
+        {
+          "text": "parallel always",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-130",
+      "text": "A short circuit occurs when:",
+      "image": null,
+      "options": [
+        {
+          "text": "resistance in the path becomes very large",
+          "image": null
+        },
+        {
+          "text": "live and neutral wires come into direct contact",
+          "image": null
+        },
+        {
+          "text": "current becomes zero",
+          "image": null
+        },
+        {
+          "text": "a voltmeter is connected in parallel",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-131",
+      "text": "Overloading of a circuit may happen when:",
+      "image": null,
+      "options": [
+        {
+          "text": "too many appliances are connected to the same socket",
+          "image": null
+        },
+        {
+          "text": "only one low-power bulb is used",
+          "image": null
+        },
+        {
+          "text": "the switch is open",
+          "image": null
+        },
+        {
+          "text": "all resistances are removed from the source",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-132",
+      "text": "The wire used in household circuits for safety earthing is connected to:",
+      "image": null,
+      "options": [
+        {
+          "text": "live wire",
+          "image": null
+        },
+        {
+          "text": "neutral wire",
+          "image": null
+        },
+        {
+          "text": "metal body of appliances",
+          "image": null
+        },
+        {
+          "text": "filament only",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-133",
+      "text": "A kilowatt-hour is a unit of:",
+      "image": null,
+      "options": [
+        {
+          "text": "power",
+          "image": null
+        },
+        {
+          "text": "energy",
+          "image": null
+        },
+        {
+          "text": "current",
+          "image": null
+        },
+        {
+          "text": "resistance",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-134",
+      "text": "One watt is equal to:",
+      "image": null,
+      "options": [
+        {
+          "text": "one joule per second",
+          "image": null
+        },
+        {
+          "text": "one coulomb per second",
+          "image": null
+        },
+        {
+          "text": "one volt per metre",
+          "image": null
+        },
+        {
+          "text": "one ohm per ampere",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-135",
+      "text": "A 60 W lamp operating for 5 hours consumes:",
+      "image": null,
+      "options": [
+        {
+          "text": "0.03 kWh",
+          "image": null
+        },
+        {
+          "text": "0.3 kWh",
+          "image": null
+        },
+        {
+          "text": "3 kWh",
+          "image": null
+        },
+        {
+          "text": "300 kWh",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-136",
+      "text": "If two resistors of $3\\Omega$ and $6\\Omega$ are connected in parallel, their equivalent resistance is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$2\\Omega$",
+          "image": null
+        },
+        {
+          "text": "$3\\Omega$",
+          "image": null
+        },
+        {
+          "text": "$6\\Omega$",
+          "image": null
+        },
+        {
+          "text": "$9\\Omega$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-137",
+      "text": "If two resistors of $3\\Omega$ and $6\\Omega$ are connected in series, their equivalent resistance is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$2\\Omega$",
+          "image": null
+        },
+        {
+          "text": "$3\\Omega$",
+          "image": null
+        },
+        {
+          "text": "$6\\Omega$",
+          "image": null
+        },
+        {
+          "text": "$9\\Omega$",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-138",
+      "text": "A current of 0.2 A flows through a $10\\Omega$ resistor. The voltage across it is:",
+      "image": null,
+      "options": [
+        {
+          "text": "0.02 V",
+          "image": null
+        },
+        {
+          "text": "2 V",
+          "image": null
+        },
+        {
+          "text": "10 V",
+          "image": null
+        },
+        {
+          "text": "50 V",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-139",
+      "text": "A 100 W appliance connected to 200 V draws a current of:",
+      "image": null,
+      "options": [
+        {
+          "text": "0.5 A",
+          "image": null
+        },
+        {
+          "text": "2 A",
+          "image": null
+        },
+        {
+          "text": "20 A",
+          "image": null
+        },
+        {
+          "text": "200 A",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-140",
+      "text": "The heat generated in a resistor carrying current for time $t$ is doubled if:",
+      "image": null,
+      "options": [
+        {
+          "text": "current is doubled and time quartered",
+          "image": null
+        },
+        {
+          "text": "resistance is halved and current unchanged",
+          "image": null
+        },
+        {
+          "text": "time is doubled with current and resistance unchanged",
+          "image": null
+        },
+        {
+          "text": "potential difference is zero",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-141",
+      "text": "Which arrangement should be used to obtain $6\\Omega$ from three $2\\Omega$ resistors?",
+      "image": null,
+      "options": [
+        {
+          "text": "all in parallel",
+          "image": null
+        },
+        {
+          "text": "all in series",
+          "image": null
+        },
+        {
+          "text": "two in parallel then series with third",
+          "image": null
+        },
+        {
+          "text": "two in series then parallel with third",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-142",
+      "text": "Which arrangement should be used to obtain less than $2\\Omega$ from three $2\\Omega$ resistors?",
+      "image": null,
+      "options": [
+        {
+          "text": "all in series",
+          "image": null
+        },
+        {
+          "text": "two only in series",
+          "image": null
+        },
+        {
+          "text": "all in parallel",
+          "image": null
+        },
+        {
+          "text": "one resistor alone",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-143",
+      "text": "The current through a $20\\Omega$ resistor connected to 10 V is:",
+      "image": null,
+      "options": [
+        {
+          "text": "0.5 A",
+          "image": null
+        },
+        {
+          "text": "2 A",
+          "image": null
+        },
+        {
+          "text": "10 A",
+          "image": null
+        },
+        {
+          "text": "200 A",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-144",
+      "text": "The power consumed by a $10\\Omega$ resistor carrying 2 A is:",
+      "image": null,
+      "options": [
+        {
+          "text": "5 W",
+          "image": null
+        },
+        {
+          "text": "20 W",
+          "image": null
+        },
+        {
+          "text": "40 W",
+          "image": null
+        },
+        {
+          "text": "100 W",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-145",
+      "text": "The electrical energy used by a 500 W appliance in 2 hours is:",
+      "image": null,
+      "options": [
+        {
+          "text": "0.25 kWh",
+          "image": null
+        },
+        {
+          "text": "0.5 kWh",
+          "image": null
+        },
+        {
+          "text": "1 kWh",
+          "image": null
+        },
+        {
+          "text": "2 kWh",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-146",
+      "text": "A fuse should be placed:",
+      "image": null,
+      "options": [
+        {
+          "text": "in series with the appliance",
+          "image": null
+        },
+        {
+          "text": "in parallel with the appliance",
+          "image": null
+        },
+        {
+          "text": "only across the voltmeter",
+          "image": null
+        },
+        {
+          "text": "only in the earth wire",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-147",
+      "text": "The slope of a $V$-$I$ graph for an ohmic conductor gives:",
+      "image": null,
+      "options": [
+        {
+          "text": "current",
+          "image": null
+        },
+        {
+          "text": "resistance",
+          "image": null
+        },
+        {
+          "text": "power",
+          "image": null
+        },
+        {
+          "text": "charge",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-148",
+      "text": "For a conductor obeying Ohm's law, increasing the applied voltage increases current:",
+      "image": null,
+      "options": [
+        {
+          "text": "nonlinearly always",
+          "image": null
+        },
+        {
+          "text": "directly in proportion",
+          "image": null
+        },
+        {
+          "text": "only after resistance becomes zero",
+          "image": null
+        },
+        {
+          "text": "inversely",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-149",
+      "text": "A high-resistance voltmeter is used so that it:",
+      "image": null,
+      "options": [
+        {
+          "text": "draws very little current from the circuit",
+          "image": null
+        },
+        {
+          "text": "draws maximum current",
+          "image": null
+        },
+        {
+          "text": "acts like a fuse",
+          "image": null
+        },
+        {
+          "text": "reduces voltage to zero",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-150",
+      "text": "A low-resistance ammeter is used so that it:",
+      "image": null,
+      "options": [
+        {
+          "text": "does not appreciably change circuit current",
+          "image": null
+        },
+        {
+          "text": "blocks the current",
+          "image": null
+        },
+        {
+          "text": "acts as an insulator",
+          "image": null
+        },
+        {
+          "text": "measures only voltage",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-151",
+      "text": "If the area of cross-section of a wire is doubled while length and material are unchanged, resistance becomes:",
+      "image": null,
+      "options": [
+        {
+          "text": "double",
+          "image": null
+        },
+        {
+          "text": "half",
+          "image": null
+        },
+        {
+          "text": "four times",
+          "image": null
+        },
+        {
+          "text": "unchanged",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-152",
+      "text": "If the length of a wire is doubled while area and material are unchanged, resistance becomes:",
+      "image": null,
+      "options": [
+        {
+          "text": "half",
+          "image": null
+        },
+        {
+          "text": "double",
+          "image": null
+        },
+        {
+          "text": "four times",
+          "image": null
+        },
+        {
+          "text": "unchanged",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-153",
+      "text": "The filament of a bulb is enclosed in an inert gas mainly to:",
+      "image": null,
+      "options": [
+        {
+          "text": "increase the life of the filament",
+          "image": null
+        },
+        {
+          "text": "decrease its resistance to zero",
+          "image": null
+        },
+        {
+          "text": "make it magnetic",
+          "image": null
+        },
+        {
+          "text": "stop current completely",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-electricity-154",
+      "text": "The metal body of an electric appliance is earthed to:",
+      "image": null,
+      "options": [
+        {
+          "text": "make it shine",
+          "image": null
+        },
+        {
+          "text": "provide a low-resistance path for leakage current",
+          "image": null
+        },
+        {
+          "text": "increase power consumption",
+          "image": null
+        },
+        {
+          "text": "reduce supply voltage always",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    }
+  ]
+}
