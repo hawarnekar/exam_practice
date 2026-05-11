@@ -5,6 +5,7 @@ import { getProgress, saveProgress, StorageError } from '../store/sessionStore'
 import { clearInflightSet, saveInflightSet } from '../store/inflightStore'
 import { loadManifest, loadTopic } from '../data/questionLoader'
 import { calculateState } from '../engine/stateCalculator'
+import { applyOptionOrder } from '../engine/shuffleOptions'
 import { QuestionCard } from '../components/QuestionCard'
 import { FeedbackPanel } from '../components/FeedbackPanel'
 import { QuestionPalette, type PaletteStatus } from '../components/QuestionPalette'
@@ -44,7 +45,10 @@ export function SessionScreen() {
   const [isSubmitting, setIsSubmitting] = useState(false)
   const viewStartRef = useRef<number>(Date.now())
 
-  // Load every required question once.
+  // Load every required question once, and apply the active set's per-question
+  // option permutation so every downstream consumer (QuestionCard, FeedbackPanel,
+  // submit-time grading) sees the same shuffled options + remapped correct
+  // index.
   useEffect(() => {
     if (!activeSet) return
     let cancelled = false
@@ -56,7 +60,10 @@ export function SessionScreen() {
         for (const t of manifest.topics) {
           const qs = await loadTopic(t.filePath)
           for (const q of qs) {
-            if (want.has(q.id)) out.set(q.id, { q, topicId: t.topicId })
+            if (!want.has(q.id)) continue
+            const order = activeSet.optionOrder.get(q.id)
+            const display = order ? applyOptionOrder(q, order) : q
+            out.set(q.id, { q: display, topicId: t.topicId })
           }
         }
         if (!cancelled) setLoaded(out)
@@ -89,6 +96,7 @@ export function SessionScreen() {
       currentIndex,
       answers,
       timings,
+      optionOrder: activeSet.optionOrder,
     })
   }, [activeProfile, activeSet, currentIndex, answers, timings])
 
@@ -241,6 +249,7 @@ export function SessionScreen() {
         feedbackMode: activeSet!.setConfig.feedbackMode,
         results,
         topicStateChanges: changes,
+        optionOrder: Object.fromEntries(activeSet!.optionOrder),
       }
 
       saveProgress(activeProfile, {

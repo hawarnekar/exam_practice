@@ -9,7 +9,7 @@ import type { ActiveSet } from '../types'
 function sampleSet(): ActiveSet {
   return {
     questionIds: ['q1', 'q2', 'q3'],
-    setConfig: { size: 30, feedbackMode: 'immediate' },
+    setConfig: { size: 30, feedbackMode: 'immediate', filter: { subject: 'Science', topic: null } },
     currentIndex: 1,
     answers: new Map<string, number | 'skipped'>([
       ['q1', 0],
@@ -18,6 +18,10 @@ function sampleSet(): ActiveSet {
     timings: new Map<string, number>([
       ['q1', 12],
       ['q2', 30],
+    ]),
+    optionOrder: new Map<string, number[]>([
+      ['q1', [2, 0, 1, 3]],
+      ['q2', [1, 0]],
     ]),
   }
 }
@@ -41,7 +45,7 @@ describe('inflightStore', () => {
     const restored = loadInflightSet('Alice')!
     expect(restored).not.toBeNull()
     expect(restored.questionIds).toEqual(['q1', 'q2', 'q3'])
-    expect(restored.setConfig).toEqual({ size: 30, feedbackMode: 'immediate' })
+    expect(restored.setConfig).toEqual({ size: 30, feedbackMode: 'immediate', filter: { subject: 'Science', topic: null } })
     expect(restored.currentIndex).toBe(1)
     expect(restored.answers).toBeInstanceOf(Map)
     expect(restored.answers.get('q1')).toBe(0)
@@ -49,6 +53,9 @@ describe('inflightStore', () => {
     expect(restored.timings).toBeInstanceOf(Map)
     expect(restored.timings.get('q1')).toBe(12)
     expect(restored.timings.get('q2')).toBe(30)
+    expect(restored.optionOrder).toBeInstanceOf(Map)
+    expect(restored.optionOrder.get('q1')).toEqual([2, 0, 1, 3])
+    expect(restored.optionOrder.get('q2')).toEqual([1, 0])
   })
 
   test('save uses a per-profile namespaced key', () => {

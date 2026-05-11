@@ -1,9 +1,18 @@
 import { useEffect, useMemo, useState } from 'react'
-import type { ActiveSet, FeedbackMode, Manifest, Question, SetConfig, SetSize } from '../types'
+import type {
+  ActiveSet,
+  FeedbackMode,
+  Manifest,
+  Question,
+  SetConfig,
+  SetSize,
+  TopicMeta,
+} from '../types'
 import { useApp } from '../store/appContextValue'
-import { getProgress } from '../store/sessionStore'
+import { getLastSetFilter, getProgress, setLastSetFilter } from '../store/sessionStore'
 import { getBankWarnings, loadManifest, loadTopic } from '../data/questionLoader'
 import { generateSet, type GeneratedSet } from '../engine/adaptiveEngine'
+import { randomPermutation } from '../engine/shuffleOptions'
 
 const SET_SIZES: SetSize[] = [30, 60, 100]
 
@@ -20,20 +29,65 @@ const FEEDBACK_OPTIONS: { mode: FeedbackMode; label: string; description: string
   },
 ]
 
+function uniqueSubjects(topics: TopicMeta[]): string[] {
+  const seen = new Set<string>()
+  const out: string[] = []
+  for (const t of topics) {
+    if (!seen.has(t.subject)) {
+      seen.add(t.subject)
+      out.push(t.subject)
+    }
+  }
+  return out.sort((a, b) => a.localeCompare(b))
+}
+
+function topicsInSubject(topics: TopicMeta[], subject: string): string[] {
+  const seen = new Set<string>()
+  const out: string[] = []
+  for (const t of topics) {
+    if (t.subject === subject && !seen.has(t.topic)) {
+      seen.add(t.topic)
+      out.push(t.topic)
+    }
+  }
+  return out.sort((a, b) => a.localeCompare(b))
+}
+
 export function SetConfigScreen() {
   const { activeProfile, navigate, setActiveSet } = useApp()
   const [manifest, setManifest] = useState<Manifest | null>(null)
   const [manifestError, setManifestError] = useState<string | null>(null)
+  // Pre-fill the Subject/Topic from the profile's saved filter at mount.
+  // Validation against the loaded manifest happens implicitly: if the saved
+  // subject no longer exists in the manifest, the <select> renders with no
+  // matching <option> selected and the user must pick again.
+  const [subject, setSubject] = useState<string | null>(() => {
+    if (!activeProfile) return null
+    try {
+      return getLastSetFilter(activeProfile)?.subject ?? null
+    } catch {
+      return null
+    }
+  })
+  const [topic, setTopic] = useState<string | null>(() => {
+    if (!activeProfile) return null
+    try {
+      return getLastSetFilter(activeProfile)?.topic ?? null
+    } catch {
+      return null
+    }
+  })
   const [size, setSize] = useState<SetSize | null>(null)
   const [feedbackMode, setFeedbackMode] = useState<FeedbackMode | null>(null)
   const [bannerDismissed, setBannerDismissed] = useState(false)
   const [building, setBuilding] = useState(false)
   const [buildError, setBuildError] = useState<string | null>(null)
-  // When the bank can't fully cover the requested size, we stash the
-  // engine result here and ask the user to confirm before launching the
-  // (smaller-than-requested) set.
   const [shortfallPrompt, setShortfallPrompt] = useState<
-    { result: GeneratedSet; setConfig: SetConfig } | null
+    {
+      result: GeneratedSet
+      setConfig: SetConfig
+      questionsByTopic: Map<string, Question[]>
+    } | null
   >(null)
 
   useEffect(() => {
@@ -52,27 +106,81 @@ export function SetConfigScreen() {
     }
   }, [])
 
-  const warnings = useMemo(
-    () => (manifest ? getBankWarnings(manifest) : []),
+  const subjects = useMemo(
+    () => (manifest ? uniqueSubjects(manifest.topics) : []),
     [manifest],
   )
+  const topicChoices = useMemo(
+    () => (manifest && subject ? topicsInSubject(manifest.topics, subject) : []),
+    [manifest, subject],
+  )
 
-  const startDisabled = size === null || feedbackMode === null || manifest === null || building
+  const filteredTopics = useMemo(() => {
+    if (!manifest || !subject) return []
+    return manifest.topics.filter(
+      (t) => t.subject === subject && (topic === null || t.topic === topic),
+    )
+  }, [manifest, subject, topic])
 
-  function launchSet(result: GeneratedSet, setConfig: SetConfig) {
+  const warnings = useMemo(() => {
+    if (!manifest || !subject) return []
+    const allWarnings = getBankWarnings(manifest)
+    const eligibleIds = new Set(filteredTopics.map((t) => t.topicId))
+    return allWarnings.filter((w) => {
+      const id = w.split(':')[0]
+      return eligibleIds.has(id)
+    })
+  }, [manifest, subject, filteredTopics])
+
+  const startDisabled =
+    subject === null ||
+    size === null ||
+    feedbackMode === null ||
+    manifest === null ||
+    building
+
+  function launchSet(
+    result: GeneratedSet,
+    setConfig: SetConfig,
+    questionsByTopic: Map<string, Question[]>,
+  ) {
+    // Shuffle each question's options independently. Same questionId can
+    // appear once in a set, but if it ever recurs the same permutation is
+    // reused so the user doesn't see "the same question with different
+    // option positions" within one set.
+    const optionOrder = new Map<string, number[]>()
+    const questionsById = new Map<string, Question>()
+    for (const list of questionsByTopic.values()) {
+      for (const q of list) questionsById.set(q.id, q)
+    }
+    for (const qid of result.questionIds) {
+      if (optionOrder.has(qid)) continue
+      const q = questionsById.get(qid)
+      if (!q) continue
+      optionOrder.set(qid, randomPermutation(q.options.length))
+    }
+
     const activeSet: ActiveSet = {
       questionIds: result.questionIds,
       setConfig,
       currentIndex: 0,
       answers: new Map(),
       timings: new Map(),
+      optionOrder,
     }
     setActiveSet(activeSet)
     navigate('active_set')
   }
 
   async function handleStart() {
-    if (startDisabled || !manifest || size === null || feedbackMode === null || !activeProfile) {
+    if (
+      startDisabled ||
+      !manifest ||
+      size === null ||
+      feedbackMode === null ||
+      subject === null ||
+      !activeProfile
+    ) {
       return
     }
 
@@ -80,37 +188,43 @@ export function SetConfigScreen() {
     setBuildError(null)
     try {
       const progress = getProgress(activeProfile)
-      const setConfig: SetConfig = { size, feedbackMode }
+      const setConfig: SetConfig = {
+        size,
+        feedbackMode,
+        filter: { subject, topic },
+      }
 
-      // Load every topic's questions before running the engine. The engine
-      // needs Question[] per topic for difficulty bucketing.
+      if (filteredTopics.length === 0) {
+        throw new Error('No topics match the selected Subject/Topic.')
+      }
+
       const questionLists = await Promise.all(
-        manifest.topics.map((t) => loadTopic(t.filePath)),
+        filteredTopics.map((t) => loadTopic(t.filePath)),
       )
       const questionsByTopic = new Map<string, Question[]>()
-      manifest.topics.forEach((t, i) => questionsByTopic.set(t.topicId, questionLists[i]))
+      filteredTopics.forEach((t, i) => questionsByTopic.set(t.topicId, questionLists[i]))
 
       const result = generateSet(
-        manifest.topics,
+        filteredTopics,
         questionsByTopic,
         progress.topicProgress,
         setConfig,
       )
 
       if (result.questionIds.length === 0) {
-        throw new Error('The question bank is empty for this profile.')
+        throw new Error('The question bank is empty for the selected Subject/Topic.')
       }
 
-      // The engine couldn't fill the full requested size even after its
-      // cross-topic second pass. Surface this to the user so they can
-      // either accept the smaller set or pick a smaller size / add more
-      // questions before retrying.
+      // Persist the chosen filter so the dashboard and the next session
+      // pre-fill to the same scope.
+      setLastSetFilter(activeProfile, setConfig.filter)
+
       if (result.shortfall > 0) {
-        setShortfallPrompt({ result, setConfig })
+        setShortfallPrompt({ result, setConfig, questionsByTopic })
         return
       }
 
-      launchSet(result, setConfig)
+      launchSet(result, setConfig, questionsByTopic)
     } catch (err) {
       setBuildError(err instanceof Error ? err.message : 'Failed to build set')
     } finally {
@@ -148,6 +262,56 @@ export function SetConfigScreen() {
           {manifestError}
         </p>
       )}
+
+      <fieldset className="mb-6 grid grid-cols-1 gap-4 sm:grid-cols-2">
+        <div>
+          <label
+            htmlFor="subject-select"
+            className="mb-2 block text-sm font-semibold text-gray-800 dark:text-gray-200"
+          >
+            Subject <span className="text-red-600 dark:text-red-400">*</span>
+          </label>
+          <select
+            id="subject-select"
+            value={subject ?? ''}
+            onChange={(e) => {
+              const next = e.target.value || null
+              setSubject(next)
+              setTopic(null)
+            }}
+            className="block min-h-12 w-full rounded-md border border-gray-300 bg-white px-3 py-2 text-base text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500 dark:border-gray-600 dark:bg-gray-800 dark:text-gray-100"
+          >
+            <option value="">— Select subject —</option>
+            {subjects.map((s) => (
+              <option key={s} value={s}>
+                {s}
+              </option>
+            ))}
+          </select>
+        </div>
+        <div>
+          <label
+            htmlFor="topic-select"
+            className="mb-2 block text-sm font-semibold text-gray-800 dark:text-gray-200"
+          >
+            Topic
+          </label>
+          <select
+            id="topic-select"
+            value={topic ?? ''}
+            disabled={subject === null}
+            onChange={(e) => setTopic(e.target.value || null)}
+            className="block min-h-12 w-full rounded-md border border-gray-300 bg-white px-3 py-2 text-base text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500 disabled:cursor-not-allowed disabled:opacity-50 dark:border-gray-600 dark:bg-gray-800 dark:text-gray-100"
+          >
+            <option value="">All topics</option>
+            {topicChoices.map((t) => (
+              <option key={t} value={t}>
+                {t}
+              </option>
+            ))}
+          </select>
+        </div>
+      </fieldset>
 
       {warnings.length > 0 && !bannerDismissed && (
         <div
@@ -278,9 +442,9 @@ export function SetConfigScreen() {
               <button
                 type="button"
                 onClick={() => {
-                  const { result, setConfig } = shortfallPrompt
+                  const { result, setConfig, questionsByTopic } = shortfallPrompt
                   setShortfallPrompt(null)
-                  launchSet(result, setConfig)
+                  launchSet(result, setConfig, questionsByTopic)
                 }}
                 className="min-h-12 rounded-md bg-blue-600 px-4 py-2 text-sm font-medium text-white"
               >

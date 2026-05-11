@@ -10,6 +10,7 @@ import type {
 import { useApp } from '../store/appContextValue'
 import { getProgress } from '../store/sessionStore'
 import { loadManifest, loadTopic } from '../data/questionLoader'
+import { applyOptionOrder } from '../engine/shuffleOptions'
 import { MarkdownRenderer } from '../components/MarkdownRenderer'
 
 const OPTION_LABELS = ['A', 'B', 'C', 'D'] as const
@@ -127,7 +128,11 @@ export function SummaryScreen() {
   }, [progress])
 
   // Load every question referenced by the last set so the drilldown can show
-  // question text, options, and explanation.
+  // question text, options, and explanation. Apply the same per-question
+  // option permutation the user saw during the session so the highlighted
+  // "selected" and "correct" options line up with their memory of the set.
+  // Falls back to identity ordering for older SetRecords saved before this
+  // feature shipped.
   useEffect(() => {
     if (!lastSet) return
     let cancelled = false
@@ -136,10 +141,13 @@ export function SummaryScreen() {
         const manifest = await loadManifest()
         const want = new Set(lastSet.results.map((r) => r.questionId))
         const out = new Map<string, Question>()
+        const orderMap = lastSet.optionOrder ?? {}
         for (const t of manifest.topics) {
           const qs = await loadTopic(t.filePath)
           for (const q of qs) {
-            if (want.has(q.id)) out.set(q.id, q)
+            if (!want.has(q.id)) continue
+            const order = orderMap[q.id]
+            out.set(q.id, order ? applyOptionOrder(q, order) : q)
           }
         }
         if (!cancelled) setQuestionsById(out)

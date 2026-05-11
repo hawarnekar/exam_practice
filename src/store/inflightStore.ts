@@ -14,6 +14,7 @@ type SerializedActiveSet = {
   currentIndex: number
   answers: [string, number | 'skipped'][]
   timings: [string, number][]
+  optionOrder?: [string, number[]][]
 }
 
 function isSerialized(v: unknown): v is SerializedActiveSet {
@@ -25,6 +26,7 @@ function isSerialized(v: unknown): v is SerializedActiveSet {
   if (typeof o.currentIndex !== 'number') return false
   if (!Array.isArray(o.answers)) return false
   if (!Array.isArray(o.timings)) return false
+  if (o.optionOrder !== undefined && !Array.isArray(o.optionOrder)) return false
   return true
 }
 
@@ -36,6 +38,7 @@ export function saveInflightSet(profileName: string, set: ActiveSet): void {
     currentIndex: set.currentIndex,
     answers: [...set.answers.entries()],
     timings: [...set.timings.entries()],
+    optionOrder: [...set.optionOrder.entries()],
   }
   try {
     sessionStorage.setItem(inflightKey(profileName), JSON.stringify(serialized))
@@ -67,6 +70,7 @@ export function loadInflightSet(profileName: string): ActiveSet | null {
     currentIndex: parsed.currentIndex,
     answers: new Map(parsed.answers),
     timings: new Map(parsed.timings),
+    optionOrder: new Map(parsed.optionOrder ?? []),
   }
 }
 

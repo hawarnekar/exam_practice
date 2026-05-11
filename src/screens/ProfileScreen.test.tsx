@@ -123,7 +123,8 @@ describe('ProfileScreen', () => {
       createProfile('Alice')
       const inflight: ActiveSet = {
         questionIds: ['q1', 'q2'],
-        setConfig: { size: 30, feedbackMode: 'immediate' },
+        setConfig: { size: 30, feedbackMode: 'immediate', filter: { subject: 'Science', topic: null } },
+        optionOrder: new Map(),
         currentIndex: 1,
         answers: new Map([['q1', 0]]),
         timings: new Map([['q1', 12]]),
@@ -140,7 +141,8 @@ describe('ProfileScreen', () => {
       createProfile('Bob')
       const inflight: ActiveSet = {
         questionIds: ['q1'],
-        setConfig: { size: 30, feedbackMode: 'immediate' },
+        setConfig: { size: 30, feedbackMode: 'immediate', filter: { subject: 'Science', topic: null } },
+        optionOrder: new Map(),
         currentIndex: 0,
         answers: new Map(),
         timings: new Map(),
@@ -198,7 +200,8 @@ describe('ProfileScreen', () => {
       createProfile('Alice')
       saveInflightSet('Alice', {
         questionIds: ['q1'],
-        setConfig: { size: 30, feedbackMode: 'immediate' },
+        setConfig: { size: 30, feedbackMode: 'immediate', filter: { subject: 'Science', topic: null } },
+        optionOrder: new Map(),
         currentIndex: 0,
         answers: new Map(),
         timings: new Map(),

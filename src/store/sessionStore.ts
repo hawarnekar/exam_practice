@@ -1,6 +1,7 @@
 import type {
   Profile,
   ProfileProgress,
+  SetFilter,
   SetRecord,
   SetRecordSummary,
 } from '../types'
@@ -210,6 +211,15 @@ export function setDarkMode(profileName: string, value: boolean): void {
   saveProgress(profileName, { ...current, darkMode: value })
 }
 
+export function getLastSetFilter(profileName: string): SetFilter | null {
+  return getProgress(profileName).lastSetFilter ?? null
+}
+
+export function setLastSetFilter(profileName: string, filter: SetFilter): void {
+  const current = getProgress(profileName)
+  saveProgress(profileName, { ...current, lastSetFilter: filter })
+}
+
 export function exportProgress(profileName: string): string {
   return JSON.stringify(getProgress(profileName), null, 2)
 }
@@ -226,6 +236,12 @@ function isProfileProgress(v: unknown): v is ProfileProgress {
   if (typeof o.streak !== 'number') return false
   if (o.lastSetDate !== null && typeof o.lastSetDate !== 'string') return false
   if (o.setHistorySummary !== undefined && !Array.isArray(o.setHistorySummary)) return false
+  if (o.lastSetFilter !== undefined && o.lastSetFilter !== null) {
+    if (typeof o.lastSetFilter !== 'object') return false
+    const f = o.lastSetFilter as Record<string, unknown>
+    if (typeof f.subject !== 'string') return false
+    if (f.topic !== null && typeof f.topic !== 'string') return false
+  }
   return true
 }
 

@@ -74,7 +74,11 @@ function progress(id: string, masteryState: MasteryState): TopicProgress {
   }
 }
 
-const cfg = (size: 30 | 60 | 100): SetConfig => ({ size, feedbackMode: 'immediate' })
+const cfg = (size: 30 | 60 | 100): SetConfig => ({
+  size,
+  feedbackMode: 'immediate',
+  filter: { subject: 'Science', topic: null },
+})
 
 describe('allocateTopicSlots — edge cases', () => {
   test('empty topics list returns empty Map', () => {
@@ -95,7 +99,7 @@ describe('allocateTopicSlots — edge cases', () => {
     const result = allocateTopicSlots(
       topics,
       [progress('a', 'weak')],
-      { size: 4 as unknown as 30, feedbackMode: 'immediate' }
+      { size: 4 as unknown as 30, feedbackMode: 'immediate', filter: { subject: 'Science', topic: null } }
     )
     expect(result.get('a')).toBe(3)
     expect(result.get('b')).toBe(1)

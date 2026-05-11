@@ -144,7 +144,7 @@ describe('SetConfigScreen', () => {
     expect(screen.getByText(/review every answer at the end/i)).toBeDefined()
   })
 
-  it('Start button is disabled until both options are picked', async () => {
+  it('Start button is disabled until subject, size, and feedback mode are all picked', async () => {
     renderWith()
     const startBtn = screen.getByRole('button', { name: /Start set/i }) as HTMLButtonElement
     expect(startBtn.disabled).toBe(true)
@@ -153,6 +153,11 @@ describe('SetConfigScreen', () => {
     expect(startBtn.disabled).toBe(true)
 
     await userEvent.click(screen.getByRole('button', { name: /Immediate Feedback/i }))
+    // Still disabled — Subject not yet picked.
+    expect(startBtn.disabled).toBe(true)
+
+    await waitFor(() => expect(screen.getByLabelText(/Subject/i)).toBeDefined())
+    await userEvent.selectOptions(screen.getByLabelText(/Subject/i), 'Science')
     await waitFor(() => expect(startBtn.disabled).toBe(false))
   })
 
@@ -176,6 +181,8 @@ describe('SetConfigScreen', () => {
     })
     renderWith()
 
+    await waitFor(() => expect(screen.getByLabelText(/Subject/i)).toBeDefined())
+    await userEvent.selectOptions(screen.getByLabelText(/Subject/i), 'Science')
     await userEvent.click(screen.getByRole('button', { name: '30' }))
     await userEvent.click(screen.getByRole('button', { name: /End-of-Set Review/i }))
 
@@ -184,11 +191,19 @@ describe('SetConfigScreen', () => {
     await userEvent.click(startBtn)
 
     await waitFor(() => expect(mockedGenerateSet).toHaveBeenCalled())
-    expect(mockedLoadTopic).toHaveBeenCalledTimes(sampleManifest.topics.length)
+    // Only the Science topic in the sample manifest is loaded — Math is filtered out.
+    expect(mockedLoadTopic).toHaveBeenCalledTimes(1)
 
-    // Engine was called with the user's chosen config
+    // Engine was called with the user's chosen config (now includes filter)
     const callArgs = mockedGenerateSet.mock.calls[0]
-    expect(callArgs[3]).toEqual({ size: 30, feedbackMode: 'end_of_set' })
+    expect(callArgs[3]).toEqual({
+      size: 30,
+      feedbackMode: 'end_of_set',
+      filter: { subject: 'Science', topic: null },
+    })
+    // And the topics list passed to the engine is filtered to the selected subject.
+    expect(callArgs[0]).toHaveLength(1)
+    expect(callArgs[0][0].subject).toBe('Science')
 
     // Navigation + active set stored in context
     await waitFor(() => expect(screen.getByTestId('screen').textContent).toBe('active_set'))
@@ -196,14 +211,28 @@ describe('SetConfigScreen', () => {
     expect(screen.getByTestId('active-set-mode').textContent).toBe('end_of_set')
   })
 
-  it('shows the bank-warning banner when getBankWarnings returns warnings, and lets the user dismiss it', async () => {
+  it('shows the bank-warning banner when the selected subject has small-bank topics, and lets the user dismiss it', async () => {
     mockedGetBankWarnings.mockReturnValue(['math/algebra/polynomials: only 12 questions'])
     renderWith()
+
+    // Warnings are scoped to the selected subject — pick Math so the polynomials warning is in scope.
+    await waitFor(() => expect(screen.getByLabelText(/Subject/i)).toBeDefined())
+    await userEvent.selectOptions(screen.getByLabelText(/Subject/i), 'Math')
 
     const warning = await screen.findByRole('status', { name: /Question bank size warning/i })
     expect(warning.textContent).toMatch(/only 12 questions/)
 
     await userEvent.click(screen.getByRole('button', { name: /Dismiss bank size warning/i }))
+    expect(screen.queryByRole('status', { name: /Question bank size warning/i })).toBeNull()
+  })
+
+  it('hides the bank-warning banner when the warning topic is outside the selected subject', async () => {
+    mockedGetBankWarnings.mockReturnValue(['math/algebra/polynomials: only 12 questions'])
+    renderWith()
+
+    await waitFor(() => expect(screen.getByLabelText(/Subject/i)).toBeDefined())
+    await userEvent.selectOptions(screen.getByLabelText(/Subject/i), 'Science')
+
     expect(screen.queryByRole('status', { name: /Question bank size warning/i })).toBeNull()
   })
 
@@ -234,6 +263,8 @@ describe('SetConfigScreen', () => {
     })
     renderWith()
 
+    await waitFor(() => expect(screen.getByLabelText(/Subject/i)).toBeDefined())
+    await userEvent.selectOptions(screen.getByLabelText(/Subject/i), 'Science')
     await userEvent.click(screen.getByRole('button', { name: '30' }))
     await userEvent.click(screen.getByRole('button', { name: /Immediate Feedback/i }))
 
@@ -256,6 +287,8 @@ describe('SetConfigScreen', () => {
       })
       renderWith()
 
+      await waitFor(() => expect(screen.getByLabelText(/Subject/i)).toBeDefined())
+      await userEvent.selectOptions(screen.getByLabelText(/Subject/i), 'Science')
       await userEvent.click(screen.getByRole('button', { name: '30' }))
       await userEvent.click(screen.getByRole('button', { name: /Immediate Feedback/i }))
       const startBtn = screen.getByRole('button', { name: /Start set/i }) as HTMLButtonElement
@@ -276,6 +309,8 @@ describe('SetConfigScreen', () => {
         requestedSize: 30,
       })
       renderWith()
+      await waitFor(() => expect(screen.getByLabelText(/Subject/i)).toBeDefined())
+      await userEvent.selectOptions(screen.getByLabelText(/Subject/i), 'Science')
       await userEvent.click(screen.getByRole('button', { name: '30' }))
       await userEvent.click(screen.getByRole('button', { name: /Immediate Feedback/i }))
       const startBtn = screen.getByRole('button', { name: /Start set/i }) as HTMLButtonElement
@@ -297,6 +332,8 @@ describe('SetConfigScreen', () => {
         requestedSize: 30,
       })
       renderWith()
+      await waitFor(() => expect(screen.getByLabelText(/Subject/i)).toBeDefined())
+      await userEvent.selectOptions(screen.getByLabelText(/Subject/i), 'Science')
       await userEvent.click(screen.getByRole('button', { name: '30' }))
       await userEvent.click(screen.getByRole('button', { name: /Immediate Feedback/i }))
       const startBtn = screen.getByRole('button', { name: /Start set/i }) as HTMLButtonElement

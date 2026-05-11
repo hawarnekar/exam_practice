@@ -88,6 +88,11 @@ export type SetRecord = {
   feedbackMode: FeedbackMode
   results: QuestionResult[]
   topicStateChanges: TopicStateChange[]
+  // Per-question option permutation as the user saw it. `order[displayed]`
+  // points at the JSON-original option index. Optional so set records from
+  // before this feature still round-trip — SummaryScreen falls back to
+  // identity ordering when absent.
+  optionOrder?: Record<string, number[]>
 }
 
 // Compact form of SetRecord, used to preserve dashboard-relevant signal
@@ -122,21 +127,39 @@ export type ProfileProgress = {
   darkMode: boolean
   streak: number
   lastSetDate: string | null // YYYY-MM-DD, used for streak calc
+  // Last subject/topic filter the user practiced under. Used to pre-fill
+  // the SetConfig and Dashboard pickers. Optional for back-compat with
+  // pre-feature exports.
+  lastSetFilter?: SetFilter | null
 }
 
 // === Set configuration & in-flight runtime state ===
 
+// Restricts a practice set to a specific Subject (mandatory) and optionally
+// a specific Topic within it. `topic: null` means "all topics in this subject".
+export type SetFilter = {
+  subject: string
+  topic: string | null
+}
+
 export type SetConfig = {
   size: SetSize
   feedbackMode: FeedbackMode
+  filter: SetFilter
 }
 
-// Runtime state of an in-progress set. Not persisted — converted to
-// QuestionResult[] on submit.
+// Runtime state of an in-progress set. Snapshotted to sessionStorage as the
+// user moves through the set so a refresh recovers exactly where they were —
+// including the per-question option order they were looking at.
 export type ActiveSet = {
   questionIds: string[]
   setConfig: SetConfig
   currentIndex: number
   answers: Map<string, number | 'skipped'>
   timings: Map<string, number> // questionId -> elapsed seconds
+  // Per-question option permutation, `order[displayed] = originalJsonIndex`.
+  // Populated at set-generation time; consumed by SessionScreen rendering and
+  // copied into the SetRecord on submit so SummaryScreen can reproduce the
+  // same visual order.
+  optionOrder: Map<string, number[]>
 }

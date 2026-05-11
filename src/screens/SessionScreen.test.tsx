@@ -60,10 +60,11 @@ function buildActiveSet(
 ): ActiveSet {
   return {
     questionIds: ids,
-    setConfig: { size: 30, feedbackMode },
+    setConfig: { size: 30, feedbackMode, filter: { subject: 'Science', topic: null } },
     currentIndex: 0,
     answers: new Map(),
     timings: new Map(),
+    optionOrder: new Map(),
   }
 }
 
@@ -255,6 +256,37 @@ describe('SessionScreen', () => {
       expect(rec.results[0].skipped).toBe(true)
       expect(rec.results[0].correct).toBe(false)
       expect(rec.results[0].elapsedSec).toBe(30)
+    })
+
+    it('applies optionOrder so options render shuffled and grading follows the new correct index', async () => {
+      // q1 has correct=0 ("q1 option A") in JSON. Permutation [2,0,1,3] means
+      // displayed position 1 (label B) now shows the originally-correct option.
+      const set = buildActiveSet('immediate', ['q1'])
+      set.optionOrder = new Map([['q1', [2, 0, 1, 3]]])
+      renderWithSet(set)
+      await waitFor(() => expect(screen.getByText(/Question q1/)).toBeDefined())
+
+      // The visual order of option contents reflects the permutation.
+      const card = within(screen.getByRole('article'))
+      const optionTexts = card
+        .getAllByRole('button')
+        .map((b) => b.textContent ?? '')
+        .filter((t) => /q1 option [A-D]/.test(t))
+      // First option button now contains the original "C" content.
+      expect(optionTexts[0]).toMatch(/q1 option C/)
+      expect(optionTexts[1]).toMatch(/q1 option A/)
+
+      // Clicking visual label "B" (which after shuffle holds the originally-correct
+      // "q1 option A") is graded correct.
+      await userEvent.click(card.getByText('B').closest('button') as HTMLButtonElement)
+      const region = await screen.findByRole('region', { name: /Answer feedback/i })
+      expect(region.textContent).toMatch(/Correct/)
+
+      // Persisted SetRecord captures the same optionOrder for SummaryScreen reuse.
+      await userEvent.click(screen.getByRole('button', { name: /Finish set/i }))
+      await waitFor(() => expect(screen.getByTestId('screen').textContent).toBe('set_summary'))
+      const rec = getProgress('Alice').setHistory[0]
+      expect(rec.optionOrder).toEqual({ q1: [2, 0, 1, 3] })
     })
 
     it('clears the activeSet from context after submit', async () => {
@@ -549,10 +581,11 @@ describe('SessionScreen', () => {
       createProfile('Alice')
       saveInflightSet('Alice', {
         questionIds: ['q1', 'q2', 'q3'],
-        setConfig: { size: 30, feedbackMode: 'end_of_set' },
+        setConfig: { size: 30, feedbackMode: 'end_of_set', filter: { subject: 'Science', topic: null } },
         currentIndex: 1,
         answers: new Map([['q1', 0]]),
         timings: new Map([['q1', 12]]),
+        optionOrder: new Map(),
       })
 
       // Mimic the production mount order: SessionScreen only appears once

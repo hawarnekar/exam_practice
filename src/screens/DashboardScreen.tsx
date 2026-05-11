@@ -8,7 +8,7 @@ import type {
   TopicStateChange,
 } from '../types'
 import { useApp } from '../store/appContextValue'
-import { getProgress } from '../store/sessionStore'
+import { getLastSetFilter, getProgress } from '../store/sessionStore'
 import { loadManifest } from '../data/questionLoader'
 
 const STATE_BG: Record<MasteryState, string> = {
@@ -41,6 +41,30 @@ function groupBySubject(topics: TopicMeta[]): Map<string, TopicMeta[]> {
     list.sort((a, b) => a.topicId.localeCompare(b.topicId))
   }
   return out
+}
+
+function uniqueSubjects(topics: TopicMeta[]): string[] {
+  const seen = new Set<string>()
+  const out: string[] = []
+  for (const t of topics) {
+    if (!seen.has(t.subject)) {
+      seen.add(t.subject)
+      out.push(t.subject)
+    }
+  }
+  return out.sort((a, b) => a.localeCompare(b))
+}
+
+function topicsInSubject(topics: TopicMeta[], subject: string): string[] {
+  const seen = new Set<string>()
+  const out: string[] = []
+  for (const t of topics) {
+    if (t.subject === subject && !seen.has(t.topic)) {
+      seen.add(t.topic)
+      out.push(t.topic)
+    }
+  }
+  return out.sort((a, b) => a.localeCompare(b))
 }
 
 // Walks the set history and produces a per-topic snapshot of mastery state
@@ -133,6 +157,25 @@ export function DashboardScreen() {
   const { activeProfile, navigate } = useApp()
   const [manifest, setManifest] = useState<Manifest | null>(null)
   const [manifestError, setManifestError] = useState<string | null>(null)
+  // null = "All Subjects" (no subject filter). "All Topics" within a subject
+  // is represented as `topicFilter === null`. Pre-filled from the profile's
+  // saved SetConfig filter; dashboard does NOT persist further changes.
+  const [subjectFilter, setSubjectFilter] = useState<string | null>(() => {
+    if (!activeProfile) return null
+    try {
+      return getLastSetFilter(activeProfile)?.subject ?? null
+    } catch {
+      return null
+    }
+  })
+  const [topicFilter, setTopicFilter] = useState<string | null>(() => {
+    if (!activeProfile) return null
+    try {
+      return getLastSetFilter(activeProfile)?.topic ?? null
+    } catch {
+      return null
+    }
+  })
 
   const progress = useMemo(() => {
     if (!activeProfile) return null
@@ -182,6 +225,18 @@ export function DashboardScreen() {
   const setHistorySummary: SetRecordSummary[] = progress.setHistorySummary ?? []
   const totalSetsCompleted = setHistorySummary.length + setHistory.length
   const stateById = new Map(progress.topicProgress.map((p) => [p.topicId, p.masteryState]))
+
+  const filteredTopics = manifest
+    ? manifest.topics.filter(
+        (t) =>
+          (subjectFilter === null || t.subject === subjectFilter) &&
+          (topicFilter === null || t.topic === topicFilter),
+      )
+    : []
+  const filteredTopicIds = new Set(filteredTopics.map((t) => t.topicId))
+  const subjects = manifest ? uniqueSubjects(manifest.topics) : []
+  const topicChoices =
+    manifest && subjectFilter ? topicsInSubject(manifest.topics, subjectFilter) : []
 
   // Sparkline always uses the most recent 10 sets. With the rolloff cap
   // those almost always live in setHistory, but we fall back to summaries
@@ -233,38 +288,99 @@ export function DashboardScreen() {
       )}
 
       {manifest && (
+        <article
+          aria-label="Filter dashboard by subject and topic"
+          className="grid grid-cols-1 gap-4 rounded-md border border-gray-200 bg-white p-4 dark:border-gray-700 dark:bg-gray-800 sm:grid-cols-2"
+        >
+          <div>
+            <label
+              htmlFor="dashboard-subject"
+              className="mb-2 block text-sm font-semibold text-gray-800 dark:text-gray-200"
+            >
+              Subject
+            </label>
+            <select
+              id="dashboard-subject"
+              value={subjectFilter ?? ''}
+              onChange={(e) => {
+                const next = e.target.value || null
+                setSubjectFilter(next)
+                setTopicFilter(null)
+              }}
+              className="block min-h-12 w-full rounded-md border border-gray-300 bg-white px-3 py-2 text-base text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500 dark:border-gray-600 dark:bg-gray-800 dark:text-gray-100"
+            >
+              <option value="">All subjects</option>
+              {subjects.map((s) => (
+                <option key={s} value={s}>
+                  {s}
+                </option>
+              ))}
+            </select>
+          </div>
+          <div>
+            <label
+              htmlFor="dashboard-topic"
+              className="mb-2 block text-sm font-semibold text-gray-800 dark:text-gray-200"
+            >
+              Topic
+            </label>
+            <select
+              id="dashboard-topic"
+              value={topicFilter ?? ''}
+              disabled={subjectFilter === null}
+              onChange={(e) => setTopicFilter(e.target.value || null)}
+              className="block min-h-12 w-full rounded-md border border-gray-300 bg-white px-3 py-2 text-base text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500 disabled:cursor-not-allowed disabled:opacity-50 dark:border-gray-600 dark:bg-gray-800 dark:text-gray-100"
+            >
+              <option value="">All topics</option>
+              {topicChoices.map((t) => (
+                <option key={t} value={t}>
+                  {t}
+                </option>
+              ))}
+            </select>
+          </div>
+        </article>
+      )}
+
+      {manifest && (
         <article aria-label="Subject heatmap" className="space-y-4">
           <h3 className="text-base font-semibold text-gray-900 dark:text-gray-100">
             Subject heatmap
           </h3>
-          {[...groupBySubject(manifest.topics).entries()].map(([subject, topics]) => (
-            <div key={subject} data-subject={subject}>
-              <div className="mb-2 text-sm font-medium text-gray-700 dark:text-gray-200">
-                {subject}
+          {filteredTopics.length === 0 ? (
+            <p className="text-sm text-gray-600 dark:text-gray-300">
+              No topics match the current filter.
+            </p>
+          ) : (
+            [...groupBySubject(filteredTopics).entries()].map(([subject, topics]) => (
+              <div key={subject} data-subject={subject}>
+                <div className="mb-2 text-sm font-medium text-gray-700 dark:text-gray-200">
+                  {subject}
+                </div>
+                <ul
+                  role="list"
+                  className="grid grid-cols-2 gap-2 sm:grid-cols-3 md:grid-cols-4"
+                >
+                  {topics.map((t) => {
+                    const state = stateById.get(t.topicId) ?? 'unassessed'
+                    return (
+                      <li
+                        key={t.topicId}
+                        data-topic-id={t.topicId}
+                        data-state={state}
+                        className={`rounded-md p-3 text-xs font-medium text-white ${STATE_BG[state]}`}
+                      >
+                        <div className="text-[11px] font-semibold uppercase tracking-wide opacity-90">
+                          {t.subtopic}
+                        </div>
+                        <div className="mt-1 text-xs opacity-90">{STATE_LABEL[state]}</div>
+                      </li>
+                    )
+                  })}
+                </ul>
               </div>
-              <ul
-                role="list"
-                className="grid grid-cols-2 gap-2 sm:grid-cols-3 md:grid-cols-4"
-              >
-                {topics.map((t) => {
-                  const state = stateById.get(t.topicId) ?? 'unassessed'
-                  return (
-                    <li
-                      key={t.topicId}
-                      data-topic-id={t.topicId}
-                      data-state={state}
-                      className={`rounded-md p-3 text-xs font-medium text-white ${STATE_BG[state]}`}
-                    >
-                      <div className="text-[11px] font-semibold uppercase tracking-wide opacity-90">
-                        {t.subtopic}
-                      </div>
-                      <div className="mt-1 text-xs opacity-90">{STATE_LABEL[state]}</div>
-                    </li>
-                  )
-                })}
-              </ul>
-            </div>
-          ))}
+            ))
+          )}
         </article>
       )}
 
@@ -285,6 +401,7 @@ export function DashboardScreen() {
           </h3>
           <ul className="space-y-2">
             {[...timelines.entries()]
+              .filter(([topicId]) => !manifest || filteredTopicIds.has(topicId))
               .sort(([a], [b]) => a.localeCompare(b))
               .map(([topicId, states]) => (
                 <li
