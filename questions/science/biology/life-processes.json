@@ -1,0 +1,3843 @@
+{
+  "subject": "Science",
+  "topic": "Biology",
+  "subtopic": "Life Processes",
+  "questions": [
+    {
+      "id": "sci-life-processes-001",
+      "text": "Which of the following are energy-giving foods?",
+      "image": null,
+      "options": [
+        {
+          "text": "Carbohydrates and fats",
+          "image": null
+        },
+        {
+          "text": "Proteins and mineral salts",
+          "image": null
+        },
+        {
+          "text": "Vitamins and minerals",
+          "image": null
+        },
+        {
+          "text": "Water and roughage",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-002",
+      "text": "Which mode of nutrition derives food from another living organism without killing it?",
+      "image": null,
+      "options": [
+        {
+          "text": "Saprotrophic nutrition",
+          "image": null
+        },
+        {
+          "text": "Parasitic nutrition",
+          "image": null
+        },
+        {
+          "text": "Holozoic nutrition",
+          "image": null
+        },
+        {
+          "text": "Autotrophic nutrition",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-003",
+      "text": "The mode of nutrition found in fungi is:",
+      "image": null,
+      "options": [
+        {
+          "text": "Parasitic",
+          "image": null
+        },
+        {
+          "text": "Holozoic",
+          "image": null
+        },
+        {
+          "text": "Autotrophic",
+          "image": null
+        },
+        {
+          "text": "Saprotrophic",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-004",
+      "text": "Which organisms break down food material outside the body?",
+      "image": null,
+      "options": [
+        {
+          "text": "Mushroom, green plants, amoeba",
+          "image": null
+        },
+        {
+          "text": "Yeast, mushroom, bread mould",
+          "image": null
+        },
+        {
+          "text": "Paramecium, amoeba, Cuscuta",
+          "image": null
+        },
+        {
+          "text": "Cuscuta, lice, tapeworm",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-005",
+      "text": "Which statement about heterotrophs is correct?",
+      "image": null,
+      "options": [
+        {
+          "text": "They make their own food",
+          "image": null
+        },
+        {
+          "text": "They use solar energy to make food",
+          "image": null
+        },
+        {
+          "text": "They do not make their own food",
+          "image": null
+        },
+        {
+          "text": "They convert carbon dioxide and water into carbohydrates",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-006",
+      "text": "The cellular energy reserve in autotrophs is generally stored as:",
+      "image": null,
+      "options": [
+        {
+          "text": "glycogen",
+          "image": null
+        },
+        {
+          "text": "starch",
+          "image": null
+        },
+        {
+          "text": "protein",
+          "image": null
+        },
+        {
+          "text": "fatty acids",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-007",
+      "text": "Autotrophs require which of the following for photosynthesis?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{CO2}$ and water",
+          "image": null
+        },
+        {
+          "text": "chlorophyll",
+          "image": null
+        },
+        {
+          "text": "sunlight",
+          "image": null
+        },
+        {
+          "text": "all of these",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-008",
+      "text": "Which is the site of photosynthesis in leaf cells?",
+      "image": null,
+      "options": [
+        {
+          "text": "chloroplast",
+          "image": null
+        },
+        {
+          "text": "mitochondria",
+          "image": null
+        },
+        {
+          "text": "cytoplasm",
+          "image": null
+        },
+        {
+          "text": "protoplasm",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-009",
+      "text": "Which process converts light energy into chemical energy?",
+      "image": null,
+      "options": [
+        {
+          "text": "Respiration",
+          "image": null
+        },
+        {
+          "text": "Photosynthesis",
+          "image": null
+        },
+        {
+          "text": "Transpiration",
+          "image": null
+        },
+        {
+          "text": "Transportation",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-010",
+      "text": "Which of the following is not an event in photosynthesis?",
+      "image": null,
+      "options": [
+        {
+          "text": "Absorption of light by chlorophyll",
+          "image": null
+        },
+        {
+          "text": "Reduction of carbon dioxide to carbohydrates",
+          "image": null
+        },
+        {
+          "text": "Oxidation of carbon to carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "Conversion of light energy to chemical energy",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-011",
+      "text": "Raw materials for photosynthesis include:",
+      "image": null,
+      "options": [
+        {
+          "text": "carbon dioxide only",
+          "image": null
+        },
+        {
+          "text": "water only",
+          "image": null
+        },
+        {
+          "text": "oxygen only",
+          "image": null
+        },
+        {
+          "text": "carbon dioxide and water",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-012",
+      "text": "Most plants absorb nitrogen mainly as:",
+      "image": null,
+      "options": [
+        {
+          "text": "proteins",
+          "image": null
+        },
+        {
+          "text": "nitrates and nitrites",
+          "image": null
+        },
+        {
+          "text": "atmospheric nitrogen directly",
+          "image": null
+        },
+        {
+          "text": "amino acids only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-013",
+      "text": "Which gas is released as a by-product of photosynthesis?",
+      "image": null,
+      "options": [
+        {
+          "text": "Carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "Oxygen",
+          "image": null
+        },
+        {
+          "text": "Nitrogen",
+          "image": null
+        },
+        {
+          "text": "Hydrogen",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-014",
+      "text": "The green pigment needed for photosynthesis is:",
+      "image": null,
+      "options": [
+        {
+          "text": "haemoglobin",
+          "image": null
+        },
+        {
+          "text": "chlorophyll",
+          "image": null
+        },
+        {
+          "text": "carotene only",
+          "image": null
+        },
+        {
+          "text": "bile",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-015",
+      "text": "Stomata are mainly involved in:",
+      "image": null,
+      "options": [
+        {
+          "text": "absorption of minerals only",
+          "image": null
+        },
+        {
+          "text": "gaseous exchange and transpiration",
+          "image": null
+        },
+        {
+          "text": "digestion of food",
+          "image": null
+        },
+        {
+          "text": "blood circulation",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-016",
+      "text": "Opening and closing of stomatal pores depends mainly on:",
+      "image": null,
+      "options": [
+        {
+          "text": "oxygen",
+          "image": null
+        },
+        {
+          "text": "guard cells",
+          "image": null
+        },
+        {
+          "text": "xylem",
+          "image": null
+        },
+        {
+          "text": "phloem",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-017",
+      "text": "Which adaptation helps leaves perform photosynthesis efficiently?",
+      "image": null,
+      "options": [
+        {
+          "text": "large surface area",
+          "image": null
+        },
+        {
+          "text": "many stomata",
+          "image": null
+        },
+        {
+          "text": "chloroplasts in cells",
+          "image": null
+        },
+        {
+          "text": "all of these",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-018",
+      "text": "During the day, green plants usually release oxygen because:",
+      "image": null,
+      "options": [
+        {
+          "text": "photosynthesis rate exceeds respiration rate",
+          "image": null
+        },
+        {
+          "text": "respiration stops fully",
+          "image": null
+        },
+        {
+          "text": "there is no carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "chlorophyll becomes oxygen",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-019",
+      "text": "At night, plants release carbon dioxide mainly because:",
+      "image": null,
+      "options": [
+        {
+          "text": "photosynthesis is faster",
+          "image": null
+        },
+        {
+          "text": "only respiration occurs",
+          "image": null
+        },
+        {
+          "text": "oxygen becomes carbon dioxide directly",
+          "image": null
+        },
+        {
+          "text": "stomata disappear",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-020",
+      "text": "What is the common feature of Cuscuta, ticks and leeches?",
+      "image": null,
+      "options": [
+        {
+          "text": "They are autotrophs",
+          "image": null
+        },
+        {
+          "text": "They are parasites",
+          "image": null
+        },
+        {
+          "text": "They are saprotrophs",
+          "image": null
+        },
+        {
+          "text": "They photosynthesise",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-021",
+      "text": "In Amoeba, food is digested in the:",
+      "image": null,
+      "options": [
+        {
+          "text": "food vacuole",
+          "image": null
+        },
+        {
+          "text": "mitochondria",
+          "image": null
+        },
+        {
+          "text": "pseudopodia",
+          "image": null
+        },
+        {
+          "text": "chloroplast",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-022",
+      "text": "Amoeba takes in food with the help of:",
+      "image": null,
+      "options": [
+        {
+          "text": "cilia",
+          "image": null
+        },
+        {
+          "text": "pseudopodia",
+          "image": null
+        },
+        {
+          "text": "teeth",
+          "image": null
+        },
+        {
+          "text": "stomata",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-023",
+      "text": "The mode of nutrition in Amoeba is:",
+      "image": null,
+      "options": [
+        {
+          "text": "holozoic",
+          "image": null
+        },
+        {
+          "text": "autotrophic",
+          "image": null
+        },
+        {
+          "text": "saprotrophic",
+          "image": null
+        },
+        {
+          "text": "parasitic",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-024",
+      "text": "In Amoeba, undigested food is removed by:",
+      "image": null,
+      "options": [
+        {
+          "text": "rupturing of cell membrane at any point",
+          "image": null
+        },
+        {
+          "text": "kidneys",
+          "image": null
+        },
+        {
+          "text": "anus",
+          "image": null
+        },
+        {
+          "text": "stomata",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-025",
+      "text": "Which event in the mouth is affected if salivary amylase is absent?",
+      "image": null,
+      "options": [
+        {
+          "text": "Starch breaking into sugars",
+          "image": null
+        },
+        {
+          "text": "Proteins breaking into amino acids",
+          "image": null
+        },
+        {
+          "text": "Absorption of vitamins",
+          "image": null
+        },
+        {
+          "text": "Fats breaking into fatty acids and glycerol",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-026",
+      "text": "The first enzyme that mixes with food in humans is:",
+      "image": null,
+      "options": [
+        {
+          "text": "salivary amylase",
+          "image": null
+        },
+        {
+          "text": "trypsin",
+          "image": null
+        },
+        {
+          "text": "erepsin",
+          "image": null
+        },
+        {
+          "text": "lipase",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-027",
+      "text": "Salivary amylase acts mainly on:",
+      "image": null,
+      "options": [
+        {
+          "text": "proteins",
+          "image": null
+        },
+        {
+          "text": "fats",
+          "image": null
+        },
+        {
+          "text": "carbohydrates",
+          "image": null
+        },
+        {
+          "text": "minerals",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-028",
+      "text": "Where are proteins first digested in the human alimentary canal?",
+      "image": null,
+      "options": [
+        {
+          "text": "small intestine",
+          "image": null
+        },
+        {
+          "text": "stomach",
+          "image": null
+        },
+        {
+          "text": "large intestine",
+          "image": null
+        },
+        {
+          "text": "mouth",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-029",
+      "text": "The inner lining of the stomach is protected from hydrochloric acid by:",
+      "image": null,
+      "options": [
+        {
+          "text": "mucus",
+          "image": null
+        },
+        {
+          "text": "salivary amylase",
+          "image": null
+        },
+        {
+          "text": "pepsin",
+          "image": null
+        },
+        {
+          "text": "bile",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-030",
+      "text": "Pepsin is secreted in the:",
+      "image": null,
+      "options": [
+        {
+          "text": "stomach",
+          "image": null
+        },
+        {
+          "text": "mouth",
+          "image": null
+        },
+        {
+          "text": "large intestine",
+          "image": null
+        },
+        {
+          "text": "liver",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-031",
+      "text": "Trypsin is secreted by the:",
+      "image": null,
+      "options": [
+        {
+          "text": "stomach",
+          "image": null
+        },
+        {
+          "text": "pancreas",
+          "image": null
+        },
+        {
+          "text": "liver",
+          "image": null
+        },
+        {
+          "text": "salivary glands",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-032",
+      "text": "In the human digestive system, pepsin and trypsin are secreted by:",
+      "image": null,
+      "options": [
+        {
+          "text": "pancreas and liver",
+          "image": null
+        },
+        {
+          "text": "pancreas and gall bladder",
+          "image": null
+        },
+        {
+          "text": "stomach and pancreas",
+          "image": null
+        },
+        {
+          "text": "stomach and salivary glands",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-033",
+      "text": "Which option correctly states the function of pancreatic juice?",
+      "image": null,
+      "options": [
+        {
+          "text": "Trypsin digests proteins and lipase digests emulsified fats",
+          "image": null
+        },
+        {
+          "text": "Trypsin digests fats and lipase digests proteins",
+          "image": null
+        },
+        {
+          "text": "Trypsin and lipase both digest fats only",
+          "image": null
+        },
+        {
+          "text": "Trypsin digests carbohydrates and lipase digests proteins",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-034",
+      "text": "Pancreatic juice does not contain:",
+      "image": null,
+      "options": [
+        {
+          "text": "trypsin",
+          "image": null
+        },
+        {
+          "text": "amylase",
+          "image": null
+        },
+        {
+          "text": "lipase",
+          "image": null
+        },
+        {
+          "text": "ptyalin",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-035",
+      "text": "The pancreas pours its secretion mainly into the:",
+      "image": null,
+      "options": [
+        {
+          "text": "small intestine",
+          "image": null
+        },
+        {
+          "text": "large intestine",
+          "image": null
+        },
+        {
+          "text": "stomach",
+          "image": null
+        },
+        {
+          "text": "duodenum",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-036",
+      "text": "Bile is secreted by the:",
+      "image": null,
+      "options": [
+        {
+          "text": "liver",
+          "image": null
+        },
+        {
+          "text": "stomach",
+          "image": null
+        },
+        {
+          "text": "pancreas",
+          "image": null
+        },
+        {
+          "text": "small intestine",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-037",
+      "text": "Bile is stored in the:",
+      "image": null,
+      "options": [
+        {
+          "text": "liver",
+          "image": null
+        },
+        {
+          "text": "bile duct",
+          "image": null
+        },
+        {
+          "text": "gall bladder",
+          "image": null
+        },
+        {
+          "text": "pancreas",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-038",
+      "text": "Which part of the alimentary canal receives bile from the liver?",
+      "image": null,
+      "options": [
+        {
+          "text": "stomach",
+          "image": null
+        },
+        {
+          "text": "small intestine",
+          "image": null
+        },
+        {
+          "text": "large intestine",
+          "image": null
+        },
+        {
+          "text": "oesophagus",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-039",
+      "text": "Bile helps in digestion by:",
+      "image": null,
+      "options": [
+        {
+          "text": "emulsifying fats",
+          "image": null
+        },
+        {
+          "text": "digesting starch directly",
+          "image": null
+        },
+        {
+          "text": "digesting proteins directly",
+          "image": null
+        },
+        {
+          "text": "absorbing water only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-040",
+      "text": "Food is finally digested in the:",
+      "image": null,
+      "options": [
+        {
+          "text": "large intestine",
+          "image": null
+        },
+        {
+          "text": "stomach",
+          "image": null
+        },
+        {
+          "text": "mouth cavity",
+          "image": null
+        },
+        {
+          "text": "small intestine",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-041",
+      "text": "The region of the alimentary canal that absorbs digested food is:",
+      "image": null,
+      "options": [
+        {
+          "text": "stomach",
+          "image": null
+        },
+        {
+          "text": "small intestine",
+          "image": null
+        },
+        {
+          "text": "large intestine",
+          "image": null
+        },
+        {
+          "text": "liver",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-042",
+      "text": "Maximum absorption occurs in the small intestine because it has:",
+      "image": null,
+      "options": [
+        {
+          "text": "villi and rich blood supply",
+          "image": null
+        },
+        {
+          "text": "thick bones",
+          "image": null
+        },
+        {
+          "text": "alveoli",
+          "image": null
+        },
+        {
+          "text": "nephrons",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-043",
+      "text": "Villi increase the surface area for:",
+      "image": null,
+      "options": [
+        {
+          "text": "absorption of digested food",
+          "image": null
+        },
+        {
+          "text": "breathing",
+          "image": null
+        },
+        {
+          "text": "blood clotting",
+          "image": null
+        },
+        {
+          "text": "excretion of urine",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-044",
+      "text": "The large intestine mainly absorbs:",
+      "image": null,
+      "options": [
+        {
+          "text": "water",
+          "image": null
+        },
+        {
+          "text": "oxygen",
+          "image": null
+        },
+        {
+          "text": "bile",
+          "image": null
+        },
+        {
+          "text": "proteins",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-045",
+      "text": "The contraction and expansion movement of the food pipe is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "transpiration",
+          "image": null
+        },
+        {
+          "text": "peristalsis",
+          "image": null
+        },
+        {
+          "text": "translocation",
+          "image": null
+        },
+        {
+          "text": "osmosis",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-046",
+      "text": "Food moves through the oesophagus by:",
+      "image": null,
+      "options": [
+        {
+          "text": "diffusion",
+          "image": null
+        },
+        {
+          "text": "peristaltic movement",
+          "image": null
+        },
+        {
+          "text": "osmosis",
+          "image": null
+        },
+        {
+          "text": "transpiration pull",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-047",
+      "text": "The correct sequence of human alimentary canal is:",
+      "image": null,
+      "options": [
+        {
+          "text": "mouth, oesophagus, stomach, small intestine, large intestine",
+          "image": null
+        },
+        {
+          "text": "mouth, stomach, oesophagus, small intestine, large intestine",
+          "image": null
+        },
+        {
+          "text": "stomach, mouth, oesophagus, large intestine, small intestine",
+          "image": null
+        },
+        {
+          "text": "mouth, small intestine, stomach, oesophagus, large intestine",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-048",
+      "text": "Which digestive juice contains hydrochloric acid?",
+      "image": null,
+      "options": [
+        {
+          "text": "saliva",
+          "image": null
+        },
+        {
+          "text": "gastric juice",
+          "image": null
+        },
+        {
+          "text": "bile",
+          "image": null
+        },
+        {
+          "text": "pancreatic juice",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-049",
+      "text": "The substrate of pepsin is:",
+      "image": null,
+      "options": [
+        {
+          "text": "protein",
+          "image": null
+        },
+        {
+          "text": "starch",
+          "image": null
+        },
+        {
+          "text": "fat",
+          "image": null
+        },
+        {
+          "text": "cellulose",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-050",
+      "text": "The substrate of amylase is:",
+      "image": null,
+      "options": [
+        {
+          "text": "protein",
+          "image": null
+        },
+        {
+          "text": "starch",
+          "image": null
+        },
+        {
+          "text": "fat",
+          "image": null
+        },
+        {
+          "text": "water",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-051",
+      "text": "The substrate of lipase is:",
+      "image": null,
+      "options": [
+        {
+          "text": "protein",
+          "image": null
+        },
+        {
+          "text": "starch",
+          "image": null
+        },
+        {
+          "text": "fat",
+          "image": null
+        },
+        {
+          "text": "nucleic acid",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-052",
+      "text": "Which process releases energy from food in living cells?",
+      "image": null,
+      "options": [
+        {
+          "text": "respiration",
+          "image": null
+        },
+        {
+          "text": "transpiration",
+          "image": null
+        },
+        {
+          "text": "translocation",
+          "image": null
+        },
+        {
+          "text": "digestion only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-053",
+      "text": "The breakdown of glucose into pyruvate takes place in the:",
+      "image": null,
+      "options": [
+        {
+          "text": "cytoplasm",
+          "image": null
+        },
+        {
+          "text": "mitochondria",
+          "image": null
+        },
+        {
+          "text": "chloroplast",
+          "image": null
+        },
+        {
+          "text": "nucleus",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-054",
+      "text": "The breakdown of pyruvate into carbon dioxide, water and energy takes place in:",
+      "image": null,
+      "options": [
+        {
+          "text": "mitochondria",
+          "image": null
+        },
+        {
+          "text": "cytoplasm",
+          "image": null
+        },
+        {
+          "text": "endoplasmic reticulum",
+          "image": null
+        },
+        {
+          "text": "ribosomes",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-055",
+      "text": "The correct sequence of anaerobic respiration in muscles is:",
+      "image": null,
+      "options": [
+        {
+          "text": "glucose -> pyruvate -> lactic acid",
+          "image": null
+        },
+        {
+          "text": "glucose -> pyruvate -> ethanol + carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "glucose -> ADP -> lactic acid",
+          "image": null
+        },
+        {
+          "text": "glucose -> carbon dioxide + ethanol",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-056",
+      "text": "Anaerobic respiration in yeast produces:",
+      "image": null,
+      "options": [
+        {
+          "text": "ethanol and carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "lactic acid only",
+          "image": null
+        },
+        {
+          "text": "water only",
+          "image": null
+        },
+        {
+          "text": "oxygen only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-057",
+      "text": "Anaerobic respiration in human muscle cells produces:",
+      "image": null,
+      "options": [
+        {
+          "text": "ethanol",
+          "image": null
+        },
+        {
+          "text": "lactic acid",
+          "image": null
+        },
+        {
+          "text": "oxygen",
+          "image": null
+        },
+        {
+          "text": "starch",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-058",
+      "text": "Lactic acid accumulation in muscles may cause:",
+      "image": null,
+      "options": [
+        {
+          "text": "cramps",
+          "image": null
+        },
+        {
+          "text": "photosynthesis",
+          "image": null
+        },
+        {
+          "text": "transpiration",
+          "image": null
+        },
+        {
+          "text": "blood clotting",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-059",
+      "text": "Aerobic respiration needs:",
+      "image": null,
+      "options": [
+        {
+          "text": "oxygen",
+          "image": null
+        },
+        {
+          "text": "nitrogen",
+          "image": null
+        },
+        {
+          "text": "carbon monoxide",
+          "image": null
+        },
+        {
+          "text": "chlorophyll only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-060",
+      "text": "Aerobic respiration releases energy along with:",
+      "image": null,
+      "options": [
+        {
+          "text": "carbon dioxide and water",
+          "image": null
+        },
+        {
+          "text": "ethanol and carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "lactic acid only",
+          "image": null
+        },
+        {
+          "text": "oxygen and glucose",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-061",
+      "text": "The energy currency in living organisms is:",
+      "image": null,
+      "options": [
+        {
+          "text": "ATP",
+          "image": null
+        },
+        {
+          "text": "DNA",
+          "image": null
+        },
+        {
+          "text": "starch",
+          "image": null
+        },
+        {
+          "text": "bile",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-062",
+      "text": "ATP is produced during:",
+      "image": null,
+      "options": [
+        {
+          "text": "respiration",
+          "image": null
+        },
+        {
+          "text": "photosynthesis in plants",
+          "image": null
+        },
+        {
+          "text": "both respiration and photosynthesis",
+          "image": null
+        },
+        {
+          "text": "only excretion",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-063",
+      "text": "Respiratory exchange of gases in leaves occurs through:",
+      "image": null,
+      "options": [
+        {
+          "text": "lenticels",
+          "image": null
+        },
+        {
+          "text": "vacuoles",
+          "image": null
+        },
+        {
+          "text": "xylem",
+          "image": null
+        },
+        {
+          "text": "stomata",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-064",
+      "text": "In woody stems, gaseous exchange often occurs through:",
+      "image": null,
+      "options": [
+        {
+          "text": "lenticels",
+          "image": null
+        },
+        {
+          "text": "xylem",
+          "image": null
+        },
+        {
+          "text": "phloem",
+          "image": null
+        },
+        {
+          "text": "villi",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-065",
+      "text": "Fish respire with the help of:",
+      "image": null,
+      "options": [
+        {
+          "text": "lungs",
+          "image": null
+        },
+        {
+          "text": "gills",
+          "image": null
+        },
+        {
+          "text": "tracheae only",
+          "image": null
+        },
+        {
+          "text": "skin only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-066",
+      "text": "Fish die when taken out of water because they cannot:",
+      "image": null,
+      "options": [
+        {
+          "text": "absorb gaseous oxygen efficiently",
+          "image": null
+        },
+        {
+          "text": "digest food",
+          "image": null
+        },
+        {
+          "text": "pump blood",
+          "image": null
+        },
+        {
+          "text": "perform excretion",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-067",
+      "text": "In humans, air enters the lungs through:",
+      "image": null,
+      "options": [
+        {
+          "text": "trachea",
+          "image": null
+        },
+        {
+          "text": "oesophagus",
+          "image": null
+        },
+        {
+          "text": "aorta",
+          "image": null
+        },
+        {
+          "text": "vena cava",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-068",
+      "text": "The tiny air sacs in lungs are called:",
+      "image": null,
+      "options": [
+        {
+          "text": "alveoli",
+          "image": null
+        },
+        {
+          "text": "villi",
+          "image": null
+        },
+        {
+          "text": "nephrons",
+          "image": null
+        },
+        {
+          "text": "stomata",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-069",
+      "text": "Alveoli are adapted for gas exchange because they have:",
+      "image": null,
+      "options": [
+        {
+          "text": "large surface area and rich blood supply",
+          "image": null
+        },
+        {
+          "text": "thick walls and no capillaries",
+          "image": null
+        },
+        {
+          "text": "chlorophyll",
+          "image": null
+        },
+        {
+          "text": "digestive enzymes",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-070",
+      "text": "The respiratory pigment in human beings is:",
+      "image": null,
+      "options": [
+        {
+          "text": "carotene",
+          "image": null
+        },
+        {
+          "text": "chlorophyll",
+          "image": null
+        },
+        {
+          "text": "haemoglobin",
+          "image": null
+        },
+        {
+          "text": "mitochondria",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-071",
+      "text": "Haemoglobin mainly transports:",
+      "image": null,
+      "options": [
+        {
+          "text": "oxygen",
+          "image": null
+        },
+        {
+          "text": "bile",
+          "image": null
+        },
+        {
+          "text": "urine",
+          "image": null
+        },
+        {
+          "text": "starch",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-072",
+      "text": "When air is blown into lime water, it turns milky because of:",
+      "image": null,
+      "options": [
+        {
+          "text": "water vapour",
+          "image": null
+        },
+        {
+          "text": "carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "limestone",
+          "image": null
+        },
+        {
+          "text": "calcium oxide",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-073",
+      "text": "The breathing rate increases during exercise because:",
+      "image": null,
+      "options": [
+        {
+          "text": "more oxygen is needed for energy release",
+          "image": null
+        },
+        {
+          "text": "less carbon dioxide is produced",
+          "image": null
+        },
+        {
+          "text": "digestion stops permanently",
+          "image": null
+        },
+        {
+          "text": "stomata open",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-074",
+      "text": "Which vertebrate group has a heart that does not pump oxygenated blood to different body parts?",
+      "image": null,
+      "options": [
+        {
+          "text": "Pisces",
+          "image": null
+        },
+        {
+          "text": "Amphibians",
+          "image": null
+        },
+        {
+          "text": "Reptiles",
+          "image": null
+        },
+        {
+          "text": "Birds",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-075",
+      "text": "The blood vessel that carries blood away from the heart is usually:",
+      "image": null,
+      "options": [
+        {
+          "text": "artery",
+          "image": null
+        },
+        {
+          "text": "capillary",
+          "image": null
+        },
+        {
+          "text": "vein",
+          "image": null
+        },
+        {
+          "text": "lymph vessel",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-076",
+      "text": "A blood vessel that pumps/carries blood from the heart to the entire body is:",
+      "image": null,
+      "options": [
+        {
+          "text": "artery",
+          "image": null
+        },
+        {
+          "text": "capillary",
+          "image": null
+        },
+        {
+          "text": "vein",
+          "image": null
+        },
+        {
+          "text": "haemoglobin",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-077",
+      "text": "Veins generally carry blood:",
+      "image": null,
+      "options": [
+        {
+          "text": "towards the heart",
+          "image": null
+        },
+        {
+          "text": "away from the heart only",
+          "image": null
+        },
+        {
+          "text": "only inside bones",
+          "image": null
+        },
+        {
+          "text": "only in plants",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-078",
+      "text": "Capillaries are:",
+      "image": null,
+      "options": [
+        {
+          "text": "thick arteries only",
+          "image": null
+        },
+        {
+          "text": "thin vessels connecting arteries and veins",
+          "image": null
+        },
+        {
+          "text": "heart chambers",
+          "image": null
+        },
+        {
+          "text": "lymph nodes only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-079",
+      "text": "Which chamber of the human heart receives oxygenated blood from lungs?",
+      "image": null,
+      "options": [
+        {
+          "text": "left atrium",
+          "image": null
+        },
+        {
+          "text": "right atrium",
+          "image": null
+        },
+        {
+          "text": "left ventricle",
+          "image": null
+        },
+        {
+          "text": "right ventricle",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-080",
+      "text": "Which chamber of the human heart pumps oxygenated blood to the body?",
+      "image": null,
+      "options": [
+        {
+          "text": "left ventricle",
+          "image": null
+        },
+        {
+          "text": "right ventricle",
+          "image": null
+        },
+        {
+          "text": "right atrium",
+          "image": null
+        },
+        {
+          "text": "left atrium",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-081",
+      "text": "Which chamber of the human heart receives deoxygenated blood from the body?",
+      "image": null,
+      "options": [
+        {
+          "text": "right atrium",
+          "image": null
+        },
+        {
+          "text": "left atrium",
+          "image": null
+        },
+        {
+          "text": "left ventricle",
+          "image": null
+        },
+        {
+          "text": "aorta",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-082",
+      "text": "Which chamber pumps deoxygenated blood to the lungs?",
+      "image": null,
+      "options": [
+        {
+          "text": "right ventricle",
+          "image": null
+        },
+        {
+          "text": "left ventricle",
+          "image": null
+        },
+        {
+          "text": "left atrium",
+          "image": null
+        },
+        {
+          "text": "aorta",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-083",
+      "text": "The advantage of a four-chambered heart is:",
+      "image": null,
+      "options": [
+        {
+          "text": "complete separation of oxygenated and deoxygenated blood",
+          "image": null
+        },
+        {
+          "text": "mixing of all blood",
+          "image": null
+        },
+        {
+          "text": "no need of lungs",
+          "image": null
+        },
+        {
+          "text": "no need of circulation",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-084",
+      "text": "Double circulation means blood passes through the heart:",
+      "image": null,
+      "options": [
+        {
+          "text": "once in one complete cycle",
+          "image": null
+        },
+        {
+          "text": "twice in one complete cycle",
+          "image": null
+        },
+        {
+          "text": "only during digestion",
+          "image": null
+        },
+        {
+          "text": "only through veins",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-085",
+      "text": "The circulatory fluid other than blood in humans is:",
+      "image": null,
+      "options": [
+        {
+          "text": "platelets",
+          "image": null
+        },
+        {
+          "text": "RBC",
+          "image": null
+        },
+        {
+          "text": "lymph",
+          "image": null
+        },
+        {
+          "text": "plasma only",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-086",
+      "text": "Lymph helps in:",
+      "image": null,
+      "options": [
+        {
+          "text": "transport of absorbed fats and draining excess tissue fluid",
+          "image": null
+        },
+        {
+          "text": "photosynthesis",
+          "image": null
+        },
+        {
+          "text": "urine formation only",
+          "image": null
+        },
+        {
+          "text": "starch digestion only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-087",
+      "text": "Platelets help in:",
+      "image": null,
+      "options": [
+        {
+          "text": "blood clotting",
+          "image": null
+        },
+        {
+          "text": "oxygen transport only",
+          "image": null
+        },
+        {
+          "text": "digestion of fats",
+          "image": null
+        },
+        {
+          "text": "photosynthesis",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-088",
+      "text": "If platelets are absent, which process is affected?",
+      "image": null,
+      "options": [
+        {
+          "text": "blood clotting",
+          "image": null
+        },
+        {
+          "text": "photosynthesis",
+          "image": null
+        },
+        {
+          "text": "digestion of starch",
+          "image": null
+        },
+        {
+          "text": "excretion of urine",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-089",
+      "text": "Blood pressure is measured using a:",
+      "image": null,
+      "options": [
+        {
+          "text": "sphygmomanometer",
+          "image": null
+        },
+        {
+          "text": "thermometer",
+          "image": null
+        },
+        {
+          "text": "barometer",
+          "image": null
+        },
+        {
+          "text": "stethoscope only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-090",
+      "text": "Which blood vessel has valves?",
+      "image": null,
+      "options": [
+        {
+          "text": "veins",
+          "image": null
+        },
+        {
+          "text": "arteries only",
+          "image": null
+        },
+        {
+          "text": "capillaries only",
+          "image": null
+        },
+        {
+          "text": "aorta only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-091",
+      "text": "Which plant tissue transports water and minerals from roots to leaves?",
+      "image": null,
+      "options": [
+        {
+          "text": "xylem",
+          "image": null
+        },
+        {
+          "text": "phloem",
+          "image": null
+        },
+        {
+          "text": "parenchyma",
+          "image": null
+        },
+        {
+          "text": "collenchyma",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-092",
+      "text": "Which plant tissue transports food?",
+      "image": null,
+      "options": [
+        {
+          "text": "xylem",
+          "image": null
+        },
+        {
+          "text": "phloem",
+          "image": null
+        },
+        {
+          "text": "sclerenchyma",
+          "image": null
+        },
+        {
+          "text": "epidermis",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-093",
+      "text": "The movement of food in phloem is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "transpiration",
+          "image": null
+        },
+        {
+          "text": "translocation",
+          "image": null
+        },
+        {
+          "text": "respiration",
+          "image": null
+        },
+        {
+          "text": "evaporation",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-094",
+      "text": "Movement of water from soil into root xylem is helped by:",
+      "image": null,
+      "options": [
+        {
+          "text": "osmosis and ion uptake",
+          "image": null
+        },
+        {
+          "text": "digestion",
+          "image": null
+        },
+        {
+          "text": "haemoglobin",
+          "image": null
+        },
+        {
+          "text": "bile",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-095",
+      "text": "Roots absorb water from soil mainly by:",
+      "image": null,
+      "options": [
+        {
+          "text": "diffusion",
+          "image": null
+        },
+        {
+          "text": "transpiration",
+          "image": null
+        },
+        {
+          "text": "osmosis",
+          "image": null
+        },
+        {
+          "text": "none of these",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-096",
+      "text": "Transpiration is important because it helps:",
+      "image": null,
+      "options": [
+        {
+          "text": "upward movement of water and cooling",
+          "image": null
+        },
+        {
+          "text": "digestion of starch",
+          "image": null
+        },
+        {
+          "text": "blood clotting",
+          "image": null
+        },
+        {
+          "text": "formation of urine",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-097",
+      "text": "Loss of water vapour from aerial parts of plants is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "transpiration",
+          "image": null
+        },
+        {
+          "text": "translocation",
+          "image": null
+        },
+        {
+          "text": "respiration",
+          "image": null
+        },
+        {
+          "text": "digestion",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-098",
+      "text": "Transport of soluble products of photosynthesis is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "translocation",
+          "image": null
+        },
+        {
+          "text": "transpiration",
+          "image": null
+        },
+        {
+          "text": "osmosis only",
+          "image": null
+        },
+        {
+          "text": "respiration",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-099",
+      "text": "Translocation in phloem requires:",
+      "image": null,
+      "options": [
+        {
+          "text": "energy",
+          "image": null
+        },
+        {
+          "text": "no energy ever",
+          "image": null
+        },
+        {
+          "text": "oxygen only",
+          "image": null
+        },
+        {
+          "text": "bile",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-100",
+      "text": "Plants have lower energy needs than animals mainly because plants:",
+      "image": null,
+      "options": [
+        {
+          "text": "do not move actively from place to place",
+          "image": null
+        },
+        {
+          "text": "have no living cells",
+          "image": null
+        },
+        {
+          "text": "do not respire",
+          "image": null
+        },
+        {
+          "text": "do not need food",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-101",
+      "text": "The kidneys in human beings are part of:",
+      "image": null,
+      "options": [
+        {
+          "text": "nutrition",
+          "image": null
+        },
+        {
+          "text": "respiration",
+          "image": null
+        },
+        {
+          "text": "excretion",
+          "image": null
+        },
+        {
+          "text": "circulation",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-102",
+      "text": "The basic filtration unit of kidney is:",
+      "image": null,
+      "options": [
+        {
+          "text": "nephron",
+          "image": null
+        },
+        {
+          "text": "neuron",
+          "image": null
+        },
+        {
+          "text": "alveolus",
+          "image": null
+        },
+        {
+          "text": "villus",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-103",
+      "text": "Urine is formed in the:",
+      "image": null,
+      "options": [
+        {
+          "text": "kidneys",
+          "image": null
+        },
+        {
+          "text": "lungs",
+          "image": null
+        },
+        {
+          "text": "heart",
+          "image": null
+        },
+        {
+          "text": "stomach",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-104",
+      "text": "Urine from the kidneys is carried to the urinary bladder by:",
+      "image": null,
+      "options": [
+        {
+          "text": "ureters",
+          "image": null
+        },
+        {
+          "text": "urethra",
+          "image": null
+        },
+        {
+          "text": "aorta",
+          "image": null
+        },
+        {
+          "text": "villi",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-105",
+      "text": "Urine is expelled from the body through the:",
+      "image": null,
+      "options": [
+        {
+          "text": "urethra",
+          "image": null
+        },
+        {
+          "text": "ureter",
+          "image": null
+        },
+        {
+          "text": "nephron",
+          "image": null
+        },
+        {
+          "text": "alveolus",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-106",
+      "text": "The main nitrogenous waste excreted by humans is:",
+      "image": null,
+      "options": [
+        {
+          "text": "urea",
+          "image": null
+        },
+        {
+          "text": "carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "oxygen",
+          "image": null
+        },
+        {
+          "text": "starch",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-107",
+      "text": "Dialysis is used when:",
+      "image": null,
+      "options": [
+        {
+          "text": "kidneys fail",
+          "image": null
+        },
+        {
+          "text": "stomach fails to digest starch",
+          "image": null
+        },
+        {
+          "text": "lungs stop absorbing food",
+          "image": null
+        },
+        {
+          "text": "phloem stops transporting water",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-108",
+      "text": "Artificial kidney removes:",
+      "image": null,
+      "options": [
+        {
+          "text": "nitrogenous wastes from blood",
+          "image": null
+        },
+        {
+          "text": "oxygen from lungs",
+          "image": null
+        },
+        {
+          "text": "bile from liver",
+          "image": null
+        },
+        {
+          "text": "starch from mouth",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-109",
+      "text": "In plants, wastes may be stored in:",
+      "image": null,
+      "options": [
+        {
+          "text": "leaves and bark",
+          "image": null
+        },
+        {
+          "text": "heart chambers",
+          "image": null
+        },
+        {
+          "text": "alveoli",
+          "image": null
+        },
+        {
+          "text": "kidney tubules only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-110",
+      "text": "Plants can get rid of excess water by:",
+      "image": null,
+      "options": [
+        {
+          "text": "transpiration",
+          "image": null
+        },
+        {
+          "text": "digestion",
+          "image": null
+        },
+        {
+          "text": "blood circulation",
+          "image": null
+        },
+        {
+          "text": "urine formation",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-111",
+      "text": "Which life process removes metabolic wastes?",
+      "image": null,
+      "options": [
+        {
+          "text": "excretion",
+          "image": null
+        },
+        {
+          "text": "nutrition",
+          "image": null
+        },
+        {
+          "text": "transportation only",
+          "image": null
+        },
+        {
+          "text": "photosynthesis only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-112",
+      "text": "Which of the following is the simplest form of food?",
+      "image": null,
+      "options": [
+        {
+          "text": "rice",
+          "image": null
+        },
+        {
+          "text": "wheat",
+          "image": null
+        },
+        {
+          "text": "butter",
+          "image": null
+        },
+        {
+          "text": "glucose",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-113",
+      "text": "Which nutrition type is found in green plants?",
+      "image": null,
+      "options": [
+        {
+          "text": "autotrophic",
+          "image": null
+        },
+        {
+          "text": "holozoic",
+          "image": null
+        },
+        {
+          "text": "saprotrophic",
+          "image": null
+        },
+        {
+          "text": "parasitic",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-114",
+      "text": "Which nutrition type is found in animals such as humans?",
+      "image": null,
+      "options": [
+        {
+          "text": "holozoic",
+          "image": null
+        },
+        {
+          "text": "autotrophic",
+          "image": null
+        },
+        {
+          "text": "saprotrophic",
+          "image": null
+        },
+        {
+          "text": "chemosynthetic",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-115",
+      "text": "Which enzyme starts carbohydrate digestion in the mouth?",
+      "image": null,
+      "options": [
+        {
+          "text": "salivary amylase",
+          "image": null
+        },
+        {
+          "text": "pepsin",
+          "image": null
+        },
+        {
+          "text": "trypsin",
+          "image": null
+        },
+        {
+          "text": "lipase",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-116",
+      "text": "Which organ produces bile?",
+      "image": null,
+      "options": [
+        {
+          "text": "liver",
+          "image": null
+        },
+        {
+          "text": "pancreas",
+          "image": null
+        },
+        {
+          "text": "stomach",
+          "image": null
+        },
+        {
+          "text": "small intestine",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-117",
+      "text": "Which organ stores bile?",
+      "image": null,
+      "options": [
+        {
+          "text": "gall bladder",
+          "image": null
+        },
+        {
+          "text": "liver",
+          "image": null
+        },
+        {
+          "text": "pancreas",
+          "image": null
+        },
+        {
+          "text": "duodenum",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-118",
+      "text": "Which organ secretes pancreatic juice?",
+      "image": null,
+      "options": [
+        {
+          "text": "pancreas",
+          "image": null
+        },
+        {
+          "text": "liver",
+          "image": null
+        },
+        {
+          "text": "stomach",
+          "image": null
+        },
+        {
+          "text": "large intestine",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-119",
+      "text": "Which enzyme digests proteins in the stomach?",
+      "image": null,
+      "options": [
+        {
+          "text": "pepsin",
+          "image": null
+        },
+        {
+          "text": "lipase",
+          "image": null
+        },
+        {
+          "text": "amylase",
+          "image": null
+        },
+        {
+          "text": "bile",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-120",
+      "text": "Which enzyme digests fats?",
+      "image": null,
+      "options": [
+        {
+          "text": "lipase",
+          "image": null
+        },
+        {
+          "text": "pepsin",
+          "image": null
+        },
+        {
+          "text": "amylase",
+          "image": null
+        },
+        {
+          "text": "trypsin only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-121",
+      "text": "What is the final product of aerobic respiration?",
+      "image": null,
+      "options": [
+        {
+          "text": "carbon dioxide, water and energy",
+          "image": null
+        },
+        {
+          "text": "ethanol and carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "lactic acid only",
+          "image": null
+        },
+        {
+          "text": "glucose and oxygen",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-122",
+      "text": "Which gas is required for aerobic respiration?",
+      "image": null,
+      "options": [
+        {
+          "text": "oxygen",
+          "image": null
+        },
+        {
+          "text": "nitrogen",
+          "image": null
+        },
+        {
+          "text": "carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "hydrogen",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-123",
+      "text": "Which part of blood carries oxygen?",
+      "image": null,
+      "options": [
+        {
+          "text": "haemoglobin in RBCs",
+          "image": null
+        },
+        {
+          "text": "platelets only",
+          "image": null
+        },
+        {
+          "text": "plasma water only",
+          "image": null
+        },
+        {
+          "text": "lymph only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-124",
+      "text": "Which structure prevents backflow of blood in the heart?",
+      "image": null,
+      "options": [
+        {
+          "text": "valves",
+          "image": null
+        },
+        {
+          "text": "alveoli",
+          "image": null
+        },
+        {
+          "text": "villi",
+          "image": null
+        },
+        {
+          "text": "stomata",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-125",
+      "text": "Which vessels allow exchange of materials between blood and tissues?",
+      "image": null,
+      "options": [
+        {
+          "text": "capillaries",
+          "image": null
+        },
+        {
+          "text": "arteries only",
+          "image": null
+        },
+        {
+          "text": "veins only",
+          "image": null
+        },
+        {
+          "text": "lymph ducts only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-126",
+      "text": "Which side of the human heart handles oxygenated blood?",
+      "image": null,
+      "options": [
+        {
+          "text": "left side",
+          "image": null
+        },
+        {
+          "text": "right side",
+          "image": null
+        },
+        {
+          "text": "both sides mixed equally",
+          "image": null
+        },
+        {
+          "text": "neither side",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-127",
+      "text": "Which side of the human heart handles deoxygenated blood?",
+      "image": null,
+      "options": [
+        {
+          "text": "right side",
+          "image": null
+        },
+        {
+          "text": "left side",
+          "image": null
+        },
+        {
+          "text": "both sides only oxygenated",
+          "image": null
+        },
+        {
+          "text": "neither side",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-128",
+      "text": "Which plant transport tissue is mainly dead at maturity?",
+      "image": null,
+      "options": [
+        {
+          "text": "xylem",
+          "image": null
+        },
+        {
+          "text": "phloem",
+          "image": null
+        },
+        {
+          "text": "meristem",
+          "image": null
+        },
+        {
+          "text": "guard cells",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-129",
+      "text": "Which plant transport tissue contains sieve tubes?",
+      "image": null,
+      "options": [
+        {
+          "text": "phloem",
+          "image": null
+        },
+        {
+          "text": "xylem",
+          "image": null
+        },
+        {
+          "text": "epidermis",
+          "image": null
+        },
+        {
+          "text": "cortex",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-130",
+      "text": "Which part of nephron filters blood?",
+      "image": null,
+      "options": [
+        {
+          "text": "glomerulus and Bowman capsule",
+          "image": null
+        },
+        {
+          "text": "alveolus",
+          "image": null
+        },
+        {
+          "text": "villus",
+          "image": null
+        },
+        {
+          "text": "guard cell",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-131",
+      "text": "Selective reabsorption in nephron returns useful substances to:",
+      "image": null,
+      "options": [
+        {
+          "text": "blood",
+          "image": null
+        },
+        {
+          "text": "urine only",
+          "image": null
+        },
+        {
+          "text": "lungs",
+          "image": null
+        },
+        {
+          "text": "stomach",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-132",
+      "text": "Which substance is not normally a major component of urine?",
+      "image": null,
+      "options": [
+        {
+          "text": "glucose",
+          "image": null
+        },
+        {
+          "text": "urea",
+          "image": null
+        },
+        {
+          "text": "water",
+          "image": null
+        },
+        {
+          "text": "salts",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-133",
+      "text": "Assertion: Villi are present in the small intestine. Reason: They increase surface area for absorption. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-134",
+      "text": "Assertion: Alveoli are surrounded by blood capillaries. Reason: This helps efficient exchange of gases. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-135",
+      "text": "Assertion: Xylem transports food from leaves to other parts. Reason: Xylem is the main tissue for translocation. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are false.",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-136",
+      "text": "Assertion: Kidneys help maintain water balance in the body. Reason: Nephrons filter blood and reabsorb useful substances. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-life-processes-137",
+      "text": "Assertion: Fishes cannot survive long outside water. Reason: Their gills are adapted to absorb dissolved oxygen. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    }
+  ]
+}

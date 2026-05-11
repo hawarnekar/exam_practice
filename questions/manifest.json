@@ -1,20 +1,108 @@
 {
   "topics": [
     {
-      "topicId": "math/algebra/polynomials",
-      "subject": "Math",
-      "topic": "Algebra",
-      "subtopic": "Polynomials",
-      "filePath": "questions/math/algebra/polynomials.json",
-      "questionCount": 12
+      "topicId": "science/biology/control-and-coordination",
+      "subject": "Science",
+      "topic": "Biology",
+      "subtopic": "Control and Coordination",
+      "filePath": "questions/science/biology/control-and-coordination.json",
+      "questionCount": 117
     },
     {
-      "topicId": "science/physics/light",
+      "topicId": "science/biology/heredity",
+      "subject": "Science",
+      "topic": "Biology",
+      "subtopic": "Heredity",
+      "filePath": "questions/science/biology/heredity.json",
+      "questionCount": 125
+    },
+    {
+      "topicId": "science/biology/how-do-organisms-reproduce",
+      "subject": "Science",
+      "topic": "Biology",
+      "subtopic": "How do Organisms Reproduce",
+      "filePath": "questions/science/biology/how-do-organisms-reproduce.json",
+      "questionCount": 118
+    },
+    {
+      "topicId": "science/biology/life-processes",
+      "subject": "Science",
+      "topic": "Biology",
+      "subtopic": "Life Processes",
+      "filePath": "questions/science/biology/life-processes.json",
+      "questionCount": 137
+    },
+    {
+      "topicId": "science/biology/our-environment",
+      "subject": "Science",
+      "topic": "Biology",
+      "subtopic": "Our Environment",
+      "filePath": "questions/science/biology/our-environment.json",
+      "questionCount": 130
+    },
+    {
+      "topicId": "science/chemistry/acids-and-bases",
+      "subject": "Science",
+      "topic": "Chemistry",
+      "subtopic": "Acids and Bases",
+      "filePath": "questions/science/chemistry/acids-and-bases.json",
+      "questionCount": 146
+    },
+    {
+      "topicId": "science/chemistry/carbon-and-its-compounds",
+      "subject": "Science",
+      "topic": "Chemistry",
+      "subtopic": "Carbon and Its Compounds",
+      "filePath": "questions/science/chemistry/carbon-and-its-compounds.json",
+      "questionCount": 129
+    },
+    {
+      "topicId": "science/chemistry/chemical-reactions-and-equations",
+      "subject": "Science",
+      "topic": "Chemistry",
+      "subtopic": "Chemical Reactions and Equations",
+      "filePath": "questions/science/chemistry/chemical-reactions-and-equations.json",
+      "questionCount": 168
+    },
+    {
+      "topicId": "science/chemistry/metals-and-non-metals",
+      "subject": "Science",
+      "topic": "Chemistry",
+      "subtopic": "Metals and Non-metals",
+      "filePath": "questions/science/chemistry/metals-and-non-metals.json",
+      "questionCount": 128
+    },
+    {
+      "topicId": "science/physics/electricity",
       "subject": "Science",
       "topic": "Physics",
-      "subtopic": "Light",
-      "filePath": "questions/science/physics/light.json",
-      "questionCount": 11
+      "subtopic": "Electricity",
+      "filePath": "questions/science/physics/electricity.json",
+      "questionCount": 154
+    },
+    {
+      "topicId": "science/physics/light-reflection-and-refraction",
+      "subject": "Science",
+      "topic": "Physics",
+      "subtopic": "Light - Reflection and Refraction",
+      "filePath": "questions/science/physics/light-reflection-and-refraction.json",
+      "questionCount": 127
+    },
+    {
+      "topicId": "science/physics/magnetic-effects-of-electric-current",
+      "subject": "Science",
+      "topic": "Physics",
+      "subtopic": "Magnetic Effects of Electric Current",
+      "filePath": "questions/science/physics/magnetic-effects-of-electric-current.json",
+      "questionCount": 139
+    },
+    {
+      "topicId": "science/physics/the-human-eye-and-the-colourful-world",
+      "subject": "Science",
+      "topic": "Physics",
+      "subtopic": "The Human Eye and the Colourful World",
+      "filePath": "questions/science/physics/the-human-eye-and-the-colourful-world.json",
+      "questionCount": 110
     }
   ]
 }

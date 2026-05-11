@@ -1,0 +1,4095 @@
+{
+  "subject": "Science",
+  "topic": "Chemistry",
+  "subtopic": "Acids and Bases",
+  "questions": [
+    {
+      "id": "sci-acids-bases-001",
+      "text": "Which one of the following is a mineral acid?",
+      "image": null,
+      "options": [
+        {
+          "text": "Lactic acid",
+          "image": null
+        },
+        {
+          "text": "Formic acid",
+          "image": null
+        },
+        {
+          "text": "Tartaric acid",
+          "image": null
+        },
+        {
+          "text": "Hydrochloric acid",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-002",
+      "text": "Which option contains organic acids?",
+      "image": null,
+      "options": [
+        {
+          "text": "Citric acid and lactic acid",
+          "image": null
+        },
+        {
+          "text": "Hydrochloric acid and nitric acid",
+          "image": null
+        },
+        {
+          "text": "Sulphuric acid and hydrochloric acid",
+          "image": null
+        },
+        {
+          "text": "Nitric acid and phosphoric acid",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-003",
+      "text": "Which statement is incorrect for acids?",
+      "image": null,
+      "options": [
+        {
+          "text": "They turn blue litmus red",
+          "image": null
+        },
+        {
+          "text": "Their aqueous solutions conduct electricity",
+          "image": null
+        },
+        {
+          "text": "They react with some metals to form hydrogen",
+          "image": null
+        },
+        {
+          "text": "They always turn red litmus blue",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-004",
+      "text": "Which acid is associated with prevention or treatment of scurvy?",
+      "image": null,
+      "options": [
+        {
+          "text": "Acetic acid",
+          "image": null
+        },
+        {
+          "text": "Hydrochloric acid",
+          "image": null
+        },
+        {
+          "text": "Ascorbic acid",
+          "image": null
+        },
+        {
+          "text": "Nitric acid",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-005",
+      "text": "The acid present in apples is:",
+      "image": null,
+      "options": [
+        {
+          "text": "Oxalic acid",
+          "image": null
+        },
+        {
+          "text": "Malic acid",
+          "image": null
+        },
+        {
+          "text": "Acetic acid",
+          "image": null
+        },
+        {
+          "text": "Formic acid",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-006",
+      "text": "Which of the following is a hydracid?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{H3PO4}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{H2SO4}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{HCN}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{HNO3}$",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-007",
+      "text": "Most metal oxides react with acids to form:",
+      "image": null,
+      "options": [
+        {
+          "text": "a base",
+          "image": null
+        },
+        {
+          "text": "an acid",
+          "image": null
+        },
+        {
+          "text": "a salt",
+          "image": null
+        },
+        {
+          "text": "only hydrogen gas",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-008",
+      "text": "When many metals react with dilute acids, the gas released is:",
+      "image": null,
+      "options": [
+        {
+          "text": "Nitrogen",
+          "image": null
+        },
+        {
+          "text": "Oxygen",
+          "image": null
+        },
+        {
+          "text": "Hydrogen",
+          "image": null
+        },
+        {
+          "text": "Argon",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-009",
+      "text": "When sodium hydrogen carbonate reacts with hydrochloric acid, the products include:",
+      "image": null,
+      "options": [
+        {
+          "text": "sodium chloride",
+          "image": null
+        },
+        {
+          "text": "carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "water",
+          "image": null
+        },
+        {
+          "text": "all of these",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-010",
+      "text": "A strong acid is one that:",
+      "image": null,
+      "options": [
+        {
+          "text": "ionises completely in water",
+          "image": null
+        },
+        {
+          "text": "ionises only partly in water",
+          "image": null
+        },
+        {
+          "text": "does not ionise in water",
+          "image": null
+        },
+        {
+          "text": "is always insoluble in water",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-011",
+      "text": "Which of these is a strong base?",
+      "image": null,
+      "options": [
+        {
+          "text": "Calcium hydroxide",
+          "image": null
+        },
+        {
+          "text": "Magnesium hydroxide",
+          "image": null
+        },
+        {
+          "text": "Ammonium hydroxide",
+          "image": null
+        },
+        {
+          "text": "Potassium hydroxide",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-012",
+      "text": "Which of the following can be used as an antacid?",
+      "image": null,
+      "options": [
+        {
+          "text": "Sodium hydrogen carbonate",
+          "image": null
+        },
+        {
+          "text": "Calcium hydroxide",
+          "image": null
+        },
+        {
+          "text": "Magnesium hydroxide",
+          "image": null
+        },
+        {
+          "text": "All of these",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-013",
+      "text": "The pH of pure water at ordinary conditions is:",
+      "image": null,
+      "options": [
+        {
+          "text": "0",
+          "image": null
+        },
+        {
+          "text": "7",
+          "image": null
+        },
+        {
+          "text": "8",
+          "image": null
+        },
+        {
+          "text": "1",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-014",
+      "text": "A substance with pH 4 is:",
+      "image": null,
+      "options": [
+        {
+          "text": "basic",
+          "image": null
+        },
+        {
+          "text": "acidic",
+          "image": null
+        },
+        {
+          "text": "neutral",
+          "image": null
+        },
+        {
+          "text": "always amphoteric",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-015",
+      "text": "A solution with pH 7 is:",
+      "image": null,
+      "options": [
+        {
+          "text": "basic",
+          "image": null
+        },
+        {
+          "text": "acidic",
+          "image": null
+        },
+        {
+          "text": "neutral",
+          "image": null
+        },
+        {
+          "text": "strongly alkaline",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-016",
+      "text": "Which reaction shows a salt reacting with a base?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{NaOH + HCl -> NaCl + H2O}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Cu(OH)2 + H2SO4 -> CuSO4 + 2H2O}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{KOH + HCl -> KCl + H2O}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{6NH4OH + Al2(SO4)3 -> 2Al(OH)3 + 3(NH4)2SO4}$",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-017",
+      "text": "Blue vitriol, used as a fungicide, is commonly:",
+      "image": null,
+      "options": [
+        {
+          "text": "potassium nitrate",
+          "image": null
+        },
+        {
+          "text": "copper sulphate",
+          "image": null
+        },
+        {
+          "text": "sodium carbonate",
+          "image": null
+        },
+        {
+          "text": "sodium chloride",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-018",
+      "text": "When calcium hydroxide reacts with carbon dioxide, the products include:",
+      "image": null,
+      "options": [
+        {
+          "text": "hydrogen gas only",
+          "image": null
+        },
+        {
+          "text": "water only",
+          "image": null
+        },
+        {
+          "text": "a salt only",
+          "image": null
+        },
+        {
+          "text": "a salt and water",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-019",
+      "text": "When an acid is mixed with water, which processes occur?",
+      "image": null,
+      "options": [
+        {
+          "text": "Only neutralisation",
+          "image": null
+        },
+        {
+          "text": "Dilution and ionisation",
+          "image": null
+        },
+        {
+          "text": "Only precipitation",
+          "image": null
+        },
+        {
+          "text": "Only crystallisation",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-020",
+      "text": "Which one is a weak base?",
+      "image": null,
+      "options": [
+        {
+          "text": "Sodium hydroxide",
+          "image": null
+        },
+        {
+          "text": "Potassium hydroxide",
+          "image": null
+        },
+        {
+          "text": "Ammonium hydroxide",
+          "image": null
+        },
+        {
+          "text": "All of these",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-021",
+      "text": "The acid used in cola drinks to give a sharp taste is:",
+      "image": null,
+      "options": [
+        {
+          "text": "Sulphuric acid",
+          "image": null
+        },
+        {
+          "text": "Tartaric acid",
+          "image": null
+        },
+        {
+          "text": "Phosphoric acid",
+          "image": null
+        },
+        {
+          "text": "Citric acid",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-022",
+      "text": "The usual pH scale ranges from:",
+      "image": null,
+      "options": [
+        {
+          "text": "7 to 10",
+          "image": null
+        },
+        {
+          "text": "0 to 10",
+          "image": null
+        },
+        {
+          "text": "0 to 14",
+          "image": null
+        },
+        {
+          "text": "7 to 14",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-023",
+      "text": "Milkiness of lime water disappears on passing excess $\\ce{CO2}$ because of formation of:",
+      "image": null,
+      "options": [
+        {
+          "text": "calcium carbonate",
+          "image": null
+        },
+        {
+          "text": "calcium hydrogen carbonate",
+          "image": null
+        },
+        {
+          "text": "calcium oxide",
+          "image": null
+        },
+        {
+          "text": "calcium hydroxide",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-024",
+      "text": "When acids dissolve in water, they release:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{H+}$ or $\\ce{H3O+}$ ions",
+          "image": null
+        },
+        {
+          "text": "$\\ce{H-}$ ions",
+          "image": null
+        },
+        {
+          "text": "$\\ce{O^{2-}}$ ions only",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Na+}$ ions only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-025",
+      "text": "Which element is always present in Arrhenius acids?",
+      "image": null,
+      "options": [
+        {
+          "text": "Oxygen",
+          "image": null
+        },
+        {
+          "text": "Nitrogen",
+          "image": null
+        },
+        {
+          "text": "Hydrogen",
+          "image": null
+        },
+        {
+          "text": "Chlorine",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-026",
+      "text": "The pH of a neutral solution is:",
+      "image": null,
+      "options": [
+        {
+          "text": "14",
+          "image": null
+        },
+        {
+          "text": "7",
+          "image": null
+        },
+        {
+          "text": "10",
+          "image": null
+        },
+        {
+          "text": "12",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-027",
+      "text": "Which acids among these are commonly edible acids?",
+      "image": null,
+      "options": [
+        {
+          "text": "Citric acid and tartaric acid",
+          "image": null
+        },
+        {
+          "text": "Hydrochloric acid only",
+          "image": null
+        },
+        {
+          "text": "Nitric acid only",
+          "image": null
+        },
+        {
+          "text": "Sulphuric acid only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-028",
+      "text": "Butyric acid is found in:",
+      "image": null,
+      "options": [
+        {
+          "text": "rancid butter",
+          "image": null
+        },
+        {
+          "text": "rancid cake",
+          "image": null
+        },
+        {
+          "text": "bee stings",
+          "image": null
+        },
+        {
+          "text": "all of these",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-029",
+      "text": "An indicator is generally a:",
+      "image": null,
+      "options": [
+        {
+          "text": "strong acid only",
+          "image": null
+        },
+        {
+          "text": "reducing agent",
+          "image": null
+        },
+        {
+          "text": "weak acid or weak base",
+          "image": null
+        },
+        {
+          "text": "complex salt only",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-030",
+      "text": "What happens when an acid solution is mixed with a base solution in a test tube?",
+      "image": null,
+      "options": [
+        {
+          "text": "Temperature decreases and no salt forms",
+          "image": null
+        },
+        {
+          "text": "Temperature increases and salt forms",
+          "image": null
+        },
+        {
+          "text": "Temperature remains same and no salt forms",
+          "image": null
+        },
+        {
+          "text": "Only gas forms",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-031",
+      "text": "During preparation of hydrogen chloride gas on a humid day, calcium chloride in the guard tube is used to:",
+      "image": null,
+      "options": [
+        {
+          "text": "absorb the evolved gas",
+          "image": null
+        },
+        {
+          "text": "moisten the gas",
+          "image": null
+        },
+        {
+          "text": "absorb moisture from the gas",
+          "image": null
+        },
+        {
+          "text": "absorb chloride ions",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-032",
+      "text": "Which salt does not contain water of crystallisation?",
+      "image": null,
+      "options": [
+        {
+          "text": "Blue vitriol",
+          "image": null
+        },
+        {
+          "text": "Baking soda",
+          "image": null
+        },
+        {
+          "text": "Washing soda",
+          "image": null
+        },
+        {
+          "text": "Gypsum",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-033",
+      "text": "Which order shows increasing acidic strength?",
+      "image": null,
+      "options": [
+        {
+          "text": "Water < acetic acid < hydrochloric acid",
+          "image": null
+        },
+        {
+          "text": "Water < hydrochloric acid < acetic acid",
+          "image": null
+        },
+        {
+          "text": "Acetic acid < water < hydrochloric acid",
+          "image": null
+        },
+        {
+          "text": "Hydrochloric acid < water < acetic acid",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-034",
+      "text": "What is formed when zinc reacts with sodium hydroxide?",
+      "image": null,
+      "options": [
+        {
+          "text": "Zinc hydroxide and sodium",
+          "image": null
+        },
+        {
+          "text": "Sodium zincate and hydrogen gas",
+          "image": null
+        },
+        {
+          "text": "Sodium zinc oxide and water only",
+          "image": null
+        },
+        {
+          "text": "Sodium zincate and water only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-035",
+      "text": "Tomato is a natural source of which acid?",
+      "image": null,
+      "options": [
+        {
+          "text": "Acetic acid",
+          "image": null
+        },
+        {
+          "text": "Citric acid",
+          "image": null
+        },
+        {
+          "text": "Tartaric acid",
+          "image": null
+        },
+        {
+          "text": "Oxalic acid",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-036",
+      "text": "Brine is:",
+      "image": null,
+      "options": [
+        {
+          "text": "aqueous sodium hydroxide",
+          "image": null
+        },
+        {
+          "text": "aqueous sodium carbonate",
+          "image": null
+        },
+        {
+          "text": "aqueous sodium chloride",
+          "image": null
+        },
+        {
+          "text": "aqueous sodium hydrogen carbonate",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-037",
+      "text": "$\\ce{Na2CO3 . 10H2O}$ is commonly known as:",
+      "image": null,
+      "options": [
+        {
+          "text": "washing soda",
+          "image": null
+        },
+        {
+          "text": "baking soda",
+          "image": null
+        },
+        {
+          "text": "bleaching powder",
+          "image": null
+        },
+        {
+          "text": "tartaric acid",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-038",
+      "text": "Gypsum is heated to about what temperature to form Plaster of Paris?",
+      "image": null,
+      "options": [
+        {
+          "text": "$90^\\circ$C",
+          "image": null
+        },
+        {
+          "text": "$100^\\circ$C",
+          "image": null
+        },
+        {
+          "text": "$110^\\circ$C",
+          "image": null
+        },
+        {
+          "text": "$120^\\circ$C",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-039",
+      "text": "Hydrated calcium sulphate contains how many water molecules per formula unit?",
+      "image": null,
+      "options": [
+        {
+          "text": "5",
+          "image": null
+        },
+        {
+          "text": "10",
+          "image": null
+        },
+        {
+          "text": "7",
+          "image": null
+        },
+        {
+          "text": "2",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-040",
+      "text": "Sodium carbonate is a basic salt because it is formed from:",
+      "image": null,
+      "options": [
+        {
+          "text": "strong acid and strong base",
+          "image": null
+        },
+        {
+          "text": "weak acid and weak base",
+          "image": null
+        },
+        {
+          "text": "strong acid and weak base",
+          "image": null
+        },
+        {
+          "text": "weak acid and strong base",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-041",
+      "text": "Alkalis are:",
+      "image": null,
+      "options": [
+        {
+          "text": "water-soluble acids",
+          "image": null
+        },
+        {
+          "text": "water-insoluble acids",
+          "image": null
+        },
+        {
+          "text": "water-insoluble bases",
+          "image": null
+        },
+        {
+          "text": "water-soluble bases",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-042",
+      "text": "Which statement is correct for acid/base pH?",
+      "image": null,
+      "options": [
+        {
+          "text": "Higher pH means stronger acid",
+          "image": null
+        },
+        {
+          "text": "Higher pH means weaker acid",
+          "image": null
+        },
+        {
+          "text": "Lower pH means stronger base",
+          "image": null
+        },
+        {
+          "text": "Lower pH means weaker acid",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-043",
+      "text": "Acids turn litmus solution from:",
+      "image": null,
+      "options": [
+        {
+          "text": "red to blue",
+          "image": null
+        },
+        {
+          "text": "blue to red",
+          "image": null
+        },
+        {
+          "text": "colourless to pink",
+          "image": null
+        },
+        {
+          "text": "yellow to orange",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-044",
+      "text": "A basic solution has pH:",
+      "image": null,
+      "options": [
+        {
+          "text": "less than 7",
+          "image": null
+        },
+        {
+          "text": "equal to 7",
+          "image": null
+        },
+        {
+          "text": "greater than 7",
+          "image": null
+        },
+        {
+          "text": "always 0",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-045",
+      "text": "The fixed number of water molecules chemically attached to a salt crystal is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "brine",
+          "image": null
+        },
+        {
+          "text": "water of crystallisation",
+          "image": null
+        },
+        {
+          "text": "neutralisation",
+          "image": null
+        },
+        {
+          "text": "dilution",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-046",
+      "text": "One raw material used for making baking soda is:",
+      "image": null,
+      "options": [
+        {
+          "text": "sodium chloride",
+          "image": null
+        },
+        {
+          "text": "calcium carbonate",
+          "image": null
+        },
+        {
+          "text": "copper sulphate",
+          "image": null
+        },
+        {
+          "text": "magnesium sulphate",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-047",
+      "text": "A salt of a strong acid and a weak base is generally:",
+      "image": null,
+      "options": [
+        {
+          "text": "basic, pH more than 7",
+          "image": null
+        },
+        {
+          "text": "acidic, pH less than 7",
+          "image": null
+        },
+        {
+          "text": "neutral, pH 7",
+          "image": null
+        },
+        {
+          "text": "always insoluble",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-048",
+      "text": "Applying a mild base to a bee-stung area gives relief. One such mild base is:",
+      "image": null,
+      "options": [
+        {
+          "text": "baking soda",
+          "image": null
+        },
+        {
+          "text": "vinegar",
+          "image": null
+        },
+        {
+          "text": "lemon juice",
+          "image": null
+        },
+        {
+          "text": "hydrochloric acid",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-049",
+      "text": "During indigestion, the stomach produces excess:",
+      "image": null,
+      "options": [
+        {
+          "text": "hydrochloric acid",
+          "image": null
+        },
+        {
+          "text": "sodium chloride",
+          "image": null
+        },
+        {
+          "text": "calcium carbonate",
+          "image": null
+        },
+        {
+          "text": "ammonia",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-050",
+      "text": "Among $\\ce{HCl}$, $\\ce{H2SO4}$ and $\\ce{CH3COOH}$, the weak acid is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{HCl}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{H2SO4}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CH3COOH}$",
+          "image": null
+        },
+        {
+          "text": "none of these",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-051",
+      "text": "The chemical formula of baking soda is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{MgSO4}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Na2CO3}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{NaHCO3}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{MgCO3}$",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-052",
+      "text": "Plaster of Paris is made from:",
+      "image": null,
+      "options": [
+        {
+          "text": "limestone",
+          "image": null
+        },
+        {
+          "text": "slaked lime",
+          "image": null
+        },
+        {
+          "text": "quick lime",
+          "image": null
+        },
+        {
+          "text": "gypsum",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-053",
+      "text": "Setting of Plaster of Paris takes place due to:",
+      "image": null,
+      "options": [
+        {
+          "text": "oxidation",
+          "image": null
+        },
+        {
+          "text": "reduction",
+          "image": null
+        },
+        {
+          "text": "dehydration",
+          "image": null
+        },
+        {
+          "text": "hydration",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-054",
+      "text": "The odour of acetic acid resembles:",
+      "image": null,
+      "options": [
+        {
+          "text": "rose",
+          "image": null
+        },
+        {
+          "text": "burning plastic",
+          "image": null
+        },
+        {
+          "text": "vinegar",
+          "image": null
+        },
+        {
+          "text": "kerosene",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-055",
+      "text": "A solution with pH 0 is:",
+      "image": null,
+      "options": [
+        {
+          "text": "acidic",
+          "image": null
+        },
+        {
+          "text": "alkaline",
+          "image": null
+        },
+        {
+          "text": "neutral",
+          "image": null
+        },
+        {
+          "text": "amphoteric",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-056",
+      "text": "If the $\\ce{H+}$ ion concentration of a solution is $1.0 \\times 10^{-5}$ M, the solution is:",
+      "image": null,
+      "options": [
+        {
+          "text": "acidic",
+          "image": null
+        },
+        {
+          "text": "alkaline",
+          "image": null
+        },
+        {
+          "text": "neutral",
+          "image": null
+        },
+        {
+          "text": "amphoteric",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-057",
+      "text": "A liquid sample turns pH paper blue. The sample is likely to be:",
+      "image": null,
+      "options": [
+        {
+          "text": "lemon juice",
+          "image": null
+        },
+        {
+          "text": "hydrochloric acid",
+          "image": null
+        },
+        {
+          "text": "sodium hydrogen carbonate solution",
+          "image": null
+        },
+        {
+          "text": "ethanoic acid",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-058",
+      "text": "Nettle sting is a natural source of which acid?",
+      "image": null,
+      "options": [
+        {
+          "text": "methanoic acid",
+          "image": null
+        },
+        {
+          "text": "lactic acid",
+          "image": null
+        },
+        {
+          "text": "citric acid",
+          "image": null
+        },
+        {
+          "text": "tartaric acid",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-059",
+      "text": "The usual pH range of the human body is approximately:",
+      "image": null,
+      "options": [
+        {
+          "text": "7.0-7.8",
+          "image": null
+        },
+        {
+          "text": "7.2-8.0",
+          "image": null
+        },
+        {
+          "text": "7.0-8.4",
+          "image": null
+        },
+        {
+          "text": "7.2-8.4",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-060",
+      "text": "If the pH of a solution is 13, it is:",
+      "image": null,
+      "options": [
+        {
+          "text": "weakly acidic",
+          "image": null
+        },
+        {
+          "text": "weakly basic",
+          "image": null
+        },
+        {
+          "text": "strongly acidic",
+          "image": null
+        },
+        {
+          "text": "strongly basic",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-061",
+      "text": "Tooth enamel is mainly made up of:",
+      "image": null,
+      "options": [
+        {
+          "text": "calcium phosphate",
+          "image": null
+        },
+        {
+          "text": "calcium carbonate",
+          "image": null
+        },
+        {
+          "text": "calcium oxide",
+          "image": null
+        },
+        {
+          "text": "potassium",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-062",
+      "text": "When copper oxide reacts with dilute hydrochloric acid, the colour of the solution becomes:",
+      "image": null,
+      "options": [
+        {
+          "text": "white",
+          "image": null
+        },
+        {
+          "text": "bluish-green",
+          "image": null
+        },
+        {
+          "text": "blue-black",
+          "image": null
+        },
+        {
+          "text": "black",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-063",
+      "text": "Rain is called acid rain when its pH falls below:",
+      "image": null,
+      "options": [
+        {
+          "text": "7",
+          "image": null
+        },
+        {
+          "text": "6",
+          "image": null
+        },
+        {
+          "text": "5.6",
+          "image": null
+        },
+        {
+          "text": "8",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-064",
+      "text": "A solution reacts with crushed egg shells to give a gas that turns lime water milky. The solution contains:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{NaCl}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{HCl}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{LiCl}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{KCl}$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-065",
+      "text": "Sodium hydroxide is a:",
+      "image": null,
+      "options": [
+        {
+          "text": "weak base",
+          "image": null
+        },
+        {
+          "text": "weak acid",
+          "image": null
+        },
+        {
+          "text": "strong base",
+          "image": null
+        },
+        {
+          "text": "strong acid",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-066",
+      "text": "Sodium hydroxide is used in the manufacture of:",
+      "image": null,
+      "options": [
+        {
+          "text": "antacids only",
+          "image": null
+        },
+        {
+          "text": "soap",
+          "image": null
+        },
+        {
+          "text": "acid rain",
+          "image": null
+        },
+        {
+          "text": "gypsum",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-067",
+      "text": "Sodium hydroxide turns phenolphthalein solution:",
+      "image": null,
+      "options": [
+        {
+          "text": "pink",
+          "image": null
+        },
+        {
+          "text": "yellow",
+          "image": null
+        },
+        {
+          "text": "colourless",
+          "image": null
+        },
+        {
+          "text": "orange",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-068",
+      "text": "An aqueous solution turns red litmus blue. Excess addition of which solution would reverse this change?",
+      "image": null,
+      "options": [
+        {
+          "text": "Baking powder",
+          "image": null
+        },
+        {
+          "text": "Lime water",
+          "image": null
+        },
+        {
+          "text": "Ammonium hydroxide solution",
+          "image": null
+        },
+        {
+          "text": "Hydrochloric acid",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-069",
+      "text": "Which type of medicine is used to treat indigestion?",
+      "image": null,
+      "options": [
+        {
+          "text": "Antibiotic",
+          "image": null
+        },
+        {
+          "text": "Analgesic",
+          "image": null
+        },
+        {
+          "text": "Antacid",
+          "image": null
+        },
+        {
+          "text": "Antiseptic",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-070",
+      "text": "If 10 mL NaOH is neutralised by 8 mL HCl, then 20 mL of the same NaOH needs how much HCl?",
+      "image": null,
+      "options": [
+        {
+          "text": "4 mL",
+          "image": null
+        },
+        {
+          "text": "8 mL",
+          "image": null
+        },
+        {
+          "text": "12 mL",
+          "image": null
+        },
+        {
+          "text": "16 mL",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-071",
+      "text": "Which salt among these is not acidic?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{CuSO4}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{NH4Cl}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{FeCl3}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CH3COONa}$",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-072",
+      "text": "Egg shell is mainly made up of:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{CaCO3}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CaO}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Ca(OH)2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CaCl2}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-073",
+      "text": "A soil solution turns pH paper yellowish-orange. Which substance can make it greenish-blue?",
+      "image": null,
+      "options": [
+        {
+          "text": "Lemon juice",
+          "image": null
+        },
+        {
+          "text": "Vinegar",
+          "image": null
+        },
+        {
+          "text": "Common salt",
+          "image": null
+        },
+        {
+          "text": "An antacid",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-074",
+      "text": "Calcium phosphate in tooth enamel is:",
+      "image": null,
+      "options": [
+        {
+          "text": "basic",
+          "image": null
+        },
+        {
+          "text": "acidic",
+          "image": null
+        },
+        {
+          "text": "neutral",
+          "image": null
+        },
+        {
+          "text": "amphoteric",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-075",
+      "text": "A solution containing a larger amount of acid in less water is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "dilute",
+          "image": null
+        },
+        {
+          "text": "concentrated",
+          "image": null
+        },
+        {
+          "text": "monobasic",
+          "image": null
+        },
+        {
+          "text": "polybasic",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-076",
+      "text": "Which of the following is a weak acid?",
+      "image": null,
+      "options": [
+        {
+          "text": "sulphuric acid",
+          "image": null
+        },
+        {
+          "text": "hydrochloric acid",
+          "image": null
+        },
+        {
+          "text": "acetic acid",
+          "image": null
+        },
+        {
+          "text": "nitric acid",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-077",
+      "text": "Which compound is washing soda?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{Na2CO3 . 10H2O}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{NaHCO3}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{NaOH}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CaSO4 . 2H2O}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-078",
+      "text": "Which compound is bleaching powder?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{CaOCl2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{NaHCO3}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Na2CO3 . 10H2O}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CaSO4 . 1/2H2O}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-079",
+      "text": "The chemical name of baking soda is:",
+      "image": null,
+      "options": [
+        {
+          "text": "sodium carbonate",
+          "image": null
+        },
+        {
+          "text": "sodium hydrogen carbonate",
+          "image": null
+        },
+        {
+          "text": "calcium oxychloride",
+          "image": null
+        },
+        {
+          "text": "calcium sulphate hemihydrate",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-080",
+      "text": "The chemical name of washing soda is:",
+      "image": null,
+      "options": [
+        {
+          "text": "sodium carbonate decahydrate",
+          "image": null
+        },
+        {
+          "text": "sodium hydrogen carbonate",
+          "image": null
+        },
+        {
+          "text": "calcium oxychloride",
+          "image": null
+        },
+        {
+          "text": "magnesium hydroxide",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-081",
+      "text": "The chemical name of bleaching powder is:",
+      "image": null,
+      "options": [
+        {
+          "text": "sodium carbonate",
+          "image": null
+        },
+        {
+          "text": "calcium oxychloride",
+          "image": null
+        },
+        {
+          "text": "sodium hydrogen carbonate",
+          "image": null
+        },
+        {
+          "text": "calcium sulphate",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-082",
+      "text": "The chemical formula of Plaster of Paris is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{CaSO4 . 2H2O}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CaSO4 . 1/2H2O}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Na2CO3 . 10H2O}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CaOCl2}$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-083",
+      "text": "Which gas is liberated when acids react with metal carbonates?",
+      "image": null,
+      "options": [
+        {
+          "text": "Hydrogen",
+          "image": null
+        },
+        {
+          "text": "Oxygen",
+          "image": null
+        },
+        {
+          "text": "Carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "Nitrogen",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-084",
+      "text": "Which gas is liberated when acids react with metal hydrogen carbonates?",
+      "image": null,
+      "options": [
+        {
+          "text": "Carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "Hydrogen",
+          "image": null
+        },
+        {
+          "text": "Oxygen",
+          "image": null
+        },
+        {
+          "text": "Chlorine",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-085",
+      "text": "Which gas is liberated when acids react with active metals?",
+      "image": null,
+      "options": [
+        {
+          "text": "Carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "Hydrogen",
+          "image": null
+        },
+        {
+          "text": "Oxygen",
+          "image": null
+        },
+        {
+          "text": "Ammonia",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-086",
+      "text": "A gas evolved by acid-carbonate reaction turns lime water:",
+      "image": null,
+      "options": [
+        {
+          "text": "milky",
+          "image": null
+        },
+        {
+          "text": "pink",
+          "image": null
+        },
+        {
+          "text": "blue",
+          "image": null
+        },
+        {
+          "text": "black",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-087",
+      "text": "Neutralisation is a reaction between:",
+      "image": null,
+      "options": [
+        {
+          "text": "acid and metal",
+          "image": null
+        },
+        {
+          "text": "acid and base",
+          "image": null
+        },
+        {
+          "text": "base and metal carbonate",
+          "image": null
+        },
+        {
+          "text": "salt and water only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-088",
+      "text": "Products of a neutralisation reaction are usually:",
+      "image": null,
+      "options": [
+        {
+          "text": "salt and water",
+          "image": null
+        },
+        {
+          "text": "acid and hydrogen",
+          "image": null
+        },
+        {
+          "text": "base and oxygen",
+          "image": null
+        },
+        {
+          "text": "carbon dioxide and hydrogen",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-089",
+      "text": "The solution formed when $\\ce{CO2}$ dissolves in water is:",
+      "image": null,
+      "options": [
+        {
+          "text": "basic",
+          "image": null
+        },
+        {
+          "text": "acidic",
+          "image": null
+        },
+        {
+          "text": "neutral",
+          "image": null
+        },
+        {
+          "text": "metallic",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-090",
+      "text": "Which natural indicator is obtained from lichens?",
+      "image": null,
+      "options": [
+        {
+          "text": "Litmus",
+          "image": null
+        },
+        {
+          "text": "Phenolphthalein",
+          "image": null
+        },
+        {
+          "text": "Methyl orange",
+          "image": null
+        },
+        {
+          "text": "Turmeric",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-091",
+      "text": "Turmeric stain turns reddish-brown in contact with:",
+      "image": null,
+      "options": [
+        {
+          "text": "acid",
+          "image": null
+        },
+        {
+          "text": "base",
+          "image": null
+        },
+        {
+          "text": "neutral salt",
+          "image": null
+        },
+        {
+          "text": "distilled water",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-092",
+      "text": "Phenolphthalein is colourless in:",
+      "image": null,
+      "options": [
+        {
+          "text": "acidic solution",
+          "image": null
+        },
+        {
+          "text": "basic solution",
+          "image": null
+        },
+        {
+          "text": "strong alkali only",
+          "image": null
+        },
+        {
+          "text": "soap solution only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-093",
+      "text": "Phenolphthalein turns pink in:",
+      "image": null,
+      "options": [
+        {
+          "text": "acidic solution",
+          "image": null
+        },
+        {
+          "text": "basic solution",
+          "image": null
+        },
+        {
+          "text": "distilled water only",
+          "image": null
+        },
+        {
+          "text": "carbonated drink",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-094",
+      "text": "Methyl orange is red in:",
+      "image": null,
+      "options": [
+        {
+          "text": "acidic solution",
+          "image": null
+        },
+        {
+          "text": "basic solution",
+          "image": null
+        },
+        {
+          "text": "neutral solution only",
+          "image": null
+        },
+        {
+          "text": "salt solution only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-095",
+      "text": "Methyl orange is yellow in:",
+      "image": null,
+      "options": [
+        {
+          "text": "acidic medium",
+          "image": null
+        },
+        {
+          "text": "basic medium",
+          "image": null
+        },
+        {
+          "text": "strong acid only",
+          "image": null
+        },
+        {
+          "text": "distilled water only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-096",
+      "text": "Litmus turns blue in:",
+      "image": null,
+      "options": [
+        {
+          "text": "acidic solution",
+          "image": null
+        },
+        {
+          "text": "basic solution",
+          "image": null
+        },
+        {
+          "text": "neutral solution only",
+          "image": null
+        },
+        {
+          "text": "salt crystals only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-097",
+      "text": "Litmus turns red in:",
+      "image": null,
+      "options": [
+        {
+          "text": "basic solution",
+          "image": null
+        },
+        {
+          "text": "acidic solution",
+          "image": null
+        },
+        {
+          "text": "neutral solution",
+          "image": null
+        },
+        {
+          "text": "sugar solution only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-098",
+      "text": "Dry $\\ce{HCl}$ gas does not change dry litmus because:",
+      "image": null,
+      "options": [
+        {
+          "text": "it has no hydrogen atoms",
+          "image": null
+        },
+        {
+          "text": "it needs water to produce ions",
+          "image": null
+        },
+        {
+          "text": "litmus reacts only with salts",
+          "image": null
+        },
+        {
+          "text": "dry gas is basic",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-099",
+      "text": "Moistened ammonia gas changes red litmus to:",
+      "image": null,
+      "options": [
+        {
+          "text": "blue",
+          "image": null
+        },
+        {
+          "text": "red",
+          "image": null
+        },
+        {
+          "text": "green",
+          "image": null
+        },
+        {
+          "text": "colourless",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-100",
+      "text": "Lemon juice changes blue litmus to:",
+      "image": null,
+      "options": [
+        {
+          "text": "red",
+          "image": null
+        },
+        {
+          "text": "blue",
+          "image": null
+        },
+        {
+          "text": "green",
+          "image": null
+        },
+        {
+          "text": "pink",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-101",
+      "text": "Soap solution changes red litmus to:",
+      "image": null,
+      "options": [
+        {
+          "text": "blue",
+          "image": null
+        },
+        {
+          "text": "red",
+          "image": null
+        },
+        {
+          "text": "yellow",
+          "image": null
+        },
+        {
+          "text": "black",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-102",
+      "text": "The acid present in ant sting is:",
+      "image": null,
+      "options": [
+        {
+          "text": "ethanoic acid",
+          "image": null
+        },
+        {
+          "text": "methanoic acid",
+          "image": null
+        },
+        {
+          "text": "citric acid",
+          "image": null
+        },
+        {
+          "text": "tartaric acid",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-103",
+      "text": "The formula of methanoic acid is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{HCOOH}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CH3COOH}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{C2H5OH}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{HCl}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-104",
+      "text": "Nitric acid reacts with egg shell because egg shell contains:",
+      "image": null,
+      "options": [
+        {
+          "text": "calcium carbonate",
+          "image": null
+        },
+        {
+          "text": "sodium chloride",
+          "image": null
+        },
+        {
+          "text": "sodium hydroxide",
+          "image": null
+        },
+        {
+          "text": "calcium sulphate",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-105",
+      "text": "Aqueous solutions of acids conduct electricity because they contain:",
+      "image": null,
+      "options": [
+        {
+          "text": "free ions",
+          "image": null
+        },
+        {
+          "text": "only neutral molecules",
+          "image": null
+        },
+        {
+          "text": "only electrons without ions",
+          "image": null
+        },
+        {
+          "text": "solid crystals",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-106",
+      "text": "Aqueous solutions of bases conduct electricity because they contain:",
+      "image": null,
+      "options": [
+        {
+          "text": "free ions",
+          "image": null
+        },
+        {
+          "text": "only neutral molecules",
+          "image": null
+        },
+        {
+          "text": "only oxygen gas",
+          "image": null
+        },
+        {
+          "text": "only water molecules",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-107",
+      "text": "Acids show acidic properties only in the presence of:",
+      "image": null,
+      "options": [
+        {
+          "text": "water",
+          "image": null
+        },
+        {
+          "text": "kerosene",
+          "image": null
+        },
+        {
+          "text": "dry air only",
+          "image": null
+        },
+        {
+          "text": "sugar",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-108",
+      "text": "The ion responsible for basic nature in aqueous bases is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{H+}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{OH-}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Cl-}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Na+}$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-109",
+      "text": "The ion commonly responsible for acidic nature in aqueous solution is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{H+}$ or $\\ce{H3O+}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{OH-}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Na+}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Cl-}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-110",
+      "text": "Dilution of acid with water is:",
+      "image": null,
+      "options": [
+        {
+          "text": "highly exothermic",
+          "image": null
+        },
+        {
+          "text": "always endothermic",
+          "image": null
+        },
+        {
+          "text": "a precipitation reaction",
+          "image": null
+        },
+        {
+          "text": "a sublimation process",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-111",
+      "text": "When diluting an acid, the acid should be added:",
+      "image": null,
+      "options": [
+        {
+          "text": "slowly to water with stirring",
+          "image": null
+        },
+        {
+          "text": "water to concentrated acid all at once",
+          "image": null
+        },
+        {
+          "text": "to dry salt only",
+          "image": null
+        },
+        {
+          "text": "to oil first",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-112",
+      "text": "A lower pH value means:",
+      "image": null,
+      "options": [
+        {
+          "text": "more basic solution",
+          "image": null
+        },
+        {
+          "text": "more acidic solution",
+          "image": null
+        },
+        {
+          "text": "neutral solution only",
+          "image": null
+        },
+        {
+          "text": "no ions in solution",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-113",
+      "text": "A solution with $[\\ce{H+}] = 1 \\times 10^{-3}$ M has pH:",
+      "image": null,
+      "options": [
+        {
+          "text": "3",
+          "image": null
+        },
+        {
+          "text": "7",
+          "image": null
+        },
+        {
+          "text": "11",
+          "image": null
+        },
+        {
+          "text": "9",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-114",
+      "text": "A solution with $[\\ce{H+}] = 1 \\times 10^{-10}$ M has pH:",
+      "image": null,
+      "options": [
+        {
+          "text": "4",
+          "image": null
+        },
+        {
+          "text": "10",
+          "image": null
+        },
+        {
+          "text": "7",
+          "image": null
+        },
+        {
+          "text": "1",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-115",
+      "text": "A solution with $[\\ce{H+}] = 1 \\times 10^{-7}$ M has pH:",
+      "image": null,
+      "options": [
+        {
+          "text": "1",
+          "image": null
+        },
+        {
+          "text": "7",
+          "image": null
+        },
+        {
+          "text": "14",
+          "image": null
+        },
+        {
+          "text": "0",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-116",
+      "text": "Which of these is a strong acid?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{HClO4}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CH3COOH}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{H2SO3}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{HNO2}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-117",
+      "text": "Which of these is a weak acid?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{HCl}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{HNO3}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{HF}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{H2SO4}$",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-118",
+      "text": "Which of these is a neutral salt?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{NaCl}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{NH4Cl}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CaCl2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{FeCl3}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-119",
+      "text": "Among the following formulae, which substance is classified as a strong base?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{NH3}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{NaOH}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CH3COOH}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{HCl}$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-120",
+      "text": "Which of these is a weak base?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{NaOH}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{KOH}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{NH3}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Ca(OH)2}$",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-121",
+      "text": "Match acids with sources: citric acid, acetic acid, nitric acid, tartaric acid.",
+      "image": null,
+      "options": [
+        {
+          "text": "Lemon, vinegar, mineral acid, tamarind",
+          "image": null
+        },
+        {
+          "text": "Tamarind, lemon, vinegar, mineral acid",
+          "image": null
+        },
+        {
+          "text": "Vinegar, mineral acid, tamarind, lemon",
+          "image": null
+        },
+        {
+          "text": "Mineral acid, tamarind, lemon, vinegar",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-122",
+      "text": "Match substances with common names/sources: sodium hydroxide, potassium hydroxide, calcium hydroxide, lactic acid.",
+      "image": null,
+      "options": [
+        {
+          "text": "Caustic soda, caustic potash, antacid, curd",
+          "image": null
+        },
+        {
+          "text": "Antacid, curd, caustic soda, caustic potash",
+          "image": null
+        },
+        {
+          "text": "Curd, caustic soda, caustic potash, antacid",
+          "image": null
+        },
+        {
+          "text": "Caustic potash, antacid, curd, caustic soda",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-123",
+      "text": "Match oxide/salt nature correctly.",
+      "image": null,
+      "options": [
+        {
+          "text": "Metal oxides - basic; non-metal oxides - acidic",
+          "image": null
+        },
+        {
+          "text": "Metal oxides - acidic; non-metal oxides - basic",
+          "image": null
+        },
+        {
+          "text": "Salts - hydroxyl ions; neutral bases - acidic",
+          "image": null
+        },
+        {
+          "text": "Metal oxides - neutral; non-metal oxides - neutral",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-124",
+      "text": "Which option correctly matches a substance with its common name or source: acetic acid?",
+      "image": null,
+      "options": [
+        {
+          "text": "Hydrochloric acid - vinegar",
+          "image": null
+        },
+        {
+          "text": "Acetic acid - vinegar",
+          "image": null
+        },
+        {
+          "text": "Citric acid - curd",
+          "image": null
+        },
+        {
+          "text": "Lactic acid - lemon",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-125",
+      "text": "Which option correctly matches a substance with its source: lactic acid?",
+      "image": null,
+      "options": [
+        {
+          "text": "Lactic acid - curd",
+          "image": null
+        },
+        {
+          "text": "Tartaric acid - lemon",
+          "image": null
+        },
+        {
+          "text": "Nitric acid - vinegar",
+          "image": null
+        },
+        {
+          "text": "Citric acid - tamarind",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-126",
+      "text": "Which option correctly matches a substance with its source: citric acid?",
+      "image": null,
+      "options": [
+        {
+          "text": "Citric acid - lemon",
+          "image": null
+        },
+        {
+          "text": "Acetic acid - tamarind",
+          "image": null
+        },
+        {
+          "text": "Tartaric acid - vinegar",
+          "image": null
+        },
+        {
+          "text": "Nitric acid - curd",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-127",
+      "text": "Which of the following is caustic soda?",
+      "image": null,
+      "options": [
+        {
+          "text": "Sodium hydroxide",
+          "image": null
+        },
+        {
+          "text": "Potassium hydroxide",
+          "image": null
+        },
+        {
+          "text": "Calcium hydroxide",
+          "image": null
+        },
+        {
+          "text": "Ammonium hydroxide",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-128",
+      "text": "Which of the following is caustic potash?",
+      "image": null,
+      "options": [
+        {
+          "text": "Sodium hydroxide",
+          "image": null
+        },
+        {
+          "text": "Potassium hydroxide",
+          "image": null
+        },
+        {
+          "text": "Calcium hydroxide",
+          "image": null
+        },
+        {
+          "text": "Magnesium hydroxide",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-129",
+      "text": "A base that dissolves in water is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "acid",
+          "image": null
+        },
+        {
+          "text": "alkali",
+          "image": null
+        },
+        {
+          "text": "indicator",
+          "image": null
+        },
+        {
+          "text": "salt only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-130",
+      "text": "Which of these is not an alkali?",
+      "image": null,
+      "options": [
+        {
+          "text": "Sodium hydroxide",
+          "image": null
+        },
+        {
+          "text": "Potassium hydroxide",
+          "image": null
+        },
+        {
+          "text": "Ammonium hydroxide",
+          "image": null
+        },
+        {
+          "text": "Copper hydroxide",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-131",
+      "text": "Which substance can neutralise excess stomach acid?",
+      "image": null,
+      "options": [
+        {
+          "text": "Antacid",
+          "image": null
+        },
+        {
+          "text": "Antibiotic",
+          "image": null
+        },
+        {
+          "text": "Indicator",
+          "image": null
+        },
+        {
+          "text": "Bleaching powder",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-132",
+      "text": "Milk of magnesia is used as:",
+      "image": null,
+      "options": [
+        {
+          "text": "antacid",
+          "image": null
+        },
+        {
+          "text": "strong acid",
+          "image": null
+        },
+        {
+          "text": "fertiliser only",
+          "image": null
+        },
+        {
+          "text": "indicator",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-133",
+      "text": "Bleaching powder is prepared by passing chlorine over:",
+      "image": null,
+      "options": [
+        {
+          "text": "dry slaked lime",
+          "image": null
+        },
+        {
+          "text": "wet sodium chloride",
+          "image": null
+        },
+        {
+          "text": "dry gypsum",
+          "image": null
+        },
+        {
+          "text": "baking soda",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-134",
+      "text": "Baking powder contains baking soda and a mild edible acid such as:",
+      "image": null,
+      "options": [
+        {
+          "text": "tartaric acid",
+          "image": null
+        },
+        {
+          "text": "hydrochloric acid",
+          "image": null
+        },
+        {
+          "text": "nitric acid",
+          "image": null
+        },
+        {
+          "text": "sulphuric acid",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-135",
+      "text": "Use of baking soda in an antacid depends on its:",
+      "image": null,
+      "options": [
+        {
+          "text": "basic nature",
+          "image": null
+        },
+        {
+          "text": "strong acidic nature",
+          "image": null
+        },
+        {
+          "text": "oxidising nature only",
+          "image": null
+        },
+        {
+          "text": "water of crystallisation",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-136",
+      "text": "Washing soda is used for:",
+      "image": null,
+      "options": [
+        {
+          "text": "softening hard water",
+          "image": null
+        },
+        {
+          "text": "making acid rain",
+          "image": null
+        },
+        {
+          "text": "making vinegar only",
+          "image": null
+        },
+        {
+          "text": "drying HCl gas only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-137",
+      "text": "Plaster of Paris hardens by:",
+      "image": null,
+      "options": [
+        {
+          "text": "combining with water",
+          "image": null
+        },
+        {
+          "text": "giving off carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "decomposing into sodium carbonate",
+          "image": null
+        },
+        {
+          "text": "absorbing chlorine gas",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-138",
+      "text": "Universal indicator gives green colour with:",
+      "image": null,
+      "options": [
+        {
+          "text": "distilled water",
+          "image": null
+        },
+        {
+          "text": "hydrochloric acid",
+          "image": null
+        },
+        {
+          "text": "sodium hydroxide",
+          "image": null
+        },
+        {
+          "text": "lemon juice",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-139",
+      "text": "Assertion: Universal indicator gives green colour with distilled water. Reason: Distilled water is neutral with pH 7. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-140",
+      "text": "Assertion: Ammonium hydroxide is a weak base. Reason: Phenolphthalein becomes pink in ammonium hydroxide solution. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-141",
+      "text": "Assertion: Bleaching powder liberates chlorine when exposed to atmosphere. Reason: It reacts with carbon dioxide in air to form calcium carbonate and chlorine. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-142",
+      "text": "Acid rain can damage:",
+      "image": null,
+      "options": [
+        {
+          "text": "marble buildings",
+          "image": null
+        },
+        {
+          "text": "metal structures",
+          "image": null
+        },
+        {
+          "text": "aquatic life",
+          "image": null
+        },
+        {
+          "text": "all of these",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-143",
+      "text": "Marble is damaged by acids because it contains:",
+      "image": null,
+      "options": [
+        {
+          "text": "calcium carbonate",
+          "image": null
+        },
+        {
+          "text": "sodium chloride",
+          "image": null
+        },
+        {
+          "text": "calcium hydroxide only",
+          "image": null
+        },
+        {
+          "text": "potassium nitrate",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-144",
+      "text": "The reaction of acid with marble releases:",
+      "image": null,
+      "options": [
+        {
+          "text": "carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "hydrogen",
+          "image": null
+        },
+        {
+          "text": "oxygen",
+          "image": null
+        },
+        {
+          "text": "nitrogen",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-145",
+      "text": "Which pH is closest to a strongly acidic solution?",
+      "image": null,
+      "options": [
+        {
+          "text": "1",
+          "image": null
+        },
+        {
+          "text": "7",
+          "image": null
+        },
+        {
+          "text": "10",
+          "image": null
+        },
+        {
+          "text": "14",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-acids-bases-146",
+      "text": "Which pH is closest to a strongly basic solution?",
+      "image": null,
+      "options": [
+        {
+          "text": "1",
+          "image": null
+        },
+        {
+          "text": "6",
+          "image": null
+        },
+        {
+          "text": "7",
+          "image": null
+        },
+        {
+          "text": "14",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    }
+  ]
+}

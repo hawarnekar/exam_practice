@@ -1,0 +1,3507 @@
+{
+  "subject": "Science",
+  "topic": "Biology",
+  "subtopic": "Heredity",
+  "questions": [
+    {
+      "id": "sci-heredity-001",
+      "text": "The transmission of characters from parents to offspring is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "variation",
+          "image": null
+        },
+        {
+          "text": "heredity",
+          "image": null
+        },
+        {
+          "text": "evolution",
+          "image": null
+        },
+        {
+          "text": "speciation",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-002",
+      "text": "A small segment of DNA that controls a character is called a:",
+      "image": null,
+      "options": [
+        {
+          "text": "gene",
+          "image": null
+        },
+        {
+          "text": "chromatid",
+          "image": null
+        },
+        {
+          "text": "protein",
+          "image": null
+        },
+        {
+          "text": "gamete",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-003",
+      "text": "The expanded form of DNA is:",
+      "image": null,
+      "options": [
+        {
+          "text": "Deoxyribonucleic acid",
+          "image": null
+        },
+        {
+          "text": "Dioxynitric acid",
+          "image": null
+        },
+        {
+          "text": "Deoxyribose nitrogen acid",
+          "image": null
+        },
+        {
+          "text": "Dinucleic acid",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-004",
+      "text": "Characters that pass from parents to offspring are called:",
+      "image": null,
+      "options": [
+        {
+          "text": "acquired traits",
+          "image": null
+        },
+        {
+          "text": "inherited traits",
+          "image": null
+        },
+        {
+          "text": "environmental traits only",
+          "image": null
+        },
+        {
+          "text": "temporary traits",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-005",
+      "text": "Differences among individuals of the same species are called:",
+      "image": null,
+      "options": [
+        {
+          "text": "variations",
+          "image": null
+        },
+        {
+          "text": "clones only",
+          "image": null
+        },
+        {
+          "text": "fossils",
+          "image": null
+        },
+        {
+          "text": "classification",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-006",
+      "text": "Variation is important in a population because it:",
+      "image": null,
+      "options": [
+        {
+          "text": "helps survival in changing conditions",
+          "image": null
+        },
+        {
+          "text": "makes all organisms identical",
+          "image": null
+        },
+        {
+          "text": "prevents inheritance",
+          "image": null
+        },
+        {
+          "text": "stops reproduction",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-007",
+      "text": "More variation is usually produced during:",
+      "image": null,
+      "options": [
+        {
+          "text": "asexual reproduction",
+          "image": null
+        },
+        {
+          "text": "sexual reproduction",
+          "image": null
+        },
+        {
+          "text": "binary fission only",
+          "image": null
+        },
+        {
+          "text": "budding only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-008",
+      "text": "Asexually reproducing organisms show fewer variations because:",
+      "image": null,
+      "options": [
+        {
+          "text": "only one parent is involved",
+          "image": null
+        },
+        {
+          "text": "two parents are involved",
+          "image": null
+        },
+        {
+          "text": "gametes always fuse",
+          "image": null
+        },
+        {
+          "text": "fertilisation always occurs",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-009",
+      "text": "The genetic material is located mainly in the:",
+      "image": null,
+      "options": [
+        {
+          "text": "nucleus",
+          "image": null
+        },
+        {
+          "text": "cell wall",
+          "image": null
+        },
+        {
+          "text": "vacuole",
+          "image": null
+        },
+        {
+          "text": "ribosome only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-010",
+      "text": "DNA carries information for making:",
+      "image": null,
+      "options": [
+        {
+          "text": "proteins",
+          "image": null
+        },
+        {
+          "text": "water only",
+          "image": null
+        },
+        {
+          "text": "minerals only",
+          "image": null
+        },
+        {
+          "text": "starch only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-011",
+      "text": "A change in DNA copying may lead to:",
+      "image": null,
+      "options": [
+        {
+          "text": "variation",
+          "image": null
+        },
+        {
+          "text": "no inheritance ever",
+          "image": null
+        },
+        {
+          "text": "absence of cells",
+          "image": null
+        },
+        {
+          "text": "loss of all traits",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-012",
+      "text": "Mendel performed his inheritance experiments on:",
+      "image": null,
+      "options": [
+        {
+          "text": "garden pea plant",
+          "image": null
+        },
+        {
+          "text": "Drosophila",
+          "image": null
+        },
+        {
+          "text": "maize only",
+          "image": null
+        },
+        {
+          "text": "mustard only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-013",
+      "text": "The scientific name of the garden pea plant used by Mendel is:",
+      "image": null,
+      "options": [
+        {
+          "text": "Pisum sativum",
+          "image": null
+        },
+        {
+          "text": "Mangifera indica",
+          "image": null
+        },
+        {
+          "text": "Oryza sativa",
+          "image": null
+        },
+        {
+          "text": "Homo sapiens",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-014",
+      "text": "Mendel is known as the father of:",
+      "image": null,
+      "options": [
+        {
+          "text": "genetics",
+          "image": null
+        },
+        {
+          "text": "taxonomy",
+          "image": null
+        },
+        {
+          "text": "ecology",
+          "image": null
+        },
+        {
+          "text": "microbiology",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-015",
+      "text": "Mendel selected pea plants because they:",
+      "image": null,
+      "options": [
+        {
+          "text": "show contrasting traits and are easy to cultivate",
+          "image": null
+        },
+        {
+          "text": "have no flowers",
+          "image": null
+        },
+        {
+          "text": "never self-pollinate",
+          "image": null
+        },
+        {
+          "text": "reproduce only asexually",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-016",
+      "text": "A trait that expresses itself in the F1 generation is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "dominant trait",
+          "image": null
+        },
+        {
+          "text": "recessive trait",
+          "image": null
+        },
+        {
+          "text": "acquired trait",
+          "image": null
+        },
+        {
+          "text": "sex chromosome",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-017",
+      "text": "A trait that remains hidden in the F1 generation but reappears in F2 is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "recessive trait",
+          "image": null
+        },
+        {
+          "text": "dominant trait",
+          "image": null
+        },
+        {
+          "text": "acquired trait",
+          "image": null
+        },
+        {
+          "text": "environmental trait",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-018",
+      "text": "In pea plants, tallness is:",
+      "image": null,
+      "options": [
+        {
+          "text": "dominant over dwarfness",
+          "image": null
+        },
+        {
+          "text": "recessive to dwarfness",
+          "image": null
+        },
+        {
+          "text": "an acquired trait",
+          "image": null
+        },
+        {
+          "text": "not inherited",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-019",
+      "text": "In pea plants, dwarfness is:",
+      "image": null,
+      "options": [
+        {
+          "text": "dominant",
+          "image": null
+        },
+        {
+          "text": "recessive",
+          "image": null
+        },
+        {
+          "text": "sex-linked only",
+          "image": null
+        },
+        {
+          "text": "acquired",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-020",
+      "text": "A cross between pure tall pea plant (TT) and pure dwarf pea plant (tt) gives F1 plants that are:",
+      "image": null,
+      "options": [
+        {
+          "text": "all tall",
+          "image": null
+        },
+        {
+          "text": "all dwarf",
+          "image": null
+        },
+        {
+          "text": "half tall and half dwarf",
+          "image": null
+        },
+        {
+          "text": "all medium height",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-021",
+      "text": "A cross between TT and tt produces offspring with genotype:",
+      "image": null,
+      "options": [
+        {
+          "text": "TT only",
+          "image": null
+        },
+        {
+          "text": "Tt only",
+          "image": null
+        },
+        {
+          "text": "tt only",
+          "image": null
+        },
+        {
+          "text": "TT and tt only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-022",
+      "text": "The genotype Tt is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "homozygous dominant",
+          "image": null
+        },
+        {
+          "text": "heterozygous",
+          "image": null
+        },
+        {
+          "text": "homozygous recessive",
+          "image": null
+        },
+        {
+          "text": "hemizygous",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-023",
+      "text": "The genotype TT is:",
+      "image": null,
+      "options": [
+        {
+          "text": "homozygous dominant",
+          "image": null
+        },
+        {
+          "text": "heterozygous",
+          "image": null
+        },
+        {
+          "text": "homozygous recessive",
+          "image": null
+        },
+        {
+          "text": "hybrid recessive",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-024",
+      "text": "Which description correctly applies to a pea plant carrying two recessive height alleles (tt)?",
+      "image": null,
+      "options": [
+        {
+          "text": "homozygous recessive",
+          "image": null
+        },
+        {
+          "text": "heterozygous",
+          "image": null
+        },
+        {
+          "text": "homozygous dominant",
+          "image": null
+        },
+        {
+          "text": "hybrid dominant",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-025",
+      "text": "The outward visible expression of a trait is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "phenotype",
+          "image": null
+        },
+        {
+          "text": "genotype",
+          "image": null
+        },
+        {
+          "text": "allele",
+          "image": null
+        },
+        {
+          "text": "chromosome number",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-026",
+      "text": "The genetic constitution of an organism is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "genotype",
+          "image": null
+        },
+        {
+          "text": "phenotype",
+          "image": null
+        },
+        {
+          "text": "habitat",
+          "image": null
+        },
+        {
+          "text": "population",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-027",
+      "text": "In a monohybrid cross Tt x Tt, the phenotypic ratio is:",
+      "image": null,
+      "options": [
+        {
+          "text": "1:1",
+          "image": null
+        },
+        {
+          "text": "2:1",
+          "image": null
+        },
+        {
+          "text": "3:1",
+          "image": null
+        },
+        {
+          "text": "9:3:3:1",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-028",
+      "text": "In a monohybrid cross Tt x Tt, the probability of TT offspring is:",
+      "image": null,
+      "options": [
+        {
+          "text": "25%",
+          "image": null
+        },
+        {
+          "text": "50%",
+          "image": null
+        },
+        {
+          "text": "75%",
+          "image": null
+        },
+        {
+          "text": "100%",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-029",
+      "text": "In a monohybrid cross Tt x Tt, the probability of heterozygous offspring is:",
+      "image": null,
+      "options": [
+        {
+          "text": "25%",
+          "image": null
+        },
+        {
+          "text": "50%",
+          "image": null
+        },
+        {
+          "text": "75%",
+          "image": null
+        },
+        {
+          "text": "100%",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-030",
+      "text": "In a monohybrid cross Tt x Tt, the genotypic ratio is:",
+      "image": null,
+      "options": [
+        {
+          "text": "3:1",
+          "image": null
+        },
+        {
+          "text": "1:2:1",
+          "image": null
+        },
+        {
+          "text": "9:3:3:1",
+          "image": null
+        },
+        {
+          "text": "1:1",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-031",
+      "text": "The law of segregation states that:",
+      "image": null,
+      "options": [
+        {
+          "text": "allele pairs separate during gamete formation",
+          "image": null
+        },
+        {
+          "text": "all traits blend permanently",
+          "image": null
+        },
+        {
+          "text": "all genes remain together always",
+          "image": null
+        },
+        {
+          "text": "only dominant traits enter gametes",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-032",
+      "text": "A plant with genotype Tt forms gametes:",
+      "image": null,
+      "options": [
+        {
+          "text": "T only",
+          "image": null
+        },
+        {
+          "text": "t only",
+          "image": null
+        },
+        {
+          "text": "T and t",
+          "image": null
+        },
+        {
+          "text": "TT only",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-033",
+      "text": "A pure breeding tall pea plant has genotype:",
+      "image": null,
+      "options": [
+        {
+          "text": "TT",
+          "image": null
+        },
+        {
+          "text": "Tt",
+          "image": null
+        },
+        {
+          "text": "tt",
+          "image": null
+        },
+        {
+          "text": "T only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-034",
+      "text": "A pure breeding dwarf pea plant has genotype:",
+      "image": null,
+      "options": [
+        {
+          "text": "TT",
+          "image": null
+        },
+        {
+          "text": "Tt",
+          "image": null
+        },
+        {
+          "text": "tt",
+          "image": null
+        },
+        {
+          "text": "tT",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-035",
+      "text": "If a tall plant has genotype Tt, the allele t is:",
+      "image": null,
+      "options": [
+        {
+          "text": "dominant",
+          "image": null
+        },
+        {
+          "text": "recessive",
+          "image": null
+        },
+        {
+          "text": "not inherited",
+          "image": null
+        },
+        {
+          "text": "environmental",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-036",
+      "text": "A cross involving one pair of contrasting characters is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "monohybrid cross",
+          "image": null
+        },
+        {
+          "text": "dihybrid cross",
+          "image": null
+        },
+        {
+          "text": "test cross only",
+          "image": null
+        },
+        {
+          "text": "pedigree analysis",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-037",
+      "text": "A cross involving two pairs of contrasting characters is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "dihybrid cross",
+          "image": null
+        },
+        {
+          "text": "monohybrid cross",
+          "image": null
+        },
+        {
+          "text": "asexual cross",
+          "image": null
+        },
+        {
+          "text": "vegetative cross",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-038",
+      "text": "The classical phenotypic ratio in a Mendelian dihybrid cross is:",
+      "image": null,
+      "options": [
+        {
+          "text": "3:1",
+          "image": null
+        },
+        {
+          "text": "1:2:1",
+          "image": null
+        },
+        {
+          "text": "9:3:3:1",
+          "image": null
+        },
+        {
+          "text": "1:1:1:1",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-039",
+      "text": "A dihybrid cross ratio of 9:3:3:1 demonstrates:",
+      "image": null,
+      "options": [
+        {
+          "text": "independent assortment",
+          "image": null
+        },
+        {
+          "text": "only dominance",
+          "image": null
+        },
+        {
+          "text": "only acquired inheritance",
+          "image": null
+        },
+        {
+          "text": "only sex determination",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-040",
+      "text": "The law of independent assortment applies to:",
+      "image": null,
+      "options": [
+        {
+          "text": "inheritance of two or more traits",
+          "image": null
+        },
+        {
+          "text": "only one trait",
+          "image": null
+        },
+        {
+          "text": "only acquired traits",
+          "image": null
+        },
+        {
+          "text": "only environmental characters",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-041",
+      "text": "In Mendel experiments, round seed shape is dominant over:",
+      "image": null,
+      "options": [
+        {
+          "text": "wrinkled seed shape",
+          "image": null
+        },
+        {
+          "text": "yellow seed colour",
+          "image": null
+        },
+        {
+          "text": "tallness",
+          "image": null
+        },
+        {
+          "text": "green pod colour",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-042",
+      "text": "In pea plants, yellow seed colour is dominant over:",
+      "image": null,
+      "options": [
+        {
+          "text": "green seed colour",
+          "image": null
+        },
+        {
+          "text": "round seed shape",
+          "image": null
+        },
+        {
+          "text": "violet flower colour",
+          "image": null
+        },
+        {
+          "text": "dwarfness",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-043",
+      "text": "If round yellow pea seeds are crossed with wrinkled green seeds and all F1 are round yellow, then round and yellow are:",
+      "image": null,
+      "options": [
+        {
+          "text": "dominant traits",
+          "image": null
+        },
+        {
+          "text": "recessive traits",
+          "image": null
+        },
+        {
+          "text": "acquired traits",
+          "image": null
+        },
+        {
+          "text": "sex-linked traits",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-044",
+      "text": "A Mendelian cross produced all violet flowers, but about half of the progeny were short. This suggests the tall parent was:",
+      "image": null,
+      "options": [
+        {
+          "text": "TTWW",
+          "image": null
+        },
+        {
+          "text": "TTww",
+          "image": null
+        },
+        {
+          "text": "TtWW",
+          "image": null
+        },
+        {
+          "text": "TtWw",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-045",
+      "text": "Two pink flowers crossed to give one red, two pink and one white offspring. This indicates:",
+      "image": null,
+      "options": [
+        {
+          "text": "incomplete dominance",
+          "image": null
+        },
+        {
+          "text": "complete dominance only",
+          "image": null
+        },
+        {
+          "text": "no inheritance",
+          "image": null
+        },
+        {
+          "text": "asexual reproduction",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-046",
+      "text": "When neither allele completely dominates the other, the condition is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "incomplete dominance",
+          "image": null
+        },
+        {
+          "text": "segregation only",
+          "image": null
+        },
+        {
+          "text": "mutation only",
+          "image": null
+        },
+        {
+          "text": "speciation",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-047",
+      "text": "A dominant allele masks the expression of:",
+      "image": null,
+      "options": [
+        {
+          "text": "recessive allele in a heterozygote",
+          "image": null
+        },
+        {
+          "text": "all chromosomes",
+          "image": null
+        },
+        {
+          "text": "all proteins",
+          "image": null
+        },
+        {
+          "text": "environment",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-048",
+      "text": "The alternative forms of a gene are called:",
+      "image": null,
+      "options": [
+        {
+          "text": "alleles",
+          "image": null
+        },
+        {
+          "text": "chromatids",
+          "image": null
+        },
+        {
+          "text": "organs",
+          "image": null
+        },
+        {
+          "text": "gametes only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-049",
+      "text": "A pair of alleles controlling a character is located on:",
+      "image": null,
+      "options": [
+        {
+          "text": "homologous chromosomes",
+          "image": null
+        },
+        {
+          "text": "ribosomes",
+          "image": null
+        },
+        {
+          "text": "cell wall",
+          "image": null
+        },
+        {
+          "text": "vacuoles",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-050",
+      "text": "Chromosomes are made up mainly of:",
+      "image": null,
+      "options": [
+        {
+          "text": "DNA and proteins",
+          "image": null
+        },
+        {
+          "text": "only starch",
+          "image": null
+        },
+        {
+          "text": "only fats",
+          "image": null
+        },
+        {
+          "text": "cellulose only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-051",
+      "text": "Humans have how many pairs of chromosomes in body cells?",
+      "image": null,
+      "options": [
+        {
+          "text": "22 pairs",
+          "image": null
+        },
+        {
+          "text": "23 pairs",
+          "image": null
+        },
+        {
+          "text": "24 pairs",
+          "image": null
+        },
+        {
+          "text": "46 pairs",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-052",
+      "text": "Human body cells contain how many chromosomes?",
+      "image": null,
+      "options": [
+        {
+          "text": "23",
+          "image": null
+        },
+        {
+          "text": "44",
+          "image": null
+        },
+        {
+          "text": "46",
+          "image": null
+        },
+        {
+          "text": "92",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-053",
+      "text": "Human gametes contain how many chromosomes?",
+      "image": null,
+      "options": [
+        {
+          "text": "23",
+          "image": null
+        },
+        {
+          "text": "46",
+          "image": null
+        },
+        {
+          "text": "69",
+          "image": null
+        },
+        {
+          "text": "92",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-054",
+      "text": "The number of sex chromosome pairs in a human zygote is:",
+      "image": null,
+      "options": [
+        {
+          "text": "1",
+          "image": null
+        },
+        {
+          "text": "2",
+          "image": null
+        },
+        {
+          "text": "3",
+          "image": null
+        },
+        {
+          "text": "4",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-055",
+      "text": "In human females, the sex chromosomes are:",
+      "image": null,
+      "options": [
+        {
+          "text": "XX",
+          "image": null
+        },
+        {
+          "text": "XY",
+          "image": null
+        },
+        {
+          "text": "YY",
+          "image": null
+        },
+        {
+          "text": "XO only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-056",
+      "text": "In human males, the sex chromosomes are:",
+      "image": null,
+      "options": [
+        {
+          "text": "XX",
+          "image": null
+        },
+        {
+          "text": "XY",
+          "image": null
+        },
+        {
+          "text": "YY",
+          "image": null
+        },
+        {
+          "text": "XXX",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-057",
+      "text": "A child receiving an X chromosome from the father will develop as:",
+      "image": null,
+      "options": [
+        {
+          "text": "girl",
+          "image": null
+        },
+        {
+          "text": "boy",
+          "image": null
+        },
+        {
+          "text": "either boy or girl",
+          "image": null
+        },
+        {
+          "text": "cannot develop",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-058",
+      "text": "A child receiving a Y chromosome from the father will develop as:",
+      "image": null,
+      "options": [
+        {
+          "text": "boy",
+          "image": null
+        },
+        {
+          "text": "girl",
+          "image": null
+        },
+        {
+          "text": "either boy or girl",
+          "image": null
+        },
+        {
+          "text": "neither boy nor girl",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-059",
+      "text": "The sex of a human child is determined by:",
+      "image": null,
+      "options": [
+        {
+          "text": "chromosome contributed by father",
+          "image": null
+        },
+        {
+          "text": "chromosome contributed by mother only",
+          "image": null
+        },
+        {
+          "text": "mother diet only",
+          "image": null
+        },
+        {
+          "text": "temperature only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-060",
+      "text": "Mother does not determine the sex of the child because she contributes:",
+      "image": null,
+      "options": [
+        {
+          "text": "only X chromosome",
+          "image": null
+        },
+        {
+          "text": "only Y chromosome",
+          "image": null
+        },
+        {
+          "text": "either X or Y equally",
+          "image": null
+        },
+        {
+          "text": "no chromosome",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-061",
+      "text": "Father can determine sex of child because his gametes carry:",
+      "image": null,
+      "options": [
+        {
+          "text": "either X or Y chromosome",
+          "image": null
+        },
+        {
+          "text": "only X chromosome",
+          "image": null
+        },
+        {
+          "text": "only autosomes",
+          "image": null
+        },
+        {
+          "text": "no sex chromosome",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-062",
+      "text": "The probability of a human child being male is approximately:",
+      "image": null,
+      "options": [
+        {
+          "text": "25%",
+          "image": null
+        },
+        {
+          "text": "50%",
+          "image": null
+        },
+        {
+          "text": "75%",
+          "image": null
+        },
+        {
+          "text": "100%",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-063",
+      "text": "The probability of a human child being female is approximately:",
+      "image": null,
+      "options": [
+        {
+          "text": "25%",
+          "image": null
+        },
+        {
+          "text": "50%",
+          "image": null
+        },
+        {
+          "text": "75%",
+          "image": null
+        },
+        {
+          "text": "100%",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-064",
+      "text": "A zygote with XX sex chromosomes becomes:",
+      "image": null,
+      "options": [
+        {
+          "text": "female",
+          "image": null
+        },
+        {
+          "text": "male",
+          "image": null
+        },
+        {
+          "text": "both male and female",
+          "image": null
+        },
+        {
+          "text": "neither",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-065",
+      "text": "A zygote with XY sex chromosomes becomes:",
+      "image": null,
+      "options": [
+        {
+          "text": "male",
+          "image": null
+        },
+        {
+          "text": "female",
+          "image": null
+        },
+        {
+          "text": "both male and female",
+          "image": null
+        },
+        {
+          "text": "neither",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-066",
+      "text": "An inherited trait is one that:",
+      "image": null,
+      "options": [
+        {
+          "text": "passes from parents to offspring through genes",
+          "image": null
+        },
+        {
+          "text": "develops only because of practice",
+          "image": null
+        },
+        {
+          "text": "is never coded by DNA",
+          "image": null
+        },
+        {
+          "text": "is always lost before birth",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-067",
+      "text": "An acquired trait is one that:",
+      "image": null,
+      "options": [
+        {
+          "text": "develops during lifetime due to environment or use",
+          "image": null
+        },
+        {
+          "text": "is inherited through gametes",
+          "image": null
+        },
+        {
+          "text": "is always present in DNA of gametes",
+          "image": null
+        },
+        {
+          "text": "always passes to offspring",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-068",
+      "text": "Which of these is an acquired trait?",
+      "image": null,
+      "options": [
+        {
+          "text": "a scar on skin",
+          "image": null
+        },
+        {
+          "text": "eye colour",
+          "image": null
+        },
+        {
+          "text": "blood group",
+          "image": null
+        },
+        {
+          "text": "natural hair colour",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-069",
+      "text": "Which of these is an inherited trait?",
+      "image": null,
+      "options": [
+        {
+          "text": "blood group",
+          "image": null
+        },
+        {
+          "text": "pierced ear",
+          "image": null
+        },
+        {
+          "text": "learned swimming skill",
+          "image": null
+        },
+        {
+          "text": "cut hair length",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-070",
+      "text": "Acquired traits are generally not inherited because:",
+      "image": null,
+      "options": [
+        {
+          "text": "they do not usually change DNA of germ cells",
+          "image": null
+        },
+        {
+          "text": "they always dominate genes",
+          "image": null
+        },
+        {
+          "text": "they are always fatal",
+          "image": null
+        },
+        {
+          "text": "they are controlled by Y chromosome only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-071",
+      "text": "Loss of tail in a mouse due to cutting is:",
+      "image": null,
+      "options": [
+        {
+          "text": "acquired trait",
+          "image": null
+        },
+        {
+          "text": "inherited trait",
+          "image": null
+        },
+        {
+          "text": "dominant trait",
+          "image": null
+        },
+        {
+          "text": "recessive trait",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-072",
+      "text": "If tails of mice are cut for several generations, their offspring are born:",
+      "image": null,
+      "options": [
+        {
+          "text": "with tails",
+          "image": null
+        },
+        {
+          "text": "without tails always",
+          "image": null
+        },
+        {
+          "text": "as plants",
+          "image": null
+        },
+        {
+          "text": "with wings",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-073",
+      "text": "The inheritance of traits is controlled by:",
+      "image": null,
+      "options": [
+        {
+          "text": "genes",
+          "image": null
+        },
+        {
+          "text": "food habits only",
+          "image": null
+        },
+        {
+          "text": "exercise only",
+          "image": null
+        },
+        {
+          "text": "climate only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-074",
+      "text": "Traits are expressed through:",
+      "image": null,
+      "options": [
+        {
+          "text": "proteins made under gene control",
+          "image": null
+        },
+        {
+          "text": "water only",
+          "image": null
+        },
+        {
+          "text": "minerals only",
+          "image": null
+        },
+        {
+          "text": "oxygen only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-075",
+      "text": "A protein that affects plant height may influence:",
+      "image": null,
+      "options": [
+        {
+          "text": "hormone synthesis and growth",
+          "image": null
+        },
+        {
+          "text": "only leaf colour",
+          "image": null
+        },
+        {
+          "text": "only flower smell",
+          "image": null
+        },
+        {
+          "text": "only seed dispersal",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-076",
+      "text": "Dominant and recessive traits were first explained clearly by:",
+      "image": null,
+      "options": [
+        {
+          "text": "Mendel",
+          "image": null
+        },
+        {
+          "text": "Darwin",
+          "image": null
+        },
+        {
+          "text": "Lamarck",
+          "image": null
+        },
+        {
+          "text": "Weismann",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-077",
+      "text": "Mendel chose contrasting traits such as:",
+      "image": null,
+      "options": [
+        {
+          "text": "tall and dwarf",
+          "image": null
+        },
+        {
+          "text": "young and old",
+          "image": null
+        },
+        {
+          "text": "hot and cold",
+          "image": null
+        },
+        {
+          "text": "wet and dry",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-078",
+      "text": "A trait controlled by a recessive allele appears in phenotype when:",
+      "image": null,
+      "options": [
+        {
+          "text": "both alleles are recessive",
+          "image": null
+        },
+        {
+          "text": "one dominant allele is present",
+          "image": null
+        },
+        {
+          "text": "no allele is present",
+          "image": null
+        },
+        {
+          "text": "environment is absent",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-079",
+      "text": "If phenotype is recessive for height in pea plant, genotype is:",
+      "image": null,
+      "options": [
+        {
+          "text": "tt",
+          "image": null
+        },
+        {
+          "text": "Tt",
+          "image": null
+        },
+        {
+          "text": "TT",
+          "image": null
+        },
+        {
+          "text": "T only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-080",
+      "text": "If a pea plant is tall, its genotype may be:",
+      "image": null,
+      "options": [
+        {
+          "text": "TT or Tt",
+          "image": null
+        },
+        {
+          "text": "tt only",
+          "image": null
+        },
+        {
+          "text": "T only",
+          "image": null
+        },
+        {
+          "text": "no gene",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-081",
+      "text": "A test cross is usually performed to find:",
+      "image": null,
+      "options": [
+        {
+          "text": "unknown genotype of dominant phenotype",
+          "image": null
+        },
+        {
+          "text": "plant age only",
+          "image": null
+        },
+        {
+          "text": "soil type only",
+          "image": null
+        },
+        {
+          "text": "flower smell only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-082",
+      "text": "The F1 generation is produced by crossing:",
+      "image": null,
+      "options": [
+        {
+          "text": "parental generation organisms",
+          "image": null
+        },
+        {
+          "text": "F2 organisms only",
+          "image": null
+        },
+        {
+          "text": "gametes without parents",
+          "image": null
+        },
+        {
+          "text": "only recessive offspring",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-083",
+      "text": "The F2 generation is obtained by:",
+      "image": null,
+      "options": [
+        {
+          "text": "selfing or crossing F1 individuals",
+          "image": null
+        },
+        {
+          "text": "crossing only grandparents",
+          "image": null
+        },
+        {
+          "text": "cloning parents only",
+          "image": null
+        },
+        {
+          "text": "removing all gametes",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-084",
+      "text": "The allele expressed in a heterozygous condition is:",
+      "image": null,
+      "options": [
+        {
+          "text": "dominant allele",
+          "image": null
+        },
+        {
+          "text": "recessive allele",
+          "image": null
+        },
+        {
+          "text": "silent allele only",
+          "image": null
+        },
+        {
+          "text": "chromatid",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-085",
+      "text": "A recessive allele in a heterozygote is:",
+      "image": null,
+      "options": [
+        {
+          "text": "present but not expressed in phenotype",
+          "image": null
+        },
+        {
+          "text": "absent from DNA",
+          "image": null
+        },
+        {
+          "text": "converted into protein directly",
+          "image": null
+        },
+        {
+          "text": "always lethal",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-086",
+      "text": "A clone is a group of organisms that are:",
+      "image": null,
+      "options": [
+        {
+          "text": "genetically identical",
+          "image": null
+        },
+        {
+          "text": "always sexually produced",
+          "image": null
+        },
+        {
+          "text": "always unrelated",
+          "image": null
+        },
+        {
+          "text": "different species",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-087",
+      "text": "Which reproduction type produces clones more commonly?",
+      "image": null,
+      "options": [
+        {
+          "text": "asexual reproduction",
+          "image": null
+        },
+        {
+          "text": "sexual reproduction",
+          "image": null
+        },
+        {
+          "text": "external fertilisation",
+          "image": null
+        },
+        {
+          "text": "cross pollination only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-088",
+      "text": "The term heredity is linked most directly with:",
+      "image": null,
+      "options": [
+        {
+          "text": "transfer of traits across generations",
+          "image": null
+        },
+        {
+          "text": "breakdown of food",
+          "image": null
+        },
+        {
+          "text": "transport of oxygen only",
+          "image": null
+        },
+        {
+          "text": "excretion of urea",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-089",
+      "text": "Which pair correctly matches term and meaning?",
+      "image": null,
+      "options": [
+        {
+          "text": "Genotype - genetic constitution",
+          "image": null
+        },
+        {
+          "text": "Phenotype - chromosome number only",
+          "image": null
+        },
+        {
+          "text": "Allele - acquired skill",
+          "image": null
+        },
+        {
+          "text": "Gene - whole organism",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-090",
+      "text": "Which base pair is found in DNA?",
+      "image": null,
+      "options": [
+        {
+          "text": "A-T and G-C",
+          "image": null
+        },
+        {
+          "text": "A-G and T-C",
+          "image": null
+        },
+        {
+          "text": "A-C and G-T",
+          "image": null
+        },
+        {
+          "text": "A-A and G-G",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-091",
+      "text": "The shape of DNA is commonly described as:",
+      "image": null,
+      "options": [
+        {
+          "text": "double helix",
+          "image": null
+        },
+        {
+          "text": "single ring only",
+          "image": null
+        },
+        {
+          "text": "straight rod only",
+          "image": null
+        },
+        {
+          "text": "random sheet",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-092",
+      "text": "DNA replication is important before cell division because:",
+      "image": null,
+      "options": [
+        {
+          "text": "daughter cells need genetic information",
+          "image": null
+        },
+        {
+          "text": "it removes all traits",
+          "image": null
+        },
+        {
+          "text": "it destroys chromosomes",
+          "image": null
+        },
+        {
+          "text": "it prevents reproduction",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-093",
+      "text": "A mutation is best described as:",
+      "image": null,
+      "options": [
+        {
+          "text": "a change in DNA sequence",
+          "image": null
+        },
+        {
+          "text": "a type of digestion",
+          "image": null
+        },
+        {
+          "text": "formation of urine",
+          "image": null
+        },
+        {
+          "text": "transport of water only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-094",
+      "text": "Which of these can produce heritable variation?",
+      "image": null,
+      "options": [
+        {
+          "text": "change in germ-cell DNA",
+          "image": null
+        },
+        {
+          "text": "cutting hair",
+          "image": null
+        },
+        {
+          "text": "learning language",
+          "image": null
+        },
+        {
+          "text": "muscle development by exercise only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-095",
+      "text": "A child resembles both parents because:",
+      "image": null,
+      "options": [
+        {
+          "text": "it receives genetic material from both parents",
+          "image": null
+        },
+        {
+          "text": "only mother contributes DNA",
+          "image": null
+        },
+        {
+          "text": "only father contributes DNA",
+          "image": null
+        },
+        {
+          "text": "no DNA is inherited",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-096",
+      "text": "In humans, autosomes are:",
+      "image": null,
+      "options": [
+        {
+          "text": "non-sex chromosomes",
+          "image": null
+        },
+        {
+          "text": "sex chromosomes only",
+          "image": null
+        },
+        {
+          "text": "hormones",
+          "image": null
+        },
+        {
+          "text": "gametes",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-097",
+      "text": "Human beings have how many pairs of autosomes?",
+      "image": null,
+      "options": [
+        {
+          "text": "22 pairs",
+          "image": null
+        },
+        {
+          "text": "23 pairs",
+          "image": null
+        },
+        {
+          "text": "1 pair",
+          "image": null
+        },
+        {
+          "text": "46 pairs",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-098",
+      "text": "The sex chromosomes in a human male sperm can be:",
+      "image": null,
+      "options": [
+        {
+          "text": "X or Y",
+          "image": null
+        },
+        {
+          "text": "only X",
+          "image": null
+        },
+        {
+          "text": "only Y",
+          "image": null
+        },
+        {
+          "text": "XX only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-099",
+      "text": "The sex chromosome in a human egg is:",
+      "image": null,
+      "options": [
+        {
+          "text": "X",
+          "image": null
+        },
+        {
+          "text": "Y",
+          "image": null
+        },
+        {
+          "text": "XY",
+          "image": null
+        },
+        {
+          "text": "YY",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-100",
+      "text": "If an egg carrying X is fertilised by sperm carrying X, the child is:",
+      "image": null,
+      "options": [
+        {
+          "text": "female",
+          "image": null
+        },
+        {
+          "text": "male",
+          "image": null
+        },
+        {
+          "text": "either",
+          "image": null
+        },
+        {
+          "text": "not viable",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-101",
+      "text": "If an egg carrying X is fertilised by sperm carrying Y, the child is:",
+      "image": null,
+      "options": [
+        {
+          "text": "male",
+          "image": null
+        },
+        {
+          "text": "female",
+          "image": null
+        },
+        {
+          "text": "either",
+          "image": null
+        },
+        {
+          "text": "not viable",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-102",
+      "text": "Which statement about human sex determination is correct?",
+      "image": null,
+      "options": [
+        {
+          "text": "father contributes X or Y chromosome",
+          "image": null
+        },
+        {
+          "text": "mother contributes Y chromosome only",
+          "image": null
+        },
+        {
+          "text": "all sperms carry X only",
+          "image": null
+        },
+        {
+          "text": "all eggs carry Y only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-103",
+      "text": "Sex determination in humans is primarily:",
+      "image": null,
+      "options": [
+        {
+          "text": "genetic",
+          "image": null
+        },
+        {
+          "text": "decided only by diet",
+          "image": null
+        },
+        {
+          "text": "decided only by temperature",
+          "image": null
+        },
+        {
+          "text": "unrelated to chromosomes",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-104",
+      "text": "A girl child has sex chromosome combination:",
+      "image": null,
+      "options": [
+        {
+          "text": "XX",
+          "image": null
+        },
+        {
+          "text": "XY",
+          "image": null
+        },
+        {
+          "text": "YY",
+          "image": null
+        },
+        {
+          "text": "XO always",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-105",
+      "text": "A boy child has sex chromosome combination:",
+      "image": null,
+      "options": [
+        {
+          "text": "XY",
+          "image": null
+        },
+        {
+          "text": "XX",
+          "image": null
+        },
+        {
+          "text": "YY",
+          "image": null
+        },
+        {
+          "text": "XXY always",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-106",
+      "text": "Which statement is correct for dominant and recessive traits?",
+      "image": null,
+      "options": [
+        {
+          "text": "Dominant trait appears in heterozygous condition",
+          "image": null
+        },
+        {
+          "text": "Recessive trait appears in every heterozygote",
+          "image": null
+        },
+        {
+          "text": "Dominant trait is never inherited",
+          "image": null
+        },
+        {
+          "text": "Recessive allele is absent in heterozygote",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-107",
+      "text": "In the cross RR x rr, all F1 offspring are:",
+      "image": null,
+      "options": [
+        {
+          "text": "Rr",
+          "image": null
+        },
+        {
+          "text": "RR",
+          "image": null
+        },
+        {
+          "text": "rr",
+          "image": null
+        },
+        {
+          "text": "half RR and half rr",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-108",
+      "text": "If R is dominant over r, the phenotype of Rr is:",
+      "image": null,
+      "options": [
+        {
+          "text": "dominant phenotype",
+          "image": null
+        },
+        {
+          "text": "recessive phenotype",
+          "image": null
+        },
+        {
+          "text": "neither phenotype",
+          "image": null
+        },
+        {
+          "text": "always lethal",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-109",
+      "text": "If two heterozygous parents are crossed for one trait, the recessive phenotype appears in about:",
+      "image": null,
+      "options": [
+        {
+          "text": "25% offspring",
+          "image": null
+        },
+        {
+          "text": "50% offspring",
+          "image": null
+        },
+        {
+          "text": "75% offspring",
+          "image": null
+        },
+        {
+          "text": "100% offspring",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-110",
+      "text": "If two heterozygous parents are crossed for one trait, dominant phenotype appears in about:",
+      "image": null,
+      "options": [
+        {
+          "text": "25% offspring",
+          "image": null
+        },
+        {
+          "text": "50% offspring",
+          "image": null
+        },
+        {
+          "text": "75% offspring",
+          "image": null
+        },
+        {
+          "text": "100% offspring",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-111",
+      "text": "The ratio 1:2:1 in a monohybrid cross represents:",
+      "image": null,
+      "options": [
+        {
+          "text": "genotypic ratio",
+          "image": null
+        },
+        {
+          "text": "phenotypic ratio",
+          "image": null
+        },
+        {
+          "text": "sex ratio",
+          "image": null
+        },
+        {
+          "text": "dihybrid ratio",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-112",
+      "text": "The ratio 3:1 in a monohybrid cross represents:",
+      "image": null,
+      "options": [
+        {
+          "text": "phenotypic ratio",
+          "image": null
+        },
+        {
+          "text": "genotypic ratio",
+          "image": null
+        },
+        {
+          "text": "sex chromosome ratio only",
+          "image": null
+        },
+        {
+          "text": "dihybrid genotypic ratio",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-113",
+      "text": "An organism with two identical alleles for a trait is:",
+      "image": null,
+      "options": [
+        {
+          "text": "homozygous",
+          "image": null
+        },
+        {
+          "text": "heterozygous",
+          "image": null
+        },
+        {
+          "text": "hybrid only",
+          "image": null
+        },
+        {
+          "text": "hemizygous only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-114",
+      "text": "An organism with two different alleles for a trait is:",
+      "image": null,
+      "options": [
+        {
+          "text": "heterozygous",
+          "image": null
+        },
+        {
+          "text": "homozygous",
+          "image": null
+        },
+        {
+          "text": "pure breeding recessive",
+          "image": null
+        },
+        {
+          "text": "pure breeding dominant",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-115",
+      "text": "A pure line usually means organisms that:",
+      "image": null,
+      "options": [
+        {
+          "text": "breed true for a trait",
+          "image": null
+        },
+        {
+          "text": "always mutate",
+          "image": null
+        },
+        {
+          "text": "never reproduce",
+          "image": null
+        },
+        {
+          "text": "have no DNA",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-116",
+      "text": "The term F1 means:",
+      "image": null,
+      "options": [
+        {
+          "text": "first filial generation",
+          "image": null
+        },
+        {
+          "text": "first fossil generation",
+          "image": null
+        },
+        {
+          "text": "first food generation",
+          "image": null
+        },
+        {
+          "text": "first flower only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-117",
+      "text": "The term F2 means:",
+      "image": null,
+      "options": [
+        {
+          "text": "second filial generation",
+          "image": null
+        },
+        {
+          "text": "second fossil generation",
+          "image": null
+        },
+        {
+          "text": "second food generation",
+          "image": null
+        },
+        {
+          "text": "second flower only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-118",
+      "text": "Which of these is a recessive human trait in many school-level examples?",
+      "image": null,
+      "options": [
+        {
+          "text": "attached earlobes",
+          "image": null
+        },
+        {
+          "text": "free earlobes",
+          "image": null
+        },
+        {
+          "text": "widow peak",
+          "image": null
+        },
+        {
+          "text": "brown eyes always",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-119",
+      "text": "In pedigree diagrams, a square commonly represents:",
+      "image": null,
+      "options": [
+        {
+          "text": "male",
+          "image": null
+        },
+        {
+          "text": "female",
+          "image": null
+        },
+        {
+          "text": "carrier only",
+          "image": null
+        },
+        {
+          "text": "affected only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-120",
+      "text": "In pedigree diagrams, a circle commonly represents:",
+      "image": null,
+      "options": [
+        {
+          "text": "female",
+          "image": null
+        },
+        {
+          "text": "male",
+          "image": null
+        },
+        {
+          "text": "recessive allele only",
+          "image": null
+        },
+        {
+          "text": "dominant allele only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-121",
+      "text": "Assertion: A child can inherit an X chromosome from the father. Reason: Some sperms carry X chromosomes. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-122",
+      "text": "Assertion: Acquired traits are generally not inherited. Reason: They usually do not change DNA in germ cells. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-123",
+      "text": "Assertion: Mendel used pea plants for inheritance experiments. Reason: Pea plants have clear contrasting traits. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-124",
+      "text": "Assertion: In Tt plants, tallness is expressed. Reason: T is dominant over t. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-heredity-125",
+      "text": "Assertion: Sexual reproduction produces more variation than asexual reproduction. Reason: Sexual reproduction combines DNA from two parents. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    }
+  ]
+}

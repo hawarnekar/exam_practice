@@ -1,0 +1,3087 @@
+{
+  "subject": "Science",
+  "topic": "Physics",
+  "subtopic": "The Human Eye and the Colourful World",
+  "questions": [
+    {
+      "id": "sci-eye-colour-world-001",
+      "text": "The clear outer covering at the front of the human eye is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "retina",
+          "image": null
+        },
+        {
+          "text": "cornea",
+          "image": null
+        },
+        {
+          "text": "iris",
+          "image": null
+        },
+        {
+          "text": "pupil",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-002",
+      "text": "The part of the eye that controls the amount of light entering is:",
+      "image": null,
+      "options": [
+        {
+          "text": "retina",
+          "image": null
+        },
+        {
+          "text": "iris",
+          "image": null
+        },
+        {
+          "text": "cornea",
+          "image": null
+        },
+        {
+          "text": "optic nerve",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-003",
+      "text": "The image formed on the retina of the human eye is:",
+      "image": null,
+      "options": [
+        {
+          "text": "virtual and erect",
+          "image": null
+        },
+        {
+          "text": "real and inverted",
+          "image": null
+        },
+        {
+          "text": "virtual and inverted",
+          "image": null
+        },
+        {
+          "text": "real and erect",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-004",
+      "text": "The change in focal length of the human eye lens is caused by:",
+      "image": null,
+      "options": [
+        {
+          "text": "ciliary muscles",
+          "image": null
+        },
+        {
+          "text": "pupil",
+          "image": null
+        },
+        {
+          "text": "cornea",
+          "image": null
+        },
+        {
+          "text": "retina",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-005",
+      "text": "The coloured part of the eye is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "pupil",
+          "image": null
+        },
+        {
+          "text": "iris",
+          "image": null
+        },
+        {
+          "text": "retina",
+          "image": null
+        },
+        {
+          "text": "cornea",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-006",
+      "text": "The opening through which light enters the eye is:",
+      "image": null,
+      "options": [
+        {
+          "text": "iris",
+          "image": null
+        },
+        {
+          "text": "pupil",
+          "image": null
+        },
+        {
+          "text": "retina",
+          "image": null
+        },
+        {
+          "text": "optic nerve",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-007",
+      "text": "The light-sensitive screen in the eye is:",
+      "image": null,
+      "options": [
+        {
+          "text": "retina",
+          "image": null
+        },
+        {
+          "text": "cornea",
+          "image": null
+        },
+        {
+          "text": "iris",
+          "image": null
+        },
+        {
+          "text": "pupil",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-008",
+      "text": "The nerve that carries visual impulses from retina to brain is:",
+      "image": null,
+      "options": [
+        {
+          "text": "auditory nerve",
+          "image": null
+        },
+        {
+          "text": "optic nerve",
+          "image": null
+        },
+        {
+          "text": "spinal nerve",
+          "image": null
+        },
+        {
+          "text": "motor nerve",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-009",
+      "text": "The eye lens is made of:",
+      "image": null,
+      "options": [
+        {
+          "text": "transparent and flexible material",
+          "image": null
+        },
+        {
+          "text": "opaque bone",
+          "image": null
+        },
+        {
+          "text": "metallic fibres",
+          "image": null
+        },
+        {
+          "text": "red blood cells",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-010",
+      "text": "The eye lens is:",
+      "image": null,
+      "options": [
+        {
+          "text": "convex lens",
+          "image": null
+        },
+        {
+          "text": "concave lens",
+          "image": null
+        },
+        {
+          "text": "plane mirror",
+          "image": null
+        },
+        {
+          "text": "convex mirror",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-011",
+      "text": "The ability of the eye lens to adjust its focal length is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "accommodation",
+          "image": null
+        },
+        {
+          "text": "dispersion",
+          "image": null
+        },
+        {
+          "text": "scattering",
+          "image": null
+        },
+        {
+          "text": "reflection",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-012",
+      "text": "The least distance of distinct vision for a normal young adult is:",
+      "image": null,
+      "options": [
+        {
+          "text": "infinity",
+          "image": null
+        },
+        {
+          "text": "25 cm",
+          "image": null
+        },
+        {
+          "text": "2.5 cm",
+          "image": null
+        },
+        {
+          "text": "25 m",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-013",
+      "text": "The far point of a normal human eye is:",
+      "image": null,
+      "options": [
+        {
+          "text": "25 cm",
+          "image": null
+        },
+        {
+          "text": "infinity",
+          "image": null
+        },
+        {
+          "text": "2 m",
+          "image": null
+        },
+        {
+          "text": "1 m",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-014",
+      "text": "The near point of a normal adult eye is:",
+      "image": null,
+      "options": [
+        {
+          "text": "25 cm",
+          "image": null
+        },
+        {
+          "text": "infinity",
+          "image": null
+        },
+        {
+          "text": "25 m",
+          "image": null
+        },
+        {
+          "text": "2.5 cm",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-015",
+      "text": "The persistence of vision of a normal human eye is about:",
+      "image": null,
+      "options": [
+        {
+          "text": "1/16 second",
+          "image": null
+        },
+        {
+          "text": "1 second",
+          "image": null
+        },
+        {
+          "text": "16 seconds",
+          "image": null
+        },
+        {
+          "text": "1/2 second",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-016",
+      "text": "Cinematography makes use of:",
+      "image": null,
+      "options": [
+        {
+          "text": "persistence of vision",
+          "image": null
+        },
+        {
+          "text": "total internal reflection only",
+          "image": null
+        },
+        {
+          "text": "power of lens only",
+          "image": null
+        },
+        {
+          "text": "colour blindness",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-017",
+      "text": "A movie appears continuous because successive images are projected at about:",
+      "image": null,
+      "options": [
+        {
+          "text": "2 pictures per second",
+          "image": null
+        },
+        {
+          "text": "8 pictures per second",
+          "image": null
+        },
+        {
+          "text": "24 pictures per second",
+          "image": null
+        },
+        {
+          "text": "100 pictures per second",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-018",
+      "text": "The blind spot in the human eye is a region where:",
+      "image": null,
+      "options": [
+        {
+          "text": "optic nerve leaves the eye and no photoreceptors are present",
+          "image": null
+        },
+        {
+          "text": "only cones are present",
+          "image": null
+        },
+        {
+          "text": "only rods are present",
+          "image": null
+        },
+        {
+          "text": "light is focused best",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-019",
+      "text": "The yellow spot of retina is a region of:",
+      "image": null,
+      "options": [
+        {
+          "text": "maximum visual sensitivity",
+          "image": null
+        },
+        {
+          "text": "no vision",
+          "image": null
+        },
+        {
+          "text": "sound reception",
+          "image": null
+        },
+        {
+          "text": "blood formation",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-020",
+      "text": "Rods in the retina are mainly sensitive to:",
+      "image": null,
+      "options": [
+        {
+          "text": "dim light",
+          "image": null
+        },
+        {
+          "text": "colour only",
+          "image": null
+        },
+        {
+          "text": "sound",
+          "image": null
+        },
+        {
+          "text": "smell",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-021",
+      "text": "Cones in the retina are mainly responsible for:",
+      "image": null,
+      "options": [
+        {
+          "text": "colour vision",
+          "image": null
+        },
+        {
+          "text": "smell",
+          "image": null
+        },
+        {
+          "text": "hearing",
+          "image": null
+        },
+        {
+          "text": "balancing body",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-022",
+      "text": "The power of accommodation of the eye is controlled by:",
+      "image": null,
+      "options": [
+        {
+          "text": "ciliary muscles",
+          "image": null
+        },
+        {
+          "text": "optic nerve",
+          "image": null
+        },
+        {
+          "text": "retina only",
+          "image": null
+        },
+        {
+          "text": "blind spot",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-023",
+      "text": "When looking at a nearby object, the eye lens becomes:",
+      "image": null,
+      "options": [
+        {
+          "text": "thicker and more converging",
+          "image": null
+        },
+        {
+          "text": "thinner and less converging",
+          "image": null
+        },
+        {
+          "text": "opaque",
+          "image": null
+        },
+        {
+          "text": "flat like a mirror",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-024",
+      "text": "When looking at a distant object, the eye lens becomes:",
+      "image": null,
+      "options": [
+        {
+          "text": "thinner",
+          "image": null
+        },
+        {
+          "text": "thicker",
+          "image": null
+        },
+        {
+          "text": "opaque",
+          "image": null
+        },
+        {
+          "text": "coloured",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-025",
+      "text": "In bright light, the pupil:",
+      "image": null,
+      "options": [
+        {
+          "text": "contracts",
+          "image": null
+        },
+        {
+          "text": "expands",
+          "image": null
+        },
+        {
+          "text": "disappears",
+          "image": null
+        },
+        {
+          "text": "turns red",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-026",
+      "text": "In dim light, the pupil:",
+      "image": null,
+      "options": [
+        {
+          "text": "contracts",
+          "image": null
+        },
+        {
+          "text": "expands",
+          "image": null
+        },
+        {
+          "text": "closes permanently",
+          "image": null
+        },
+        {
+          "text": "becomes opaque",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-027",
+      "text": "Myopia is also called:",
+      "image": null,
+      "options": [
+        {
+          "text": "short-sightedness",
+          "image": null
+        },
+        {
+          "text": "long-sightedness",
+          "image": null
+        },
+        {
+          "text": "presbyopia",
+          "image": null
+        },
+        {
+          "text": "cataract",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-028",
+      "text": "Hypermetropia is also called:",
+      "image": null,
+      "options": [
+        {
+          "text": "short-sightedness",
+          "image": null
+        },
+        {
+          "text": "long-sightedness",
+          "image": null
+        },
+        {
+          "text": "colour blindness",
+          "image": null
+        },
+        {
+          "text": "cataract",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-029",
+      "text": "A person with myopia can see clearly:",
+      "image": null,
+      "options": [
+        {
+          "text": "near objects but not distant objects",
+          "image": null
+        },
+        {
+          "text": "distant objects but not near objects",
+          "image": null
+        },
+        {
+          "text": "neither near nor distant objects",
+          "image": null
+        },
+        {
+          "text": "only coloured objects",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-030",
+      "text": "A person with hypermetropia can see clearly:",
+      "image": null,
+      "options": [
+        {
+          "text": "distant objects but not nearby objects",
+          "image": null
+        },
+        {
+          "text": "nearby objects but not distant objects",
+          "image": null
+        },
+        {
+          "text": "neither near nor distant objects",
+          "image": null
+        },
+        {
+          "text": "only red objects",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-031",
+      "text": "Myopia is corrected using a:",
+      "image": null,
+      "options": [
+        {
+          "text": "concave lens",
+          "image": null
+        },
+        {
+          "text": "convex lens",
+          "image": null
+        },
+        {
+          "text": "plane glass plate",
+          "image": null
+        },
+        {
+          "text": "convex mirror",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-032",
+      "text": "Hypermetropia is corrected using a:",
+      "image": null,
+      "options": [
+        {
+          "text": "convex lens",
+          "image": null
+        },
+        {
+          "text": "concave lens",
+          "image": null
+        },
+        {
+          "text": "plane mirror",
+          "image": null
+        },
+        {
+          "text": "concave mirror",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-033",
+      "text": "A student cannot see clearly the blackboard 5 m away. The defect is:",
+      "image": null,
+      "options": [
+        {
+          "text": "myopia",
+          "image": null
+        },
+        {
+          "text": "hypermetropia",
+          "image": null
+        },
+        {
+          "text": "presbyopia",
+          "image": null
+        },
+        {
+          "text": "cataract",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-034",
+      "text": "A person who cannot see nearby objects clearly is likely suffering from:",
+      "image": null,
+      "options": [
+        {
+          "text": "hypermetropia",
+          "image": null
+        },
+        {
+          "text": "myopia",
+          "image": null
+        },
+        {
+          "text": "night blindness only",
+          "image": null
+        },
+        {
+          "text": "dispersion",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-035",
+      "text": "In myopia, the image of distant objects is formed:",
+      "image": null,
+      "options": [
+        {
+          "text": "in front of retina",
+          "image": null
+        },
+        {
+          "text": "behind retina",
+          "image": null
+        },
+        {
+          "text": "on cornea",
+          "image": null
+        },
+        {
+          "text": "behind eye",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-036",
+      "text": "In hypermetropia, the image of nearby objects tends to form:",
+      "image": null,
+      "options": [
+        {
+          "text": "behind retina",
+          "image": null
+        },
+        {
+          "text": "in front of retina",
+          "image": null
+        },
+        {
+          "text": "on iris",
+          "image": null
+        },
+        {
+          "text": "on pupil",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-037",
+      "text": "One cause of myopia is:",
+      "image": null,
+      "options": [
+        {
+          "text": "excessive curvature of eye lens",
+          "image": null
+        },
+        {
+          "text": "eyeball too short",
+          "image": null
+        },
+        {
+          "text": "weak convergence of eye lens",
+          "image": null
+        },
+        {
+          "text": "absence of retina",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-038",
+      "text": "One cause of hypermetropia is:",
+      "image": null,
+      "options": [
+        {
+          "text": "eyeball too short",
+          "image": null
+        },
+        {
+          "text": "eyeball too long",
+          "image": null
+        },
+        {
+          "text": "eye lens too converging",
+          "image": null
+        },
+        {
+          "text": "excessive cornea curvature always",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-039",
+      "text": "A person cannot see distinctly objects kept beyond 2 m. The required correcting lens has power:",
+      "image": null,
+      "options": [
+        {
+          "text": "+0.5 D",
+          "image": null
+        },
+        {
+          "text": "-0.5 D",
+          "image": null
+        },
+        {
+          "text": "+0.2 D",
+          "image": null
+        },
+        {
+          "text": "-0.2 D",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-040",
+      "text": "The defect in which old people cannot see nearby objects clearly is often:",
+      "image": null,
+      "options": [
+        {
+          "text": "presbyopia",
+          "image": null
+        },
+        {
+          "text": "myopia only",
+          "image": null
+        },
+        {
+          "text": "astigmatism only",
+          "image": null
+        },
+        {
+          "text": "dispersion",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-041",
+      "text": "Presbyopia is mainly caused by:",
+      "image": null,
+      "options": [
+        {
+          "text": "weakening of ciliary muscles and reduced lens flexibility",
+          "image": null
+        },
+        {
+          "text": "absence of pupil",
+          "image": null
+        },
+        {
+          "text": "absence of retina",
+          "image": null
+        },
+        {
+          "text": "excess scattering",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-042",
+      "text": "A person needing both near and far correction may use:",
+      "image": null,
+      "options": [
+        {
+          "text": "bifocal lens",
+          "image": null
+        },
+        {
+          "text": "plane mirror",
+          "image": null
+        },
+        {
+          "text": "prism only",
+          "image": null
+        },
+        {
+          "text": "opaque glass",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-043",
+      "text": "The upper part of a bifocal lens generally corrects:",
+      "image": null,
+      "options": [
+        {
+          "text": "distant vision",
+          "image": null
+        },
+        {
+          "text": "near vision",
+          "image": null
+        },
+        {
+          "text": "colour vision",
+          "image": null
+        },
+        {
+          "text": "no defect",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-044",
+      "text": "The lower part of a bifocal lens generally corrects:",
+      "image": null,
+      "options": [
+        {
+          "text": "near vision",
+          "image": null
+        },
+        {
+          "text": "distant vision",
+          "image": null
+        },
+        {
+          "text": "dispersion",
+          "image": null
+        },
+        {
+          "text": "scattering",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-045",
+      "text": "Cataract is caused by:",
+      "image": null,
+      "options": [
+        {
+          "text": "clouding of eye lens",
+          "image": null
+        },
+        {
+          "text": "elongation of eyeball only",
+          "image": null
+        },
+        {
+          "text": "splitting of white light",
+          "image": null
+        },
+        {
+          "text": "scattering by air molecules",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-046",
+      "text": "A cataract patient usually has:",
+      "image": null,
+      "options": [
+        {
+          "text": "blurred vision",
+          "image": null
+        },
+        {
+          "text": "perfect far vision only",
+          "image": null
+        },
+        {
+          "text": "no eye lens accommodation issue ever",
+          "image": null
+        },
+        {
+          "text": "only colour dispersion",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-047",
+      "text": "The triangular glass object used to disperse white light is:",
+      "image": null,
+      "options": [
+        {
+          "text": "prism",
+          "image": null
+        },
+        {
+          "text": "plane mirror",
+          "image": null
+        },
+        {
+          "text": "lens only",
+          "image": null
+        },
+        {
+          "text": "glass slab only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-048",
+      "text": "A prism has:",
+      "image": null,
+      "options": [
+        {
+          "text": "two triangular bases and three rectangular faces",
+          "image": null
+        },
+        {
+          "text": "only two circular faces",
+          "image": null
+        },
+        {
+          "text": "one spherical surface",
+          "image": null
+        },
+        {
+          "text": "only one reflecting surface",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-049",
+      "text": "Splitting of white light into its component colours is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "dispersion",
+          "image": null
+        },
+        {
+          "text": "reflection",
+          "image": null
+        },
+        {
+          "text": "scattering only",
+          "image": null
+        },
+        {
+          "text": "accommodation",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-050",
+      "text": "The band of seven colours obtained by dispersion is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "spectrum",
+          "image": null
+        },
+        {
+          "text": "shadow",
+          "image": null
+        },
+        {
+          "text": "image",
+          "image": null
+        },
+        {
+          "text": "focus",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-051",
+      "text": "The sequence of colours in the visible spectrum is:",
+      "image": null,
+      "options": [
+        {
+          "text": "VIBGYOR",
+          "image": null
+        },
+        {
+          "text": "ROYGBIV",
+          "image": null
+        },
+        {
+          "text": "RGB only",
+          "image": null
+        },
+        {
+          "text": "BIVGYOR",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-052",
+      "text": "In dispersion by a prism, the colour deviated most is:",
+      "image": null,
+      "options": [
+        {
+          "text": "red",
+          "image": null
+        },
+        {
+          "text": "yellow",
+          "image": null
+        },
+        {
+          "text": "green",
+          "image": null
+        },
+        {
+          "text": "violet",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-053",
+      "text": "In dispersion by a prism, the colour deviated least is:",
+      "image": null,
+      "options": [
+        {
+          "text": "red",
+          "image": null
+        },
+        {
+          "text": "violet",
+          "image": null
+        },
+        {
+          "text": "blue",
+          "image": null
+        },
+        {
+          "text": "green",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-054",
+      "text": "The colour at the top of the spectrum produced by a prism is usually:",
+      "image": null,
+      "options": [
+        {
+          "text": "red",
+          "image": null
+        },
+        {
+          "text": "violet",
+          "image": null
+        },
+        {
+          "text": "green",
+          "image": null
+        },
+        {
+          "text": "blue",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-055",
+      "text": "The colour at the bottom of the spectrum produced by a prism is usually:",
+      "image": null,
+      "options": [
+        {
+          "text": "violet",
+          "image": null
+        },
+        {
+          "text": "red",
+          "image": null
+        },
+        {
+          "text": "yellow",
+          "image": null
+        },
+        {
+          "text": "orange",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-056",
+      "text": "White light is dispersed by a prism because different colours:",
+      "image": null,
+      "options": [
+        {
+          "text": "travel with different speeds in glass",
+          "image": null
+        },
+        {
+          "text": "have same speed in glass",
+          "image": null
+        },
+        {
+          "text": "are reflected equally",
+          "image": null
+        },
+        {
+          "text": "are absorbed completely",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-057",
+      "text": "The colour with the longest wavelength in visible light is:",
+      "image": null,
+      "options": [
+        {
+          "text": "red",
+          "image": null
+        },
+        {
+          "text": "violet",
+          "image": null
+        },
+        {
+          "text": "blue",
+          "image": null
+        },
+        {
+          "text": "green",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-058",
+      "text": "The colour with the shortest wavelength in visible light is:",
+      "image": null,
+      "options": [
+        {
+          "text": "violet",
+          "image": null
+        },
+        {
+          "text": "red",
+          "image": null
+        },
+        {
+          "text": "yellow",
+          "image": null
+        },
+        {
+          "text": "orange",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-059",
+      "text": "A rainbow is formed due to:",
+      "image": null,
+      "options": [
+        {
+          "text": "dispersion and internal reflection of sunlight by water droplets",
+          "image": null
+        },
+        {
+          "text": "only reflection by dust",
+          "image": null
+        },
+        {
+          "text": "only absorption by clouds",
+          "image": null
+        },
+        {
+          "text": "only refraction by glass slab",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-060",
+      "text": "Water droplets in the atmosphere act like:",
+      "image": null,
+      "options": [
+        {
+          "text": "small prisms",
+          "image": null
+        },
+        {
+          "text": "plane mirrors only",
+          "image": null
+        },
+        {
+          "text": "opaque screens",
+          "image": null
+        },
+        {
+          "text": "convex mirrors only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-061",
+      "text": "The natural spectrum seen after rain is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "rainbow",
+          "image": null
+        },
+        {
+          "text": "mirage",
+          "image": null
+        },
+        {
+          "text": "halo only",
+          "image": null
+        },
+        {
+          "text": "eclipse",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-062",
+      "text": "Atmospheric refraction is caused by:",
+      "image": null,
+      "options": [
+        {
+          "text": "gradual change in refractive index of air layers",
+          "image": null
+        },
+        {
+          "text": "total absence of air",
+          "image": null
+        },
+        {
+          "text": "reflection by plane mirrors",
+          "image": null
+        },
+        {
+          "text": "only rain drops",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-063",
+      "text": "Twinkling of stars is mainly due to:",
+      "image": null,
+      "options": [
+        {
+          "text": "atmospheric refraction",
+          "image": null
+        },
+        {
+          "text": "dispersion by prism only",
+          "image": null
+        },
+        {
+          "text": "scattering by water only",
+          "image": null
+        },
+        {
+          "text": "reflection from moon",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-064",
+      "text": "Planets generally do not twinkle much because:",
+      "image": null,
+      "options": [
+        {
+          "text": "they appear as extended sources of light",
+          "image": null
+        },
+        {
+          "text": "they emit no light at all",
+          "image": null
+        },
+        {
+          "text": "they are outside atmosphere",
+          "image": null
+        },
+        {
+          "text": "they are red only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-065",
+      "text": "The Sun appears slightly before actual sunrise because of:",
+      "image": null,
+      "options": [
+        {
+          "text": "atmospheric refraction",
+          "image": null
+        },
+        {
+          "text": "reflection by clouds only",
+          "image": null
+        },
+        {
+          "text": "dispersion by water",
+          "image": null
+        },
+        {
+          "text": "scattering by dust only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-066",
+      "text": "The Sun remains visible for a short time after actual sunset due to:",
+      "image": null,
+      "options": [
+        {
+          "text": "atmospheric refraction",
+          "image": null
+        },
+        {
+          "text": "plane mirror reflection",
+          "image": null
+        },
+        {
+          "text": "total internal reflection only",
+          "image": null
+        },
+        {
+          "text": "persistence of vision",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-067",
+      "text": "Advance sunrise and delayed sunset together make the day longer by about:",
+      "image": null,
+      "options": [
+        {
+          "text": "2 minutes",
+          "image": null
+        },
+        {
+          "text": "4 minutes",
+          "image": null
+        },
+        {
+          "text": "10 minutes",
+          "image": null
+        },
+        {
+          "text": "1 hour",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-068",
+      "text": "Apparent flickering of objects above a fire is due to:",
+      "image": null,
+      "options": [
+        {
+          "text": "atmospheric refraction through hot air layers",
+          "image": null
+        },
+        {
+          "text": "dispersion by a prism",
+          "image": null
+        },
+        {
+          "text": "reflection from a mirror",
+          "image": null
+        },
+        {
+          "text": "total internal reflection in glass",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-069",
+      "text": "A mirage is mainly an effect of:",
+      "image": null,
+      "options": [
+        {
+          "text": "atmospheric refraction and total internal reflection in hot air layers",
+          "image": null
+        },
+        {
+          "text": "only plane mirror reflection",
+          "image": null
+        },
+        {
+          "text": "only dispersion by rain drops",
+          "image": null
+        },
+        {
+          "text": "only accommodation",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-070",
+      "text": "Scattering of light means:",
+      "image": null,
+      "options": [
+        {
+          "text": "deflection of light in different directions by small particles",
+          "image": null
+        },
+        {
+          "text": "splitting by prism only",
+          "image": null
+        },
+        {
+          "text": "formation of image by lens",
+          "image": null
+        },
+        {
+          "text": "bending at plane mirror",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-071",
+      "text": "Tyndall effect is:",
+      "image": null,
+      "options": [
+        {
+          "text": "scattering of light by colloidal particles",
+          "image": null
+        },
+        {
+          "text": "reflection from smooth surface",
+          "image": null
+        },
+        {
+          "text": "refraction through prism only",
+          "image": null
+        },
+        {
+          "text": "accommodation by eye",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-072",
+      "text": "Which phenomenon makes a beam of sunlight visible in a dusty room?",
+      "image": null,
+      "options": [
+        {
+          "text": "Tyndall effect",
+          "image": null
+        },
+        {
+          "text": "total internal reflection",
+          "image": null
+        },
+        {
+          "text": "persistence of vision",
+          "image": null
+        },
+        {
+          "text": "lateral inversion",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-073",
+      "text": "The blue colour of the sky is due to:",
+      "image": null,
+      "options": [
+        {
+          "text": "scattering of sunlight by air molecules",
+          "image": null
+        },
+        {
+          "text": "reflection from oceans only",
+          "image": null
+        },
+        {
+          "text": "dispersion by clouds only",
+          "image": null
+        },
+        {
+          "text": "absorption of blue by air",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-074",
+      "text": "The sky appears dark to astronauts because:",
+      "image": null,
+      "options": [
+        {
+          "text": "there is no atmosphere to scatter sunlight",
+          "image": null
+        },
+        {
+          "text": "sunlight is absent in space",
+          "image": null
+        },
+        {
+          "text": "stars absorb blue light",
+          "image": null
+        },
+        {
+          "text": "moon blocks all light",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-075",
+      "text": "At sunrise and sunset, the Sun appears red because:",
+      "image": null,
+      "options": [
+        {
+          "text": "red light is least scattered and travels longer distance",
+          "image": null
+        },
+        {
+          "text": "red light is most scattered",
+          "image": null
+        },
+        {
+          "text": "blue light is least scattered",
+          "image": null
+        },
+        {
+          "text": "all colours are absorbed",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-076",
+      "text": "Red colour is used for danger signals because it:",
+      "image": null,
+      "options": [
+        {
+          "text": "is least scattered and visible from far",
+          "image": null
+        },
+        {
+          "text": "is most scattered",
+          "image": null
+        },
+        {
+          "text": "has shortest wavelength",
+          "image": null
+        },
+        {
+          "text": "is invisible in fog",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-077",
+      "text": "Which colour is scattered most by small particles?",
+      "image": null,
+      "options": [
+        {
+          "text": "violet/blue",
+          "image": null
+        },
+        {
+          "text": "red",
+          "image": null
+        },
+        {
+          "text": "orange",
+          "image": null
+        },
+        {
+          "text": "yellow",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-078",
+      "text": "Which colour is scattered least by small particles?",
+      "image": null,
+      "options": [
+        {
+          "text": "red",
+          "image": null
+        },
+        {
+          "text": "violet",
+          "image": null
+        },
+        {
+          "text": "blue",
+          "image": null
+        },
+        {
+          "text": "green",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-079",
+      "text": "The reddish appearance of the Sun at sunset is due to:",
+      "image": null,
+      "options": [
+        {
+          "text": "scattering",
+          "image": null
+        },
+        {
+          "text": "lateral inversion",
+          "image": null
+        },
+        {
+          "text": "myopia",
+          "image": null
+        },
+        {
+          "text": "presbyopia",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-080",
+      "text": "The blue colour of sea water is mainly due to:",
+      "image": null,
+      "options": [
+        {
+          "text": "scattering of light",
+          "image": null
+        },
+        {
+          "text": "reflection of red light only",
+          "image": null
+        },
+        {
+          "text": "absence of sunlight",
+          "image": null
+        },
+        {
+          "text": "myopia",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-081",
+      "text": "A fine beam of light passing through milk diluted with water shows:",
+      "image": null,
+      "options": [
+        {
+          "text": "Tyndall effect",
+          "image": null
+        },
+        {
+          "text": "no scattering",
+          "image": null
+        },
+        {
+          "text": "only reflection from mirror",
+          "image": null
+        },
+        {
+          "text": "only persistence of vision",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-082",
+      "text": "The power of a lens needed for myopia is generally:",
+      "image": null,
+      "options": [
+        {
+          "text": "negative",
+          "image": null
+        },
+        {
+          "text": "positive",
+          "image": null
+        },
+        {
+          "text": "zero",
+          "image": null
+        },
+        {
+          "text": "infinite",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-083",
+      "text": "The power of a lens needed for hypermetropia is generally:",
+      "image": null,
+      "options": [
+        {
+          "text": "positive",
+          "image": null
+        },
+        {
+          "text": "negative",
+          "image": null
+        },
+        {
+          "text": "zero",
+          "image": null
+        },
+        {
+          "text": "infinite",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-084",
+      "text": "A concave lens corrects myopia by forming a virtual image of a distant object:",
+      "image": null,
+      "options": [
+        {
+          "text": "at the far point of the myopic eye",
+          "image": null
+        },
+        {
+          "text": "behind the retina",
+          "image": null
+        },
+        {
+          "text": "on the cornea",
+          "image": null
+        },
+        {
+          "text": "at infinity only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-085",
+      "text": "A convex lens corrects hypermetropia by:",
+      "image": null,
+      "options": [
+        {
+          "text": "converging incoming rays before they enter the eye",
+          "image": null
+        },
+        {
+          "text": "diverging rays more",
+          "image": null
+        },
+        {
+          "text": "blocking red light",
+          "image": null
+        },
+        {
+          "text": "scattering blue light",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-086",
+      "text": "If a person has a far point at 2 m, the focal length of correcting lens is:",
+      "image": null,
+      "options": [
+        {
+          "text": "-2 m",
+          "image": null
+        },
+        {
+          "text": "+2 m",
+          "image": null
+        },
+        {
+          "text": "-0.5 m",
+          "image": null
+        },
+        {
+          "text": "+0.5 m",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-087",
+      "text": "The power of a lens of focal length -2 m is:",
+      "image": null,
+      "options": [
+        {
+          "text": "-0.5 D",
+          "image": null
+        },
+        {
+          "text": "+0.5 D",
+          "image": null
+        },
+        {
+          "text": "-2 D",
+          "image": null
+        },
+        {
+          "text": "+2 D",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-088",
+      "text": "The near point of a hypermetropic eye is:",
+      "image": null,
+      "options": [
+        {
+          "text": "farther than 25 cm",
+          "image": null
+        },
+        {
+          "text": "closer than 25 cm",
+          "image": null
+        },
+        {
+          "text": "at 25 cm exactly always",
+          "image": null
+        },
+        {
+          "text": "at infinity",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-089",
+      "text": "For an old person suffering from presbyopia, the near point:",
+      "image": null,
+      "options": [
+        {
+          "text": "recedes away",
+          "image": null
+        },
+        {
+          "text": "comes closer",
+          "image": null
+        },
+        {
+          "text": "becomes zero",
+          "image": null
+        },
+        {
+          "text": "disappears",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-090",
+      "text": "Which defect is caused by gradual weakening of ciliary muscles?",
+      "image": null,
+      "options": [
+        {
+          "text": "presbyopia",
+          "image": null
+        },
+        {
+          "text": "myopia only",
+          "image": null
+        },
+        {
+          "text": "dispersion",
+          "image": null
+        },
+        {
+          "text": "scattering",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-091",
+      "text": "Which defect may occur due to eyeball being too long?",
+      "image": null,
+      "options": [
+        {
+          "text": "myopia",
+          "image": null
+        },
+        {
+          "text": "hypermetropia",
+          "image": null
+        },
+        {
+          "text": "presbyopia only",
+          "image": null
+        },
+        {
+          "text": "colour blindness",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-092",
+      "text": "Which defect may occur due to eyeball being too short?",
+      "image": null,
+      "options": [
+        {
+          "text": "hypermetropia",
+          "image": null
+        },
+        {
+          "text": "myopia",
+          "image": null
+        },
+        {
+          "text": "colour blindness only",
+          "image": null
+        },
+        {
+          "text": "cataract only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-093",
+      "text": "Which of the following is not a defect of vision?",
+      "image": null,
+      "options": [
+        {
+          "text": "dispersion",
+          "image": null
+        },
+        {
+          "text": "myopia",
+          "image": null
+        },
+        {
+          "text": "hypermetropia",
+          "image": null
+        },
+        {
+          "text": "presbyopia",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-094",
+      "text": "The human eye focuses images on the retina by changing:",
+      "image": null,
+      "options": [
+        {
+          "text": "focal length of eye lens",
+          "image": null
+        },
+        {
+          "text": "length of optic nerve",
+          "image": null
+        },
+        {
+          "text": "colour of iris only",
+          "image": null
+        },
+        {
+          "text": "size of retina",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-095",
+      "text": "The retina sends signals to the brain through:",
+      "image": null,
+      "options": [
+        {
+          "text": "optic nerve",
+          "image": null
+        },
+        {
+          "text": "pupil",
+          "image": null
+        },
+        {
+          "text": "iris",
+          "image": null
+        },
+        {
+          "text": "cornea",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-096",
+      "text": "The function of the iris is to control:",
+      "image": null,
+      "options": [
+        {
+          "text": "size of pupil",
+          "image": null
+        },
+        {
+          "text": "shape of retina",
+          "image": null
+        },
+        {
+          "text": "length of optic nerve",
+          "image": null
+        },
+        {
+          "text": "colour of light entering only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-097",
+      "text": "The role of pupil is to:",
+      "image": null,
+      "options": [
+        {
+          "text": "regulate amount of light entering the eye",
+          "image": null
+        },
+        {
+          "text": "form image directly",
+          "image": null
+        },
+        {
+          "text": "carry nerve impulses",
+          "image": null
+        },
+        {
+          "text": "detect colour",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-098",
+      "text": "The cornea helps mainly in:",
+      "image": null,
+      "options": [
+        {
+          "text": "refraction of incoming light",
+          "image": null
+        },
+        {
+          "text": "detecting colour only",
+          "image": null
+        },
+        {
+          "text": "carrying nerve impulses",
+          "image": null
+        },
+        {
+          "text": "producing tears only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-099",
+      "text": "A person with normal vision can see objects clearly from:",
+      "image": null,
+      "options": [
+        {
+          "text": "25 cm to infinity",
+          "image": null
+        },
+        {
+          "text": "0 cm to 25 cm only",
+          "image": null
+        },
+        {
+          "text": "2 m to 5 m only",
+          "image": null
+        },
+        {
+          "text": "infinity only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-100",
+      "text": "Which phenomenon explains why red traffic light can be seen from far away?",
+      "image": null,
+      "options": [
+        {
+          "text": "least scattering of red light",
+          "image": null
+        },
+        {
+          "text": "maximum scattering of red light",
+          "image": null
+        },
+        {
+          "text": "myopia correction",
+          "image": null
+        },
+        {
+          "text": "persistence of vision",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-101",
+      "text": "Which component of white light bends least in a glass prism?",
+      "image": null,
+      "options": [
+        {
+          "text": "red",
+          "image": null
+        },
+        {
+          "text": "violet",
+          "image": null
+        },
+        {
+          "text": "blue",
+          "image": null
+        },
+        {
+          "text": "green",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-102",
+      "text": "Which component of white light bends most in a glass prism?",
+      "image": null,
+      "options": [
+        {
+          "text": "violet",
+          "image": null
+        },
+        {
+          "text": "red",
+          "image": null
+        },
+        {
+          "text": "yellow",
+          "image": null
+        },
+        {
+          "text": "orange",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-103",
+      "text": "The recombination of spectrum colours can produce:",
+      "image": null,
+      "options": [
+        {
+          "text": "white light",
+          "image": null
+        },
+        {
+          "text": "only red light",
+          "image": null
+        },
+        {
+          "text": "only black colour",
+          "image": null
+        },
+        {
+          "text": "no light",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-104",
+      "text": "Newton showed that white light is made of seven colours using:",
+      "image": null,
+      "options": [
+        {
+          "text": "glass prism",
+          "image": null
+        },
+        {
+          "text": "plane mirror only",
+          "image": null
+        },
+        {
+          "text": "concave mirror only",
+          "image": null
+        },
+        {
+          "text": "opaque screen only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-105",
+      "text": "A second inverted prism can recombine spectrum colours to produce:",
+      "image": null,
+      "options": [
+        {
+          "text": "white light",
+          "image": null
+        },
+        {
+          "text": "black shadow",
+          "image": null
+        },
+        {
+          "text": "only violet light",
+          "image": null
+        },
+        {
+          "text": "only red light",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-106",
+      "text": "Assertion: The sky appears blue. Reason: Air molecules scatter shorter wavelengths more strongly. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-107",
+      "text": "Assertion: Red is used in danger signals. Reason: Red light has longer wavelength and is scattered least. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-108",
+      "text": "Assertion: Stars twinkle but planets usually do not. Reason: Stars behave like point sources while planets appear as extended sources. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-109",
+      "text": "Assertion: Myopia is corrected by a concave lens. Reason: A concave lens diverges light rays before they enter the eye. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-eye-colour-world-110",
+      "text": "Assertion: Hypermetropia is corrected by a convex lens. Reason: A convex lens converges light rays before they enter the eye. Choose the correct option.",
+      "image": null,
+      "options": [
+        {
+          "text": "Both Assertion and Reason are true, and Reason explains Assertion.",
+          "image": null
+        },
+        {
+          "text": "Both Assertion and Reason are true, but Reason does not explain Assertion.",
+          "image": null
+        },
+        {
+          "text": "Assertion is true, but Reason is false.",
+          "image": null
+        },
+        {
+          "text": "Assertion is false, but Reason is true.",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    }
+  ]
+}

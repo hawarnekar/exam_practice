@@ -1,0 +1,4711 @@
+{
+  "subject": "Science",
+  "topic": "Chemistry",
+  "subtopic": "Chemical Reactions and Equations",
+  "questions": [
+    {
+      "id": "sci-chem-rxn-eq-001",
+      "text": "Which observation usually indicates that a chemical reaction has taken place?",
+      "image": null,
+      "options": [
+        {
+          "text": "No change in properties",
+          "image": null
+        },
+        {
+          "text": "Formation of a new substance",
+          "image": null
+        },
+        {
+          "text": "Only change in shape",
+          "image": null
+        },
+        {
+          "text": "Only change in size",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-002",
+      "text": "Which of the following is a physical change?",
+      "image": null,
+      "options": [
+        {
+          "text": "Burning of magnesium ribbon",
+          "image": null
+        },
+        {
+          "text": "Rusting of iron",
+          "image": null
+        },
+        {
+          "text": "Melting of ice",
+          "image": null
+        },
+        {
+          "text": "Curdling of milk",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-003",
+      "text": "Which of the following is a chemical change?",
+      "image": null,
+      "options": [
+        {
+          "text": "Boiling of water",
+          "image": null
+        },
+        {
+          "text": "Cutting of paper",
+          "image": null
+        },
+        {
+          "text": "Burning of a candle",
+          "image": null
+        },
+        {
+          "text": "Melting of wax only",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-004",
+      "text": "A chemical equation represents:",
+      "image": null,
+      "options": [
+        {
+          "text": "only names of reactants",
+          "image": null
+        },
+        {
+          "text": "reactants and products using symbols and formulae",
+          "image": null
+        },
+        {
+          "text": "only colours of substances",
+          "image": null
+        },
+        {
+          "text": "only physical states of products",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-005",
+      "text": "A balanced chemical equation follows:",
+      "image": null,
+      "options": [
+        {
+          "text": "law of constant proportion",
+          "image": null
+        },
+        {
+          "text": "law of conservation of mass",
+          "image": null
+        },
+        {
+          "text": "Avogadro law only",
+          "image": null
+        },
+        {
+          "text": "law of reflection",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-006",
+      "text": "Why must a chemical equation be balanced?",
+      "image": null,
+      "options": [
+        {
+          "text": "To change products",
+          "image": null
+        },
+        {
+          "text": "To satisfy conservation of mass",
+          "image": null
+        },
+        {
+          "text": "To make reactants disappear",
+          "image": null
+        },
+        {
+          "text": "To remove state symbols",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-007",
+      "text": "In a chemical equation, reactants are usually written:",
+      "image": null,
+      "options": [
+        {
+          "text": "on the right side",
+          "image": null
+        },
+        {
+          "text": "on the left side",
+          "image": null
+        },
+        {
+          "text": "above the arrow only",
+          "image": null
+        },
+        {
+          "text": "below the arrow only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-008",
+      "text": "In a chemical equation, products are usually written:",
+      "image": null,
+      "options": [
+        {
+          "text": "on the left side",
+          "image": null
+        },
+        {
+          "text": "on the right side",
+          "image": null
+        },
+        {
+          "text": "before reactants",
+          "image": null
+        },
+        {
+          "text": "as coefficients only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-009",
+      "text": "The symbol $\\ce{(aq)}$ in a chemical equation means:",
+      "image": null,
+      "options": [
+        {
+          "text": "solid state",
+          "image": null
+        },
+        {
+          "text": "liquid state",
+          "image": null
+        },
+        {
+          "text": "aqueous solution",
+          "image": null
+        },
+        {
+          "text": "gas state",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-010",
+      "text": "The symbol $\\ce{(g)}$ in a chemical equation means:",
+      "image": null,
+      "options": [
+        {
+          "text": "gas",
+          "image": null
+        },
+        {
+          "text": "gel",
+          "image": null
+        },
+        {
+          "text": "green precipitate",
+          "image": null
+        },
+        {
+          "text": "granule",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-011",
+      "text": "State symbols are usually added after:",
+      "image": null,
+      "options": [
+        {
+          "text": "changing formulae to balance equation",
+          "image": null
+        },
+        {
+          "text": "the equation has been balanced",
+          "image": null
+        },
+        {
+          "text": "removing all coefficients",
+          "image": null
+        },
+        {
+          "text": "writing only reactants",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-012",
+      "text": "Which coefficient balances sodium in $\\ce{Na + O2 -> Na2O}$?",
+      "image": null,
+      "options": [
+        {
+          "text": "1",
+          "image": null
+        },
+        {
+          "text": "2",
+          "image": null
+        },
+        {
+          "text": "3",
+          "image": null
+        },
+        {
+          "text": "4",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-013",
+      "text": "The balanced equation for magnesium burning in oxygen is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{Mg + O2 -> MgO}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{2Mg + O2 -> 2MgO}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Mg + 2O2 -> MgO}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{MgO -> Mg + O2}$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-014",
+      "text": "The balanced equation for hydrogen burning in oxygen is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{H2 + O2 -> H2O}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{2H2 + O2 -> 2H2O}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{H2 + 2O2 -> 2H2O}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{2H2O -> 2H2 + O2}$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-015",
+      "text": "The balanced equation for zinc reacting with dilute hydrochloric acid is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{Zn + HCl -> ZnCl2 + H2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Zn + 2HCl -> ZnCl2 + H2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{2Zn + HCl -> ZnCl2 + H2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Zn + HCl2 -> ZnCl + H2}$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-016",
+      "text": "The balanced equation $\\ce{Cu + xHNO3 -> Cu(NO3)2 + yNO2 + 2H2O}$ has $x$ and $y$ equal to:",
+      "image": null,
+      "options": [
+        {
+          "text": "3 and 5",
+          "image": null
+        },
+        {
+          "text": "8 and 6",
+          "image": null
+        },
+        {
+          "text": "4 and 2",
+          "image": null
+        },
+        {
+          "text": "7 and 1",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-017",
+      "text": "The formula of calcium oxide is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{CaO}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Ca(OH)2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CaCO3}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CaCl2}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-018",
+      "text": "The product obtained when copper carbonate is heated is mainly:",
+      "image": null,
+      "options": [
+        {
+          "text": "copper oxide",
+          "image": null
+        },
+        {
+          "text": "copper nitrate",
+          "image": null
+        },
+        {
+          "text": "copper sulphate",
+          "image": null
+        },
+        {
+          "text": "copper chloride",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-019",
+      "text": "The product obtained when lead nitrate is strongly heated includes:",
+      "image": null,
+      "options": [
+        {
+          "text": "lead oxide",
+          "image": null
+        },
+        {
+          "text": "lead nitride",
+          "image": null
+        },
+        {
+          "text": "lead sulphate",
+          "image": null
+        },
+        {
+          "text": "lead chloride",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-020",
+      "text": "Magnesium ribbon is rubbed before burning because it has a coating of:",
+      "image": null,
+      "options": [
+        {
+          "text": "basic magnesium carbonate",
+          "image": null
+        },
+        {
+          "text": "basic magnesium oxide",
+          "image": null
+        },
+        {
+          "text": "basic magnesium sulphide",
+          "image": null
+        },
+        {
+          "text": "basic magnesium chloride",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-021",
+      "text": "When magnesium ribbon burns in air, the ash formed is:",
+      "image": null,
+      "options": [
+        {
+          "text": "black",
+          "image": null
+        },
+        {
+          "text": "white",
+          "image": null
+        },
+        {
+          "text": "yellow",
+          "image": null
+        },
+        {
+          "text": "pink",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-022",
+      "text": "The colour of magnesium oxide is:",
+      "image": null,
+      "options": [
+        {
+          "text": "white",
+          "image": null
+        },
+        {
+          "text": "blue",
+          "image": null
+        },
+        {
+          "text": "grey",
+          "image": null
+        },
+        {
+          "text": "pink",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-023",
+      "text": "If magnesium is gently heated in air, it forms:",
+      "image": null,
+      "options": [
+        {
+          "text": "magnesium oxide",
+          "image": null
+        },
+        {
+          "text": "magnesium sulphide",
+          "image": null
+        },
+        {
+          "text": "magnesium nitrite",
+          "image": null
+        },
+        {
+          "text": "magnesium carbonate",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-024",
+      "text": "Solid magnesium usually has which colour?",
+      "image": null,
+      "options": [
+        {
+          "text": "dark grey",
+          "image": null
+        },
+        {
+          "text": "silver grey",
+          "image": null
+        },
+        {
+          "text": "black",
+          "image": null
+        },
+        {
+          "text": "yellow",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-025",
+      "text": "When carbon dioxide is passed through lime water:",
+      "image": null,
+      "options": [
+        {
+          "text": "calcium hydroxide is formed only",
+          "image": null
+        },
+        {
+          "text": "lime water turns milky",
+          "image": null
+        },
+        {
+          "text": "lime water turns blue",
+          "image": null
+        },
+        {
+          "text": "oxygen is evolved",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-026",
+      "text": "The milky appearance in lime water is due to formation of:",
+      "image": null,
+      "options": [
+        {
+          "text": "calcium oxide",
+          "image": null
+        },
+        {
+          "text": "calcium carbonate",
+          "image": null
+        },
+        {
+          "text": "calcium chloride",
+          "image": null
+        },
+        {
+          "text": "calcium sulphate",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-027",
+      "text": "Which gas turns lime water milky?",
+      "image": null,
+      "options": [
+        {
+          "text": "Hydrogen",
+          "image": null
+        },
+        {
+          "text": "Oxygen",
+          "image": null
+        },
+        {
+          "text": "Carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "Nitrogen",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-028",
+      "text": "When crystals of lead nitrate are heated strongly, the residue is:",
+      "image": null,
+      "options": [
+        {
+          "text": "yellow",
+          "image": null
+        },
+        {
+          "text": "white",
+          "image": null
+        },
+        {
+          "text": "green",
+          "image": null
+        },
+        {
+          "text": "blue",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-029",
+      "text": "Brown fumes observed on heating lead nitrate are due to:",
+      "image": null,
+      "options": [
+        {
+          "text": "oxygen",
+          "image": null
+        },
+        {
+          "text": "nitrogen dioxide",
+          "image": null
+        },
+        {
+          "text": "hydrogen",
+          "image": null
+        },
+        {
+          "text": "chlorine",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-030",
+      "text": "The gas evolved with brown fumes during thermal decomposition of lead nitrate is:",
+      "image": null,
+      "options": [
+        {
+          "text": "nitrogen dioxide",
+          "image": null
+        },
+        {
+          "text": "hydrogen sulphide",
+          "image": null
+        },
+        {
+          "text": "carbon monoxide",
+          "image": null
+        },
+        {
+          "text": "ammonia",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-031",
+      "text": "Which type of reaction is represented by $\\ce{CaO + H2O -> Ca(OH)2}$?",
+      "image": null,
+      "options": [
+        {
+          "text": "decomposition",
+          "image": null
+        },
+        {
+          "text": "combination",
+          "image": null
+        },
+        {
+          "text": "displacement",
+          "image": null
+        },
+        {
+          "text": "double displacement",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-032",
+      "text": "Reaction of calcium oxide with water is:",
+      "image": null,
+      "options": [
+        {
+          "text": "endothermic",
+          "image": null
+        },
+        {
+          "text": "exothermic",
+          "image": null
+        },
+        {
+          "text": "photolytic only",
+          "image": null
+        },
+        {
+          "text": "neutral only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-033",
+      "text": "Quick lime reacts vigorously with water to form:",
+      "image": null,
+      "options": [
+        {
+          "text": "calcium carbonate",
+          "image": null
+        },
+        {
+          "text": "slaked lime",
+          "image": null
+        },
+        {
+          "text": "calcium chloride",
+          "image": null
+        },
+        {
+          "text": "gypsum",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-034",
+      "text": "Slaked lime has the formula:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{CaO}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Ca(OH)2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CaCO3}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CaCl2}$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-035",
+      "text": "Which of the following is a combination reaction?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{2H2 + O2 -> 2H2O}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{2HgO -> 2Hg + O2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Zn + CuSO4 -> ZnSO4 + Cu}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{AgNO3 + NaCl -> AgCl + NaNO3}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-036",
+      "text": "Which reaction involves combination of two elements?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{CaO + CO2 -> CaCO3}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{4Na + O2 -> 2Na2O}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{SO2 + 1/2O2 -> SO3}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{NH3 + HCl -> NH4Cl}$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-037",
+      "text": "Combination reactions usually involve:",
+      "image": null,
+      "options": [
+        {
+          "text": "one reactant giving many products",
+          "image": null
+        },
+        {
+          "text": "two or more reactants forming one product",
+          "image": null
+        },
+        {
+          "text": "exchange of ions only",
+          "image": null
+        },
+        {
+          "text": "only loss of oxygen",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-038",
+      "text": "Respiration is generally considered:",
+      "image": null,
+      "options": [
+        {
+          "text": "endothermic",
+          "image": null
+        },
+        {
+          "text": "exothermic",
+          "image": null
+        },
+        {
+          "text": "photolytic",
+          "image": null
+        },
+        {
+          "text": "neutralisation only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-039",
+      "text": "Which pair represents exothermic processes?",
+      "image": null,
+      "options": [
+        {
+          "text": "Reaction of water with quicklime and dilution of acid",
+          "image": null
+        },
+        {
+          "text": "Evaporation of water and sublimation of camphor",
+          "image": null
+        },
+        {
+          "text": "Melting of ice and evaporation of water",
+          "image": null
+        },
+        {
+          "text": "Photosynthesis and decomposition of silver chloride",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-040",
+      "text": "An exothermic reaction is one in which:",
+      "image": null,
+      "options": [
+        {
+          "text": "heat is absorbed",
+          "image": null
+        },
+        {
+          "text": "heat is evolved",
+          "image": null
+        },
+        {
+          "text": "no energy change occurs",
+          "image": null
+        },
+        {
+          "text": "only light is absorbed",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-041",
+      "text": "An endothermic reaction is one in which:",
+      "image": null,
+      "options": [
+        {
+          "text": "heat is absorbed",
+          "image": null
+        },
+        {
+          "text": "heat is always evolved",
+          "image": null
+        },
+        {
+          "text": "only precipitate forms",
+          "image": null
+        },
+        {
+          "text": "no product forms",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-042",
+      "text": "Which process is endothermic?",
+      "image": null,
+      "options": [
+        {
+          "text": "Burning of natural gas",
+          "image": null
+        },
+        {
+          "text": "Respiration",
+          "image": null
+        },
+        {
+          "text": "Thermal decomposition of calcium carbonate",
+          "image": null
+        },
+        {
+          "text": "Reaction of quicklime with water",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-043",
+      "text": "Which reaction is a decomposition reaction?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{2HgO -> 2Hg + O2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{2H2 + O2 -> 2H2O}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Zn + CuSO4 -> ZnSO4 + Cu}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CaO + H2O -> Ca(OH)2}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-044",
+      "text": "A decomposition reaction involves:",
+      "image": null,
+      "options": [
+        {
+          "text": "one substance breaking into two or more simpler substances",
+          "image": null
+        },
+        {
+          "text": "two substances forming one substance",
+          "image": null
+        },
+        {
+          "text": "only exchange of ions",
+          "image": null
+        },
+        {
+          "text": "one element replacing another only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-045",
+      "text": "The decomposition of calcium carbonate on heating gives:",
+      "image": null,
+      "options": [
+        {
+          "text": "calcium hydroxide and carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "calcium oxide and carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "calcium chloride and oxygen",
+          "image": null
+        },
+        {
+          "text": "calcium oxide and hydrogen",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-046",
+      "text": "The reaction $\\ce{CaCO3 -> CaO + CO2}$ is:",
+      "image": null,
+      "options": [
+        {
+          "text": "combination",
+          "image": null
+        },
+        {
+          "text": "thermal decomposition",
+          "image": null
+        },
+        {
+          "text": "displacement",
+          "image": null
+        },
+        {
+          "text": "double displacement",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-047",
+      "text": "Electrolysis of water is an example of:",
+      "image": null,
+      "options": [
+        {
+          "text": "combination reaction",
+          "image": null
+        },
+        {
+          "text": "decomposition reaction",
+          "image": null
+        },
+        {
+          "text": "precipitation reaction only",
+          "image": null
+        },
+        {
+          "text": "neutralisation reaction",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-048",
+      "text": "During electrolysis of water, gases collected are:",
+      "image": null,
+      "options": [
+        {
+          "text": "hydrogen and oxygen",
+          "image": null
+        },
+        {
+          "text": "nitrogen and oxygen",
+          "image": null
+        },
+        {
+          "text": "chlorine and hydrogen",
+          "image": null
+        },
+        {
+          "text": "carbon dioxide and oxygen",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-049",
+      "text": "The volume ratio of hydrogen to oxygen during electrolysis of water is:",
+      "image": null,
+      "options": [
+        {
+          "text": "1:1",
+          "image": null
+        },
+        {
+          "text": "1:2",
+          "image": null
+        },
+        {
+          "text": "2:1",
+          "image": null
+        },
+        {
+          "text": "3:1",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-050",
+      "text": "Decomposition of silver chloride in sunlight is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "thermal decomposition",
+          "image": null
+        },
+        {
+          "text": "electrolytic decomposition",
+          "image": null
+        },
+        {
+          "text": "photochemical decomposition",
+          "image": null
+        },
+        {
+          "text": "double displacement",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-051",
+      "text": "When silver chloride is exposed to sunlight, it turns:",
+      "image": null,
+      "options": [
+        {
+          "text": "red",
+          "image": null
+        },
+        {
+          "text": "grey",
+          "image": null
+        },
+        {
+          "text": "green",
+          "image": null
+        },
+        {
+          "text": "blue",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-052",
+      "text": "Which equation represents photodecomposition of silver chloride?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{2AgCl -> 2Ag + Cl2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{AgCl + NaNO3 -> AgNO3 + NaCl}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Ag + Cl2 -> AgCl}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{2AgBr -> 2Ag + Br2}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-053",
+      "text": "Silver bromide is used in black-and-white photography because it:",
+      "image": null,
+      "options": [
+        {
+          "text": "is decomposed by light",
+          "image": null
+        },
+        {
+          "text": "does not react with light",
+          "image": null
+        },
+        {
+          "text": "dissolves in water instantly",
+          "image": null
+        },
+        {
+          "text": "is a strong reducing agent only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-054",
+      "text": "Which reaction is a displacement reaction?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{Zn + CuSO4 -> ZnSO4 + Cu}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{2HgO -> 2Hg + O2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{2H2 + O2 -> 2H2O}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{AgNO3 + NaCl -> AgCl + NaNO3}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-055",
+      "text": "A displacement reaction occurs when:",
+      "image": null,
+      "options": [
+        {
+          "text": "a more reactive element displaces a less reactive element from its compound",
+          "image": null
+        },
+        {
+          "text": "two salts exchange ions only",
+          "image": null
+        },
+        {
+          "text": "one compound breaks down",
+          "image": null
+        },
+        {
+          "text": "two elements combine only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-056",
+      "text": "What happens when a copper rod is dipped in iron sulphate solution?",
+      "image": null,
+      "options": [
+        {
+          "text": "Copper displaces iron",
+          "image": null
+        },
+        {
+          "text": "Blue copper sulphate solution is formed",
+          "image": null
+        },
+        {
+          "text": "No reaction takes place",
+          "image": null
+        },
+        {
+          "text": "A green gas evolves",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-057",
+      "text": "When zinc is added to copper sulphate solution, the blue colour:",
+      "image": null,
+      "options": [
+        {
+          "text": "deepens",
+          "image": null
+        },
+        {
+          "text": "fades because copper is displaced",
+          "image": null
+        },
+        {
+          "text": "turns black instantly",
+          "image": null
+        },
+        {
+          "text": "does not change because zinc is less reactive",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-058",
+      "text": "Which metal can displace copper from copper sulphate solution?",
+      "image": null,
+      "options": [
+        {
+          "text": "Silver",
+          "image": null
+        },
+        {
+          "text": "Zinc",
+          "image": null
+        },
+        {
+          "text": "Gold",
+          "image": null
+        },
+        {
+          "text": "Platinum",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-059",
+      "text": "Iron displaces copper from copper sulphate solution because:",
+      "image": null,
+      "options": [
+        {
+          "text": "iron is less reactive than copper",
+          "image": null
+        },
+        {
+          "text": "iron is more reactive than copper",
+          "image": null
+        },
+        {
+          "text": "copper is a gas",
+          "image": null
+        },
+        {
+          "text": "copper sulphate is insoluble",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-060",
+      "text": "A brown deposit on an iron nail dipped in copper sulphate solution is:",
+      "image": null,
+      "options": [
+        {
+          "text": "iron",
+          "image": null
+        },
+        {
+          "text": "copper",
+          "image": null
+        },
+        {
+          "text": "zinc",
+          "image": null
+        },
+        {
+          "text": "silver",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-061",
+      "text": "The solution becomes green when iron reacts with copper sulphate because of formation of:",
+      "image": null,
+      "options": [
+        {
+          "text": "iron sulphate",
+          "image": null
+        },
+        {
+          "text": "copper oxide",
+          "image": null
+        },
+        {
+          "text": "zinc sulphate",
+          "image": null
+        },
+        {
+          "text": "silver nitrate",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-062",
+      "text": "Which reaction is a double displacement reaction?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{AgNO3 + NaCl -> AgCl + NaNO3}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{2H2 + O2 -> 2H2O}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Zn + CuSO4 -> ZnSO4 + Cu}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{2HgO -> 2Hg + O2}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-063",
+      "text": "Double displacement reactions involve:",
+      "image": null,
+      "options": [
+        {
+          "text": "exchange of ions between reactants",
+          "image": null
+        },
+        {
+          "text": "single element replacing another only",
+          "image": null
+        },
+        {
+          "text": "one reactant splitting only",
+          "image": null
+        },
+        {
+          "text": "only addition of oxygen",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-064",
+      "text": "A precipitation reaction is indicated by formation of:",
+      "image": null,
+      "options": [
+        {
+          "text": "a gas only",
+          "image": null
+        },
+        {
+          "text": "an insoluble solid",
+          "image": null
+        },
+        {
+          "text": "only heat",
+          "image": null
+        },
+        {
+          "text": "only light",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-065",
+      "text": "Which precipitate is formed when barium chloride reacts with sodium sulphate solution?",
+      "image": null,
+      "options": [
+        {
+          "text": "barium sulphate",
+          "image": null
+        },
+        {
+          "text": "sodium chloride",
+          "image": null
+        },
+        {
+          "text": "barium nitrate",
+          "image": null
+        },
+        {
+          "text": "sodium sulphide",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-066",
+      "text": "The colour of barium sulphate precipitate is:",
+      "image": null,
+      "options": [
+        {
+          "text": "white",
+          "image": null
+        },
+        {
+          "text": "blue",
+          "image": null
+        },
+        {
+          "text": "green",
+          "image": null
+        },
+        {
+          "text": "brown",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-067",
+      "text": "Which reaction forms a white precipitate of silver chloride?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{AgNO3 + NaCl -> AgCl + NaNO3}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Zn + H2SO4 -> ZnSO4 + H2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CaO + H2O -> Ca(OH)2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{2Pb(NO3)2 -> 2PbO + 4NO2 + O2}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-068",
+      "text": "When hydrogen sulphide gas is passed through copper sulphate solution, the reaction is:",
+      "image": null,
+      "options": [
+        {
+          "text": "combination",
+          "image": null
+        },
+        {
+          "text": "displacement",
+          "image": null
+        },
+        {
+          "text": "decomposition",
+          "image": null
+        },
+        {
+          "text": "double decomposition",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-069",
+      "text": "The black precipitate in the reaction of $\\ce{H2S}$ with copper sulphate is:",
+      "image": null,
+      "options": [
+        {
+          "text": "copper sulphide",
+          "image": null
+        },
+        {
+          "text": "copper oxide",
+          "image": null
+        },
+        {
+          "text": "copper nitrate",
+          "image": null
+        },
+        {
+          "text": "copper hydroxide",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-070",
+      "text": "A student adds dilute $\\ce{HCl}$ to zinc granules. The gas evolved burns with:",
+      "image": null,
+      "options": [
+        {
+          "text": "a pop sound",
+          "image": null
+        },
+        {
+          "text": "a blue precipitate",
+          "image": null
+        },
+        {
+          "text": "a brown fume",
+          "image": null
+        },
+        {
+          "text": "a green flame only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-071",
+      "text": "When dilute hydrochloric acid reacts with zinc, the gas evolved is:",
+      "image": null,
+      "options": [
+        {
+          "text": "oxygen",
+          "image": null
+        },
+        {
+          "text": "hydrogen",
+          "image": null
+        },
+        {
+          "text": "carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "nitrogen",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-072",
+      "text": "When sodium carbonate solution is added to dilute hydrochloric acid, the gas evolved is:",
+      "image": null,
+      "options": [
+        {
+          "text": "brown nitrogen dioxide",
+          "image": null
+        },
+        {
+          "text": "colourless carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "green chlorine",
+          "image": null
+        },
+        {
+          "text": "blue oxygen",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-073",
+      "text": "The reaction of sodium carbonate with hydrochloric acid forms:",
+      "image": null,
+      "options": [
+        {
+          "text": "sodium chloride, water and carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "sodium hydroxide only",
+          "image": null
+        },
+        {
+          "text": "sodium metal and hydrogen",
+          "image": null
+        },
+        {
+          "text": "sodium oxide only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-074",
+      "text": "A neutralisation reaction is represented by:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{NaOH + HNO3 -> NaNO3 + H2O}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Zn + CuSO4 -> ZnSO4 + Cu}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{2HgO -> 2Hg + O2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{4Na + O2 -> 2Na2O}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-075",
+      "text": "Which type of reaction is $\\ce{NaOH + HNO3 -> NaNO3 + H2O}$?",
+      "image": null,
+      "options": [
+        {
+          "text": "neutralisation",
+          "image": null
+        },
+        {
+          "text": "photolysis",
+          "image": null
+        },
+        {
+          "text": "thermal decomposition",
+          "image": null
+        },
+        {
+          "text": "displacement",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-076",
+      "text": "Oxidation involves:",
+      "image": null,
+      "options": [
+        {
+          "text": "addition of oxygen",
+          "image": null
+        },
+        {
+          "text": "addition of hydrogen only",
+          "image": null
+        },
+        {
+          "text": "removal of oxygen only",
+          "image": null
+        },
+        {
+          "text": "no electron change ever",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-077",
+      "text": "Reduction involves:",
+      "image": null,
+      "options": [
+        {
+          "text": "addition of oxygen",
+          "image": null
+        },
+        {
+          "text": "removal of hydrogen",
+          "image": null
+        },
+        {
+          "text": "addition of hydrogen or removal of oxygen",
+          "image": null
+        },
+        {
+          "text": "only addition of nitrogen",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-078",
+      "text": "A substance that gains oxygen is said to be:",
+      "image": null,
+      "options": [
+        {
+          "text": "reduced",
+          "image": null
+        },
+        {
+          "text": "oxidised",
+          "image": null
+        },
+        {
+          "text": "neutralised",
+          "image": null
+        },
+        {
+          "text": "precipitated",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-079",
+      "text": "A substance that loses oxygen is said to be:",
+      "image": null,
+      "options": [
+        {
+          "text": "oxidised",
+          "image": null
+        },
+        {
+          "text": "reduced",
+          "image": null
+        },
+        {
+          "text": "sublimed",
+          "image": null
+        },
+        {
+          "text": "hydrated",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-080",
+      "text": "A redox reaction involves:",
+      "image": null,
+      "options": [
+        {
+          "text": "only oxidation",
+          "image": null
+        },
+        {
+          "text": "only reduction",
+          "image": null
+        },
+        {
+          "text": "oxidation and reduction simultaneously",
+          "image": null
+        },
+        {
+          "text": "only precipitation",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-081",
+      "text": "In $\\ce{CuO + H2 -> Cu + H2O}$, copper oxide is:",
+      "image": null,
+      "options": [
+        {
+          "text": "oxidised",
+          "image": null
+        },
+        {
+          "text": "reduced",
+          "image": null
+        },
+        {
+          "text": "neutralised",
+          "image": null
+        },
+        {
+          "text": "precipitated",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-082",
+      "text": "In $\\ce{CuO + H2 -> Cu + H2O}$, hydrogen is:",
+      "image": null,
+      "options": [
+        {
+          "text": "reduced",
+          "image": null
+        },
+        {
+          "text": "oxidised",
+          "image": null
+        },
+        {
+          "text": "neither oxidised nor reduced",
+          "image": null
+        },
+        {
+          "text": "converted into copper",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-083",
+      "text": "In $\\ce{ZnO + C -> Zn + CO}$, carbon is:",
+      "image": null,
+      "options": [
+        {
+          "text": "oxidised",
+          "image": null
+        },
+        {
+          "text": "reduced",
+          "image": null
+        },
+        {
+          "text": "neutralised",
+          "image": null
+        },
+        {
+          "text": "unchanged",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-084",
+      "text": "In $\\ce{ZnO + C -> Zn + CO}$, zinc oxide is:",
+      "image": null,
+      "options": [
+        {
+          "text": "oxidised",
+          "image": null
+        },
+        {
+          "text": "reduced",
+          "image": null
+        },
+        {
+          "text": "hydrated",
+          "image": null
+        },
+        {
+          "text": "precipitated",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-085",
+      "text": "Which statement is correct for $\\ce{3Fe + 4H2O -> Fe3O4 + 4H2}$?",
+      "image": null,
+      "options": [
+        {
+          "text": "Iron is oxidised and water is reduced",
+          "image": null
+        },
+        {
+          "text": "Iron is reduced and water is oxidised",
+          "image": null
+        },
+        {
+          "text": "Both iron and water are oxidised",
+          "image": null
+        },
+        {
+          "text": "Neither is oxidised",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-086",
+      "text": "In the reaction of iron with steam, water acts as:",
+      "image": null,
+      "options": [
+        {
+          "text": "reducing agent",
+          "image": null
+        },
+        {
+          "text": "oxidising agent",
+          "image": null
+        },
+        {
+          "text": "neutral salt",
+          "image": null
+        },
+        {
+          "text": "precipitate",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-087",
+      "text": "Which process causes rusting of iron?",
+      "image": null,
+      "options": [
+        {
+          "text": "oxidation",
+          "image": null
+        },
+        {
+          "text": "reduction only",
+          "image": null
+        },
+        {
+          "text": "neutralisation",
+          "image": null
+        },
+        {
+          "text": "sublimation",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-088",
+      "text": "Rust is generally represented as:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{Fe2O3 . xH2O}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{FeO}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{FeCl3}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{FeSO4}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-089",
+      "text": "Corrosion of iron needs the presence of:",
+      "image": null,
+      "options": [
+        {
+          "text": "oxygen and moisture",
+          "image": null
+        },
+        {
+          "text": "nitrogen and carbon dioxide only",
+          "image": null
+        },
+        {
+          "text": "hydrogen only",
+          "image": null
+        },
+        {
+          "text": "dry oxygen only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-090",
+      "text": "Which metal does not corrode easily among the options?",
+      "image": null,
+      "options": [
+        {
+          "text": "Iron",
+          "image": null
+        },
+        {
+          "text": "Gold",
+          "image": null
+        },
+        {
+          "text": "Zinc",
+          "image": null
+        },
+        {
+          "text": "Magnesium",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-091",
+      "text": "Rancidity is associated with oxidation of:",
+      "image": null,
+      "options": [
+        {
+          "text": "fats and oils",
+          "image": null
+        },
+        {
+          "text": "salts only",
+          "image": null
+        },
+        {
+          "text": "metals only",
+          "image": null
+        },
+        {
+          "text": "water",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-092",
+      "text": "Rancidity can be prevented by:",
+      "image": null,
+      "options": [
+        {
+          "text": "keeping food in airtight containers",
+          "image": null
+        },
+        {
+          "text": "adding more oxygen",
+          "image": null
+        },
+        {
+          "text": "exposing food to sunlight",
+          "image": null
+        },
+        {
+          "text": "keeping food warm and open",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-093",
+      "text": "Flushing food packets with nitrogen helps prevent:",
+      "image": null,
+      "options": [
+        {
+          "text": "rancidity",
+          "image": null
+        },
+        {
+          "text": "precipitation",
+          "image": null
+        },
+        {
+          "text": "neutralisation",
+          "image": null
+        },
+        {
+          "text": "photolysis",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-094",
+      "text": "Antioxidants are added to foods mainly to prevent:",
+      "image": null,
+      "options": [
+        {
+          "text": "rancidity",
+          "image": null
+        },
+        {
+          "text": "combination reaction",
+          "image": null
+        },
+        {
+          "text": "melting",
+          "image": null
+        },
+        {
+          "text": "freezing",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-095",
+      "text": "Which statement about corrosion is correct?",
+      "image": null,
+      "options": [
+        {
+          "text": "It is always useful",
+          "image": null
+        },
+        {
+          "text": "It damages metals slowly",
+          "image": null
+        },
+        {
+          "text": "It happens only to gold",
+          "image": null
+        },
+        {
+          "text": "It does not involve chemical change",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-096",
+      "text": "Which method helps prevent corrosion of iron?",
+      "image": null,
+      "options": [
+        {
+          "text": "painting",
+          "image": null
+        },
+        {
+          "text": "leaving in moist air",
+          "image": null
+        },
+        {
+          "text": "scratching the surface",
+          "image": null
+        },
+        {
+          "text": "adding salt water",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-097",
+      "text": "The reaction $\\ce{2Cu + O2 -> 2CuO}$ produces a coating that is:",
+      "image": null,
+      "options": [
+        {
+          "text": "black",
+          "image": null
+        },
+        {
+          "text": "white",
+          "image": null
+        },
+        {
+          "text": "blue",
+          "image": null
+        },
+        {
+          "text": "green",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-098",
+      "text": "When copper powder is heated in air, the surface becomes:",
+      "image": null,
+      "options": [
+        {
+          "text": "black due to copper oxide",
+          "image": null
+        },
+        {
+          "text": "white due to copper chloride",
+          "image": null
+        },
+        {
+          "text": "green due to copper sulphate",
+          "image": null
+        },
+        {
+          "text": "yellow due to copper nitrate",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-099",
+      "text": "Hydrogen sulphide behaves as a reducing agent when it is oxidised to:",
+      "image": null,
+      "options": [
+        {
+          "text": "water",
+          "image": null
+        },
+        {
+          "text": "sulphur",
+          "image": null
+        },
+        {
+          "text": "hydrogen",
+          "image": null
+        },
+        {
+          "text": "copper",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-100",
+      "text": "In the reaction $\\ce{2Pb(NO3)2 -> 2PbO + 4NO2 + O2}$, the reaction type is:",
+      "image": null,
+      "options": [
+        {
+          "text": "combination",
+          "image": null
+        },
+        {
+          "text": "thermal decomposition",
+          "image": null
+        },
+        {
+          "text": "displacement",
+          "image": null
+        },
+        {
+          "text": "neutralisation",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-101",
+      "text": "Which reaction produces both $\\ce{NO2}$ and $\\ce{O2}$ on heating?",
+      "image": null,
+      "options": [
+        {
+          "text": "thermal decomposition of lead nitrate",
+          "image": null
+        },
+        {
+          "text": "reaction of zinc with acid",
+          "image": null
+        },
+        {
+          "text": "combination of calcium oxide with water",
+          "image": null
+        },
+        {
+          "text": "reaction of barium chloride with sodium sulphate",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-102",
+      "text": "Which compound decomposes in sunlight to give silver and chlorine?",
+      "image": null,
+      "options": [
+        {
+          "text": "silver chloride",
+          "image": null
+        },
+        {
+          "text": "sodium chloride",
+          "image": null
+        },
+        {
+          "text": "calcium chloride",
+          "image": null
+        },
+        {
+          "text": "hydrogen chloride",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-103",
+      "text": "Which equation represents a displacement reaction involving iron?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{Fe + CuSO4 -> FeSO4 + Cu}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CaO + H2O -> Ca(OH)2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{2AgCl -> 2Ag + Cl2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{NaOH + HCl -> NaCl + H2O}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-104",
+      "text": "Which reaction shows exchange of ions?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{BaCl2 + Na2SO4 -> BaSO4 + 2NaCl}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{2Mg + O2 -> 2MgO}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Zn + H2SO4 -> ZnSO4 + H2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CaCO3 -> CaO + CO2}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-105",
+      "text": "A reaction in which two or more substances combine to form one product is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "combination reaction",
+          "image": null
+        },
+        {
+          "text": "decomposition reaction",
+          "image": null
+        },
+        {
+          "text": "displacement reaction",
+          "image": null
+        },
+        {
+          "text": "double displacement reaction",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-106",
+      "text": "A reaction in which one reactant breaks down into simpler products is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "combination reaction",
+          "image": null
+        },
+        {
+          "text": "decomposition reaction",
+          "image": null
+        },
+        {
+          "text": "displacement reaction",
+          "image": null
+        },
+        {
+          "text": "precipitation reaction",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-107",
+      "text": "A reaction in which a more reactive metal replaces a less reactive metal is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "displacement reaction",
+          "image": null
+        },
+        {
+          "text": "combination reaction",
+          "image": null
+        },
+        {
+          "text": "decomposition reaction",
+          "image": null
+        },
+        {
+          "text": "esterification",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-108",
+      "text": "A reaction in which two compounds exchange ions is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "double displacement reaction",
+          "image": null
+        },
+        {
+          "text": "combination reaction",
+          "image": null
+        },
+        {
+          "text": "decomposition reaction",
+          "image": null
+        },
+        {
+          "text": "oxidation only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-109",
+      "text": "Which reaction is an example of oxidation?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{4P + 5O2 -> 2P2O5}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{2AgCl -> 2Ag + Cl2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CaCO3 -> CaO + CO2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{NaCl + AgNO3 -> AgCl + NaNO3}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-110",
+      "text": "Which reaction is used as an example of a precipitation reaction?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{Na2SO4 + BaCl2 -> BaSO4 + 2NaCl}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{2H2 + O2 -> 2H2O}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Zn + CuSO4 -> ZnSO4 + Cu}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CaO + H2O -> Ca(OH)2}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-111",
+      "text": "The precipitate in $\\ce{Pb^{2+} + 2OH- -> Pb(OH)2}$ is usually:",
+      "image": null,
+      "options": [
+        {
+          "text": "green",
+          "image": null
+        },
+        {
+          "text": "blue",
+          "image": null
+        },
+        {
+          "text": "brown",
+          "image": null
+        },
+        {
+          "text": "white",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-112",
+      "text": "The precipitate in $\\ce{Cu^{2+} + 2OH- -> Cu(OH)2}$ is usually:",
+      "image": null,
+      "options": [
+        {
+          "text": "green",
+          "image": null
+        },
+        {
+          "text": "blue",
+          "image": null
+        },
+        {
+          "text": "brown",
+          "image": null
+        },
+        {
+          "text": "white",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-113",
+      "text": "The precipitate in $\\ce{Ca^{2+} + 2OH- -> Ca(OH)2}$ is usually:",
+      "image": null,
+      "options": [
+        {
+          "text": "green",
+          "image": null
+        },
+        {
+          "text": "blue",
+          "image": null
+        },
+        {
+          "text": "brown",
+          "image": null
+        },
+        {
+          "text": "white",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-114",
+      "text": "Which statement is true about changing formulae while balancing equations?",
+      "image": null,
+      "options": [
+        {
+          "text": "Formulae may be changed freely",
+          "image": null
+        },
+        {
+          "text": "Formulae of reactants and products must not be changed",
+          "image": null
+        },
+        {
+          "text": "Only product formulae may be changed",
+          "image": null
+        },
+        {
+          "text": "Only reactant formulae may be changed",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-115",
+      "text": "Which quantity is adjusted to balance a chemical equation?",
+      "image": null,
+      "options": [
+        {
+          "text": "subscripts inside formulae",
+          "image": null
+        },
+        {
+          "text": "coefficients before formulae",
+          "image": null
+        },
+        {
+          "text": "symbols of elements",
+          "image": null
+        },
+        {
+          "text": "atomic masses",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-116",
+      "text": "In $\\ce{N2 + 3H2 -> 2NH3}$, the coefficient of hydrogen is:",
+      "image": null,
+      "options": [
+        {
+          "text": "1",
+          "image": null
+        },
+        {
+          "text": "2",
+          "image": null
+        },
+        {
+          "text": "3",
+          "image": null
+        },
+        {
+          "text": "4",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-117",
+      "text": "In $\\ce{2H2 + O2 -> 2H2O}$, the coefficient of water is:",
+      "image": null,
+      "options": [
+        {
+          "text": "1",
+          "image": null
+        },
+        {
+          "text": "2",
+          "image": null
+        },
+        {
+          "text": "3",
+          "image": null
+        },
+        {
+          "text": "4",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-118",
+      "text": "Which equation is balanced?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{H2 + O2 -> H2O}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{2H2 + O2 -> 2H2O}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{H2 + O2 -> 2H2O}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{2H2 + 2O2 -> H2O}$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-119",
+      "text": "Which equation is not balanced?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{2Mg + O2 -> 2MgO}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Zn + 2HCl -> ZnCl2 + H2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CaCO3 -> CaO + CO2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Fe + O2 -> Fe2O3}$",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-120",
+      "text": "In $\\ce{4Na + O2 -> 2Na2O}$, the total number of sodium atoms on the product side is:",
+      "image": null,
+      "options": [
+        {
+          "text": "1",
+          "image": null
+        },
+        {
+          "text": "2",
+          "image": null
+        },
+        {
+          "text": "3",
+          "image": null
+        },
+        {
+          "text": "4",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-121",
+      "text": "In $\\ce{2Mg + O2 -> 2MgO}$, the total number of oxygen atoms on the reactant side is:",
+      "image": null,
+      "options": [
+        {
+          "text": "1",
+          "image": null
+        },
+        {
+          "text": "2",
+          "image": null
+        },
+        {
+          "text": "3",
+          "image": null
+        },
+        {
+          "text": "4",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-122",
+      "text": "Which reaction is a thermal decomposition reaction?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{CaCO3 -> CaO + CO2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{2AgCl -> 2Ag + Cl2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{2H2O -> 2H2 + O2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Fe + CuSO4 -> FeSO4 + Cu}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-123",
+      "text": "Which reaction is an electrolytic decomposition reaction?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{2H2O -> 2H2 + O2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CaCO3 -> CaO + CO2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{2AgCl -> 2Ag + Cl2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Zn + CuSO4 -> ZnSO4 + Cu}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-124",
+      "text": "Which reaction is a photochemical decomposition reaction?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{2AgCl -> 2Ag + Cl2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CaCO3 -> CaO + CO2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{2H2O -> 2H2 + O2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{2H2 + O2 -> 2H2O}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-125",
+      "text": "Which of the following is an example of a redox reaction?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{CuO + H2 -> Cu + H2O}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{AgNO3 + NaCl -> AgCl + NaNO3}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CaCO3 -> CaO + CO2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{BaCl2 + Na2SO4 -> BaSO4 + 2NaCl}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-126",
+      "text": "In redox reactions, oxidation and reduction occur:",
+      "image": null,
+      "options": [
+        {
+          "text": "separately in different universes",
+          "image": null
+        },
+        {
+          "text": "simultaneously",
+          "image": null
+        },
+        {
+          "text": "only after precipitation",
+          "image": null
+        },
+        {
+          "text": "only in absence of oxygen",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-127",
+      "text": "The substance that causes oxidation of another substance is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "oxidising agent",
+          "image": null
+        },
+        {
+          "text": "reducing agent",
+          "image": null
+        },
+        {
+          "text": "indicator",
+          "image": null
+        },
+        {
+          "text": "catalyst only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-128",
+      "text": "The substance that causes reduction of another substance is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "reducing agent",
+          "image": null
+        },
+        {
+          "text": "oxidising agent",
+          "image": null
+        },
+        {
+          "text": "precipitate",
+          "image": null
+        },
+        {
+          "text": "solvent",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-129",
+      "text": "In $\\ce{CuO + H2 -> Cu + H2O}$, the oxidising agent is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{CuO}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{H2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Cu}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{H2O}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-130",
+      "text": "In $\\ce{CuO + H2 -> Cu + H2O}$, the reducing agent is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{CuO}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{H2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Cu}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{H2O}$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-131",
+      "text": "Which process is a slow oxidation reaction?",
+      "image": null,
+      "options": [
+        {
+          "text": "rusting of iron",
+          "image": null
+        },
+        {
+          "text": "melting of ice",
+          "image": null
+        },
+        {
+          "text": "dissolving sugar",
+          "image": null
+        },
+        {
+          "text": "boiling water",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-132",
+      "text": "Which everyday process is an oxidation reaction?",
+      "image": null,
+      "options": [
+        {
+          "text": "rancidity of oils",
+          "image": null
+        },
+        {
+          "text": "freezing of water",
+          "image": null
+        },
+        {
+          "text": "tearing paper",
+          "image": null
+        },
+        {
+          "text": "sieving flour",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-133",
+      "text": "Which of the following helps slow rancidity?",
+      "image": null,
+      "options": [
+        {
+          "text": "refrigeration",
+          "image": null
+        },
+        {
+          "text": "exposure to air",
+          "image": null
+        },
+        {
+          "text": "keeping food in sunlight",
+          "image": null
+        },
+        {
+          "text": "adding moisture",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-134",
+      "text": "Which gas is often filled in chips packets to prevent rancidity?",
+      "image": null,
+      "options": [
+        {
+          "text": "nitrogen",
+          "image": null
+        },
+        {
+          "text": "oxygen",
+          "image": null
+        },
+        {
+          "text": "chlorine",
+          "image": null
+        },
+        {
+          "text": "carbon dioxide only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-135",
+      "text": "The reaction of hydrogen with oxygen to form water is:",
+      "image": null,
+      "options": [
+        {
+          "text": "combination and exothermic",
+          "image": null
+        },
+        {
+          "text": "decomposition and endothermic",
+          "image": null
+        },
+        {
+          "text": "double displacement only",
+          "image": null
+        },
+        {
+          "text": "precipitation only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-136",
+      "text": "The reaction of zinc with dilute sulphuric acid is:",
+      "image": null,
+      "options": [
+        {
+          "text": "displacement reaction",
+          "image": null
+        },
+        {
+          "text": "combination reaction",
+          "image": null
+        },
+        {
+          "text": "thermal decomposition",
+          "image": null
+        },
+        {
+          "text": "photochemical decomposition",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-137",
+      "text": "The equation $\\ce{Zn + H2SO4 -> ZnSO4 + H2}$ represents:",
+      "image": null,
+      "options": [
+        {
+          "text": "displacement reaction",
+          "image": null
+        },
+        {
+          "text": "double displacement reaction",
+          "image": null
+        },
+        {
+          "text": "combination reaction",
+          "image": null
+        },
+        {
+          "text": "decomposition reaction",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-138",
+      "text": "Which reaction produces hydrogen gas from an acid?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{Zn + H2SO4 -> ZnSO4 + H2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CaO + H2O -> Ca(OH)2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{2AgCl -> 2Ag + Cl2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{BaCl2 + Na2SO4 -> BaSO4 + 2NaCl}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-139",
+      "text": "Which reaction produces a black coating on copper?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{2Cu + O2 -> 2CuO}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CuSO4 + H2S -> CuS + H2SO4}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Cu + FeSO4 ->}$ no reaction",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CuO + H2 -> Cu + H2O}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-140",
+      "text": "Which reaction produces a black precipitate of copper sulphide?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{CuSO4 + H2S -> CuS + H2SO4}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{2Cu + O2 -> 2CuO}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CuO + H2 -> Cu + H2O}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Cu + ZnSO4 ->}$ no reaction",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-141",
+      "text": "Which of these is not a sign of a chemical reaction?",
+      "image": null,
+      "options": [
+        {
+          "text": "change in colour",
+          "image": null
+        },
+        {
+          "text": "evolution of gas",
+          "image": null
+        },
+        {
+          "text": "formation of precipitate",
+          "image": null
+        },
+        {
+          "text": "change in size by cutting",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-142",
+      "text": "Evolution of gas during a chemical reaction can be observed as:",
+      "image": null,
+      "options": [
+        {
+          "text": "bubbling",
+          "image": null
+        },
+        {
+          "text": "melting only",
+          "image": null
+        },
+        {
+          "text": "filtering only",
+          "image": null
+        },
+        {
+          "text": "weighing only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-143",
+      "text": "Formation of an insoluble solid during a reaction is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "precipitation",
+          "image": null
+        },
+        {
+          "text": "sublimation",
+          "image": null
+        },
+        {
+          "text": "distillation",
+          "image": null
+        },
+        {
+          "text": "evaporation",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-144",
+      "text": "When a precipitate forms in a solution, the reaction is often a:",
+      "image": null,
+      "options": [
+        {
+          "text": "double displacement reaction",
+          "image": null
+        },
+        {
+          "text": "combination reaction only",
+          "image": null
+        },
+        {
+          "text": "single element reaction only",
+          "image": null
+        },
+        {
+          "text": "nuclear reaction",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-145",
+      "text": "Which reaction type best describes burning of magnesium ribbon?",
+      "image": null,
+      "options": [
+        {
+          "text": "combination reaction",
+          "image": null
+        },
+        {
+          "text": "double displacement reaction",
+          "image": null
+        },
+        {
+          "text": "neutralisation only",
+          "image": null
+        },
+        {
+          "text": "precipitation only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-146",
+      "text": "Reaction of magnesium with air is:",
+      "image": null,
+      "options": [
+        {
+          "text": "exothermic reaction",
+          "image": null
+        },
+        {
+          "text": "endothermic reaction",
+          "image": null
+        },
+        {
+          "text": "reversible reaction",
+          "image": null
+        },
+        {
+          "text": "substitution reaction",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-147",
+      "text": "Fireworks may contain salts such as:",
+      "image": null,
+      "options": [
+        {
+          "text": "copper chloride",
+          "image": null
+        },
+        {
+          "text": "calcium chloride",
+          "image": null
+        },
+        {
+          "text": "barium chloride",
+          "image": null
+        },
+        {
+          "text": "all of these",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-148",
+      "text": "The colour of copper hydroxide precipitate is:",
+      "image": null,
+      "options": [
+        {
+          "text": "green",
+          "image": null
+        },
+        {
+          "text": "blue",
+          "image": null
+        },
+        {
+          "text": "brown",
+          "image": null
+        },
+        {
+          "text": "white",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-149",
+      "text": "The colour of lead hydroxide precipitate is:",
+      "image": null,
+      "options": [
+        {
+          "text": "green",
+          "image": null
+        },
+        {
+          "text": "blue",
+          "image": null
+        },
+        {
+          "text": "brown",
+          "image": null
+        },
+        {
+          "text": "white",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-150",
+      "text": "The colour of calcium hydroxide precipitate is:",
+      "image": null,
+      "options": [
+        {
+          "text": "green",
+          "image": null
+        },
+        {
+          "text": "blue",
+          "image": null
+        },
+        {
+          "text": "brown",
+          "image": null
+        },
+        {
+          "text": "white",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-151",
+      "text": "In a chemical equation, changing subscripts while balancing is wrong because it:",
+      "image": null,
+      "options": [
+        {
+          "text": "changes the chemical identity of the substance",
+          "image": null
+        },
+        {
+          "text": "makes the equation longer",
+          "image": null
+        },
+        {
+          "text": "adds state symbols",
+          "image": null
+        },
+        {
+          "text": "removes products",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-152",
+      "text": "The hit-and-trial method is used for:",
+      "image": null,
+      "options": [
+        {
+          "text": "balancing simple chemical equations",
+          "image": null
+        },
+        {
+          "text": "separating mixtures only",
+          "image": null
+        },
+        {
+          "text": "measuring pH only",
+          "image": null
+        },
+        {
+          "text": "preventing rust only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-153",
+      "text": "Which equation represents thermite reaction in simplified form?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{Fe2O3 + 2Al -> 2Fe + Al2O3}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CaO + H2O -> Ca(OH)2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{2AgCl -> 2Ag + Cl2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{NaOH + HCl -> NaCl + H2O}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-154",
+      "text": "In the thermite reaction, aluminium is:",
+      "image": null,
+      "options": [
+        {
+          "text": "oxidised",
+          "image": null
+        },
+        {
+          "text": "reduced",
+          "image": null
+        },
+        {
+          "text": "neither oxidised nor reduced",
+          "image": null
+        },
+        {
+          "text": "converted to iron",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-155",
+      "text": "In the thermite reaction, iron(III) oxide is:",
+      "image": null,
+      "options": [
+        {
+          "text": "oxidised",
+          "image": null
+        },
+        {
+          "text": "reduced",
+          "image": null
+        },
+        {
+          "text": "neutralised",
+          "image": null
+        },
+        {
+          "text": "hydrated",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-156",
+      "text": "Magnesium burns in nitrogen to form:",
+      "image": null,
+      "options": [
+        {
+          "text": "magnesium nitride",
+          "image": null
+        },
+        {
+          "text": "magnesium nitrate",
+          "image": null
+        },
+        {
+          "text": "magnesium oxide only",
+          "image": null
+        },
+        {
+          "text": "magnesium chloride",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-157",
+      "text": "Chlorine passed through aqueous potassium iodide forms:",
+      "image": null,
+      "options": [
+        {
+          "text": "potassium chloride and iodine",
+          "image": null
+        },
+        {
+          "text": "potassium nitrate and iodine",
+          "image": null
+        },
+        {
+          "text": "potassium oxide and hydrogen",
+          "image": null
+        },
+        {
+          "text": "potassium sulphate and chlorine",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-158",
+      "text": "Chlorine displaces iodine from potassium iodide because chlorine is:",
+      "image": null,
+      "options": [
+        {
+          "text": "less reactive than iodine",
+          "image": null
+        },
+        {
+          "text": "more reactive than iodine",
+          "image": null
+        },
+        {
+          "text": "a metal",
+          "image": null
+        },
+        {
+          "text": "insoluble in water",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-159",
+      "text": "Burning ethanol in air produces:",
+      "image": null,
+      "options": [
+        {
+          "text": "carbon dioxide and water",
+          "image": null
+        },
+        {
+          "text": "carbon monoxide only",
+          "image": null
+        },
+        {
+          "text": "hydrogen and oxygen",
+          "image": null
+        },
+        {
+          "text": "ethane and oxygen",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-160",
+      "text": "Which of these equations represents combustion of ethanol?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{C2H5OH + 3O2 -> 2CO2 + 3H2O}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{C2H5OH -> C2H4 + H2O}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CH4 + Cl2 -> CH3Cl + HCl}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Zn + H2SO4 -> ZnSO4 + H2}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-161",
+      "text": "Which of these is a balanced decomposition equation?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{2Pb(NO3)2 -> 2PbO + 4NO2 + O2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Pb(NO3)2 -> PbO + NO2 + O2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Pb(NO3)2 -> Pb + NO2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{2Pb(NO3)2 -> PbO + NO2 + O2}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-162",
+      "text": "Which equation is balanced for barium chloride and sodium sulphate?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{BaCl2 + Na2SO4 -> BaSO4 + 2NaCl}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{BaCl2 + Na2SO4 -> BaSO4 + NaCl}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{2BaCl2 + Na2SO4 -> BaSO4 + NaCl}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{BaCl + NaSO4 -> BaSO4 + NaCl}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "expected_time_sec": 90,
+      "score": 2,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-163",
+      "text": "Which observation confirms a reaction between $\\ce{BaCl2}$ and $\\ce{Na2SO4}$ solutions?",
+      "image": null,
+      "options": [
+        {
+          "text": "formation of white precipitate",
+          "image": null
+        },
+        {
+          "text": "formation of blue gas",
+          "image": null
+        },
+        {
+          "text": "formation of black flame",
+          "image": null
+        },
+        {
+          "text": "no visible change ever",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-164",
+      "text": "When iron is exposed to moist air for long, it forms:",
+      "image": null,
+      "options": [
+        {
+          "text": "rust",
+          "image": null
+        },
+        {
+          "text": "quicklime",
+          "image": null
+        },
+        {
+          "text": "slaked lime",
+          "image": null
+        },
+        {
+          "text": "barium sulphate",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-165",
+      "text": "Which condition accelerates rancidity in food?",
+      "image": null,
+      "options": [
+        {
+          "text": "exposure to air",
+          "image": null
+        },
+        {
+          "text": "airtight packing",
+          "image": null
+        },
+        {
+          "text": "refrigeration",
+          "image": null
+        },
+        {
+          "text": "addition of antioxidants",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-166",
+      "text": "Which condition slows oxidation of oils in food?",
+      "image": null,
+      "options": [
+        {
+          "text": "storing in airtight containers",
+          "image": null
+        },
+        {
+          "text": "keeping open in warm air",
+          "image": null
+        },
+        {
+          "text": "adding water",
+          "image": null
+        },
+        {
+          "text": "exposing to sunlight",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-167",
+      "text": "Which phrase best describes corrosion?",
+      "image": null,
+      "options": [
+        {
+          "text": "slow eating away of metals by substances around them",
+          "image": null
+        },
+        {
+          "text": "rapid melting of ice",
+          "image": null
+        },
+        {
+          "text": "precipitation of salt only",
+          "image": null
+        },
+        {
+          "text": "formation of water from hydrogen",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-chem-rxn-eq-168",
+      "text": "Which phrase best describes rancidity?",
+      "image": null,
+      "options": [
+        {
+          "text": "oxidation of fats and oils producing unpleasant smell and taste",
+          "image": null
+        },
+        {
+          "text": "formation of rust on iron only",
+          "image": null
+        },
+        {
+          "text": "decomposition of limestone only",
+          "image": null
+        },
+        {
+          "text": "neutralisation of acid by base",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    }
+  ]
+}

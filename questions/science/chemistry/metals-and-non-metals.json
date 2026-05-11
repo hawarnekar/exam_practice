@@ -1,0 +1,3591 @@
+{
+  "subject": "Science",
+  "topic": "Chemistry",
+  "subtopic": "Metals and Non-metals",
+  "questions": [
+    {
+      "id": "sci-metals-nonmetals-001",
+      "text": "Which property of metals allows them to be beaten into thin sheets?",
+      "image": null,
+      "options": [
+        {
+          "text": "Ductility",
+          "image": null
+        },
+        {
+          "text": "Malleability",
+          "image": null
+        },
+        {
+          "text": "Sonority",
+          "image": null
+        },
+        {
+          "text": "Brittleness",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-002",
+      "text": "Which property of metals allows them to be drawn into wires?",
+      "image": null,
+      "options": [
+        {
+          "text": "Malleability",
+          "image": null
+        },
+        {
+          "text": "Ductility",
+          "image": null
+        },
+        {
+          "text": "Hardness",
+          "image": null
+        },
+        {
+          "text": "Lustre",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-003",
+      "text": "Which non-metal is a good conductor of electricity?",
+      "image": null,
+      "options": [
+        {
+          "text": "Sulphur",
+          "image": null
+        },
+        {
+          "text": "Phosphorus",
+          "image": null
+        },
+        {
+          "text": "Graphite",
+          "image": null
+        },
+        {
+          "text": "Iodine",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-004",
+      "text": "Which metal is liquid at room temperature?",
+      "image": null,
+      "options": [
+        {
+          "text": "Sodium",
+          "image": null
+        },
+        {
+          "text": "Mercury",
+          "image": null
+        },
+        {
+          "text": "Aluminium",
+          "image": null
+        },
+        {
+          "text": "Copper",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-005",
+      "text": "Which non-metal is liquid at room temperature?",
+      "image": null,
+      "options": [
+        {
+          "text": "Bromine",
+          "image": null
+        },
+        {
+          "text": "Chlorine",
+          "image": null
+        },
+        {
+          "text": "Iodine",
+          "image": null
+        },
+        {
+          "text": "Sulphur",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-006",
+      "text": "Which metal can be cut easily with a knife?",
+      "image": null,
+      "options": [
+        {
+          "text": "Iron",
+          "image": null
+        },
+        {
+          "text": "Sodium",
+          "image": null
+        },
+        {
+          "text": "Copper",
+          "image": null
+        },
+        {
+          "text": "Silver",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-007",
+      "text": "Which of the following is not a metal?",
+      "image": null,
+      "options": [
+        {
+          "text": "Aluminium",
+          "image": null
+        },
+        {
+          "text": "Zinc",
+          "image": null
+        },
+        {
+          "text": "Sulphur",
+          "image": null
+        },
+        {
+          "text": "Magnesium",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-008",
+      "text": "Which of the following is a metal?",
+      "image": null,
+      "options": [
+        {
+          "text": "Carbon",
+          "image": null
+        },
+        {
+          "text": "Nitrogen",
+          "image": null
+        },
+        {
+          "text": "Copper",
+          "image": null
+        },
+        {
+          "text": "Oxygen",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-009",
+      "text": "Which metal has the highest electrical conductivity among the options?",
+      "image": null,
+      "options": [
+        {
+          "text": "Iron",
+          "image": null
+        },
+        {
+          "text": "Silver",
+          "image": null
+        },
+        {
+          "text": "Lead",
+          "image": null
+        },
+        {
+          "text": "Tin",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-010",
+      "text": "Which metal is generally stored under kerosene?",
+      "image": null,
+      "options": [
+        {
+          "text": "Copper",
+          "image": null
+        },
+        {
+          "text": "Sodium",
+          "image": null
+        },
+        {
+          "text": "Gold",
+          "image": null
+        },
+        {
+          "text": "Platinum",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-011",
+      "text": "Why is sodium stored under kerosene?",
+      "image": null,
+      "options": [
+        {
+          "text": "It melts in air",
+          "image": null
+        },
+        {
+          "text": "It reacts vigorously with air and moisture",
+          "image": null
+        },
+        {
+          "text": "It is heavier than water",
+          "image": null
+        },
+        {
+          "text": "It dissolves in kerosene",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-012",
+      "text": "Which metal is used for making electric wires because of its high conductivity and ductility?",
+      "image": null,
+      "options": [
+        {
+          "text": "Lead",
+          "image": null
+        },
+        {
+          "text": "Copper",
+          "image": null
+        },
+        {
+          "text": "Mercury",
+          "image": null
+        },
+        {
+          "text": "Sodium",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-013",
+      "text": "Which pair contains only metals?",
+      "image": null,
+      "options": [
+        {
+          "text": "Carbon and sulphur",
+          "image": null
+        },
+        {
+          "text": "Iron and copper",
+          "image": null
+        },
+        {
+          "text": "Oxygen and chlorine",
+          "image": null
+        },
+        {
+          "text": "Nitrogen and iodine",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-014",
+      "text": "Which pair contains only non-metals?",
+      "image": null,
+      "options": [
+        {
+          "text": "Copper and zinc",
+          "image": null
+        },
+        {
+          "text": "Sulphur and oxygen",
+          "image": null
+        },
+        {
+          "text": "Iron and sodium",
+          "image": null
+        },
+        {
+          "text": "Calcium and magnesium",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-015",
+      "text": "Which metal is known for being very light and is used in aircraft bodies?",
+      "image": null,
+      "options": [
+        {
+          "text": "Lead",
+          "image": null
+        },
+        {
+          "text": "Aluminium",
+          "image": null
+        },
+        {
+          "text": "Mercury",
+          "image": null
+        },
+        {
+          "text": "Gold",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-016",
+      "text": "Which metal is a poor conductor of heat compared with most metals?",
+      "image": null,
+      "options": [
+        {
+          "text": "Lead",
+          "image": null
+        },
+        {
+          "text": "Copper",
+          "image": null
+        },
+        {
+          "text": "Silver",
+          "image": null
+        },
+        {
+          "text": "Aluminium",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-017",
+      "text": "The sound produced by striking a metal object is due to metals being:",
+      "image": null,
+      "options": [
+        {
+          "text": "brittle",
+          "image": null
+        },
+        {
+          "text": "sonorous",
+          "image": null
+        },
+        {
+          "text": "transparent",
+          "image": null
+        },
+        {
+          "text": "volatile",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-018",
+      "text": "Which of these is generally brittle in solid form?",
+      "image": null,
+      "options": [
+        {
+          "text": "Copper",
+          "image": null
+        },
+        {
+          "text": "Iron",
+          "image": null
+        },
+        {
+          "text": "Sulphur",
+          "image": null
+        },
+        {
+          "text": "Aluminium",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-019",
+      "text": "Which element shows properties of both metals and non-metals?",
+      "image": null,
+      "options": [
+        {
+          "text": "Sodium",
+          "image": null
+        },
+        {
+          "text": "Silicon",
+          "image": null
+        },
+        {
+          "text": "Calcium",
+          "image": null
+        },
+        {
+          "text": "Chlorine",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-020",
+      "text": "Which term describes elements that show both metallic and non-metallic properties?",
+      "image": null,
+      "options": [
+        {
+          "text": "Alloys",
+          "image": null
+        },
+        {
+          "text": "Metalloids",
+          "image": null
+        },
+        {
+          "text": "Ores",
+          "image": null
+        },
+        {
+          "text": "Gangue",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-021",
+      "text": "When magnesium ribbon burns in air, the product formed is mainly:",
+      "image": null,
+      "options": [
+        {
+          "text": "magnesium chloride",
+          "image": null
+        },
+        {
+          "text": "magnesium oxide",
+          "image": null
+        },
+        {
+          "text": "magnesium sulphide",
+          "image": null
+        },
+        {
+          "text": "magnesium carbonate",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-022",
+      "text": "The ash formed when magnesium burns is:",
+      "image": null,
+      "options": [
+        {
+          "text": "acidic",
+          "image": null
+        },
+        {
+          "text": "basic",
+          "image": null
+        },
+        {
+          "text": "neutral",
+          "image": null
+        },
+        {
+          "text": "amphoteric only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-023",
+      "text": "Metal oxides are generally:",
+      "image": null,
+      "options": [
+        {
+          "text": "acidic",
+          "image": null
+        },
+        {
+          "text": "basic",
+          "image": null
+        },
+        {
+          "text": "neutral gases",
+          "image": null
+        },
+        {
+          "text": "organic compounds",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-024",
+      "text": "Non-metal oxides are generally:",
+      "image": null,
+      "options": [
+        {
+          "text": "basic",
+          "image": null
+        },
+        {
+          "text": "acidic",
+          "image": null
+        },
+        {
+          "text": "metallic",
+          "image": null
+        },
+        {
+          "text": "salty only",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-025",
+      "text": "Which oxide is amphoteric?",
+      "image": null,
+      "options": [
+        {
+          "text": "Sodium oxide",
+          "image": null
+        },
+        {
+          "text": "Aluminium oxide",
+          "image": null
+        },
+        {
+          "text": "Carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "Sulphur dioxide",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-026",
+      "text": "Which pair of oxides is amphoteric?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{Na2O}$ and $\\ce{K2O}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Al2O3}$ and $\\ce{ZnO}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CO2}$ and $\\ce{SO2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{MgO}$ and $\\ce{CaO}$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-027",
+      "text": "Which gas is evolved when most metals react with dilute acids?",
+      "image": null,
+      "options": [
+        {
+          "text": "Oxygen",
+          "image": null
+        },
+        {
+          "text": "Hydrogen",
+          "image": null
+        },
+        {
+          "text": "Nitrogen",
+          "image": null
+        },
+        {
+          "text": "Carbon dioxide",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-028",
+      "text": "When zinc reacts with dilute hydrochloric acid, the salt formed is:",
+      "image": null,
+      "options": [
+        {
+          "text": "zinc oxide",
+          "image": null
+        },
+        {
+          "text": "zinc chloride",
+          "image": null
+        },
+        {
+          "text": "zinc sulphate",
+          "image": null
+        },
+        {
+          "text": "zinc carbonate",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-029",
+      "text": "Which metal reacts with dilute hydrochloric acid to produce hydrogen gas?",
+      "image": null,
+      "options": [
+        {
+          "text": "Copper",
+          "image": null
+        },
+        {
+          "text": "Silver",
+          "image": null
+        },
+        {
+          "text": "Zinc",
+          "image": null
+        },
+        {
+          "text": "Gold",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-030",
+      "text": "Which metal does not normally react with dilute hydrochloric acid?",
+      "image": null,
+      "options": [
+        {
+          "text": "Magnesium",
+          "image": null
+        },
+        {
+          "text": "Zinc",
+          "image": null
+        },
+        {
+          "text": "Iron",
+          "image": null
+        },
+        {
+          "text": "Copper",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-031",
+      "text": "A metal reacts with water to form metal hydroxide and hydrogen. Which metal fits this observation?",
+      "image": null,
+      "options": [
+        {
+          "text": "Sodium",
+          "image": null
+        },
+        {
+          "text": "Copper",
+          "image": null
+        },
+        {
+          "text": "Silver",
+          "image": null
+        },
+        {
+          "text": "Gold",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-032",
+      "text": "Which metal reacts vigorously with cold water?",
+      "image": null,
+      "options": [
+        {
+          "text": "Iron",
+          "image": null
+        },
+        {
+          "text": "Sodium",
+          "image": null
+        },
+        {
+          "text": "Copper",
+          "image": null
+        },
+        {
+          "text": "Lead",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-033",
+      "text": "Which metal reacts with hot water but not vigorously with cold water?",
+      "image": null,
+      "options": [
+        {
+          "text": "Magnesium",
+          "image": null
+        },
+        {
+          "text": "Gold",
+          "image": null
+        },
+        {
+          "text": "Silver",
+          "image": null
+        },
+        {
+          "text": "Copper",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-034",
+      "text": "Which metal reacts with steam to form a metal oxide and hydrogen?",
+      "image": null,
+      "options": [
+        {
+          "text": "Copper",
+          "image": null
+        },
+        {
+          "text": "Silver",
+          "image": null
+        },
+        {
+          "text": "Iron",
+          "image": null
+        },
+        {
+          "text": "Gold",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-035",
+      "text": "Which product is formed when calcium reacts with water?",
+      "image": null,
+      "options": [
+        {
+          "text": "Calcium oxide and oxygen",
+          "image": null
+        },
+        {
+          "text": "Calcium hydroxide and hydrogen",
+          "image": null
+        },
+        {
+          "text": "Calcium chloride and hydrogen",
+          "image": null
+        },
+        {
+          "text": "Calcium carbonate and water",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-036",
+      "text": "Why does calcium float when it reacts with water?",
+      "image": null,
+      "options": [
+        {
+          "text": "It becomes a gas",
+          "image": null
+        },
+        {
+          "text": "Hydrogen bubbles stick to its surface",
+          "image": null
+        },
+        {
+          "text": "It turns into calcium oxide",
+          "image": null
+        },
+        {
+          "text": "It dissolves completely instantly",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-037",
+      "text": "Which gas is evolved when a metal reacts with water?",
+      "image": null,
+      "options": [
+        {
+          "text": "Carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "Hydrogen",
+          "image": null
+        },
+        {
+          "text": "Oxygen",
+          "image": null
+        },
+        {
+          "text": "Chlorine",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-038",
+      "text": "The correct word equation for sodium reacting with water gives sodium hydroxide and:",
+      "image": null,
+      "options": [
+        {
+          "text": "oxygen",
+          "image": null
+        },
+        {
+          "text": "hydrogen",
+          "image": null
+        },
+        {
+          "text": "carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "chlorine",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-039",
+      "text": "Which metal catches fire when placed in cold water?",
+      "image": null,
+      "options": [
+        {
+          "text": "Sodium",
+          "image": null
+        },
+        {
+          "text": "Zinc",
+          "image": null
+        },
+        {
+          "text": "Lead",
+          "image": null
+        },
+        {
+          "text": "Copper",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-040",
+      "text": "Which metal does not react with water or steam under ordinary school-lab conditions?",
+      "image": null,
+      "options": [
+        {
+          "text": "Potassium",
+          "image": null
+        },
+        {
+          "text": "Sodium",
+          "image": null
+        },
+        {
+          "text": "Copper",
+          "image": null
+        },
+        {
+          "text": "Calcium",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-041",
+      "text": "In the reactivity series, the most reactive metal among these is:",
+      "image": null,
+      "options": [
+        {
+          "text": "Copper",
+          "image": null
+        },
+        {
+          "text": "Iron",
+          "image": null
+        },
+        {
+          "text": "Sodium",
+          "image": null
+        },
+        {
+          "text": "Silver",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-042",
+      "text": "Which metal is less reactive than hydrogen?",
+      "image": null,
+      "options": [
+        {
+          "text": "Sodium",
+          "image": null
+        },
+        {
+          "text": "Calcium",
+          "image": null
+        },
+        {
+          "text": "Copper",
+          "image": null
+        },
+        {
+          "text": "Magnesium",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-043",
+      "text": "Which metal can displace copper from copper sulphate solution?",
+      "image": null,
+      "options": [
+        {
+          "text": "Silver",
+          "image": null
+        },
+        {
+          "text": "Gold",
+          "image": null
+        },
+        {
+          "text": "Iron",
+          "image": null
+        },
+        {
+          "text": "Platinum",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-044",
+      "text": "When iron nails are dipped in copper sulphate solution, the solution gradually becomes:",
+      "image": null,
+      "options": [
+        {
+          "text": "green",
+          "image": null
+        },
+        {
+          "text": "red",
+          "image": null
+        },
+        {
+          "text": "black",
+          "image": null
+        },
+        {
+          "text": "colourless",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-045",
+      "text": "The reddish-brown coating formed on iron placed in copper sulphate solution is:",
+      "image": null,
+      "options": [
+        {
+          "text": "iron",
+          "image": null
+        },
+        {
+          "text": "copper",
+          "image": null
+        },
+        {
+          "text": "zinc",
+          "image": null
+        },
+        {
+          "text": "silver",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-046",
+      "text": "Which reaction shows displacement?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{Cu + ZnSO4 ->}$ no reaction",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Zn + CuSO4 -> ZnSO4 + Cu}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Ag + HCl ->}$ no reaction",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Au + O2 ->}$ no reaction",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-047",
+      "text": "A metal M displaces iron from iron sulphate solution. M is likely to be:",
+      "image": null,
+      "options": [
+        {
+          "text": "Copper",
+          "image": null
+        },
+        {
+          "text": "Silver",
+          "image": null
+        },
+        {
+          "text": "Magnesium",
+          "image": null
+        },
+        {
+          "text": "Gold",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-048",
+      "text": "Which metal cannot displace zinc from zinc sulphate solution?",
+      "image": null,
+      "options": [
+        {
+          "text": "Magnesium",
+          "image": null
+        },
+        {
+          "text": "Calcium",
+          "image": null
+        },
+        {
+          "text": "Copper",
+          "image": null
+        },
+        {
+          "text": "Sodium",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-049",
+      "text": "Which metal is more reactive than copper but less reactive than zinc?",
+      "image": null,
+      "options": [
+        {
+          "text": "Iron",
+          "image": null
+        },
+        {
+          "text": "Silver",
+          "image": null
+        },
+        {
+          "text": "Gold",
+          "image": null
+        },
+        {
+          "text": "Platinum",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-050",
+      "text": "Which of the following is arranged in decreasing reactivity?",
+      "image": null,
+      "options": [
+        {
+          "text": "Cu, Fe, Zn, Mg",
+          "image": null
+        },
+        {
+          "text": "Mg, Zn, Fe, Cu",
+          "image": null
+        },
+        {
+          "text": "Fe, Mg, Cu, Zn",
+          "image": null
+        },
+        {
+          "text": "Zn, Cu, Mg, Fe",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-051",
+      "text": "Which statement is true for potassium and sodium?",
+      "image": null,
+      "options": [
+        {
+          "text": "They are less reactive than copper",
+          "image": null
+        },
+        {
+          "text": "They are highly reactive metals",
+          "image": null
+        },
+        {
+          "text": "They are non-metals",
+          "image": null
+        },
+        {
+          "text": "They do not react with water",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-052",
+      "text": "Which metal is placed below hydrogen in the reactivity series?",
+      "image": null,
+      "options": [
+        {
+          "text": "Copper",
+          "image": null
+        },
+        {
+          "text": "Calcium",
+          "image": null
+        },
+        {
+          "text": "Zinc",
+          "image": null
+        },
+        {
+          "text": "Aluminium",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-053",
+      "text": "Which metal is used as a reference for displacement by acids in the reactivity series?",
+      "image": null,
+      "options": [
+        {
+          "text": "Gold",
+          "image": null
+        },
+        {
+          "text": "Hydrogen",
+          "image": null
+        },
+        {
+          "text": "Carbon",
+          "image": null
+        },
+        {
+          "text": "Mercury",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-054",
+      "text": "Which of the following metals will not liberate hydrogen from dilute acid?",
+      "image": null,
+      "options": [
+        {
+          "text": "Zinc",
+          "image": null
+        },
+        {
+          "text": "Magnesium",
+          "image": null
+        },
+        {
+          "text": "Copper",
+          "image": null
+        },
+        {
+          "text": "Iron",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-055",
+      "text": "Metals react with dilute acids to form salt and:",
+      "image": null,
+      "options": [
+        {
+          "text": "hydrogen gas",
+          "image": null
+        },
+        {
+          "text": "oxygen gas",
+          "image": null
+        },
+        {
+          "text": "nitrogen gas",
+          "image": null
+        },
+        {
+          "text": "water only",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-056",
+      "text": "Which metal forms $\\ce{MgCl2}$ when it reacts with dilute hydrochloric acid?",
+      "image": null,
+      "options": [
+        {
+          "text": "Manganese",
+          "image": null
+        },
+        {
+          "text": "Magnesium",
+          "image": null
+        },
+        {
+          "text": "Mercury",
+          "image": null
+        },
+        {
+          "text": "Molybdenum",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-057",
+      "text": "What is observed when zinc granules are added to dilute sulphuric acid?",
+      "image": null,
+      "options": [
+        {
+          "text": "A brown solid forms",
+          "image": null
+        },
+        {
+          "text": "Bubbles of hydrogen gas appear",
+          "image": null
+        },
+        {
+          "text": "A blue solution forms",
+          "image": null
+        },
+        {
+          "text": "No gas can ever form",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-058",
+      "text": "Which salt is formed when zinc reacts with dilute sulphuric acid?",
+      "image": null,
+      "options": [
+        {
+          "text": "Zinc chloride",
+          "image": null
+        },
+        {
+          "text": "Zinc sulphate",
+          "image": null
+        },
+        {
+          "text": "Zinc nitrate",
+          "image": null
+        },
+        {
+          "text": "Zinc carbonate",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-059",
+      "text": "Which acid generally does not liberate hydrogen gas with metals because it is a strong oxidising agent?",
+      "image": null,
+      "options": [
+        {
+          "text": "Dilute hydrochloric acid",
+          "image": null
+        },
+        {
+          "text": "Dilute sulphuric acid",
+          "image": null
+        },
+        {
+          "text": "Nitric acid",
+          "image": null
+        },
+        {
+          "text": "Carbonic acid",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-060",
+      "text": "Aqua regia is a freshly prepared mixture of concentrated hydrochloric acid and concentrated nitric acid in the ratio:",
+      "image": null,
+      "options": [
+        {
+          "text": "1:3",
+          "image": null
+        },
+        {
+          "text": "3:1",
+          "image": null
+        },
+        {
+          "text": "2:1",
+          "image": null
+        },
+        {
+          "text": "1:1",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-061",
+      "text": "Aqua regia can dissolve:",
+      "image": null,
+      "options": [
+        {
+          "text": "only sodium",
+          "image": null
+        },
+        {
+          "text": "gold",
+          "image": null
+        },
+        {
+          "text": "only carbon",
+          "image": null
+        },
+        {
+          "text": "sand",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-062",
+      "text": "Which metal is extracted by simple heating of its oxide because it is very low in the reactivity series?",
+      "image": null,
+      "options": [
+        {
+          "text": "Mercury",
+          "image": null
+        },
+        {
+          "text": "Sodium",
+          "image": null
+        },
+        {
+          "text": "Calcium",
+          "image": null
+        },
+        {
+          "text": "Aluminium",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-063",
+      "text": "Which ore on heating gives mercury directly after reduction of its oxide?",
+      "image": null,
+      "options": [
+        {
+          "text": "Cinnabar",
+          "image": null
+        },
+        {
+          "text": "Bauxite",
+          "image": null
+        },
+        {
+          "text": "Calamine",
+          "image": null
+        },
+        {
+          "text": "Haematite",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-064",
+      "text": "Cinnabar is an ore of:",
+      "image": null,
+      "options": [
+        {
+          "text": "iron",
+          "image": null
+        },
+        {
+          "text": "mercury",
+          "image": null
+        },
+        {
+          "text": "zinc",
+          "image": null
+        },
+        {
+          "text": "aluminium",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-065",
+      "text": "Bauxite is an ore of:",
+      "image": null,
+      "options": [
+        {
+          "text": "copper",
+          "image": null
+        },
+        {
+          "text": "aluminium",
+          "image": null
+        },
+        {
+          "text": "mercury",
+          "image": null
+        },
+        {
+          "text": "zinc",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-066",
+      "text": "Haematite is an ore of:",
+      "image": null,
+      "options": [
+        {
+          "text": "iron",
+          "image": null
+        },
+        {
+          "text": "sodium",
+          "image": null
+        },
+        {
+          "text": "calcium",
+          "image": null
+        },
+        {
+          "text": "mercury",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-067",
+      "text": "Which process is used to obtain metals like sodium and potassium from their molten chlorides?",
+      "image": null,
+      "options": [
+        {
+          "text": "Roasting",
+          "image": null
+        },
+        {
+          "text": "Calcination",
+          "image": null
+        },
+        {
+          "text": "Electrolytic reduction",
+          "image": null
+        },
+        {
+          "text": "Thermite reaction",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-068",
+      "text": "Highly reactive metals are extracted from their ores by:",
+      "image": null,
+      "options": [
+        {
+          "text": "heating with carbon",
+          "image": null
+        },
+        {
+          "text": "electrolysis of molten compounds",
+          "image": null
+        },
+        {
+          "text": "simple roasting only",
+          "image": null
+        },
+        {
+          "text": "washing with water",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-069",
+      "text": "Moderately reactive metals such as zinc are commonly extracted from oxides by reduction using:",
+      "image": null,
+      "options": [
+        {
+          "text": "carbon",
+          "image": null
+        },
+        {
+          "text": "water",
+          "image": null
+        },
+        {
+          "text": "hydrogen peroxide only",
+          "image": null
+        },
+        {
+          "text": "chlorine",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-070",
+      "text": "Sulphide ores are generally converted into oxides by:",
+      "image": null,
+      "options": [
+        {
+          "text": "calcination",
+          "image": null
+        },
+        {
+          "text": "roasting",
+          "image": null
+        },
+        {
+          "text": "electrolysis only",
+          "image": null
+        },
+        {
+          "text": "distillation",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-071",
+      "text": "Carbonate ores are generally converted into oxides by:",
+      "image": null,
+      "options": [
+        {
+          "text": "roasting",
+          "image": null
+        },
+        {
+          "text": "calcination",
+          "image": null
+        },
+        {
+          "text": "galvanising",
+          "image": null
+        },
+        {
+          "text": "anodising",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-072",
+      "text": "Roasting means heating an ore:",
+      "image": null,
+      "options": [
+        {
+          "text": "in absence or limited supply of air",
+          "image": null
+        },
+        {
+          "text": "strongly in excess air",
+          "image": null
+        },
+        {
+          "text": "with water only",
+          "image": null
+        },
+        {
+          "text": "with sodium chloride solution",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-073",
+      "text": "Calcination means heating an ore:",
+      "image": null,
+      "options": [
+        {
+          "text": "in absence or limited supply of air",
+          "image": null
+        },
+        {
+          "text": "in excess oxygen only",
+          "image": null
+        },
+        {
+          "text": "under water",
+          "image": null
+        },
+        {
+          "text": "with acid at room temperature",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-074",
+      "text": "Gangue refers to:",
+      "image": null,
+      "options": [
+        {
+          "text": "pure metal",
+          "image": null
+        },
+        {
+          "text": "unwanted earthy impurities in ore",
+          "image": null
+        },
+        {
+          "text": "molten metal",
+          "image": null
+        },
+        {
+          "text": "a reducing agent",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-075",
+      "text": "The process of removing gangue from ore is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "concentration of ore",
+          "image": null
+        },
+        {
+          "text": "corrosion",
+          "image": null
+        },
+        {
+          "text": "alloying",
+          "image": null
+        },
+        {
+          "text": "electroplating",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-076",
+      "text": "A mineral from which a metal can be profitably extracted is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "alloy",
+          "image": null
+        },
+        {
+          "text": "ore",
+          "image": null
+        },
+        {
+          "text": "slag",
+          "image": null
+        },
+        {
+          "text": "flux",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-077",
+      "text": "All ores are minerals, but all minerals are not ores because:",
+      "image": null,
+      "options": [
+        {
+          "text": "all minerals contain metals profitably",
+          "image": null
+        },
+        {
+          "text": "some minerals do not contain enough metal for economic extraction",
+          "image": null
+        },
+        {
+          "text": "ores never contain impurities",
+          "image": null
+        },
+        {
+          "text": "minerals are always synthetic",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-078",
+      "text": "The thermite reaction is used for:",
+      "image": null,
+      "options": [
+        {
+          "text": "welding railway tracks",
+          "image": null
+        },
+        {
+          "text": "making soap",
+          "image": null
+        },
+        {
+          "text": "purifying water",
+          "image": null
+        },
+        {
+          "text": "producing vinegar",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-079",
+      "text": "In the thermite reaction, aluminium acts as:",
+      "image": null,
+      "options": [
+        {
+          "text": "an oxidising agent",
+          "image": null
+        },
+        {
+          "text": "a reducing agent",
+          "image": null
+        },
+        {
+          "text": "a solvent",
+          "image": null
+        },
+        {
+          "text": "an acid",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-080",
+      "text": "The thermite reaction commonly involves aluminium powder and:",
+      "image": null,
+      "options": [
+        {
+          "text": "iron oxide",
+          "image": null
+        },
+        {
+          "text": "sodium chloride",
+          "image": null
+        },
+        {
+          "text": "carbon dioxide",
+          "image": null
+        },
+        {
+          "text": "copper sulphate solution",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-081",
+      "text": "Which metal is obtained by electrolytic reduction of alumina?",
+      "image": null,
+      "options": [
+        {
+          "text": "Iron",
+          "image": null
+        },
+        {
+          "text": "Aluminium",
+          "image": null
+        },
+        {
+          "text": "Mercury",
+          "image": null
+        },
+        {
+          "text": "Copper",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-082",
+      "text": "During electrolytic refining of copper, pure copper is deposited at the:",
+      "image": null,
+      "options": [
+        {
+          "text": "anode",
+          "image": null
+        },
+        {
+          "text": "cathode",
+          "image": null
+        },
+        {
+          "text": "bottom as slag",
+          "image": null
+        },
+        {
+          "text": "surface as gas",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-083",
+      "text": "In electrolytic refining of copper, impure copper is made the:",
+      "image": null,
+      "options": [
+        {
+          "text": "cathode",
+          "image": null
+        },
+        {
+          "text": "anode",
+          "image": null
+        },
+        {
+          "text": "electrolyte",
+          "image": null
+        },
+        {
+          "text": "salt bridge",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-084",
+      "text": "The electrolyte used in electrolytic refining of copper is acidified:",
+      "image": null,
+      "options": [
+        {
+          "text": "copper sulphate solution",
+          "image": null
+        },
+        {
+          "text": "sodium chloride solution",
+          "image": null
+        },
+        {
+          "text": "zinc oxide suspension",
+          "image": null
+        },
+        {
+          "text": "aluminium chloride melt",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-085",
+      "text": "Anode mud obtained during copper refining may contain:",
+      "image": null,
+      "options": [
+        {
+          "text": "noble metals like silver and gold",
+          "image": null
+        },
+        {
+          "text": "only sodium chloride",
+          "image": null
+        },
+        {
+          "text": "only water",
+          "image": null
+        },
+        {
+          "text": "only oxygen gas",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-086",
+      "text": "Ionic compounds are generally formed by transfer of electrons between:",
+      "image": null,
+      "options": [
+        {
+          "text": "two non-metals only",
+          "image": null
+        },
+        {
+          "text": "a metal and a non-metal",
+          "image": null
+        },
+        {
+          "text": "two metals only",
+          "image": null
+        },
+        {
+          "text": "two noble gases",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-087",
+      "text": "In sodium chloride formation, sodium:",
+      "image": null,
+      "options": [
+        {
+          "text": "gains one electron",
+          "image": null
+        },
+        {
+          "text": "loses one electron",
+          "image": null
+        },
+        {
+          "text": "shares four electrons",
+          "image": null
+        },
+        {
+          "text": "forms a molecule of $\\ce{Na2}$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-088",
+      "text": "In sodium chloride formation, chlorine:",
+      "image": null,
+      "options": [
+        {
+          "text": "loses one electron",
+          "image": null
+        },
+        {
+          "text": "gains one electron",
+          "image": null
+        },
+        {
+          "text": "loses seven electrons",
+          "image": null
+        },
+        {
+          "text": "does not change",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-089",
+      "text": "The ion formed by sodium in $\\ce{NaCl}$ is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{Na+}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Na-}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Na^{2+}}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Na2+}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-090",
+      "text": "The ion formed by chlorine in sodium chloride is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{Cl+}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Cl-}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Cl^{2-}}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Cl2+}$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-091",
+      "text": "Magnesium chloride has the formula:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{MgCl}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{MgCl2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Mg2Cl}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Mg2Cl3}$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-092",
+      "text": "The ions present in magnesium chloride are:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{Mg+}$ and $\\ce{Cl-}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Mg^{2+}}$ and $\\ce{Cl-}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Mg-}$ and $\\ce{Cl+}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Mg^{2-}}$ and $\\ce{Cl2+}$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-093",
+      "text": "Calcium oxide is an example of:",
+      "image": null,
+      "options": [
+        {
+          "text": "ionic compound",
+          "image": null
+        },
+        {
+          "text": "covalent compound only",
+          "image": null
+        },
+        {
+          "text": "alloy",
+          "image": null
+        },
+        {
+          "text": "organic compound",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-094",
+      "text": "Ionic compounds have high melting points because:",
+      "image": null,
+      "options": [
+        {
+          "text": "ions are held by strong electrostatic forces",
+          "image": null
+        },
+        {
+          "text": "molecules are held by weak forces only",
+          "image": null
+        },
+        {
+          "text": "they contain no charges",
+          "image": null
+        },
+        {
+          "text": "they are always gases",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-095",
+      "text": "Solid sodium chloride does not conduct electricity because:",
+      "image": null,
+      "options": [
+        {
+          "text": "it has no ions",
+          "image": null
+        },
+        {
+          "text": "its ions are not free to move",
+          "image": null
+        },
+        {
+          "text": "it has no sodium",
+          "image": null
+        },
+        {
+          "text": "it is a non-electrolyte in molten state",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-096",
+      "text": "Molten sodium chloride conducts electricity because:",
+      "image": null,
+      "options": [
+        {
+          "text": "electrons move through metal layers",
+          "image": null
+        },
+        {
+          "text": "ions become free to move",
+          "image": null
+        },
+        {
+          "text": "it becomes covalent",
+          "image": null
+        },
+        {
+          "text": "chlorine atoms disappear",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-097",
+      "text": "Aqueous solutions of ionic compounds conduct electricity due to:",
+      "image": null,
+      "options": [
+        {
+          "text": "free-moving ions",
+          "image": null
+        },
+        {
+          "text": "stationary atoms",
+          "image": null
+        },
+        {
+          "text": "neutral molecules only",
+          "image": null
+        },
+        {
+          "text": "unshared electrons in metals",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-098",
+      "text": "Most ionic compounds are soluble in:",
+      "image": null,
+      "options": [
+        {
+          "text": "petrol",
+          "image": null
+        },
+        {
+          "text": "kerosene",
+          "image": null
+        },
+        {
+          "text": "water",
+          "image": null
+        },
+        {
+          "text": "benzene only",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-099",
+      "text": "Most ionic compounds are insoluble in:",
+      "image": null,
+      "options": [
+        {
+          "text": "water",
+          "image": null
+        },
+        {
+          "text": "polar solvents",
+          "image": null
+        },
+        {
+          "text": "kerosene",
+          "image": null
+        },
+        {
+          "text": "molten state",
+          "image": null
+        }
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-100",
+      "text": "Which compound is ionic?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{NaCl}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CH4}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CO2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{H2}$",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-101",
+      "text": "Which formula represents aluminium oxide?",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{AlO}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Al2O3}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Al3O2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{AlO2}$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-102",
+      "text": "The formula of calcium chloride is:",
+      "image": null,
+      "options": [
+        {
+          "text": "$\\ce{CaCl}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{CaCl2}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Ca2Cl}$",
+          "image": null
+        },
+        {
+          "text": "$\\ce{Ca2Cl3}$",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-103",
+      "text": "What is corrosion?",
+      "image": null,
+      "options": [
+        {
+          "text": "Conversion of ore into metal",
+          "image": null
+        },
+        {
+          "text": "Slow destruction of a metal by substances in the environment",
+          "image": null
+        },
+        {
+          "text": "Drawing metals into wires",
+          "image": null
+        },
+        {
+          "text": "Mixing two metals to form an alloy",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-104",
+      "text": "Rusting is the corrosion of:",
+      "image": null,
+      "options": [
+        {
+          "text": "copper",
+          "image": null
+        },
+        {
+          "text": "iron",
+          "image": null
+        },
+        {
+          "text": "silver",
+          "image": null
+        },
+        {
+          "text": "aluminium",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-105",
+      "text": "Rust is mainly hydrated:",
+      "image": null,
+      "options": [
+        {
+          "text": "copper oxide",
+          "image": null
+        },
+        {
+          "text": "iron oxide",
+          "image": null
+        },
+        {
+          "text": "zinc oxide",
+          "image": null
+        },
+        {
+          "text": "aluminium oxide",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-106",
+      "text": "The two main conditions required for rusting of iron are:",
+      "image": null,
+      "options": [
+        {
+          "text": "oxygen and water",
+          "image": null
+        },
+        {
+          "text": "nitrogen and oil",
+          "image": null
+        },
+        {
+          "text": "carbon dioxide and salt only",
+          "image": null
+        },
+        {
+          "text": "hydrogen and sunlight",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-107",
+      "text": "Which method prevents rusting by coating iron with zinc?",
+      "image": null,
+      "options": [
+        {
+          "text": "Galvanisation",
+          "image": null
+        },
+        {
+          "text": "Calcination",
+          "image": null
+        },
+        {
+          "text": "Roasting",
+          "image": null
+        },
+        {
+          "text": "Anodising",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-108",
+      "text": "Painting iron articles prevents rusting mainly by:",
+      "image": null,
+      "options": [
+        {
+          "text": "making iron more reactive",
+          "image": null
+        },
+        {
+          "text": "blocking contact with air and moisture",
+          "image": null
+        },
+        {
+          "text": "converting iron into copper",
+          "image": null
+        },
+        {
+          "text": "increasing salt content",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-109",
+      "text": "Oiling and greasing prevent rusting because they:",
+      "image": null,
+      "options": [
+        {
+          "text": "form a barrier to air and water",
+          "image": null
+        },
+        {
+          "text": "make iron dissolve",
+          "image": null
+        },
+        {
+          "text": "remove all carbon",
+          "image": null
+        },
+        {
+          "text": "turn iron into stainless steel",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-110",
+      "text": "Alloying is useful because it can:",
+      "image": null,
+      "options": [
+        {
+          "text": "improve properties of metals",
+          "image": null
+        },
+        {
+          "text": "convert metals into gases",
+          "image": null
+        },
+        {
+          "text": "remove all atoms from metals",
+          "image": null
+        },
+        {
+          "text": "make every metal highly reactive",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-111",
+      "text": "Stainless steel is an alloy containing iron, carbon, chromium, and often:",
+      "image": null,
+      "options": [
+        {
+          "text": "nickel",
+          "image": null
+        },
+        {
+          "text": "sodium",
+          "image": null
+        },
+        {
+          "text": "mercury",
+          "image": null
+        },
+        {
+          "text": "calcium",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-112",
+      "text": "Brass is an alloy of:",
+      "image": null,
+      "options": [
+        {
+          "text": "copper and zinc",
+          "image": null
+        },
+        {
+          "text": "copper and tin",
+          "image": null
+        },
+        {
+          "text": "iron and carbon",
+          "image": null
+        },
+        {
+          "text": "lead and tin",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-113",
+      "text": "Bronze is an alloy of:",
+      "image": null,
+      "options": [
+        {
+          "text": "copper and zinc",
+          "image": null
+        },
+        {
+          "text": "copper and tin",
+          "image": null
+        },
+        {
+          "text": "iron and chromium",
+          "image": null
+        },
+        {
+          "text": "aluminium and magnesium",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-114",
+      "text": "Solder is commonly an alloy of:",
+      "image": null,
+      "options": [
+        {
+          "text": "lead and tin",
+          "image": null
+        },
+        {
+          "text": "copper and zinc",
+          "image": null
+        },
+        {
+          "text": "iron and carbon",
+          "image": null
+        },
+        {
+          "text": "silver and gold",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-115",
+      "text": "Why is pure gold not usually used for making durable jewellery?",
+      "image": null,
+      "options": [
+        {
+          "text": "It is too hard",
+          "image": null
+        },
+        {
+          "text": "It is too soft",
+          "image": null
+        },
+        {
+          "text": "It is highly reactive with water",
+          "image": null
+        },
+        {
+          "text": "It is a gas at room temperature",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-116",
+      "text": "The purity of gold is commonly expressed in:",
+      "image": null,
+      "options": [
+        {
+          "text": "carat",
+          "image": null
+        },
+        {
+          "text": "ampere",
+          "image": null
+        },
+        {
+          "text": "newton",
+          "image": null
+        },
+        {
+          "text": "pascal",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-117",
+      "text": "Which is purest gold among the options?",
+      "image": null,
+      "options": [
+        {
+          "text": "18 carat",
+          "image": null
+        },
+        {
+          "text": "20 carat",
+          "image": null
+        },
+        {
+          "text": "22 carat",
+          "image": null
+        },
+        {
+          "text": "24 carat",
+          "image": null
+        }
+      ],
+      "correct": 3,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-118",
+      "text": "An alloy is best described as:",
+      "image": null,
+      "options": [
+        {
+          "text": "a mixture of a metal with another element",
+          "image": null
+        },
+        {
+          "text": "a pure non-metal only",
+          "image": null
+        },
+        {
+          "text": "a metal oxide only",
+          "image": null
+        },
+        {
+          "text": "an ore without impurities",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-119",
+      "text": "Which metal develops a green coating on corrosion in moist air?",
+      "image": null,
+      "options": [
+        {
+          "text": "Copper",
+          "image": null
+        },
+        {
+          "text": "Iron",
+          "image": null
+        },
+        {
+          "text": "Silver",
+          "image": null
+        },
+        {
+          "text": "Zinc",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-120",
+      "text": "The black coating on silver articles is mainly due to formation of:",
+      "image": null,
+      "options": [
+        {
+          "text": "silver sulphide",
+          "image": null
+        },
+        {
+          "text": "silver chloride",
+          "image": null
+        },
+        {
+          "text": "silver oxide only",
+          "image": null
+        },
+        {
+          "text": "silver nitrate",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-121",
+      "text": "Copper vessels should not be used to store acidic food for long because:",
+      "image": null,
+      "options": [
+        {
+          "text": "copper reacts with acids to form harmful salts",
+          "image": null
+        },
+        {
+          "text": "copper turns into gold",
+          "image": null
+        },
+        {
+          "text": "acidic food becomes basic instantly",
+          "image": null
+        },
+        {
+          "text": "copper does not conduct heat",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 60,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-122",
+      "text": "Which metal is protected from corrosion by a thin oxide layer on its surface?",
+      "image": null,
+      "options": [
+        {
+          "text": "Aluminium",
+          "image": null
+        },
+        {
+          "text": "Sodium",
+          "image": null
+        },
+        {
+          "text": "Potassium",
+          "image": null
+        },
+        {
+          "text": "Calcium",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-123",
+      "text": "The process of forming a thick oxide layer on aluminium is called:",
+      "image": null,
+      "options": [
+        {
+          "text": "Anodising",
+          "image": null
+        },
+        {
+          "text": "Roasting",
+          "image": null
+        },
+        {
+          "text": "Calcination",
+          "image": null
+        },
+        {
+          "text": "Galvanising",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-124",
+      "text": "Which metal is used for galvanising iron?",
+      "image": null,
+      "options": [
+        {
+          "text": "Zinc",
+          "image": null
+        },
+        {
+          "text": "Copper",
+          "image": null
+        },
+        {
+          "text": "Tin",
+          "image": null
+        },
+        {
+          "text": "Silver",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-125",
+      "text": "Which of the following is a noble metal?",
+      "image": null,
+      "options": [
+        {
+          "text": "Sodium",
+          "image": null
+        },
+        {
+          "text": "Gold",
+          "image": null
+        },
+        {
+          "text": "Calcium",
+          "image": null
+        },
+        {
+          "text": "Magnesium",
+          "image": null
+        }
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-126",
+      "text": "Which metal is found in the free state in nature more often than sodium?",
+      "image": null,
+      "options": [
+        {
+          "text": "Gold",
+          "image": null
+        },
+        {
+          "text": "Potassium",
+          "image": null
+        },
+        {
+          "text": "Calcium",
+          "image": null
+        },
+        {
+          "text": "Aluminium",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "expected_time_sec": 45,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-127",
+      "text": "Highly reactive metals are not found free in nature because they:",
+      "image": null,
+      "options": [
+        {
+          "text": "combine readily with other elements",
+          "image": null
+        },
+        {
+          "text": "are always liquids",
+          "image": null
+        },
+        {
+          "text": "do not form compounds",
+          "image": null
+        },
+        {
+          "text": "are non-metals",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    },
+    {
+      "id": "sci-metals-nonmetals-128",
+      "text": "Which metal occurs as a liquid and is relatively low in the reactivity series?",
+      "image": null,
+      "options": [
+        {
+          "text": "Mercury",
+          "image": null
+        },
+        {
+          "text": "Sodium",
+          "image": null
+        },
+        {
+          "text": "Calcium",
+          "image": null
+        },
+        {
+          "text": "Magnesium",
+          "image": null
+        }
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "expected_time_sec": 30,
+      "score": 1,
+      "explanation": "PLACEHOLDER_EXPLANATION: The source question set provided the answer key but did not provide a detailed explanation. [TBD] Following fields were not available in the source, and need to be updated manually. Fields unavailable from the source for this question: difficulty, expected_time_sec, score, explanation."
+    }
+  ]
+}
